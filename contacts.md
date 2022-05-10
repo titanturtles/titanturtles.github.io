@@ -1,3 +1,5 @@
+## [Home](./index.html) | [CyberCamp 2022](./cybercamp2022.html) | [Contacts](./contacts.html)
+
 # Contacts
 
 Coaches: Xinle Yang, Pei Zhang
