@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[CyberCamp 2022](./cybercamp2022.html) | [Contacts](./contacts.html) 
+## [CyberCamp 2022](./cybercamp2022.html) | [Contacts](./contacts.html) 
 
 # Team
 
