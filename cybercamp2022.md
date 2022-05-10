@@ -34,7 +34,7 @@ $300 donation for each camp if applied on or after May 1st, 2022.
 
 ## Application form:
 
-https://docs.google.com/forms/d/1Yh3xvlOw6SbBgjjDDElEUtaF6nvy_bUlCgbVSMdCO6M/viewform
+[https://docs.google.com/forms/d/1Yh3xvlOw6SbBgjjDDElEUtaF6nvy_bUlCgbVSMdCO6M/viewform](https://docs.google.com/forms/d/1Yh3xvlOw6SbBgjjDDElEUtaF6nvy_bUlCgbVSMdCO6M/viewform)
 
 * * *
 
