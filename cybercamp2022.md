@@ -1,3 +1,5 @@
+## [Home](./index.html) | [Contacts](./contacts.html) 
+
 # Summer CyberCamp 2022
 
 We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps this summer 2022. The CyberCamps will be hosted both online and in-person.
