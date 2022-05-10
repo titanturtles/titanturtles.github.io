@@ -2,6 +2,7 @@
 
 We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps this summer 2022. The CyberCamps will be hosted both online and in-person.
 
+* * *
 
 ## Schedule:
 
@@ -9,6 +10,7 @@ Standard CyberCamp: 9:00am to 2:00pm (PDT), July 11-15, 2022
 
 Advanced CyberCamp: 9:00am to 2:00pm (PDT), July 18-22, 2022
 
+* * *
 
 ## Location:
 
@@ -18,6 +20,7 @@ and
 
 In-person: (TBD) NW Portland, Oregon
 
+* * *
 
 ## Cost for the camp:
 
@@ -25,11 +28,13 @@ $200 donation for each camp if applied before May 1st, 2022
 
 $300 donation for each camp if applied on or after May 1st, 2022.
 
+* * *
 
 ## Application form:
 
 https://docs.google.com/forms/d/1Yh3xvlOw6SbBgjjDDElEUtaF6nvy_bUlCgbVSMdCO6M/viewform
 
+* * *
 
 ## Payment:
 
@@ -44,6 +49,7 @@ Ways of payment:
 
 3) Zelle: titanturtlesteam@gmail.com
 
+* * *
 
 ## Contact us:
 
