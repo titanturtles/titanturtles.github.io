@@ -26,15 +26,19 @@ In-person: (TBD) NW Portland, Oregon
 
 ## Cost for the camp:
 
-$200 donation for each camp if applied before May 1st, 2022
+$300 donation to Master Builders Club
 
-$300 donation for each camp if applied on or after May 1st, 2022.
+* * *
+
+## Hardware requirement:
+
+Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). (8GB RAM still works, but may be slow. AMD computers should work fine. Apple M1 computer may or may not work.)
 
 * * *
 
 ## Application form:
 
-[https://docs.google.com/forms/d/1Yh3xvlOw6SbBgjjDDElEUtaF6nvy_bUlCgbVSMdCO6M/viewform](https://docs.google.com/forms/d/1Yh3xvlOw6SbBgjjDDElEUtaF6nvy_bUlCgbVSMdCO6M/viewform)
+[https://forms.gle/8e8MzkoE87FD5fjB8](https://forms.gle/8e8MzkoE87FD5fjB8)
 
 * * *
 
