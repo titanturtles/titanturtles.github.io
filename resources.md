@@ -4,4 +4,4 @@
 
 ## Links
 
-CyberPatriot: [https://uscyberpatriot.org](https://uscyberpatriot.org))
+CyberPatriot: [https://www.uscyberpatriot.org](https://www.uscyberpatriot.org)
