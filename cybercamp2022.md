@@ -58,3 +58,7 @@ Ways of payment:
 Coach: Xinle Yang
 
 Email: titanturtlesteam@gmail.com
+
+* * *
+
+For those who already registered, we have sent out several emails about how to download images and how to prepare for the camps. If you have not received these emails, please look into the spam folder. If you still could not find the emails after looking into the spam folder, please contact Coach Yang.
