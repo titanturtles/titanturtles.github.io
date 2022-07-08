@@ -16,11 +16,7 @@ Advanced CyberCamp: 9:00am to 2:00pm (PDT), July 18-22, 2022
 
 ## Location:
 
-Online: Zoom Meeting
-
-and
-
-In-person: (TBD) NW Portland, Oregon
+Online Only: Zoom Meeting
 
 * * *
 
