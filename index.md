@@ -17,13 +17,11 @@ We won the Oregon Champion in season 2021~2022 in high school open division plat
 * We learn all we can learn.
 * We compete all we can compete.
 * We compete with people better than us.
+* We learn something new every time we compete.
 
 If you are interested in joining the team, please fill out this [googld form](https://forms.gle/1DoXWwxivJpWVeSr6).
 
 **We are a team!**
-
 **Write history!**
-
 **Leave a legend!**
-
 **Go TitanTurtles!**
