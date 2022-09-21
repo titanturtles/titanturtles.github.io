@@ -1,16 +1,14 @@
-## [Home](./index.html) | [CyberCamp 2022](./cybercamp2022.html) | [Contacts](./contacts.html) | [Resources](./resources.html)
+## [Home](./index.html) | [CyberCamp](./cybercamp.html) | [Contacts](./contacts.html) | [Resources](./resources.html)
 
-# Summer CyberCamp 2022
+# Summer CyberCamp 2023
 
-We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps this summer 2022. The CyberCamps will be hosted both online and in-person.
+We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time. The CyberCamps will be hosted both online and in-person.
 
 * * *
 
 ## Schedule:
 
-Standard CyberCamp: 9:00am to 2:00pm (PDT), July 11-15, 2022
-
-Advanced CyberCamp: 9:00am to 2:00pm (PDT), July 18-22, 2022
+Summer 2023: TBD
 
 * * *
 
@@ -22,13 +20,18 @@ Online Only: Zoom Meeting
 
 ## Cost for the camp:
 
-$300 donation to Master Builders Club
+Donation to Master Builders Club:
+
+Standard Camp: $300 (1 week)
+Advanced Camp: $350 (1 week)
+
+Both Camps: $600
 
 * * *
 
 ## Hardware requirement:
 
-Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). (8GB RAM still works, but may be slow. AMD computers should work fine. Apple M1 computer may or may not work.)
+Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). (8GB RAM still works, but may be slow. AMD computers should work fine. Apple M series computer may not work.)
 
 * * *
 
