@@ -31,7 +31,7 @@ Both Camps: $600
 
 ## Hardware requirement:
 
-Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). (8GB RAM still works, but may be slow. AMD computers should work fine. Apple M series computer may not work.)
+Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). (AMD computers should work fine. Apple M series computer may not work.)
 
 * * *
 
