@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Home](./index.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | Test | [Contacts](./contacts.html) | [Resources](./resources.html)
+## [Home](/index.html) | [CyberCamp](/cybercamp.html) | [Blog](/blog.html) | Test | [Contacts](/contacts.html) | [Resources](/resources.html)
 
 # Test
 
@@ -10,4 +10,4 @@ layout: default
 
 This is Rafael!
 
-![Ninja](./assets/images/Ninja.png)
+![Ninja](/assets/images/Ninja.png)
