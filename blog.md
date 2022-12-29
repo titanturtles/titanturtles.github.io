@@ -29,6 +29,7 @@ State Round competition is at a premium level. Windows 10 images is medium. Wind
 ### CYBER PATRIOT 2022-2023 ROUND 2 COMPETITION: NOV 5-6, 2022
 
 Four of five teams improved their High School Open Division Ranking in Round 2 and advanced to Platinum Tier of next round of competition.. Team 15-1839 Titankachhuas will compete within Gold Tier in Round 3
+![Round 2 Team Ranking](/assets/images/2022 Round 2 Results.jpg)
 
 ### CYBER PATRIOT 2022-2023 ROUND 1 COMPETITION: OCT 20-22, 2022 
 
