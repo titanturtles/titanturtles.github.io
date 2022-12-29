@@ -1,4 +1,4 @@
-## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) [Tech Caregiver](./techcg.html)
+## [Home](./index.html) | [CyberCamp](./cybercamp.html) |  [Blog](./blog.html) | **Contacts** | [Resources](./resources.html) | [Tech Caregiver](./techcg.html)
 
 # Contacts
 

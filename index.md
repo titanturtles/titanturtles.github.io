@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) [Tech Caregiver](./techcg.html)
+## **Home** | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html)
 
 # Team
 
@@ -19,7 +19,7 @@ We won the Oregon Champion in season 2021~2022 in high school open division plat
 * We compete with people better than us.
 * We learn something new every time we compete.
 
-If you are interested in joining the team, please fill out this [googld form](https://forms.gle/1DoXWwxivJpWVeSr6).
+If you are interested in joining the team, please fill out this [google form](https://forms.gle/1DoXWwxivJpWVeSr6).
 
 ---
 

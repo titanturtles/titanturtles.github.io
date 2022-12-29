@@ -1,4 +1,4 @@
-## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) [Tech Caregiver](./techcg.html)
+## [Home](./index.html) | **CyberCamp** |  [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html)
 
 # Summer CyberCamp 2023
 
