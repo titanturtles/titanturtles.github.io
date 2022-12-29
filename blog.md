@@ -49,5 +49,5 @@ Michael Xu (Chief Networking Officer)
 
 Kevin Yu (Vice President of Cisco Networking)
 
-![Round 1 Team Ranking](![Round 2 Team Ranking](/assets/images/2022 Round 2 Results.jpg))
+![Round 1 Team Ranking](/assets/images/2022 Round 1 Results.jpg)
 
