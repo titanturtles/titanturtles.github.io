@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## [Home](/index.html) | [CyberCamp](/cybercamp.html) | [Blog](/blog.html) | Test | [Contacts](/contacts.html) | [Resources](/resources.html)
-
-# Test
+## [Home](/index.html) | [CyberCamp](/cybercamp.html) | [Blog](/blog.html) | **Test** | [Contacts](/contacts.html) | [Resources](/resources.html)
 
 ### Our test logo, Dec. 29, 2022
 
