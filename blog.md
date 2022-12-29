@@ -24,6 +24,7 @@ Titanturtles Club organized five teams to participate in 2022-2023 US Cyber Patr
 
 State Round competition is at a premium level. Windows 10 images is medium. Windows Server 2019 image is hard. Ubuntu 20 is super hard. Team 15-1766 Titanturtles scored 271 total score, harvested Oregon first place champion in High School Open Division Platinum Tier and ranked #17 out of 630 High School Open Division Platinum Tier teams all over the world.
 ![15-1766 Titanturtles](/assets/images/IMG_7155[1].JPG)
+![State Round Team Ranking](/assets/images/2022 Round 3 Results.jpg)
 
 ### CYBER PATRIOT 2022-2023 ROUND 2 COMPETITION: NOV 5-6, 2022
 
