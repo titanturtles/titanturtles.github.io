@@ -18,7 +18,7 @@ Titanturtles Club organized five teams to participate in 2022-2023 US Cyber Patr
 15-1768 Titantortugas
 
 15-1839 Titankachhuas
-![Titanturtles Club Teams](/assets/images/titanturtlesclubteams.png)
+![Titanturtles Club Teams](/assets/images/titanturtleteams.jpg)
 
 ### CYBER PATRIOT 2022-2023 ROUND 3 (STATE ROUND) COMPETITION: DEC 10-11, 2022
 
