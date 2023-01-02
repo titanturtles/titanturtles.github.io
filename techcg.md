@@ -2,7 +2,7 @@
 
 # Community Education
 
-![Titanturtles Cybersecurity Club Certificate](./assets/images/Certificate-titanturtles.jpg)
+![Titanturtles Community Education Flyer](./assets/images/JanFebFlyer2023.PNG)
 # Tech Caregiver
 Tech Caregiver is a CyberPatriot Cybergenerations program with the goal of educating the community about cybersecurity threats and ways we can protect ourselves.
 
