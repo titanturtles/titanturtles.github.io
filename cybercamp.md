@@ -12,9 +12,11 @@ Standard Camp: July 24-28, 2023
 
 Advanced Camp: July 31-August 4, 2023
 
-Time: 9am to 2:30pm
-Lunch break (Mon, Tue, Wed, Thur): 11:30am to 12:15pm 
-Lunch break (Friday): 12:30pm to 1:15pm
+Time: 9am to 2:30pm (PDT)
+
+Lunch break (Mon, Tue, Wed, Thur): 11:30am to 12:15pm (PDT)
+
+Lunch break (Friday): 12:30pm to 1:15pm (PDT)
 
 * * *
 
