@@ -30,7 +30,7 @@ If you are interested in joining the team, please fill out this [google form](ht
 
 ---
 
-*We are a team!
-Write history!
-Leave a legend!
+*We are a team!\
+Write history!\
+Leave a legend!\
 Go TitanTurtles!*
