@@ -47,7 +47,7 @@ Both Camps: $650 ($550 if before May 1)
 
 OR Scan the QR Code
 
-
+![https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f](/assets/images/CyberCamp2023QR.png)
 
 
 * * *
