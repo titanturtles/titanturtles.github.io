@@ -47,7 +47,7 @@ However, Apple M series computer will not work.
 
 ## Application form:
 
-[https://forms.gle/8e8MzkoE87FD5fjB8](https://forms.gle/8e8MzkoE87FD5fjB8)
+[https://forms.gle/ak9HuyjLVAhs5eAz9](https://forms.gle/ak9HuyjLVAhs5eAz9)
 
 * * *
 
