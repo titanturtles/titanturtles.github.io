@@ -8,36 +8,28 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 ## Schedule:
 
-Standard Camp: July 24-28, 2023
-
+Standard Camp: July 24-28, 2023\
 Advanced Camp: July 31-August 4, 2023
 
-Time: 9am to 2:30pm (PDT)
-
-Lunch break (Mon, Tue, Wed, Thur): 11:30am to 12:15pm (PDT)
-
+Time: 9am to 2:30pm (PDT)\
+Lunch break (Mon, Tue, Wed, Thur): 11:30am to 12:15pm (PDT)\
 Lunch break (Friday): 12:30pm to 1:15pm (PDT)
 
 * * *
 
 ## Location:
 
-Online: Zoom Meeting
-
+Online: Zoom Meeting\
 Physical: NW Portland (TBD)
 
 * * *
 
 ## Cost for the camp:
 
-Donation to Master Builders Club:
-
-Standard Camp: $300 (1 week) ($250 if before May 1)
-
-Advanced Camp: $400 (1 week) ($350 if before May 1)
-
+Donation to Master Builders Club:\
+Standard Camp: $300 (1 week) ($250 if before May 1)\
+Advanced Camp: $400 (1 week) ($350 if before May 1)\
 Both Camps: $650 ($550 if before May 1)
-
 
 * * *
 
@@ -106,8 +98,7 @@ The Advanced Camp curriculum is designed to allow instructors to pick and choose
 
 ## Contact us:
 
-Coach: Xinle Yang
-
+Coach: Xinle Yang\
 Email: titanturtlesteam@gmail.com
 
 * * *
