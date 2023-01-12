@@ -19,9 +19,9 @@ We won the Oregon Champion in season 2021~2022 in high school open division plat
 * We compete with people better than us.
 * We learn something new every time we compete.
 
-**Our mission:** to create and elevate awareness and knowledge of cybersecurity for youth, organizations and communities.
+**Our mission:** Create and elevate awareness and knowledge of cybersecurity for youth, organizations and communities.
 
-**Our vision:** we are a diverse, connected and inspiring team partnering with school districtts, organizations and communities to deliver transformational knowledge sharing and value creation.
+**Our vision:** We are a diverse, connected and inspiring team partnering with school districtts, organizations and communities to deliver transformational knowledge sharing and value creation.
 
 **Our strategy:** Unleash the full potential of our students. Create social awareness of CyberSecurity through education, sharing and projects.
 
