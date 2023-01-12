@@ -36,6 +36,13 @@ Advanced Camp: $400 (1 week) ($350 if before May 1)
 
 Both Camps: $650 ($550 if before May 1)
 
+
+* * *
+
+## Apply:
+
+[Click Here](https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f)
+
 * * *
 
 ## Hardware requirement:
@@ -45,28 +52,6 @@ Intel computers with internet connection, and at least 16GB of memory (RAM) and 
 (Costco has qualified laptop at between $600 and $800. Amazon has qualified renewed laptop at around $300.)
 
 However, Apple M series computer will not work.
-
-
-* * *
-
-## Application form:
-
-[https://forms.gle/ak9HuyjLVAhs5eAz9](https://forms.gle/ak9HuyjLVAhs5eAz9)
-
-* * *
-
-## Payment:
-
-(If you applied and have not paid, please pay through one of the following methods below.
-Pay to: Master Builders Club (A 501(c)(3) nonprofit org. Tax ID: 82-4135345)
-
-Ways of payment:
-
-1) Benevity: Nike, Intel, ...
-
-2) Check to: Master Builders Club
-
-3) Zelle: titanturtlesteam@gmail.com
 
 * * * 
 
