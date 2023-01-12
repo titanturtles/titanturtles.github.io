@@ -40,9 +40,8 @@ Intel computers with internet connection, and at least 16GB of memory (RAM) and 
 
 (Costco has qualified laptop at between $600 and $800. Amazon has qualified renewed laptop at around $300.)
 
-```diff
--Apple M series computer will not work.
-````
+However, Apple M series computer will not work.
+
 
 * * *
 
