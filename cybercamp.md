@@ -6,6 +6,17 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 * * *
 
+## Apply:
+
+[Click Here](https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f)
+
+OR Scan the QR Code
+
+![https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f](/assets/images/CyberCamp2023QR.png)
+
+
+* * *
+
 ## Schedule:
 
 Standard Camp: July 24-28, 2023\
@@ -30,16 +41,6 @@ Donation to Master Builders Club:\
 Standard Camp: $300 (1 week) ($250 if before May 1)\
 Advanced Camp: $400 (1 week) ($350 if before May 1)\
 Both Camps: $650 ($550 if before May 1)
-
-* * *
-
-## Apply:
-
-[Click Here](https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f)
-
-OR Scan the QR Code
-
-![https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f](/assets/images/CyberCamp2023QR.png)
 
 
 * * *
