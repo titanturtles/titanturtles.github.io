@@ -10,7 +10,7 @@ We are Cybersecurity competition team TitanTurtles. Our main competition is [Cyb
 
 Our team members are Middle school and High school students. We are located at Portland, Oregon. We are associated with Westview High School. We welcome all middle school and high school students who are interested in learning computer and internet.
 
-We won the Oregon Champion in season 2021~2022 in high school open division platinum tier, the top tier.
+We won the Oregon Champion in season 2021~2022, 2022-2023 in high school open division platinum tier, the top tier.
 
 * We learn Linux, Windows, Network and much more.
 * We learn programming.
