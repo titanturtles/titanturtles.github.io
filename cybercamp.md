@@ -45,7 +45,10 @@ Both Camps: $650 ($550 if before May 1)
 
 [Click Here](https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f)
 
-<div style="position:relative;overflow:hidden;width:100%;height:630px;padding-top:630px"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/en-US/embed/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f' allowpaymentrequest allowTransparency="true"></iframe></div>
+OR Scan the QR Code
+
+
+
 
 * * *
 
