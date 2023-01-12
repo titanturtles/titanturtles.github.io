@@ -8,13 +8,17 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 ## Schedule:
 
-Summer 2023: TBD
+Standard Camp: July 24-28, 2023
+
+Advanced Camp: July 31-August 4, 2023
 
 * * *
 
 ## Location:
 
-Online Only: Zoom Meeting
+Online: Zoom Meeting
+
+Physical: NW Portland (TBD)
 
 * * *
 
@@ -22,16 +26,16 @@ Online Only: Zoom Meeting
 
 Donation to Master Builders Club:
 
-Standard Camp: $300 (1 week)
-Advanced Camp: $350 (1 week)
+Standard Camp: $300 (1 week) ($250 if before May 1)
+Advanced Camp: $400 (1 week) ($350 if before May 1)
 
-Both Camps: $600
+Both Camps: $650 ($550 if before May 1)
 
 * * *
 
 ## Hardware requirement:
 
-Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). (AMD computers should work fine. Apple M series computer may not work.)
+Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). (AMD computers should work fine. Apple M series computer will not work.)
 
 * * *
 
