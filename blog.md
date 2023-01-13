@@ -4,11 +4,15 @@ layout: default
 
 ## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html)
 <br/>
-![Titanturtles Club Teams](assets/images/Titanturtles1stplacestate.png)
-![Titanturtles Club Teams](assets/images/titantortoises3rdplace.png)
+
+
+
 ## COMPETITIONS
 
 State Round Awards for Cybe Patriot Competition:
+
+![Titanturtles Club Teams](assets/images/Titanturtles1stplacestate.png)
+![Titanturtles Club Teams](assets/images/titantortoises3rdplace.png)
 
 
 Titanturtles Club organized five teams to participate in 2022-2023 US Cyber Patriot competition:
