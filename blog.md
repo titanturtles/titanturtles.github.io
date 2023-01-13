@@ -7,6 +7,9 @@ layout: default
 
 ## COMPETITIONS
 
+State Round Awards for Cybe Patriot Competition:
+
+
 Titanturtles Club organized five teams to participate in 2022-2023 US Cyber Patriot competition:
 
 15-1766 Titanturtles
