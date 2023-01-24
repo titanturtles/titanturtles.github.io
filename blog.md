@@ -9,7 +9,7 @@ layout: default
 
 ## COMPETITIONS
 
-State Round Awards for Cybe Patriot Competition:
+State Round Awards for CyberPatriot Competition:
 
 ![Titanturtles Club Teams](assets/images/Titanturtles1stplacestate.png)
 ![Titanturtles Club Teams](assets/images/titantortoises3rdplace.png)
