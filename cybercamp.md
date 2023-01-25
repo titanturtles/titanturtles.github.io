@@ -30,8 +30,7 @@ Lunch break (Friday): 12:30pm to 1:15pm (PDT)
 
 ## Location:
 
-Online: Zoom Meeting\
-Physical: NW Portland (TBD)
+Online: Zoom Meeting
 
 * * *
 
