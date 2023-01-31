@@ -25,8 +25,17 @@ We won the Oregon Champion in season 2021~2022, 2022-2023 in high school open di
 
 **Our strategy:** Unleash the full potential of our students. Create social awareness of CyberSecurity through education, sharing and projects.
 
+* * *
+
+## Apply:
 
 If you are interested in joining the team, please fill out this [google form](https://forms.gle/1DoXWwxivJpWVeSr6).
+
+* * *
+
+## Subscribe:
+
+Just want to subscribe for event updates? [Click Here](https://forms.gle/SR7dtzesPfXxQ1SK8)
 
 ---
 
