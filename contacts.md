@@ -4,9 +4,9 @@
 
 Coaches: Xinle Yang, Pei Zhang\
 Mentor: Sean R.
+President: Arnold Yang
 
 Email: titanturtlesteam@gmail.com
-
 
 # About
 

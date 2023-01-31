@@ -61,6 +61,16 @@ Titanturtles Club organized five teams to participate in 2022-2023 US Cyber Patr
 15-1768 Titantortugas
 
 15-1839 Titankachhuas
+
+![semifinal-titanturtles](/assets/images/Titanturtles.png)
+![semifinal-titantortoises](/assets/images/Titantortoises.png)
+![semifinal-titantortugaes](/assets/images/Titantortugas.png)
+![semifinal-titanwugui](/assets/images/Titanwugui.png)
+
+### CYBERPATRIOT 2022-2023 ROUND 4 (SEMIFINAL ROUND) COMPETITION: JAN 21, 2023
+The semifinal round is what determines whether, the teams make Nationals. Although, the images have various predetermined rankings, all were super hard, only Ubuntu was hard, we can gain a more accurate understanding of the image difficulty by looking at the public scores. Fedora in this case was Extremely hard, as 99% of teams got less than 10 points on it. Ubuntu although now only marked hard, was harder than the State Round Ubuntu which was marked superhard. Windows and Windows Server were relatively easier and was where all the points were got. The Boeing Challenge were points that team's must obtain, the web challenge had one super hard part and a relatively easier part. The Cisco Networking Quiz was easy, but the packet tracer was super hard. (can't really say specifics about anything, cause it is against competition rules)
+*scores will be posted here soon, when they are finalized by CyberPatriot as there is currently Cisco Packet Tracer Rescoring*
+
 ![Titanturtles Club Teams](/assets/images/titanturtleteams.jpg)
 
 ### CYBER PATRIOT 2022-2023 ROUND 3 (STATE ROUND) COMPETITION: DEC 10-11, 2022
