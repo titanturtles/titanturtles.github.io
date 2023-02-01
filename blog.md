@@ -5,7 +5,9 @@ layout: default
 ## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 <br/>
 
+## SEMIFINAL COMPETITION JANUARY 21, 2023
 
+![Titanturtles Club Teams](assets/images/titanturtles-club-teams-semifinal.png)
 
 ## COMPETITIONS
 
