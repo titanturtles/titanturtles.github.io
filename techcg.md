@@ -1,8 +1,10 @@
 ## [Home](./index.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | **Tech Caregiver | [Events](./events.html)**
 
 # Community Education
-##February 26, 2023 Community Education Flyer
+**February 26, 2023 Community Education Flyer**
+
 ![Titanturtles Community Education Flyer](./assets/images/TechCaregiverflyerFebMar2023.jpg)
+
 **January 29, 2023 Titanturtles Club Community Education event**
 **CyberSecurity 101 and Password Policy
 ![Titanturtles Community Education Flyer](./assets/images/IMG_7601[1].JPG)
