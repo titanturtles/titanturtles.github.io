@@ -5,6 +5,7 @@
 **January 29, 2023 Titanturtles Club Community Education event
 **CyberSecurity 101 and Password Policy
 ![Titanturtles Community Education Flyer](./assets/images/IMG_7601[1].JPG)
+![Titanturtles Community Education Flyer](./assets/images/IMG_7590[1].JPG)
 
 ![Titanturtles Community Education Flyer](./assets/images/JanFebFlyer2023.PNG)
 # Tech Caregiver
