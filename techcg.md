@@ -2,6 +2,10 @@
 
 # Community Education
 
+**January 29, 2023 Titanturtles Club Community Education event
+**CyberSecurity 101 and Password Policy
+![Titanturtles Community Education Flyer](./assets/images/IMG_7601[1].JPG)
+
 ![Titanturtles Community Education Flyer](./assets/images/JanFebFlyer2023.PNG)
 # Tech Caregiver
 Tech Caregiver is a CyberPatriot Cybergenerations program with the goal of educating the community about cybersecurity threats and ways we can protect ourselves.
