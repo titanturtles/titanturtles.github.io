@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html) | [Westview](https://westview.titanturtles.org/home/)
+## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 <br/>
 
 ## SEMIFINAL COMPETITION JANUARY 21, 2023
@@ -10,6 +10,10 @@ layout: default
 ![Titanturtles Club Teams](assets/images/titanturtles-club-teams-semifinal.png)
 
 ## COMPETITIONS
+
+Semifinals Awards:
+
+![Titanturtles 18th Place Certificate](/assets/images/certificate-18th-place.jpg)
 
 State Round Awards for CyberPatriot Competition:
 
@@ -67,8 +71,10 @@ Titanturtles Club organized five teams to participate in 2022-2023 US Cyber Patr
 ![Titanturtles Club Teams semifinal](/assets/images/titanturtles-club-teams-semifinal.png)
 
 ### CYBERPATRIOT 2022-2023 ROUND 4 (SEMIFINAL ROUND) COMPETITION: JAN 21, 2023
-The semifinal round is what determines whether, the teams make Nationals. Although, the images have various predetermined rankings, all were super hard, only Ubuntu was hard, we can gain a more accurate understanding of the image difficulty by looking at the public scores. Fedora in this case was Extremely hard, as 99% of teams got less than 10 points on it. Ubuntu although now only marked hard, was harder than the State Round Ubuntu which was marked superhard. Windows and Windows Server were relatively easier and was where all the points were got. The Boeing Challenge were points that team's must obtain, the web challenge had one super hard part and a relatively easier part. The Cisco Networking Quiz was easy, but the packet tracer was super hard. (can't really say specifics about anything, cause it is against competition rules)
-*scores will be posted here soon, when they are finalized by CyberPatriot as there is currently Cisco Packet Tracer Rescoring*
+The semifinal round is what determines whether, the teams make Nationals. Although, the images have various predetermined rankings, all were super hard, only Ubuntu was hard, we can gain a more accurate understanding of the image difficulty by looking at the public scores. Fedora in this case was Extremely hard, as 99% of teams got less than 10 points on it. Ubuntu although now only marked hard, was harder than the State Round Ubuntu which was marked superhard. Windows and Windows Server were relatively easier and was where all the points were got. The Boeing Challenge were points that team's must obtain, the web challenge had one super hard part and a relatively easier part. The Cisco Networking Quiz was easy, but the packet tracer was super hard.
+
+![Semifinal Round Team Ranking](/assets/images/2022 Round 4 Results.jpg)
+
 
 ![Titanturtles Club Teams State](/assets/images/titanturtleteams.jpg)
 

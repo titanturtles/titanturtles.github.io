@@ -1,4 +1,4 @@
-## [Home](./index.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | **Tech Caregiver | [Events](./events.html)** | [Westview](https://westview.titanturtles.org/home/)
+## [Home](./index.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | **Tech Caregiver | [Events](./events.html)**
 
 # Community Education
 **February 26, 2023 Community Education Flyer**
