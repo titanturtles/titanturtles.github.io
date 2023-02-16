@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html) | [Westview](https://westview.titanturtles.org/home/)
 <br/>
 
 ## SEMIFINAL COMPETITION JANUARY 21, 2023
