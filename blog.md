@@ -3,7 +3,10 @@ layout: default
 ---
 
 ## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
-<br/>
+
+## Recognition of Titanturtles Team at BSD Board Meeting
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEbpzIMqRUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## SEMIFINAL COMPETITION JANUARY 21, 2023
 
