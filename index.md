@@ -8,7 +8,7 @@ layout: default
 
 [Click Here to Apply](./apply.html)
 
-<img src="https://titanturtles.org/assets/images/TitanTurtlesOpenHouseFlyer2023.png" width="437" height="567">
+[<img src="https://titanturtles.org/assets/images/TitanTurtlesOpenHouseFlyer2023.png" width="437" height="567">](./apply.html)
 
 # Team
 
