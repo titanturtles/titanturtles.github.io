@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Home](./index.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 
 ## Recognition of Titanturtles Team at BSD Board Meeting
 ![Titanturtles Club Teams](assets/images/IMG_9380[1].JPG)
