@@ -2,7 +2,13 @@
 layout: default
 ---
 
-## **Home** | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## **Home** | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+
+# Open House and Recruiting
+
+[Click Here to Apply](./apply.html)
+
+<img src="https://titanturtles.org/assets/images/TitanTurtlesOpenHouseFlyer2023.png" width="437" height="567">
 
 # Team
 
@@ -24,12 +30,6 @@ We won the Oregon Champion in season 2021~2022, 2022-2023 in high school open di
 **Our vision:** We are a diverse, connected and inspiring team partnering with school districtts, organizations and communities to deliver transformational knowledge sharing and value creation.
 
 **Our strategy:** Unleash the full potential of our students. Create social awareness of CyberSecurity through education, sharing and projects.
-
-* * *
-
-## Apply:
-
-If you are interested in joining the team, please fill out this [google form](https://forms.gle/1DoXWwxivJpWVeSr6).
 
 * * *
 
