@@ -141,8 +141,7 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
     2) Top overall performance;
     3) Top team spirit.
 
-
-* Equipment requirement: Initially, students can use any computer to participate in the learning activity. However, students are expected to have a laptop with at least 16GB of RAM and 512GB SSD Drive with 100GB free space to compete in a team. Costco has good price/warranty on laptops. Expect to spend $800+. Windows machine is preferred. Also, amazon has refurbished/renewed laptop below $350, YMMV. Mac computers with intel chip will work, but are not recommended. **Mac computers with M chip will NOT work.** Advanced students can use Linux machines, but are not recommended.
+* Equipment requirement: Initially, students can use any computer to participate in the learning activity. However, students are expected to have a laptop with Intel/AMD CPU and at least 16GB of RAM and 512GB SSD Drive with 100GB free space to compete in a team. Costco has good price/warranty on laptops. Expect to spend $800+. Windows machine is preferred. Also, amazon has refurbished/renewed laptop below $350, YMMV. Mac computers with intel chip will work, but are not recommended. Mac computers with M chip will NOT work. Advanced students can use Linux machines, but are not recommended. Chromebook will NOT work. Computer with ARM chip will NOT work.
 
 * Coaches and mentors will do their best to provide the most suitable learning materials. Coaches and mentors are committed to motivate students and ensure core values are implemented throughout the learning journey. However, it is students' responsibility to actually walk the path to success.
 
