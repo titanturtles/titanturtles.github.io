@@ -8,6 +8,8 @@ OR Scan the QR Code
 
 ![https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f](/assets/images/ClubApplication2023QR.png)
 
+[<img src="https://titanturtles.org/assets/images/TitanTurtlesOpenHouseFlyer2023Light.png" width="437" height="567">](./apply.html)
+
 ## Introduction
 
 The main goal of TitanTurtles Club is to study cybersecurity and organize middle school and high school teams to participate in US CyberPatriot competition. Along the way, TitanTurtles Club will also give the opportunity for the students to gain teamwork spirits, sportsmanship, leadership traits and social responsibilities.
