@@ -39,7 +39,7 @@ Online: Zoom Meeting
 Donation to Master Builders Club:\
 Standard Camp: $400 (1 week) ($300 if before June 1)\
 Advanced Camp: $500 (1 week) ($400 if before June 1)\
-Both Camps: $850 ($650 if before May 1)
+Both Camps: $850 ($650 if before June 1)
 
 
 * * *
