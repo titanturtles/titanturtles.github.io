@@ -2,7 +2,7 @@
 
 # Summer CyberCamp 2023
 
-We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time. The CyberCamps will be hosted both online and in-person.
+We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time. The CyberCamps will be hosted online.
 
 * * *
 
@@ -37,9 +37,9 @@ Online: Zoom Meeting
 ## Cost for the camp:
 
 Donation to Master Builders Club:\
-Standard Camp: $400 (1 week) ($300 if before June 1)\
-Advanced Camp: $500 (1 week) ($400 if before June 1)\
-Both Camps: $850 ($650 if before June 1)
+Standard Camp: $500 (1 week) ($400 if before July 1)\
+Advanced Camp: $600 (1 week) ($500 if before July 1)\
+Both Camps: $1050 ($850 if before June 1)
 
 
 * * *
@@ -48,7 +48,7 @@ Both Camps: $850 ($650 if before June 1)
 
 Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). AMD computers should work fine. 
 
-(Costco has qualified laptop at between $600 and $800. Amazon has qualified renewed laptop at around $300.)
+(Costco has qualified laptop at between $600 and $2000. Amazon has qualified renewed laptop at around $300, but YMMV.)
 
 However, Apple M series computer will not work.
 
