@@ -1,14 +1,8 @@
-## [Home](./index.html) | **Apply | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)**
+## [Home](./index.html) | **Apply** | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 
-# Apply to Club
+# Applications:
 
-[Click Here](https://www.zeffy.com/en-US/ticketing/78d82450-c773-4820-bc8e-cd7b5eaa3f15)
-
-OR Scan the QR Code
-
-![https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f](/assets/images/ClubApplication2023QR.png)
-
-[<img src="https://titanturtles.org/assets/images/TitanTurtlesOpenHouseFlyer2023Light.png" width="437" height="567">](./apply.html)
+The deadline has already passed for applying for the 2023-2024 season. If you want to be notified when applications open up again, sign up at this form here: [Titanturtles Club application notification form](https://docs.google.com/forms/d/e/1FAIpQLSe0cKJYiFTq69bxM5a5kqFmSRU8moayh1oFzjg1KCXv48Nucw/viewform?usp=sf_link)
 
 ## Introduction
 
@@ -44,7 +38,7 @@ Competition season (September - January (March if advanced to national)):
 * competition rounds (roughly 1 round each month from October to January)
 
 
-The Club is managed by Coach Pei Zhang, Coach Xinle Yang and professional cybersecurity mentor Sean R.. Motivated and capable students will have exposure and engagement in building out next generation student pipeline and delivering community presentations. Students with proven leadership work will earn leadership titles and duties.
+The Club is managed by Coach Pei Zhang, Coach Xinle Yang and professional cybersecurity mentor Sean R. Motivated and capable students will have exposure and engagement in building out next generation student pipeline and delivering community presentations. Students with proven leadership work will earn leadership titles and duties.
 
 
 We encourage parents to be mentors so that the students can have a better learning result. Parents will be able to learn and grow with students.
@@ -148,12 +142,4 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 Please use students' gmail account to fill out the form. 
 Please let students fill out the form themselves. 
 (Gmail is used for material sharing. If you do not have one, create one. Also, we are teaching the students, not the parents! Fail to follow these 2 requirements will be denied to join the club.)
-
-Apply to Club
-
-[Click Here](https://www.zeffy.com/en-US/ticketing/78d82450-c773-4820-bc8e-cd7b5eaa3f15)
-
-OR Scan the QR Code
-
-![https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f](/assets/images/ClubApplication2023QR.png)
 

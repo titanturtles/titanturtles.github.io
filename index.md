@@ -4,12 +4,6 @@ layout: default
 
 ## **Home** | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 
-# Open House and Recruiting
-
-[Click Here to Apply](./apply.html)
-
-[<img src="https://titanturtles.org/assets/images/TitanTurtlesOpenHouseFlyer2023.png" width="437" height="567">](./apply.html)
-
 # Team
 
 We are Cybersecurity competition team TitanTurtles. Our main competition is [CyberPatriot](https://www.uscyberpatriot.org/). We also participate in [picoCTF](https://picoctf.org/) annual competition and [Reply Challenge](https://challenges.reply.com/tamtamy/challenges/category/cybersecurity#home). 

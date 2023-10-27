@@ -8,12 +8,7 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 ## Apply:
 
-[Click Here](https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f)
-
-OR Scan the QR Code
-
-![https://www.zeffy.com/en-US/ticketing/41e07d9c-b1dc-48ed-b349-0bb1230b1e2f](/assets/images/CyberCamp2023QR.png)
-
+Summer camps are over for this year. If you are interested in signing up for a summer camp next year and want to be notified when it opens, you can fill out this form here: [summer camp notification form](https://docs.google.com/forms/d/e/1FAIpQLSe0cKJYiFTq69bxM5a5kqFmSRU8moayh1oFzjg1KCXv48Nucw/viewform?usp=sf_link)
 
 * * *
 
