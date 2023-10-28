@@ -1,4 +1,4 @@
-## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | **Tech Caregiver | [Events](./events.html)**
+## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | **Tech Caregiver** | [Events](./events.html)
 
 # Community Education
 ![Titanturtles Community Education Flyer](./assets/images/TechCaregiverflyerMarAPR2023.jpg)

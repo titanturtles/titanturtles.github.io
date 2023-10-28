@@ -139,7 +139,12 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 
 * Coaches and mentors will do their best to provide the most suitable learning materials. Coaches and mentors are committed to motivate students and ensure core values are implemented throughout the learning journey. However, it is students' responsibility to actually walk the path to success.
 
-Please use students' gmail account to fill out the form. 
-Please let students fill out the form themselves. 
-(Gmail is used for material sharing. If you do not have one, create one. Also, we are teaching the students, not the parents! Fail to follow these 2 requirements will be denied to join the club.)
+## Captains
 
+In each team students with a strong overall performance and high participation (showing up, doing presentations, doing homework) will be selected as team captain of the team they are on. They will most likely stay team captain for the rest of the season and they will have an opportunity to prove themselves as great leaders. 
+As Captains you will be expected to put in more work and time than the rest of the team, whether it's for tasks that you have been delegated to complete or for motivating your team and keeping them up to high standards.
+
+"The day you no longer believe you have something to prove, the day you no longer believe you must give it your all, the day you think you are entitled to special treatment, the day you think all your hard days are behind you, is the day you are no longer the right leader for the job." 
+ - William H. McRaven, The Wisdom of the Bullfrog: Leadership Made Simple
+
+These standards are expected of everybody, but more so every team captain and everyone on the elite team.
