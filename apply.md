@@ -131,8 +131,8 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 
 * At the same time, coaches will invite the top students to join the elite team. The goal for elite team is to have a better chance to advance to national final competition. The 3 criteria to select top students:
 
-    1) Top performance in 1 of the 3 subjects (Windows, Linux, Network);
-    2) Top overall performance;
+    1) Top performance in 1 of the 3 subjects (Windows, Linux, Network);\
+    2) Top overall performance;\
     3) Top team spirit.
 
 * Equipment requirement: Initially, students can use any computer to participate in the learning activity. However, students are expected to have a laptop with Intel/AMD CPU and at least 16GB of RAM and 512GB SSD Drive with 100GB free space to compete in a team. Costco has good price/warranty on laptops. Expect to spend $800+. Windows machine is preferred. Also, amazon has refurbished/renewed laptop below $350, YMMV. Mac computers with intel chip will work, but are not recommended. Mac computers with M chip will NOT work. Advanced students can use Linux machines, but are not recommended. Chromebook will NOT work. Computer with ARM chip will NOT work.
@@ -145,6 +145,6 @@ In each team students with a strong overall performance and high participation (
 As Captains you will be expected to put in more work and time than the rest of the team, whether it's for tasks that you have been delegated to complete or for motivating your team and keeping them up to high standards.
 
 "The day you no longer believe you have something to prove, the day you no longer believe you must give it your all, the day you think you are entitled to special treatment, the day you think all your hard days are behind you, is the day you are no longer the right leader for the job." 
- - William H. McRaven, The Wisdom of the Bullfrog: Leadership Made Simple
+- William H. McRaven, The Wisdom of the Bullfrog: Leadership Made Simple
 
-These standards are expected of everybody, but more so every team captain and everyone on the elite team.
+These standards are expected of every team captain and everyone on the elite team. Everyone else should also strive toward these standards.
