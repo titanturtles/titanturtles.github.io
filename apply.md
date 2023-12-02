@@ -2,7 +2,8 @@
 
 # Applications:
 
-The deadline has already passed for applying for the 2023-2024 season. If you want to be notified when applications open up again, sign up at this form here: [Titanturtles Club application notification form](https://docs.google.com/forms/d/e/1FAIpQLSe0cKJYiFTq69bxM5a5kqFmSRU8moayh1oFzjg1KCXv48Nucw/viewform?usp=sf_link)
+The deadline has already passed for applying for the 2023-2024 CyberPatriot season. If you want to be notified when applications open up again, sign up at this form here: [Titanturtles Club application notification form](https://docs.google.com/forms/d/e/1FAIpQLSe0cKJYiFTq69bxM5a5kqFmSRU8moayh1oFzjg1KCXv48Nucw/viewform?usp=sf_link)
+In the meantime, you can check out the Westview Cybersecurity club for weekly meetings on learning basic cybersecurity and competing in various Capture the Flag competitions: [westview.titanturtles.org/](https://westview.titanturtles.org/).
 
 ## Introduction
 
@@ -58,16 +59,6 @@ The Core Values of the Club:
 ==================================
 
 ## Club Application
-
-
-**Open House:**
-Time: 1pm – 2pm PDT, Sunday April 9th, 2023\
-In-person (preferred): \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hillsboro Brookwood Library\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2850 NE Brookwood Pkwy\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hillsboro, OR 97124\
-Zoom: 886 5643 5558 Passcode: turtles
-
 
 Like all serious sports or academic competitions, CyberPatriot requires commitment from the students. The application requirements are as follow:
 
@@ -141,10 +132,10 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 
 ## Captains
 
-In each team students with a strong overall performance and high participation (showing up, doing presentations, doing homework) will be selected as team captain of the team they are on. They will most likely stay team captain for the rest of the season and they will have an opportunity to prove themselves as great leaders. 
+In each team students with a strong overall performance and high participation (showing up, doing presentations, doing homework) will be selected as team captain of the team they are on. They will most likely stay team captain for the rest of the season and they will have an opportunity to prove themselves as great leaders.
 As Captains you will be expected to put in more work and time than the rest of the team, whether it's for tasks that you have been delegated to complete or for motivating your team and keeping them up to high standards.
 
-"The day you no longer believe you have something to prove, the day you no longer believe you must give it your all, the day you think you are entitled to special treatment, the day you think all your hard days are behind you, is the day you are no longer the right leader for the job." 
+"The day you no longer believe you have something to prove, the day you no longer believe you must give it your all, the day you think you are entitled to special treatment, the day you think all your hard days are behind you, is the day you are no longer the right leader for the job."
 - William H. McRaven, The Wisdom of the Bullfrog: Leadership Made Simple
 
 These standards are expected of every team captain and everyone on the elite team. Everyone else should also strive toward these standards.
