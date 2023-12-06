@@ -9,6 +9,9 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEbpzIMqRUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## 2023-2024 Season
+[Rounds 1 and 2 Competition Results](./2324round12results.html)
+
 ## SEMIFINAL COMPETITION JANUARY 21, 2023
 
 ![Titanturtles Club Teams](assets/images/titanturtles-club-teams-semifinal.png)
@@ -59,7 +62,7 @@ State Round Awards for CyberPatriot Competition:
  **Team 15-1839 TitanKacchuas Roster: (Global Gold Tier #482, OR #1)**
  - Taafeef Khayer: 8th Grade                  Tumwater Middle School                        Captain: Team TitanKacchuas
  - Meet Raval: 11th Grade                     Westview High School
- 
+
 Titanturtles Club organized five teams to participate in 2022-2023 US Cyber Patriot competition:
 
 15-1766 Titanturtles
@@ -93,7 +96,7 @@ State Round competition is at a premium level. Windows 10 images is medium. Wind
 Four of five teams improved their High School Open Division Ranking in Round 2 and advanced to Platinum Tier of next round of competition.. Team 15-1839 Titankachhuas will compete within Gold Tier in Round 3
 ![Round 2 Team Ranking](/assets/images/2022 Round 2 Results.jpg)
 
-### CYBER PATRIOT 2022-2023 ROUND 1 COMPETITION: OCT 20-22, 2022 
+### CYBER PATRIOT 2022-2023 ROUND 1 COMPETITION: OCT 20-22, 2022
 
 All five teams achieved outstanding results during round 1. Team 15-1766 Titanturtles scored perfect scores on Windows 10, Windows Server 19, Ubuntu images and scored 28.86 out of 30 on Cisco networking. Titanturtles team ranked #1 in Oregon and #19 out of 2,092 teams in High School Open Division.
 
