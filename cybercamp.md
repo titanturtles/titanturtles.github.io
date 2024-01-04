@@ -1,6 +1,6 @@
 ## [Home](./index.html) | [Apply](./apply.html) | **CyberCamp** |  [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 
-# Summer CyberCamp 2023
+# Summer CyberCamp 2024
 
 We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time. The CyberCamps will be hosted online.
 
@@ -8,14 +8,16 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 ## Apply:
 
-Summer camps are over for this year. If you are interested in signing up for a summer camp next year and want to be notified when it opens, you can fill out this form here: [summer camp notification form](https://docs.google.com/forms/d/e/1FAIpQLSe0cKJYiFTq69bxM5a5kqFmSRU8moayh1oFzjg1KCXv48Nucw/viewform?usp=sf_link)
+We will host AFA Summer CyberCamp this year online. If you are interested in signing up for summer camp, you can pre-register it here: [Pre-Register for Summer CyberCamp](https://www.zeffy.com/en-US/ticketing/fe028ea7-0826-43de-9c82-d0f2ce49649d). 
+
+It is 100% refundable if you decided to withdraw before the start of the camp.
 
 * * *
 
 ## Schedule:
 
-Standard Camp: July 24-28, 2023\
-Advanced Camp: July 31-August 4, 2023
+Standard Camp: TBD (1 week in June to early August), 2024\
+Advanced Camp: TBD (1 week in June to early August, right after standard camp), 2024
 
 Time: 9am to 2:30pm (PDT)\
 Lunch break (Mon, Tue, Wed, Thur): 11:30am to 12:15pm (PDT)\
@@ -32,9 +34,9 @@ Online: Zoom Meeting
 ## Cost for the camp:
 
 Donation to Master Builders Club:\
-Standard Camp: $500 (1 week) ($400 if before July 1)\
-Advanced Camp: $600 (1 week) ($500 if before July 1)\
-Both Camps: $1050 ($850 if before July 1)
+Standard Camp: $350 (1 week) ($300 if before April 30th)\
+Advanced Camp: $450 (1 week) ($400 if before April 30th)\
+Both Camps: $700 ($600 if before April 30th)
 
 
 * * *
@@ -43,7 +45,7 @@ Both Camps: $1050 ($850 if before July 1)
 
 Intel computers with internet connection, and at least 16GB of memory (RAM) and 60GB free harddrive space (SSD preferred). AMD computers should work fine. 
 
-(Costco has qualified laptop at between $600 and $2000. Amazon has qualified renewed laptop at around $300, but YMMV.)
+(Costco has qualified laptop at between $600 and up. Amazon has qualified renewed laptop at around $300, but YMMV.)
 
 However, Apple M series computer will not work.
 
