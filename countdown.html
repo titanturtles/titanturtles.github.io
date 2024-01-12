@@ -8,6 +8,9 @@ p {
   font-size: 60px;
   margin-top: 0px;
 }
+.CyPat {
+  text-align: center;
+}
 </style>
 </head>
 <body>
@@ -17,6 +20,7 @@ p {
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Jan 18, 2024 14:00:00 UTC").getTime();
+var countDownDateEnd = new Date("Jan 21, 2024 4:59:00 UTC").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -39,12 +43,28 @@ var x = setInterval(function() {
     
   // If the count down is over, write some text 
   if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+      var distance2 = countDownDateEnd - now;
+    
+      // Time calculations for days, hours, minutes and seconds
+      days = Math.floor(distance2 / (1000 * 60 * 60 * 24));
+      hours = Math.floor((distance2 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      minutes = Math.floor((distance2 % (1000 * 60 * 60)) / (1000 * 60));
+      seconds = Math.floor((distance2 % (1000 * 60)) / 1000);
+        
+    document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s <br>Until CyberPatriot XVI Semifinal Ends<br>Good Luck!";
+
+      if (distance2 < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "CyberPatriot XVI Semifinal Ended. Good Job!<br>Please Be Patient. All Scores To Show Up Someday";
+      }
+
   }
 }, 1000);
 </script>
 <br>
-<iframe src="https://scoreboard.uscyberpatriot.org" height="1000" width="1024" title="Iframe Example"></iframe>
+<div class="CyPat">
+<iframe src="https://scoreboard.uscyberpatriot.org" height="20000" width="90%" title="Iframe Example"></iframe>
+</div>
 </body>
 </html>
