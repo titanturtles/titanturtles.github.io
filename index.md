@@ -4,6 +4,9 @@ layout: default
 
 ## **Home** | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 
+# The Titanturtles Team are CyberPatriot 16 National Finalists
+*Ranked #5 in US/Canada out of 2000+ teams*
+
 # Team
 
 We are Cybersecurity competition team TitanTurtles. Our main competition is [CyberPatriot](https://www.uscyberpatriot.org/). We also participate in [picoCTF](https://picoctf.org/) annual competition and [Reply Challenge](https://challenges.reply.com/tamtamy/challenges/category/cybersecurity#home).

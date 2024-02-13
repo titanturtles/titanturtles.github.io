@@ -4,6 +4,26 @@ layout: default
 
 ## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 
+# The Titanturtles Team are CyberPatriot XVI National Finalists ranking 5th in Nation
+
+Team Roster:
+- Arnold Yang: Senior - Team Captain and President of Linux Systems
+  - National Rank: 2nd Place Debian 11, 1st Place Boeing CyberPhysical Systems, 1st Place Web-Based Challenge
+- Michael Xu: Senior - President of Cisco Networking
+  - National Rank: 2nd Place Cisco Networking
+- Sean Ji: Sophomore - President of Windows Systems
+  - National Rank: 6th Place Windows Server 2022
+- Arthur Yang: Freshman - Vice President of Linux Systems
+  - National Rank: 5th place Ubuntu 22
+- Ashton Jiang: Sophomore - Vice President of Cisco Networking
+  - National Rank:  2nd Place Cisco Networking
+- Anya Li: Junior - Vice President of Windows Systems
+  - National Rank: 28th place Windows 10
+
+
+
+Official Published Results: [https://www.uscyberpatriot.org/Documents/Scores/CP16%20National%20Finalists\_Published.pdf](https://www.uscyberpatriot.org/Documents/Scores/CP16%20National%20Finalists_Published.pdf)
+
 ## Recognition of Titanturtles Team at BSD Board Meeting
 ![Titanturtles Club Teams](assets/images/IMG_9380[1].JPG)
 
