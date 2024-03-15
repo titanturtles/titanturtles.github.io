@@ -2,7 +2,7 @@
 
 # Summer CyberCamp 2024
 
-We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time. The CyberCamps will be hosted online.
+We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time.
 
 * * *
 
@@ -10,14 +10,14 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 We will host AFA Summer CyberCamp this year online. If you are interested in signing up for summer camp, you can pre-register it here: [Pre-Register for Summer CyberCamp](https://www.zeffy.com/en-US/ticketing/fe028ea7-0826-43de-9c82-d0f2ce49649d). 
 
-It is 100% refundable if you decided to withdraw before the start of the camp.
+It is 100% refundable if you decided to withdraw before July 1st. After July 1st, no refund will be given.
 
 * * *
 
 ## Schedule:
 
-Standard Camp: TBD (1 week in June to early August), 2024\
-Advanced Camp: TBD (1 week in June to early August, right after standard camp), 2024
+Standard Camp: June 29 to August 2, 2024\
+Advanced Camp: August 5 to August 9, 2024
 
 Time: 9am to 2:30pm (PDT)\
 Lunch break (Mon, Tue, Wed, Thur): 11:30am to 12:15pm (PDT)\
@@ -34,9 +34,9 @@ Online: Zoom Meeting
 ## Cost for the camp:
 
 Donation to Master Builders Club:\
-Standard Camp: $350 (1 week) ($300 if before April 30th)\
-Advanced Camp: $450 (1 week) ($400 if before April 30th)\
-Both Camps: $700 ($600 if before April 30th)
+Standard Camp: $350 by April 30th ($450 starting May 1st)\
+Advanced Camp: $450 by April 30th ($600 starting May 1st)\
+Both Camps: $650 by April 30th ($1,000 starting May 1st)
 
 
 * * *
