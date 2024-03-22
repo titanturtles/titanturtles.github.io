@@ -16,9 +16,11 @@ Every year, the CyberPatriot competition season starts in April when registratio
 
 
 TitanTurtles Club Teams won\
-2023-2024 CyberPatriot National Final No. 4, 1st, 2nd and 3rd Place Oregon Champion\
-2022-2023 CyberPatriot No. 8 OS images, No. 18 National Champion, 1st, 2nd and 3rd Place Oregon Champion\
-2021-2022 CyberPatriot 1st Place Oregon Champion
+2023-2024 - [CyberPatriot National Final No. 4](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-XVI-National-Finals-Competition.aspx), 1st, 2nd and 3rd Place Oregon Champion\
+          - [GeorgeFox HS Programming Contest No. 1](https://cs.georgefox.edu/hs_contest/)
+          - [picoCTF US HS division]No. 15 (https://play.picoctf.org/events/72/scoreboards#2595)
+2022-2023 - CyberPatriot No. 8 OS images, No. 18 National Champion, 1st, 2nd and 3rd Place Oregon Champion\
+2021-2022 - CyberPatriot 1st Place Oregon Champion
 
 
 To accompany with CyberPatriot schedule, TitanTurtles Club's plan are designed as follow:
