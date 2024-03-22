@@ -2,8 +2,7 @@
 
 # Applications:
 
-The deadline has already passed for applying for the 2023-2024 CyberPatriot season. If you want to be notified when applications open up again, sign up at this form here: [Titanturtles Club application notification form](https://docs.google.com/forms/d/e/1FAIpQLSe0cKJYiFTq69bxM5a5kqFmSRU8moayh1oFzjg1KCXv48Nucw/viewform?usp=sf_link)
-In the meantime, you can check out the Westview Cybersecurity club for weekly meetings on learning basic cybersecurity and competing in various Capture the Flag competitions: [westview.titanturtles.org/](https://westview.titanturtles.org/).
+We are open for applying for the 2024-2025 CyberPatriot season. Click [here]() to apply. 
 
 ## Introduction
 
@@ -17,7 +16,8 @@ Every year, the CyberPatriot competition season starts in April when registratio
 
 
 TitanTurtles Club Teams won\
-2022-2023 CyberPatriot No. 8 Ranking Global OS images, No. 18 Global Champion, 1st, 2nd and 3rd Place Oregon Champion\
+2023-2024 CyberPatriot National Final No. 4, 1st, 2nd and 3rd Place Oregon Champion\
+2022-2023 CyberPatriot No. 8 OS images, No. 18 National Champion, 1st, 2nd and 3rd Place Oregon Champion\
 2021-2022 CyberPatriot 1st Place Oregon Champion
 
 
@@ -29,14 +29,14 @@ Off season (March - August):
 * Recruiting season
 * CTF and other competitions
 * Offseason preparation
-* AFA CyberCamps (2 weeks, Standard Camp July 24 - 27, Advanced Camp July 31 - August 4)
+* AFA CyberCamps (2 weeks, Standard Camp July 29 - Aug. 2, Advanced Camp Aug. 5 - Aug. 9)
 * Team registration
 * Social works
 
 Competition season (September - January (March if advanced to national)):
 
-* competition preparation
-* competition rounds (roughly 1 round each month from October to January)
+* CyberPatriot competition preparation
+* CyberPatriot competition rounds (roughly 1 round each month from October to January, to March if advanced to National)
 
 
 The Club is managed by Coach Pei Zhang, Coach Xinle Yang and professional cybersecurity mentor Sean R. Motivated and capable students will have exposure and engagement in building out next generation student pipeline and delivering community presentations. Students with proven leadership work will earn leadership titles and duties.
@@ -65,11 +65,11 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 
 * Grades: new students grade 6 - 12 are preferred
 
-* Required Donation: $300 per year (To cover 4 rounds of tournaments cost (registration, food, places) and cost of learning materials. If advance to National Final Competition Tournament, there will be at least $300 additional cost.)
+* Required Donation: $350 per year (To cover 4 rounds of tournaments cost (registration, food, places, internet, servers) and cost of other learning materials. If advance to National Final Competition Tournament, there will be at least $350 additional cost.)
 
-* **New students are expected to participate in both Standard and Advanced Camps hosted between July 24 to August 4. It will be really hard for students to catch up if students did not participate in the camps.** Details of the camp can be found here: https://titanturtles.org/cybercamp.html.
+* **New students are expected to participate in both Standard and Advanced Camps hosted between July 29 to August 9. It will be really hard for students to catch up if students did not participate in the camps.** Details of the camp can be found here: https://titanturtles.org/cybercamp.html.
 
-* No previous background needed. We will cover everything you need to know. Students also need to spend time to learn. Winners win because they did the hard work.
+* No previous background needed. However, it will be easier for students with programming experiences. We will cover everything you need to know. Students also need to spend time to learn. Winners win because they did the hard work.
 
 * Self-driven to learn new things
 
@@ -120,13 +120,15 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 
 * Each team will have a captain. Captain needs to have strong team spirit, leadership trait and proven working record.
 
-* At the same time, coaches will invite the top students to join the elite team. The goal for elite team is to have a better chance to advance to national final competition. The 3 criteria to select top students:
+* At the same time, coaches will invite the top students to join the elite team. The goal for elite team is to have a better chance to advance to national final competition. The criteria to select top students:
 
-    1) Top performance in 1 of the 3 subjects (Windows, Linux, Network);\
+    1) Top performance in 1 of the 3 subjects (Windows, Linux, Cisco Network);\
     2) Top overall performance;\
     3) Top team spirit.
 
-* Equipment requirement: Initially, students can use any computer to participate in the learning activity. However, students are expected to have a laptop with Intel/AMD CPU and at least 16GB of RAM and 512GB SSD Drive with 100GB free space to compete in a team. Costco has good price/warranty on laptops. Expect to spend $800+. Windows machine is preferred. Also, amazon has refurbished/renewed laptop below $350, YMMV. Mac computers with intel chip will work, but are not recommended. Mac computers with M chip will NOT work. Advanced students can use Linux machines, but are not recommended. Chromebook will NOT work. Computer with ARM chip will NOT work.
+* Equipment requirement: Initially, students can use any computer to participate in the learning activity. However, students are expected to have a laptop with Intel/AMD CPU and at least 16GB of RAM and 512GB SSD Drive with 100GB free space to compete in a team. Costco has good price/warranty on laptops. Expect to spend $800+. Windows machine is preferred. Mac computers with intel chip will work, but are not recommended. Mac computers with M chip will NOT work. Advanced students can use Linux machines, but are not recommended. Chromebook will NOT work. Computer with ARM chip will NOT work.
+
+** If you are serious student who is aiming for National, 32GB RAM, 1TB SSD Harddrive gaming laptops are recommended. We had very good experiences with Lenovo Legion gaming laptops. You can purchase them from Costco. **
 
 * Coaches and mentors will do their best to provide the most suitable learning materials. Coaches and mentors are committed to motivate students and ensure core values are implemented throughout the learning journey. However, it is students' responsibility to actually walk the path to success.
 
