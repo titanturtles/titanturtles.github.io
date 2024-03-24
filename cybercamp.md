@@ -8,9 +8,9 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 ## Apply:
 
-We will host AFA Summer CyberCamp this year online. If you are interested in signing up for summer camp, you can pre-register it here: [Pre-Register for Summer CyberCamp](https://www.zeffy.com/en-US/ticketing/fe028ea7-0826-43de-9c82-d0f2ce49649d). 
+[Register for 2024 Summer CyberCamp](https://www.zeffy.com/en-US/ticketing/fe028ea7-0826-43de-9c82-d0f2ce49649d). 
 
-It is 100% refundable if you decided to withdraw before July 1st. After July 1st, no refund will be given.
+It is 100% refundable if you decided to withdraw before July 1st, 2024. After July 1st, no refund will be given.
 
 * * *
 
