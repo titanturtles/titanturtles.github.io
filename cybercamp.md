@@ -36,7 +36,7 @@ Online: Zoom Meeting
 Donation to Master Builders Club:\
 Standard Camp: $350 by April 30th ($450 starting May 1st)\
 Advanced Camp: $450 by April 30th ($600 starting May 1st)\
-Both Camps: $650 by April 30th ($1,000 starting May 1st)
+Both Camps: $750 by April 30th ($1,000 starting May 1st)
 
 Online VMs access: Extra $50 per week (limited supply)
 (It is recommended to run VMs on your own computer. Online VMs are only for those who really could not get a computer to run the VMs locally.)
