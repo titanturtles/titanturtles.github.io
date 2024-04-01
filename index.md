@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## **Home** | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## **Home** | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html) | [Alumni](./alumni.html)
 
 # The Titanturtles Team are CyberPatriot 16 National Finalists
 *Ranked #5 in US/Canada out of 2000+ teams*
