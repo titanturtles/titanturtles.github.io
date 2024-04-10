@@ -2,7 +2,7 @@
 
 # Applications:
 
-We are open for applying for the 2024-2025 CyberPatriot season. Click [here]() to apply. 
+We are open for applying for the 2024-2025 CyberPatriot season. Click [here](https://www.zeffy.com/en-US/ticketing/8256a800-7f5a-4ba5-8f24-07488d69a3f3) to apply. 
 
 ## Introduction
 
