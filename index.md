@@ -18,6 +18,9 @@ layout: default
 Click [here](https://www.zeffy.com/en-US/ticketing/8256a800-7f5a-4ba5-8f24-07488d69a3f3) to apply for club member for the new season.
 Club application details: [here](https://titanturtles.org/apply)
 
+<img width="467" alt="image" src="https://github.com/titanturtles/titanturtles.github.io/assets/94571412/c5d05d90-dbc9-4588-9c28-f599b1271f5b">
+
+
 ## Summer CyberCamp
 
 * Schedule: \
@@ -27,7 +30,11 @@ Club application details: [here](https://titanturtles.org/apply)
 Click [here](https://titanturtles.org/cybercamp) for CyberCamp details
 
 # The Titanturtles Team are CyberPatriot 16 National Finalists
-*Ranked #4 in CyberPatriot Final*
+
+## Ranked #4 in CyberPatriot Final
+
+![Final](https://github.com/titanturtles/titanturtles.github.io/assets/94571412/09df9331-a74f-4ff3-a6ab-292786575e1f)
+
 
 # Team
 
