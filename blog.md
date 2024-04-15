@@ -4,7 +4,23 @@ layout: default
 
 ## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
 
-# The Titanturtles Team are CyberPatriot XVI National Finalists ranking 5th in Nation
+# 4th Place Overall CyberPatriot National Finals!!!
+
+Team Photo:
+![Team Photo](assets/images/NatsCPXVI/CiscoTeam1.JPG)
+
+Cisco Team:
+![Team Photo](assets/images/NatsCPXVI/LinuxTeam3.JPG)
+
+Linux Team:
+![Team Photo](assets/images/NatsCPXVI/LinuxTeam3.JPG)
+
+Windows Team:
+![Team Photo](assets/images/NatsCPXVI/WindowsTeam2.JPG)
+
+## National Finals Interview: <iframe width="560" height="315" src="https://www.youtube.com/embed/QEbpzIMqRUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# 5th Place CyberPatriot XVI SemiFinals
 
 Team Roster:
 - Arnold Yang: Senior - Team Captain and President of Linux Systems
@@ -20,17 +36,15 @@ Team Roster:
 - Anya Li: Junior - Vice President of Windows Systems
   - National Rank: 28th place Windows 10
 
-
-
 Official Published Results: [https://www.uscyberpatriot.org/Documents/Scores/CP16%20National%20Finalists\_Published.pdf](https://www.uscyberpatriot.org/Documents/Scores/CP16%20National%20Finalists_Published.pdf)
+
+## 2023-2024 Season
+[Rounds 1 and 2 Competition Results](./2324round12results.html)
 
 ## Recognition of Titanturtles Team at BSD Board Meeting
 ![Titanturtles Club Teams](assets/images/IMG_9380[1].JPG)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEbpzIMqRUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## 2023-2024 Season
-[Rounds 1 and 2 Competition Results](./2324round12results.html)
 
 ## SEMIFINAL COMPETITION JANUARY 21, 2023
 
