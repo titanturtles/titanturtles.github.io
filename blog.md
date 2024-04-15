@@ -7,18 +7,19 @@ layout: default
 # 4th Place Overall CyberPatriot National Finals!!!
 
 Team Photo:
-![Team Photo](assets/images/NatsCPXVI/CiscoTeam1.JPG)
+![Team Photo](assets/images/NatsCPXVI/TeamPhoto.jpg)
 
 Cisco Team:
-![Team Photo](assets/images/NatsCPXVI/LinuxTeam3.JPG)
+![Team Photo](assets/images/NatsCPXVI/CiscoTeam1.jpg)
 
 Linux Team:
-![Team Photo](assets/images/NatsCPXVI/LinuxTeam3.JPG)
+![Team Photo](assets/images/NatsCPXVI/LinuxTeam3.jpg)
 
 Windows Team:
-![Team Photo](assets/images/NatsCPXVI/WindowsTeam2.JPG)
+![Team Photo](assets/images/NatsCPXVI/WindowsTeam2.jpg)
 
-## National Finals Interview: <iframe width="560" height="315" src="https://www.youtube.com/embed/QEbpzIMqRUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## National Finals Interview:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEbpzIMqRUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # 5th Place CyberPatriot XVI SemiFinals
 
