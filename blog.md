@@ -19,7 +19,7 @@ Windows Team:
 ![Team Photo](assets/images/NatsCPXVI/WindowsTeam2.jpg)
 
 ## National Finals Interview:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6Erlyzl-_zQ" title="National Finals Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Erlyzl-_zQ" title="National Finals Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # 5th Place CyberPatriot XVI SemiFinals
 
