@@ -16,7 +16,7 @@ It is 100% refundable if you decided to withdraw before July 1st, 2024. After Ju
 
 ## Schedule:
 
-Standard Camp: June 29 to August 2, 2024\
+Standard Camp: July 29 to August 2, 2024\
 Advanced Camp: August 5 to August 9, 2024
 
 Time: 9am to 3pm (PDT)\
