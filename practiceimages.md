@@ -4,7 +4,7 @@
 
 **Disclaimer:** We share these images just to make it easier for people to use them. We appreciate the works of the original authors. If you think there is a copyright infringement, feel free to contact us. We will act accordingly.
 
-**We are not responsible of any of the content listed here.** These images are made for cybersecurity learning and practicing purpose. Naturally, there will be malicious contents inside each of the images. We are not responsible for any damage or loss incurred by using the contents listed below.
+**We are not responsible of any of the contents listed here.** These images are made for cybersecurity learning and practicing purpose. Naturally, there will be malicious contents inside each of the images. We are not responsible for any damage or loss incurred by using the contents listed below. We are not responsible for any loss or damage incurred by downloading and/or using the contents here. Please do not use any of the contents here for illegal activities. We are not responsible any illegal activities anyone performed based on downloading or using the contents here.
 
 ---
 
