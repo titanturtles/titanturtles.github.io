@@ -15,3 +15,35 @@ Hi, I’m Kevin Yu and I joined the club in my freshman year. I mainly worked on
 **Michael Xu**
 
 Hi, everyone, I'm Michael, previously a Westview high school student, and I competed in Cyberpatriot for 3 years. I was previously team 1 Cisco main and a national finalist. I am attending Georgia Institute of Technology to obtain a bachelors in CS. I enjoy playing tennis, gaming, and hanging out with my dog.
+
+---
+
+**Arnold Yang**
+
+---
+
+**Nathan Chen**
+
+---
+
+**Siddesh Mangipudi**
+
+---
+
+**Kishore Kumar Aruna Kaleeswaran**
+
+---
+
+**Ammar Mukadam**
+
+---
+
+**Owen Gifford**
+
+---
+
+**Isaac Loo**
+
+---
+
+**Virinchi**
