@@ -12,9 +12,9 @@ layout: default
 * In-person: (preferred)\
       Bethany Library Annex (Next door to Subway)\
       4888 NW Bethany Blvd Suite K-2,\
-      Portland, Oregon 97124
+      Portland, Oregon 97229
 
-<img width="467" alt="image" src="https://github.com/titanturtles/titanturtles.github.io/assets/94571412/c5d05d90-dbc9-4588-9c28-f599b1271f5b">
+<img width="467" alt="image" src="https://github.com/titanturtles/titanturtles.github.io/blob/24a5b6cb32f7028f7aa48374daad600e639fc58f/assets/images/techcaregivermay2024.png">
 
 
 ## Summer CyberCamp
