@@ -1,6 +1,6 @@
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | **Legend** 
 
-# Legend
+# Legend 亀
 
 We work hard, play hard. We appreciate everyone who spent their precious part of life to learn together, compete together, and have fun together here at Turtles. Because of that, we are connected forever. What ever you do. Where ever you go. We are always proud of our legendary alumni. Wish you have a unique wonderful life that you are proud of!
 
