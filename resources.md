@@ -11,3 +11,5 @@ picoCTF: [https://picoctf.org/](https://picoctf.org/)
 Reply Challenges: [https://challenges.reply.com/tamtamy/home.action](https://challenges.reply.com/tamtamy/home.action)
 
 Imaginary CTF: [https://imaginaryctf.org/](https://imaginaryctf.org/)
+
+eCitadel: [https://ecitadel.org](https://ecitadel.org)
