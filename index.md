@@ -14,7 +14,7 @@ layout: default
       4888 NW Bethany Blvd Suite K-2,\
       Portland, Oregon 97229
 
-<img width="467" alt="image" src="https://github.com/titanturtles/titanturtles.github.io/blob/24a5b6cb32f7028f7aa48374daad600e639fc58f/assets/images/techcaregivermay2024.png">
+<img width="467" alt="image" src="assets/images/techcaregivermay2024.png">
 
 
 ## Summer CyberCamp
