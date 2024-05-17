@@ -6,17 +6,13 @@ layout: default
 
 # New Season
 
-## Open House
+## Tech Caregiver and Showcasing event
 
-* Time: 1:30pm – 3:00pm PDT, Sunday April 21st, 2024
+* Time: 1:30pm – 3:00pm PDT, Sunday May 19th, 2024
 * In-person: (preferred)\
       Bethany Library Annex (Next door to Subway)\
       4888 NW Bethany Blvd Suite K-2,\
       Portland, Oregon 97124
-* Zoom: 875 2448 8672 Passcode: turtles
-
-Click [here](https://www.zeffy.com/en-US/ticketing/8256a800-7f5a-4ba5-8f24-07488d69a3f3) to apply for club member for the new season.
-Club application details: [here](https://titanturtles.org/apply)
 
 <img width="467" alt="image" src="https://github.com/titanturtles/titanturtles.github.io/assets/94571412/c5d05d90-dbc9-4588-9c28-f599b1271f5b">
 
