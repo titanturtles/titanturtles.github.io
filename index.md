@@ -4,28 +4,9 @@ layout: default
 
 ## **Root** | [Join](./apply.html) | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
-# New Season
-
-## Tech Caregiver and Showcasing event
-
-* Time: 1:30pm – 3:00pm PDT, Sunday May 19th, 2024
-* In-person: (preferred)\
-      Bethany Library Annex (Next door to Subway)\
-      4888 NW Bethany Blvd Suite K-2,\
-      Portland, Oregon 97229
-
-<img width="467" alt="image" src="assets/images/techcaregivermay2024.png">
 
 
-## Summer CyberCamp
-
-* Schedule: \
-      Standard camp: 7/29/2024 to 8/2/2024\
-      Advanced camp: 8/5/2024 to 8/9/2024
-   
-Click [here](https://titanturtles.org/cybercamp) for CyberCamp details
-
-# The Titanturtles Team are CyberPatriot 16 National Finalists
+# The Titanturtles Team advanced to CyberPatriot XVI National Finalists
 
 ## Ranked #4 in CyberPatriot Final
 
@@ -65,3 +46,5 @@ Just want to subscribe for event updates? [Click Here](https://forms.gle/SR7dtze
 Write history!\
 Leave a legend!\
 Go TitanTurtles!*
+
+Instagram: [@titanturtles](https://www.instagram.com/titanturtles)
