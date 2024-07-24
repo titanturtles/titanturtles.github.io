@@ -1,5 +1,4 @@
-## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | **Events**
-
+## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | **Events** | [Legend](./legend.html)
 ## Upcoming Events
 
 * Now - March, 2023: **CyberPatriot competition**
