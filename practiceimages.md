@@ -1,4 +1,5 @@
 ## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html) | Practice Images 
 
 # Practice Images
 
