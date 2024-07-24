@@ -1,4 +1,4 @@
-## [Home](./index.html) | [Apply](./apply.html) | **CyberCamp** |  [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## [Root](./index.html) | [Join](./apply.html) | **Camp** | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
 # Summer CyberCamp 2024
 
