@@ -1,4 +1,4 @@
-## [Home](./index.html) | **Apply** | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## [Root](./index.html) | **Join** | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
 # Applications:
 
