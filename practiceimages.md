@@ -39,11 +39,11 @@
 * Name: AMONG THE REINDEER
 * OS: Windows 10
 * Author:
-  shiversoftdev	Engine Lead, Design, Deployment
-  KaliPatriot	Software, Theme, Design, Deployment
-  RainbowDynamix	Design, Theme, Deployment
-  Matthew	Design, Theme
-  TheiMacNoob	Minor Theme
+  * shiversoftdev	Engine Lead, Design, Deployment
+  * KaliPatriot	Software, Theme, Design, Deployment
+  * RainbowDynamix	Design, Theme, Deployment
+  * Matthew	Design, Theme
+  * TheiMacNoob	Minor Theme
 * Difficulty: Intermediate
 * Google Downloads: (Preferred) [https://drive.google.com/file/d/1h1P-BAwL5Pdm6l1GwWmbbDb2BnW3M6UE/view](https://drive.google.com/file/d/1h1P-BAwL5Pdm6l1GwWmbbDb2BnW3M6UE/view)
 * Additional Downloads: [https://scoreboard.titanturtles.xyz/files/AmongTheReindeer/Among%20the%20Reindeer.zip](https://scoreboard.titanturtles.xyz/files/AmongTheReindeer/Among%20the%20Reindeer.zip)
@@ -57,14 +57,14 @@
 * Name: MUSHROOM KINGDOM
 * OS: WINDOWS SERVER 2019
 * Author:
-  RainbowDynamix	Design Lead, Deployment, Theme
-  shiversoftdev	Engine Lead, Theme Lead, Deployment
-  Matthew	Minor design
-  KaliPatriot	Beta Tester
-  TheWindowsWeeb	Beta Tester
-  Lighthouse64	Beta Tester
-  Augustus	Beta Tester
-  TheiMacNoob	Beta Tester
+  * RainbowDynamix	Design Lead, Deployment, Theme
+  * shiversoftdev	Engine Lead, Theme Lead, Deployment
+  * Matthew	Minor design
+  * KaliPatriot	Beta Tester
+  * TheWindowsWeeb	Beta Tester
+  * Lighthouse64	Beta Tester
+  * Augustus	Beta Tester
+  * TheiMacNoob	Beta Tester
 * Difficulty: Intermediate
 * Google Downloads: (Preferred) [https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view](https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view)
 * Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z](https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z)
