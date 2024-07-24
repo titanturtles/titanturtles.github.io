@@ -73,6 +73,7 @@
   * Original Website: https://magistrate.shiversoft.net/
   * Extraction Password: MushroomMan64
   * Primary Login: Mario:S3cure%The%Shr00ms
+  * Walkthrough: https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view
  
 ---
 
@@ -91,6 +92,7 @@
   * Original Website: https://magistrate.shiversoft.net/
   * Primary User: ElfShelf
   * Primary Password: $@nt4R0cks_42069
+  * Answer Key: https://drive.google.com/file/d/1BiigC1DC6eIlGcItkMLFGCR7_CUqY-YR/view
  
 ---
 
@@ -116,3 +118,4 @@
   * Original Website: https://cybervoid.me/projects/cincinnati/
   * User: Harambe
   * Password: 3stoyMuert0!
+  * Answer Key: https://docs.google.com/document/d/1xixc3uMO6NTTUvr9lzw0PxgftJLmPHSJlPsQe9KgqTY/edit?usp=sharing
