@@ -1,4 +1,4 @@
-## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | [Blog](./blog.html) | [Contacts](./contacts.html) | **Resources** | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | **Grind** | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
 # Resources
 
@@ -19,3 +19,5 @@ tirefire: [https://tirefire.org/posts/cyberpatriot-curriculum/](https://tirefire
 hypernova: [https://akshayrohatgi.com/blog/posts/How-To-Win-CyberPatriot/](https://akshayrohatgi.com/blog/posts/How-To-Win-CyberPatriot/)
 
 Coach Paul: [https://www.youtube.com/watch?v=mbA7YWqy3Dc](https://www.youtube.com/watch?v=mbA7YWqy3Dc)
+
+Community Practice Images: [https://titanturtles.org/practiceimages](https://titanturtles.org/practiceimages)
