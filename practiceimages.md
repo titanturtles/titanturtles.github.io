@@ -51,3 +51,25 @@
 * Additional Info:
   * Original Website: https://magistrate.shiversoft.net/
   * Primary Login - Rudolph:R3indeerSl@ys
+ 
+---
+
+* Name: MUSHROOM KINGDOM
+* OS: WINDOWS SERVER 2019
+* Author:
+  RainbowDynamix	Design Lead, Deployment, Theme
+  shiversoftdev	Engine Lead, Theme Lead, Deployment
+  Matthew	Minor design
+  KaliPatriot	Beta Tester
+  TheWindowsWeeb	Beta Tester
+  Lighthouse64	Beta Tester
+  Augustus	Beta Tester
+  TheiMacNoob	Beta Tester
+* Difficulty: Intermediate
+* Google Downloads: (Preferred) [https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view](https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view)
+* Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z](https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z)
+* MD5 Checksum: `54bd31dc5d01dea625f84cde68dae335`
+* Additional Info:
+  * Original Website: https://magistrate.shiversoft.net/
+  * Extraction Password: MushroomMan64
+  * Primary Login: Mario:S3cure%The%Shr00ms
