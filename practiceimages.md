@@ -12,8 +12,8 @@
 * OS: Windows 10
 * Author: John (discord: notstewart) 
 * Difficulty: ???
-* Google Downloads: (Preferred) https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view
-* Additional Downloads: https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z
+* Google Downloads: (Preferred) [https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view](https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view)
+* Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z)
 * MD5 Checksum: `edfc2e557b620f6fca585ab5895b7698`
 * Additional Info: 
 
@@ -23,13 +23,31 @@
 * OS: Windows Server 2022
 * Author: HIOOOO1234 (discord) 
 * Difficulty: Super Hard
-* Google Downloads: (Preferred) https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing
+* Google Downloads: (Preferred) [https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing](https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing)
 * Additional Downloads:
-  * https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z
-  * https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat
+  * [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z)
+  * [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat)
 * MD5 Checksum:
   * Beyond Journey's End.7z: `caf3646a8324bdb57a993b86550758a2`  
   * scoring.dat: `08e03ff4cd73cf98c2d5cdca9e1d7a2e`  
 * Additional Info:
   * Login information: Frieren:Password1!
   * Download the `scoring.dat` to replace the original scoring file in the image.
+ 
+---
+
+* Name: AMONG THE REINDEER
+* OS: Windows 10
+* Author:
+  shiversoftdev	Engine Lead, Design, Deployment
+  KaliPatriot	Software, Theme, Design, Deployment
+  RainbowDynamix	Design, Theme, Deployment
+  Matthew	Design, Theme
+  TheiMacNoob	Minor Theme
+* Difficulty: Intermediate
+* Google Downloads: (Preferred) [https://drive.google.com/file/d/1h1P-BAwL5Pdm6l1GwWmbbDb2BnW3M6UE/view](https://drive.google.com/file/d/1h1P-BAwL5Pdm6l1GwWmbbDb2BnW3M6UE/view)
+* Additional Downloads: [https://scoreboard.titanturtles.xyz/files/AmongTheReindeer/Among%20the%20Reindeer.zip](https://scoreboard.titanturtles.xyz/files/AmongTheReindeer/Among%20the%20Reindeer.zip)
+* MD5 Checksum: `d1ccb344848e155e4181fe75d8f82086`
+* Additional Info:
+  * Original Website: https://magistrate.shiversoft.net/
+  * Primary Login - Rudolph:R3indeerSl@ys
