@@ -73,3 +73,46 @@
   * Original Website: https://magistrate.shiversoft.net/
   * Extraction Password: MushroomMan64
   * Primary Login: Mario:S3cure%The%Shr00ms
+ 
+---
+
+* Name: SANTAS WORKSHOP
+* OS: WINDOWS 10
+* Author:
+  * RainbowDynamix	Design, Deployment Lead, Theme
+  * TheiMacNoob	Design Lead, Engine, Theme
+  * shiversoftdev	Engine Lead, Theme, Deployment
+  * Matthew	Tutorial Creator, Beta Testing
+* Difficulty: Beginner
+* Google Downloads: (Preferred) [https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view](https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view)
+* Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SantasWorkshop/Santa%27s%20Workshop.zip](https://scoreboard.titanturtles.xyz/files/SantasWorkshop/Santa%27s%20Workshop.zip)
+* MD5 Checksum: `ad705c062fc7cda4ac496a72c5a9e4b2`
+* Additional Info:
+  * Original Website: https://magistrate.shiversoft.net/
+  * Primary User: ElfShelf
+  * Primary Password: $@nt4R0cks_42069
+ 
+---
+
+* Name: SYSTEM HARDENING 9
+* OS: WINDOWS SERVER 2022
+* Author: firepony57
+* Difficulty: Medium
+* Google Downloads: (Preferred) [https://drive.google.com/file/d/1gYM366G8HG_WSEGIR90widby_XoVkDxK/view](https://drive.google.com/file/d/1gYM366G8HG_WSEGIR90widby_XoVkDxK/view)
+* Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip)
+* MD5 Checksum: `db32b84215688f8d08b57a6ce4c0eea2`
+* Additional Info:
+
+---
+
+* Name: CINCINATTI ZOO
+* OS: WINDOWS 10
+* Author: Donkey (discord: d0nkeyman)
+* Difficulty: Easy
+* Google Downloads: (Preferred) [https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view](https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view)
+* Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip](https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip)
+* MD5 Checksum: `767d2c696c5c360697c9d3d0979dbb63`
+* Additional Info:
+  * Original Website: https://cybervoid.me/projects/cincinnati/
+  * User: Harambe
+  * Password: 3stoyMuert0!
