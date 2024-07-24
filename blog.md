@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Home](./index.html) | [Apply](./apply.html) | [CyberCamp](./cybercamp.html) | **Blog** | [Contacts](./contacts.html) | [Resources](./resources.html) | [Tech Caregiver](./techcg.html) | [Events](./events.html)
+## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | **Blog** | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
 # 4th Place Overall CyberPatriot National Finals!!!
 
