@@ -11,6 +11,7 @@
 * [FBI: Windows 10](#fbi)
 * [BEYOND JOURNEY'S END: Windows Server 2022, Super Hard](#beyond-journeys-end)
 * [AMONG THE REINDEER: Windows 10, Intermediate](#among-the-reindeer)
+* [MUSHROOM KINGDOM: Windows Server 2019, Intermediate](#mushroom-kingdom)
 ---
 
 ### FBI
@@ -63,6 +64,7 @@
  
 ---
 
+### MUSHROOM KINGDOM
 - Name: MUSHROOM KINGDOM
 - OS: WINDOWS SERVER 2019
 - Author:
