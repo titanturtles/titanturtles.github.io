@@ -18,6 +18,7 @@
 * [BALDI'S BASICS: WinServer 2022, SH](#baldis-basics)
 * [ALPHABET SOUP: Win 10, H-SH](#alphabet-soup)
 * [APERTURE SCIENCE: Win 10, H-SH](#aperture-science-windows)
+* [PRINCETON-PLAINSBORO TEACHING HOSPITAL: Win 11, H-SH](#princeton-plainsboro-teaching-hospital)
 
 ---
 
@@ -176,7 +177,7 @@
 - Name: APERTURE SCIENCE
 - OS: WINDOWS 10
 - Author: infernushawk
-- Difficulty: Super Hard ?
+- Difficulty: Hard - Super Hard ?
 - Google Downloads: (Preferred) 
   - Part 1: [https://drive.google.com/file/d/1mN8yucgD31tVIJgWRkfYyRvegLsFHLS2/view?usp=sharing](https://drive.google.com/file/d/1mN8yucgD31tVIJgWRkfYyRvegLsFHLS2/view?usp=sharing)
   - Part 2: [https://drive.google.com/file/d/1Gp22ccrHR680o9Gdi52SvZEliBRpm0G8/view?usp=sharing](https://drive.google.com/file/d/1Gp22ccrHR680o9Gdi52SvZEliBRpm0G8/view?usp=sharing)
@@ -208,3 +209,18 @@
     - A: Ubuntu is ~30 GiB and Windows is ~38 GiB
   Both disks were defragmented prior to release to ensure the an optimized user download/launch experience.
   Since the disks are defragmented the images might take abnormally long to launch the first time, but every time after that should be relatively quick. If not, check your RAM and CPU allocation
+
+---
+
+### PRINCETON-PLAINSBORO TEACHING HOSPITAL
+- Name: PRINCETON-PLAINSBORO TEACHING HOSPITAL(PPTH)
+- OS: WINDOWS 11
+- Author: x1nni 
+- Difficulty: Hard - Super Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view](https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/PPTH/x1nni_ppth_h_win11.7z](https://scoreboard.titanturtles.xyz/files/PPTH/x1nni_ppth_h_win11.7z)
+- MD5 Checksum: `dc9d1d3c84cd08e29f1928f2ef9c7446`
+- Additional Info:
+  - Original Website: [https://x1nni.xyz/ppth.html]https://x1nni.xyz/ppth.html)
+  - Answer Key: [https://docs.google.com/document/u/1/d/1TbgaE_jOj1PaEsjuev1fS_cVyovI7mVHE-7B-AwKtvc/edit](https://docs.google.com/document/u/1/d/1TbgaE_jOj1PaEsjuev1fS_cVyovI7mVHE-7B-AwKtvc/edit)
+  - Walkthough: [https://www.youtube.com/watch?v=VuE2TXE1rEo](https://www.youtube.com/watch?v=VuE2TXE1rEo)
