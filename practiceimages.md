@@ -119,3 +119,20 @@
   * User: Harambe
   * Password: 3stoyMuert0!
   * Answer Key: https://docs.google.com/document/d/1xixc3uMO6NTTUvr9lzw0PxgftJLmPHSJlPsQe9KgqTY/edit?usp=sharing
+
+---
+
+* Name: BALDIS BASICS
+* OS: WINDOWS SERVER 2022
+* Author: Donkey (discord: d0nkeyman)
+* Difficulty: Super Hard
+* Downloads: [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip)
+* MD5 Checksum: `4a357ecb1f78c593805cf733ac234074`
+* Additional Info:
+  * Original Website: [https://cybervoid.me/projects/baldi/](https://cybervoid.me/projects/baldi/)
+  * Vulns: 50
+  * Notes: Active Directory, IPsec, Users have reported seeing low disk space errors
+  * User: Student
+  * Password: study
+  * Answer Key: https://cybervoid.me/posts/baldis-basics-answer-key/
+
