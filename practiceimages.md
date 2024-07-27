@@ -17,6 +17,7 @@
 * [CINCINATTI ZOO: Win 10, E](#cincinatti-zoo)
 * [BALDI'S BASICS: WinServer 2022, SH](#baldis-basics)
 * [ALPHABET SOUP: Win 10, H-SH](#alphabet-soup)
+* [APERTURE SCIENCE: Win 10, H-SH](#aperture-science-windows)
 
 ---
 
@@ -168,3 +169,42 @@
 - MD5 Checksum: `ec82c40b7036b0802e0556b3977f2596`
 - Additional Info:
   - Original Website: [https://cybervoid.me/projects/](https://cybervoid.me/projects/)
+
+---
+
+### APERTURE SCIENCE WINDOWS
+- Name: APERTURE SCIENCE
+- OS: WINDOWS 10
+- Author: infernushawk
+- Difficulty: Super Hard ?
+- Google Downloads: (Preferred) 
+  - Part 1: [https://drive.google.com/file/d/1mN8yucgD31tVIJgWRkfYyRvegLsFHLS2/view?usp=sharing](https://drive.google.com/file/d/1mN8yucgD31tVIJgWRkfYyRvegLsFHLS2/view?usp=sharing)
+  - Part 2: [https://drive.google.com/file/d/1Gp22ccrHR680o9Gdi52SvZEliBRpm0G8/view?usp=sharing](https://drive.google.com/file/d/1Gp22ccrHR680o9Gdi52SvZEliBRpm0G8/view?usp=sharing)
+  - Part 3: [https://drive.google.com/file/d/1mo-r28xlR7aN4TUlEJGuHAkHss8W5lt1/view?usp=sharing](https://drive.google.com/file/d/1mo-r28xlR7aN4TUlEJGuHAkHss8W5lt1/view?usp=sharing)
+- Additional Downloads: 
+  - Part 1: [https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.001](https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.001)
+  - Part 2: [https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.002](https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.002)
+  - Part 3: [https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.003](https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.003)
+- MD5 Checksum: 
+  - Part 1: `3e4088f168a243778ca47cc3969c7f4f`
+  - Part 2: `2f2271fea0c355cbe6b1aaca127c273e`
+  - Part 3: `d56ada603c0b273b6feccc7218915c76`
+- Additional Info:
+  - Original Website: [https://discord.com/channels/301768361136750592/414537868766347265/1153440187091791972](https://discord.com/channels/301768361136750592/414537868766347265/1153440187091791972)
+  - Answer Key: [https://drive.google.com/file/d/11yk-ylOE7zancN6HCudMC8zP1zb9hCBc/view?usp=share_link](https://drive.google.com/file/d/11yk-ylOE7zancN6HCudMC8zP1zb9hCBc/view?usp=share_link)
+  - More: 
+    - Q: Is there a live scoreboard?
+    - A: Unfortunately, there is not a live scoreboard. I couldn't find the time to set one up on top of school rigor.
+    - Q: Why is auto-login disabled for Windows and enabled for Ubuntu?
+    - A: Auto-login—as convenient as it is—is considered a vulnerability in my images, even if CyberPatriot conventions dictate auto-login as necessary for the user experience.
+    - Q: What are the login credentials for both images? 
+    - A: The default user password is ratman for both images.
+  Anything resembling Doug Rattmann or ratman is the default user account
+    - Q: What is the difficulty of the images?
+    In my opinion, the difficulty is between state and semifinals. People might feel differently depending on their experience level
+    - Q: What virtual machine platform/software was this made for?
+  These images were made for VMWare Workstation Player/Pro version 17 or higher. Please make sure that you have at least version 17 before opening the images.
+    - Q: How large are the VMs?
+    - A: Ubuntu is ~30 GiB and Windows is ~38 GiB
+  Both disks were defragmented prior to release to ensure the an optimized user download/launch experience.
+  Since the disks are defragmented the images might take abnormally long to launch the first time, but every time after that should be relatively quick. If not, check your RAM and CPU allocation
