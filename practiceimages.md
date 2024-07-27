@@ -19,6 +19,8 @@
 * [ALPHABET SOUP: Win 10, H-SH](#alphabet-soup)
 * [APERTURE SCIENCE: Win 10, H-SH](#aperture-science-windows)
 * [PRINCETON-PLAINSBORO TEACHING HOSPITAL: Win 11, H-SH](#princeton-plainsboro-teaching-hospital)
+* [KALI'S WINDOWS IMAGE: Win 10, M](#kalis-windows-image)
+* [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 
 ---
 
@@ -224,3 +226,19 @@
   - Original Website: [https://x1nni.xyz/ppth.html]https://x1nni.xyz/ppth.html)
   - Answer Key: [https://docs.google.com/document/u/1/d/1TbgaE_jOj1PaEsjuev1fS_cVyovI7mVHE-7B-AwKtvc/edit](https://docs.google.com/document/u/1/d/1TbgaE_jOj1PaEsjuev1fS_cVyovI7mVHE-7B-AwKtvc/edit)
   - Walkthough: [https://www.youtube.com/watch?v=VuE2TXE1rEo](https://www.youtube.com/watch?v=VuE2TXE1rEo)
+
+
+---
+
+### KING ARTHUR'S CASTLE
+- Name: KING ARTHUR'S CASTLE
+- OS: Windows Server 2019
+- Author: Altoid0
+- Difficulty: Super Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link](https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KAC/Server2019_KAC.7z](https://scoreboard.titanturtles.xyz/files/KAC/Server2019_KAC.7z)
+- MD5 Checksum: `7c8cb8281477b156e33f9677f3ded766`
+- Additional Info:
+  - Walkthrough: 
+    - Video: [https://www.youtube.com/watch?v=6DjIExkbVoE](https://www.youtube.com/watch?v=6DjIExkbVoE)
+    - Docs: [https://docs.google.com/presentation/d/1zO4cRpTY2b6SQK55EVPe7XSQKe2YqA8pwq7TOeYOvxg/edit?usp=sharing](https://docs.google.com/presentation/d/1zO4cRpTY2b6SQK55EVPe7XSQKe2YqA8pwq7TOeYOvxg/edit?usp=sharing)
