@@ -8,31 +8,42 @@
 
 ---
 
-* Name: FBI
-* OS: Windows 10
-* Author: John (discord: notstewart) 
-* Difficulty: ???
-* Google Downloads: (Preferred) [https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view](https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view)
-* Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z)
-* MD5 Checksum: `edfc2e557b620f6fca585ab5895b7698`
-* Additional Info: 
+<details>
+ <summary>FBI: Windows 10</summary>
+ 
+  * Name: FBI
+  * OS: Windows 10
+  * Author: John (discord: notstewart) 
+  * Difficulty: ???
+  * Google Downloads: (Preferred) [https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view](https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view)
+  * Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z)
+  * MD5 Checksum: `edfc2e557b620f6fca585ab5895b7698`
+  * Additional Info:
 
+</details>
+ 
 ---
 
-* Name: BEYOND JOURNEY'S END
-* OS: Windows Server 2022
-* Author: HIOOOO1234 (discord) 
-* Difficulty: Super Hard
-* Google Downloads: (Preferred) [https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing](https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing)
-* Additional Downloads:
-  * [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z)
-  * [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat)
-* MD5 Checksum:
-  * Beyond Journey's End.7z: `caf3646a8324bdb57a993b86550758a2`  
-  * scoring.dat: `08e03ff4cd73cf98c2d5cdca9e1d7a2e`  
-* Additional Info:
-  * Login information: Frieren:Password1!
-  * Download the `scoring.dat` to replace the original scoring file in the image.
+<details>
+ <summary>BEYOND JOURNEY'S END: Windows Server 2022</summary>
+ 
+  * Name: BEYOND JOURNEY'S END
+  * OS: Windows Server 2022
+  * Author: HIOOOO1234 (discord) 
+  * Difficulty: Super Hard
+  * Google Downloads: (Preferred) [https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing](https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing)
+  * Additional Downloads:
+    * [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z)
+    * [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat)
+  * MD5 Checksum:
+    * Beyond Journey's End.7z: `caf3646a8324bdb57a993b86550758a2`  
+    * scoring.dat: `08e03ff4cd73cf98c2d5cdca9e1d7a2e`  
+  * Additional Info:
+    * Login information: Frieren:Password1!
+    * Download the `scoring.dat` to replace the original scoring file in the image.
+ 
+</details>
+
  
 ---
 
