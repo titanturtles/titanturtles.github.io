@@ -30,6 +30,7 @@
 ## Linux Images
 
 * [SPACE FORCE SERVER: Deb 8, M](#space-force-server)
+* [NARNIA MINECRAFT SERVER: Ubu 22, E](#narnia-minecraft-server)
 
 ---
 
@@ -286,3 +287,17 @@
 - Additional Info:
   - Original Website: https://magistrate.shiversoft.net/
   - Answer Key: https://drive.google.com/file/d/1tcSyEDYHZp_Qi9FkVif5KJWUR8KafykJ/view
+
+
+---
+
+### NARNIA MINECRAFT SERVER
+- Name: NARNIA MINECRAFT SERVER (SYS HARDENING 6)
+- OS: UBUNTU 22
+- Author: Eth007
+- Difficulty: Easy
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/12x8aYXIpGwO47MIvUCB6G3bqV-8npVUx/view](https://drive.google.com/file/d/12x8aYXIpGwO47MIvUCB6G3bqV-8npVUx/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20Server.zip](https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20Server.zip)
+- MD5 Checksum: `ce79cf10ceda1957aadff3f9c1a1642b`
+- Additional Info:
+  - Original Website: https://eth007.me/blog/cypat/
