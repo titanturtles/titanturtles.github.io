@@ -35,6 +35,10 @@
 * [FELLOWSHIP OF THE RING: Fed 38, H](#fellowship-of-the-ring)
 * [MR. ROBOT: Fed 37, H](#mr-robot)
 * [KALI'S UBUNTU IMAGE: Ubu 18, M](#kalis-ubuntu-image)
+* [HOUSE ON THE BORDERLAND: Ubu 20, M](#house-on-the-borderland)
+* [APERTURE SCIENCE UBUNTU: Ubu 22, M](#aperture-science-ubuntu)
+* [SEINFELD: Ubu ?, E](#seinfeld)
+* [NEVERMORE: Ubu 22, H](#nevermore)
 
 ---
 
@@ -237,7 +241,7 @@
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/PPTH/x1nni_ppth_h_win11.7z](https://scoreboard.titanturtles.xyz/files/PPTH/x1nni_ppth_h_win11.7z)
 - MD5 Checksum: `dc9d1d3c84cd08e29f1928f2ef9c7446`
 - Additional Info:
-  - Original Website: [https://x1nni.xyz/ppth.html]https://x1nni.xyz/ppth.html)
+  - Original Website: [https://x1nni.xyz/ppth.html](https://x1nni.xyz/ppth.html)
   - Answer Key: [https://docs.google.com/document/u/1/d/1TbgaE_jOj1PaEsjuev1fS_cVyovI7mVHE-7B-AwKtvc/edit](https://docs.google.com/document/u/1/d/1TbgaE_jOj1PaEsjuev1fS_cVyovI7mVHE-7B-AwKtvc/edit)
   - Walkthough: [https://www.youtube.com/watch?v=VuE2TXE1rEo](https://www.youtube.com/watch?v=VuE2TXE1rEo)
 
@@ -248,7 +252,7 @@
 - OS: WINDOWS 10
 - Author: KaliPatriot
 - Difficulty: Medium
-- Google Downloads: (Preferred) [https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing]https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing)
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing](https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KalisWindows/Windows%2010%20Practice.zip](https://scoreboard.titanturtles.xyz/files/KalisWindows/Windows%2010%20Practice.zip)
 - MD5 Checksum: `b6766f74112b8c63f201daf400ff4e0d`
 - Additional Info:
@@ -264,6 +268,8 @@
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KAC/Server2019_KAC.7z](https://scoreboard.titanturtles.xyz/files/KAC/Server2019_KAC.7z)
 - MD5 Checksum: `7c8cb8281477b156e33f9677f3ded766`
 - Additional Info:
+  - Critical Services: Active Directory and DNS
+  - Main User Password: `CyberPatriot1!`
   - Walkthrough: 
     - Video: [https://www.youtube.com/watch?v=6DjIExkbVoE](https://www.youtube.com/watch?v=6DjIExkbVoE)
     - Docs: [https://docs.google.com/presentation/d/1zO4cRpTY2b6SQK55EVPe7XSQKe2YqA8pwq7TOeYOvxg/edit?usp=sharing](https://docs.google.com/presentation/d/1zO4cRpTY2b6SQK55EVPe7XSQKe2YqA8pwq7TOeYOvxg/edit?usp=sharing)
@@ -352,7 +358,7 @@
 - Author: tirefire
 - Difficulty: Hard
 - Google Downloads: (Preferred) [https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx](https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MrRobot/mr.robot.sh.zip](ttps://scoreboard.titanturtles.xyz/files/MrRobot/mr.robot.sh.zip)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MrRobot/mr.robot.sh.zip](https://scoreboard.titanturtles.xyz/files/MrRobot/mr.robot.sh.zip)
 - MD5 Checksum: `5ea0ff7823ff8bd8578a987d80a99436`
 - Additional Info:
   - Original Website: https://tirefire.org/posts/fedora-practice/
@@ -369,3 +375,55 @@
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KalisUbuntu/Ubuntu%2018%20Pre-semifinals%20CPXV%20Practice.zip](https://scoreboard.titanturtles.xyz/files/KalisUbuntu/Ubuntu%2018%20Pre-semifinals%20CPXV%20Practice.zip)
 - MD5 Checksum: `edf4e95e9e7174874912b2f89e61bb29`
 - Additional Info:
+
+---
+
+### HOUSE ON THE BORDERLAND
+- Name: HOUSE ON THE BORDERLAND
+- OS: UBUNTU 20
+- Author: poarthanarseus
+- Difficulty: Medium
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1MaEmGrTFMZIcG2S0DPCLDfWffThndkGk/view?usp=sharing](https://drive.google.com/file/d/1MaEmGrTFMZIcG2S0DPCLDfWffThndkGk/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/HouseOnTheBorderland/houseOnTheBorderland.zip](https://scoreboard.titanturtles.xyz/files/HouseOnTheBorderland/houseOnTheBorderland.zip)
+- MD5 Checksum: `59f907e8e40e6c14ff2dab6984468c6c`
+- Additional Info:
+
+---
+
+### APERTURE SCIENCE UBUNTU
+- Name: APERTURE SCIENCE UBUNTU
+- OS: UBUNTU 22
+- Author: InfernusHawk
+- Difficulty: Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1_ZDn7K4Xy6pQ5YXWroqBkZoIdYfSivkT/view](https://drive.google.com/file/d/1_ZDn7K4Xy6pQ5YXWroqBkZoIdYfSivkT/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/ApertureScienceUbuntu/Aperture%20Science%20Ubuntu.zip](https://scoreboard.titanturtles.xyz/files/ApertureScienceUbuntu/Aperture%20Science%20Ubuntu.zip)
+- MD5 Checksum: `a276df5cde736170eb9c4a63e81e9886`
+- Additional Info:
+  - Original Website: [https://discord.com/channels/301768361136750592/414537868766347265/1153440187091791972](https://discord.com/channels/301768361136750592/414537868766347265/1153440187091791972)
+  - Answer Key: [https://drive.google.com/file/d/1FZvMhCCAt78CQvEpawQVtCBdh4umK-0f/view?usp=sharing](https://drive.google.com/file/d/1FZvMhCCAt78CQvEpawQVtCBdh4umK-0f/view?usp=sharing)
+  
+---
+
+### SEINFELD
+- Name: SEINFELD
+- OS: UBUNTU ?
+- Author: beyman ?
+- Difficulty: Easy
+- Mega Downloads: (Preferred) [https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI](https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Seinfeld/Seifeld%20ubuntu%20image%20by%20Sylvain%20Jones.zip](https://scoreboard.titanturtles.xyz/files/Seinfeld/Seifeld%20ubuntu%20image%20by%20Sylvain%20Jones.zip)
+- MD5 Checksum: `a276df5cde736170eb9c4a63e81e9886`
+- Additional Info:
+  
+---
+
+### NEVERMORE
+- Name: NEVERMORE
+- OS: UBUNTU 22
+- Author: hypernova
+- Difficulty: Hard
+- Mega Downloads: (Preferred) [https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view](https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Nevermore/nevermore.zip](https://scoreboard.titanturtles.xyz/files/Nevermore/nevermore.zip)
+- MD5 Checksum: `a3cb68459992e7c85d626ba74ace300d`
+- Additional Info:
+  - Credentials: waddams:password
+  - Answer Key: [https://scoreboard.titanturtles.xyz/files/Nevermore/Nevermore_Answers.pdf](https://scoreboard.titanturtles.xyz/files/Nevermore/Nevermore_Answers.pdf)
