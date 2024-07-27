@@ -15,7 +15,7 @@
 * [AMONG THE REINDEER: Win 10, M](#among-the-reindeer)
 * [MUSHROOM KINGDOM: WinServer 2019, M](#mushroom-kingdom)
 * [SANTAS WORKSHOP: Win 10, E](#santas-workshop)
-* [SYSTEM HARDENING 9: WinServer 2022, M](#system-hardening-9)
+* [RETURN OF THE KING: WinServer 2022, M](#return-of-the-king)
 * [CINCINATTI ZOO: Win 10, E](#cincinatti-zoo)
 * [BALDI'S BASICS: WinServer 2022, SH](#baldis-basics)
 * [ALPHABET SOUP: Win 10, H-SH](#alphabet-soup)
@@ -135,8 +135,8 @@
  
 ---
 
-### SYSTEM HARDENING 9
-  - Name: SYSTEM HARDENING 9
+### RETURN OF THE KING
+  - Name: RETURN OF THE KING (SYSTEM HARDENING 9)
   - OS: WINDOWS SERVER 2022
   - Author: firepony57
   - Difficulty: Medium
