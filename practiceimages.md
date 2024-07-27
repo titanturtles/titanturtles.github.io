@@ -11,21 +11,22 @@
 <details>
  <summary>FBI: Windows 10</summary>
  
-  - Name: FBI
-  - OS: Windows 10
-  - Author: John (discord: notstewart) 
-  - Difficulty: ???
-  - Google Downloads: (Preferred) [https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view](https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view)
-  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z)
-  - MD5 Checksum: `edfc2e557b620f6fca585ab5895b7698`
-  - Additional Info:
+  - Name: FBI<br>
+  - OS: Windows 10<br>
+  - Author: John (discord: notstewart) <br>
+  - Difficulty: ???<br>
+  - Google Downloads: (Preferred) [https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view](https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view)<br>
+  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z)<br>
+  - MD5 Checksum: `edfc2e557b620f6fca585ab5895b7698`<br>
+  - Additional Info:<br>
 
 </details>
  
 ---
 
 <details>
- <summary>BEYOND JOURNEY'S END: Windows Server 2022, Super Hard</summary>
+
+  <summary>BEYOND JOURNEY'S END: Windows Server 2022, Super Hard</summary>
  
   - Name: BEYOND JOURNEY'S END
   - OS: Windows Server 2022
