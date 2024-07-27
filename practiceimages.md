@@ -8,10 +8,15 @@
 
 ---
 
-* [FBI: Windows 10](#fbi)
-* [BEYOND JOURNEY'S END: Windows Server 2022, Super Hard](#beyond-journeys-end)
-* [AMONG THE REINDEER: Windows 10, Intermediate](#among-the-reindeer)
-* [MUSHROOM KINGDOM: Windows Server 2019, Intermediate](#mushroom-kingdom)
+* [FBI: Win 10](#fbi)
+* [BEYOND JOURNEY'S END: WinServer 2022, SH](#beyond-journeys-end)
+* [AMONG THE REINDEER: Win 10, M](#among-the-reindeer)
+* [MUSHROOM KINGDOM: WinServer 2019, M](#mushroom-kingdom)
+* [SANTAS WORKSHOP: Win 10, E](#santas-workshop)
+* [SYSTEM HARDENING 9: WinServer 2022, M](#system-hardening-9)
+* [CINCINATTI ZOO: Win 10, E](#cincinatti-zoo)
+* [BALDI'S BASICS: WinServer 2022, SH](#baldis-basics)
+* [ALPHABET SOUP: Win 10, H-SH](#alphabet-soup)
 
 ---
 
@@ -25,7 +30,6 @@
   - MD5 Checksum: `edfc2e557b620f6fca585ab5895b7698`
   - Additional Info:
 
- 
 ---
 
 ### BEYOND JOURNEY'S END
@@ -66,59 +70,62 @@
 ---
 
 ### MUSHROOM KINGDOM
-- Name: MUSHROOM KINGDOM
-- OS: WINDOWS SERVER 2019
-- Author:
-  - RainbowDynamix	Design Lead, Deployment, Theme
-  - shiversoftdev	Engine Lead, Theme Lead, Deployment
-  - Matthew	Minor design
-  - KaliPatriot	Beta Tester
-  - TheWindowsWeeb	Beta Tester
-  - Lighthouse64	Beta Tester
-  - Augustus	Beta Tester
-  - TheiMacNoob	Beta Tester
-- Difficulty: Intermediate
-- Google Downloads: (Preferred) [https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view](https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z](https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z)
-- MD5 Checksum: `54bd31dc5d01dea625f84cde68dae335`
-- Additional Info:
-  - Original Website: https://magistrate.shiversoft.net/
-  - Extraction Password: MushroomMan64
-  - Primary Login: Mario:S3cure%The%Shr00ms
-  - Walkthrough: https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view
+  - Name: MUSHROOM KINGDOM
+  - OS: WINDOWS SERVER 2019
+  - Author:
+    - RainbowDynamix	Design Lead, Deployment, Theme
+    - shiversoftdev	Engine Lead, Theme Lead, Deployment
+    - Matthew	Minor design
+    - KaliPatriot	Beta Tester
+    - TheWindowsWeeb	Beta Tester
+    - Lighthouse64	Beta Tester
+    - Augustus	Beta Tester
+    - TheiMacNoob	Beta Tester
+  - Difficulty: Intermediate
+  - Google Downloads: (Preferred) [https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view](https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view)
+  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z](https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z)
+  - MD5 Checksum: `54bd31dc5d01dea625f84cde68dae335`
+  - Additional Info:
+    - Original Website: https://magistrate.shiversoft.net/
+    - Extraction Password: MushroomMan64
+    - Primary Login: Mario:S3cure%The%Shr00ms
+    - Walkthrough: https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view
  
 ---
 
-- Name: SANTAS WORKSHOP
-- OS: WINDOWS 10
-- Author:
-  - RainbowDynamix	Design, Deployment Lead, Theme
-  - TheiMacNoob	Design Lead, Engine, Theme
-  - shiversoftdev	Engine Lead, Theme, Deployment
-  - Matthew	Tutorial Creator, Beta Testing
-- Difficulty: Beginner
-- Google Downloads: (Preferred) [https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view](https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SantasWorkshop/Santa%27s%20Workshop.zip](https://scoreboard.titanturtles.xyz/files/SantasWorkshop/Santa%27s%20Workshop.zip)
-- MD5 Checksum: `ad705c062fc7cda4ac496a72c5a9e4b2`
-- Additional Info:
-  - Original Website: https://magistrate.shiversoft.net/
-  - Primary User: ElfShelf
-  - Primary Password: $@nt4R0cks_42069
-  - Answer Key: https://drive.google.com/file/d/1BiigC1DC6eIlGcItkMLFGCR7_CUqY-YR/view
+### SANTAS WORKSHOP
+  - Name: SANTAS WORKSHOP
+  - OS: WINDOWS 10
+  - Author:
+    - RainbowDynamix	Design, Deployment Lead, Theme
+    - TheiMacNoob	Design Lead, Engine, Theme
+    - shiversoftdev	Engine Lead, Theme, Deployment
+    - Matthew	Tutorial Creator, Beta Testing
+  - Difficulty: Beginner
+  - Google Downloads: (Preferred) [https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view](https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view)
+  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SantasWorkshop/Santa%27s%20Workshop.zip](https://scoreboard.titanturtles.xyz/files/SantasWorkshop/Santa%27s%20Workshop.zip)
+  - MD5 Checksum: `ad705c062fc7cda4ac496a72c5a9e4b2`
+  - Additional Info:
+    - Original Website: https://magistrate.shiversoft.net/
+    - Primary User: ElfShelf
+    - Primary Password: $@nt4R0cks_42069
+    - Answer Key: https://drive.google.com/file/d/1BiigC1DC6eIlGcItkMLFGCR7_CUqY-YR/view
  
 ---
 
-- Name: SYSTEM HARDENING 9
-- OS: WINDOWS SERVER 2022
-- Author: firepony57
-- Difficulty: Medium
-- Google Downloads: (Preferred) [https://drive.google.com/file/d/1gYM366G8HG_WSEGIR90widby_XoVkDxK/view](https://drive.google.com/file/d/1gYM366G8HG_WSEGIR90widby_XoVkDxK/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip)
-- MD5 Checksum: `db32b84215688f8d08b57a6ce4c0eea2`
-- Additional Info:
+### SYSTEM HARDENING 9
+  - Name: SYSTEM HARDENING 9
+  - OS: WINDOWS SERVER 2022
+  - Author: firepony57
+  - Difficulty: Medium
+  - Google Downloads: (Preferred) [https://drive.google.com/file/d/1gYM366G8HG_WSEGIR90widby_XoVkDxK/view](https://drive.google.com/file/d/1gYM366G8HG_WSEGIR90widby_XoVkDxK/view)
+  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip)
+  - MD5 Checksum: `db32b84215688f8d08b57a6ce4c0eea2`
+  - Additional Info:
 
 ---
 
+### CINCINATTI ZOO
 - Name: CINCINATTI ZOO
 - OS: WINDOWS 10
 - Author: Donkey (discord: d0nkeyman)
@@ -134,6 +141,7 @@
 
 ---
 
+### BALDI'S BASICS
 - Name: BALDIS BASICS
 - OS: WINDOWS SERVER 2022
 - Author: Donkey (discord: d0nkeyman)
@@ -148,3 +156,15 @@
   - Password: study
   - Answer Key: https://cybervoid.me/posts/baldis-basics-answer-key/
 
+---
+
+### ALPHABET SOUP
+- Name: ALPHABET SOUP
+- OS: WINDOWS 10
+- Author: Donkey (discord: d0nkeyman)
+- Difficulty: Hard - Super Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view](https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/AlphabetSoup/Alphabet%20Soup.7z](https://scoreboard.titanturtles.xyz/files/AlphabetSoup/Alphabet%20Soup.7z)
+- MD5 Checksum: `ec82c40b7036b0802e0556b3977f2596`
+- Additional Info:
+  - Original Website: [https://cybervoid.me/projects/](https://cybervoid.me/projects/)
