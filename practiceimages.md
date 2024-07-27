@@ -8,48 +8,43 @@
 
 ---
 
-<details>
- <summary>FBI: Windows 10</summary>
- 
-  - Name: FBI<br>
-  - OS: Windows 10<br>
-  - Author: John (discord: notstewart) <br>
-  - Difficulty: ???<br>
-  - Google Downloads: (Preferred) <a href="https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view">https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view</a><br>
-  - Additional Downloads: <a href="https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z">https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z</a><br>
-  - MD5 Checksum: <code class="language-plaintext highlighter-rouge">edfc2e557b620f6fca585ab5895b7698</code><br>
-  - Additional Info:<br>
+* [FBI: Windows 10](#fbi)
+* [BEYOND JOURNEY'S END: Windows Server 2022, Super Hard](#beyond-journeys-end)
+* [AMONG THE REINDEER: Windows 10, Intermediate](#among-the-reindeer)
+---
 
-</details>
+### FBI
+  - Name: FBI
+  - OS: Windows 10
+  - Author: John (discord: notstewart) 
+  - Difficulty: ???
+  - Google Downloads: (Preferred) [https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view](https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view)
+  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z)
+  - MD5 Checksum: `edfc2e557b620f6fca585ab5895b7698`
+  - Additional Info:
+
  
 ---
 
-<details>
-
-  <summary>BEYOND JOURNEY'S END: Windows Server 2022, Super Hard</summary>
- 
-  - Name: BEYOND JOURNEY'S END<br>
-  - OS: Windows Server 2022<br>
-  - Author: HIOOOO1234 (discord)<br> 
-  - Difficulty: Super Hard<br>
-  - Google Downloads: (Preferred) <a href="https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing">https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing</a><br>
-  - Additional Downloads:<br>
-    - <a href="https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z">https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z</a><br>
-    - <a href="https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat">https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat</a><br>
-  - MD5 Checksum:<br>
-    - Beyond Journey's End.7z: `caf3646a8324bdb57a993b86550758a2`  <br>
-    - scoring.dat: `08e03ff4cd73cf98c2d5cdca9e1d7a2e`  <br>
-  - Additional Info:<br>
-    - Login information: Frieren:Password1!<br>
-    - Download the `scoring.dat` to replace the original scoring file in the image.<br>
- 
-</details>
+### BEYOND JOURNEY'S END
+  - Name: BEYOND JOURNEY'S END
+  - OS: Windows Server 2022
+  - Author: HIOOOO1234 (discord) 
+  - Difficulty: Super Hard
+  - Google Downloads: (Preferred) [https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing](https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing)
+  - Additional Downloads:
+    - [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z)
+    - [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat)
+  - MD5 Checksum:
+    - Beyond Journey's End.7z: `caf3646a8324bdb57a993b86550758a2`  
+    - scoring.dat: `08e03ff4cd73cf98c2d5cdca9e1d7a2e`  
+  - Additional Info:
+    - Login information: Frieren:Password1!
+    - Download the `scoring.dat` to replace the original scoring file in the image.
 
 ---
 
-<details>
-  <summary>AMONG THE REINDEER: Windows 10, Intermediate</summary>
-
+### AMONG THE REINDEER
   - Name: AMONG THE REINDEER
   - OS: Windows 10
   - Author:
@@ -65,9 +60,6 @@
   - Additional Info:
     - Original Website: https://magistrate.shiversoft.net/
     - Primary Login - Rudolph:R3indeerSl@ys
-
-</details>
-
  
 ---
 
