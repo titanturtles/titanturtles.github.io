@@ -31,6 +31,10 @@
 
 * [SPACE FORCE SERVER: Deb 8, M](#space-force-server)
 * [NARNIA MINECRAFT SERVER: Ubu 22, E](#narnia-minecraft-server)
+* [ROOREAPER STRIKES BACK: Ubu 22, E](#rooreaper-strikes-back)
+* [FELLOWSHIP OF THE RING: Fed 38, H](#fellowship-of-the-ring)
+* [MR. ROBOT: Fed 37, H](#mr-robot)
+* [KALI'S UBUNTU IMAGE: Ubu 18, M](#kalis-ubuntu-image)
 
 ---
 
@@ -239,6 +243,18 @@
 
 ---
 
+### KALI'S WINDOWS IMAGE
+- Name: KALI'S WINDOWS IMAGE
+- OS: WINDOWS 10
+- Author: KaliPatriot
+- Difficulty: Medium
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing]https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KalisWindows/Windows%2010%20Practice.zip](https://scoreboard.titanturtles.xyz/files/KalisWindows/Windows%2010%20Practice.zip)
+- MD5 Checksum: `b6766f74112b8c63f201daf400ff4e0d`
+- Additional Info:
+
+---
+
 ### KING ARTHUR'S CASTLE
 - Name: KING ARTHUR'S CASTLE
 - OS: WINDOWS SERVER 2019
@@ -301,3 +317,55 @@
 - MD5 Checksum: `ce79cf10ceda1957aadff3f9c1a1642b`
 - Additional Info:
   - Original Website: https://eth007.me/blog/cypat/
+
+---
+
+### ROOREAPER STRIKES BACK
+- Name: ROOREAPER STRIKES BACK (SYS HARDENING 7)
+- OS: UBUNTU 22
+- Author: Eth007
+- Difficulty: Easy
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1gyshPKjhQ2o907LQpwB_gq3BeqwmN2ko/view](https://drive.google.com/file/d/1gyshPKjhQ2o907LQpwB_gq3BeqwmN2ko/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Rooreaper/System%20Hardening%207.zip](https://scoreboard.titanturtles.xyz/files/Rooreaper/System%20Hardening%207.zip)
+- MD5 Checksum: `cf01b22ef0999ef975320cc39b7001f4`
+- Additional Info:
+  - Original Website: https://eth007.me/blog/cypat/
+
+---
+
+### FELLOWSHIP OF THE RING
+- Name: FELLOWSHIP OF THE RING (SYS HARDENING 8)
+- OS: FEDORA 38
+- Author: Eth007
+- Difficulty: Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1N6fpGL-ZlT5C8nvf4Y68nSKz65CqyfBH/view](https://drive.google.com/file/d/1N6fpGL-ZlT5C8nvf4Y68nSKz65CqyfBH/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip](https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip)
+- MD5 Checksum: `9b002dcd1b895b8f2a0ce8e7db4d2ce6`
+- Additional Info:
+  - Original Website: https://eth007.me/blog/cypat/
+
+---
+
+### MR. ROBOT 
+- Name: MR. ROBOT 
+- OS: FEDORA 37
+- Author: tirefire
+- Difficulty: Hard
+- Google Downloads: (Preferred) [https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx](https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MrRobot/mr.robot.sh.zip](ttps://scoreboard.titanturtles.xyz/files/MrRobot/mr.robot.sh.zip)
+- MD5 Checksum: `5ea0ff7823ff8bd8578a987d80a99436`
+- Additional Info:
+  - Original Website: https://tirefire.org/posts/fedora-practice/
+  - Writeup: https://github.com/Poarthan/mr.robot.sh-writeup
+
+---
+
+### KALI'S UBUNTU IMAGE
+- Name: KALI'S WINDOWS IMAGE
+- OS: UBUNTU 18
+- Author: KaliPatriot
+- Difficulty: Medium
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view?usp=sharing](https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KalisUbuntu/Ubuntu%2018%20Pre-semifinals%20CPXV%20Practice.zip](https://scoreboard.titanturtles.xyz/files/KalisUbuntu/Ubuntu%2018%20Pre-semifinals%20CPXV%20Practice.zip)
+- MD5 Checksum: `edf4e95e9e7174874912b2f89e61bb29`
+- Additional Info:
