@@ -1,4 +1,5 @@
 ---
+title: Westview TitanTurtles Cybersecurity Club
 layout: default
 ---
 
