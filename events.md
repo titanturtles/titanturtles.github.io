@@ -1,3 +1,8 @@
+---
+title: Westview TitanTurtles Cybersecurity Club
+layout: default
+---
+
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | **Events** | [Legend](./legend.html)
 ## Upcoming Events
 
