@@ -1,3 +1,8 @@
+---
+title: Westview TitanTurtles Cybersecurity Club
+layout: default
+---
+
 # FAQ
 
 Question: When should we start?
