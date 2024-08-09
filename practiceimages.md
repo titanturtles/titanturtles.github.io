@@ -44,6 +44,7 @@ layout: default
 * [APERTURE SCIENCE UBUNTU: Ubu 22, M](#aperture-science-ubuntu)
 * [SEINFELD: Ubu ?, E](#seinfeld)
 * [NEVERMORE: Ubu 22, H](#nevermore)
+* [SYSTEM HARDENING 10: Ubu 22, H](#system-hardening-10)
 
 ---
 
@@ -432,3 +433,15 @@ layout: default
 - Additional Info:
   - Credentials: waddams:password
   - Answer Key: [https://scoreboard.titanturtles.xyz/files/Nevermore/Nevermore_Answers.pdf](https://scoreboard.titanturtles.xyz/files/Nevermore/Nevermore_Answers.pdf)
+ 
+---
+
+### SYSTEM HARDENING 10
+- Name: SYSTEM HARDENING 10
+- OS: UBUNTU 22
+- Author: Eth007
+- Difficulty: Hard
+- Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/system-hardening-10.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening10/system-hardening-10.zip)
+- MD5 Checksum: `2d70a3b32e2898614bcc773b43adc7f4`
+- Additional Info:
+  - Readme: 
