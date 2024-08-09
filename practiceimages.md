@@ -439,9 +439,9 @@ layout: default
 ### SYSTEM HARDENING 10
 - Name: SYSTEM HARDENING 10
 - OS: UBUNTU 22
-- Author: Eth007
+- Author: FIREPONY57 + Eth007
 - Difficulty: Hard
 - Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/system-hardening-10.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening10/system-hardening-10.zip)
 - MD5 Checksum: `2d70a3b32e2898614bcc773b43adc7f4`
 - Additional Info:
-  - Readme: 
+  - Readme: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md](https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md)
