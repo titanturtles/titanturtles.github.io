@@ -23,6 +23,8 @@ layout: default
   * 好奇心：愿意到处尝试，不怕出错。
   * 有毅力：有时候解决一个问题需要很多次的思考和尝试。能耐心坚毅的不断尝试解决问题。
   * 上中学：最好是初中以上的学生。如果足够优秀，5，6年级的小学生也可以。
+* 大纲：
+ * 
 
 ### 硬件要求
 
@@ -36,8 +38,11 @@ layout: default
 
 ### 训练营下载
 
-* Ubuntu 24 Demo 演示虚拟机：[https://scoreboard.titanturtles.xyz/files/CampChina/Ubuntu24_x64_Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Ubuntu24_x64_Demo.zip)
-* Windows 10 Demo 演示虚拟机：[https://scoreboard.titanturtles.xyz/files/CampChina/Windows10_x64_Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Windows10_x64_Demo.zip)
+* Ubuntu24演示机(3.6G)：[https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip)
+* Windows10演示机：[https://scoreboard.titanturtles.xyz/files/CampChina/Win10_x64_Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Win10_x64_Demo.zip)Ubuntu24_x64_Demo.zip
+* Ubuntu24模考机：待
+* Windows10模考机：待
+
 
 
  
