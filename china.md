@@ -40,14 +40,81 @@ layout: default
 * 7zip压缩工具：[https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe](https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe)
 * VMWare Workstation Pro 17.5.2虚拟机工作站：[https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe](https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe)
 
-### 训练营下载
+### 训练营资源
 
-* Ubuntu24演示机(3.6G)：[https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip)
-* Windows10演示机：[https://scoreboard.titanturtles.xyz/files/CampChina/Win10_x64_Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Win10_x64_Demo.zip)
-* Ubuntu24模考机：待
-* Windows10模考机：待
+* Ubuntu24演示虚拟机(3.6G)：[https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip)
+* Windows10演示虚拟机：[https://scoreboard.titanturtles.xyz/files/CampChina/Win10_x64_Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Win10_x64_Demo.zip)
+* Ubuntu24模考虚拟机：待
+* Windows10模考虚拟机：待
 
+---
 
+## 高级营 1 基础 (Advanced Camp 1)
 
+* 时间：为期10天，每天3小时
+* 学生要求：
+  * 初级营毕业或同等水平
+* 大纲（待定）：
+  * 第1-2天：高级Windows安全
+  * 第3-4天：高级Ubuntu安全
+  * 第5-6天：Cisco网络介绍及实践
+  * 第7-8天：CTF介绍；OWASP Top 10介绍
+  * 第9-10天：模拟竞赛及回顾
+### 训练营资源
 
- 
+* Windows演示虚拟机
+* Ubuntu演示虚拟机
+* Windows模考虚拟机
+* Ubuntu模考虚拟机
+* Cisco Packet Tracer练习与模考
+
+---
+
+## 高级营 2 专题 (Advanced Camp 2)
+
+* 时间：不固定，基本每个专题1天或1次课，每天或每次课3小时
+* 学生要求：
+  * 高级营1毕业或同等水平
+* 专题举例（待定）：  
+  * 网络安全类别和示例
+  * C编程语言入门
+  * 二进制程序漏洞利用介绍
+  * 密码学介绍
+  * Bash脚本
+  * vi和vim
+  * SSH
+  * Windows脚本
+  * Python编程语言入门
+  * JavaScript编程语言入门
+  * Web应用
+  * Apache/Nginx/IIS
+  * Php编程语言入门
+  * SQL及MySQL入门
+  * SSL
+  * Web漏洞利用
+  * 详细的OWASP Top 10
+  * 逆向工程
+  * 数据结构
+  * 算法
+  * 服务（2次课）
+  * Wordpress
+  * VNC
+  * DNS
+  * FTP
+  * Active Directory
+  * 邮件
+  * 框架
+  * MITRE
+  * STIGs
+  * CIS基准
+  * HackTricks
+  * CyberChef
+  * 高级网络
+  * 路由协议：RIR, OSPF, BGP
+  * 防火墙
+  * SSH
+  * VPN
+  * 区块链安全
+  * AI安全
+  * 杀猪盘
+  * ...（还有很多）
