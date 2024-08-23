@@ -29,8 +29,15 @@ layout: default
 * 最低配置：Intel或AMD四核CPU（及以上）的电脑。8-16GB及以上的内存（RAM），最好是16GB，运行虚拟机占用的内存量较大。至少100GB的固态硬盘（SSD）空间。虚拟机占用硬盘空间较大。
 * 苹果电脑：如果是老一些的使用Intel CPU的，可用。如果是新的使用ARM架构的m1/m2/m3之类的芯片的，不可以。
 
-### 软件下载
+### 工具软件
 
 * 7zip压缩工具：[https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe](https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe)
 * VMWare Workstation Pro 17.5.2虚拟机工作站：[https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe](https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe)
+
+### 训练营下载
+
+* Ubuntu 24 Demo 演示虚拟机：[https://scoreboard.titanturtles.xyz/files/CampChina/Ubuntu24_x64_Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Ubuntu24_x64_Demo.zip)
+* Windows 10 Demo 演示虚拟机：[https://scoreboard.titanturtles.xyz/files/CampChina/Windows10_x64_Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Windows10_x64_Demo.zip)
+
+
  
