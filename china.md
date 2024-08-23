@@ -36,8 +36,8 @@ layout: default
 * 大纲：
   * 第1天：网络安全概述；Windows介绍
   * 第2天：Windows安全
-  * 第3天：Ubuntu介绍；Ubuntu图形界面安全
-  * 第4天：Ubuntu命令行安全
+  * 第3天：Ubuntu介绍
+  * 第4天：Ubuntu安全
   * 第5天：模拟竞赛及回顾
 
 ### 硬件要求
