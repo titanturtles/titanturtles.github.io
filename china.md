@@ -11,7 +11,7 @@ layout: default
 
 ## 初级营 (Beginner Camp)
 
-* 时间：为期5天，每天3小时。暂定北京时间8月25日-8月29日，下午2点-5点。
+* 时间：为期5天，每天3小时。暑期暂定北京时间2024年8月25日-8月29日，下午2点-5点。开学后改为每周一次，具体时间待定。
 * 网课地点：微信会议：368-0851-7928 （[https://voovmeeting.com/dm/WDnELoiKmJi0](https://voovmeeting.com/dm/WDnELoiKmJi0))
 * 学生要求：
   * 坐得住：可独立在电脑面前认真上网课，跟随老师做实际电脑上操作的练习。不开小差。
@@ -29,5 +29,8 @@ layout: default
 * 最低配置：Intel或AMD四核CPU（及以上）的电脑。8-16GB及以上的内存（RAM），最好是16GB，运行虚拟机占用的内存量较大。至少100GB的固态硬盘（SSD）空间。虚拟机占用硬盘空间较大。
 * 苹果电脑：如果是老一些的使用Intel CPU的，可用。如果是新的使用ARM架构的m1/m2/m3之类的芯片的，不可以。
 
+### 软件下载
 
+* 7zip压缩工具：[https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe](https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe)
+* VMWare Workstation Pro 17.5.2虚拟机工作站：[https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe](https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe)
  
