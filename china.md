@@ -53,7 +53,7 @@ layout: default
 ### 训练营资源
 
 * Ubuntu24演示虚拟机(3.6G)：[https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip)
-* Windows10演示虚拟机：[https://scoreboard.titanturtles.xyz/files/CampChina/Win10_x64_Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Win10_x64_Demo.zip)
+* Windows10演示虚拟机(6.5G)：[https://scoreboard.titanturtles.xyz/files/CampChina/Win10x64Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Win10x64Demo.zip)
 * Ubuntu24模考虚拟机：待
 * Windows10模考虚拟机：待
 
