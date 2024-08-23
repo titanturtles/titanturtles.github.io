@@ -62,6 +62,7 @@ layout: default
   * 第5-6天：Cisco网络介绍及实践
   * 第7-8天：CTF介绍；OWASP Top 10介绍
   * 第9-10天：模拟竞赛及回顾
+
 ### 训练营资源
 
 * Windows演示虚拟机
