@@ -7,10 +7,12 @@ layout: default
 
 # 中国训练营 (Camp China)
 
+---
+
 ## 初级营 (Beginner Camp)
 
-* 时长：为期5天，每天3小时
-* 地点：微信会议网课
+* 时间：为期5天，每天3小时。暂定北京时间8月25日-8月29日，下午2点-5点。
+* 网课地点：微信会议：368-0851-7928 （[https://voovmeeting.com/dm/WDnELoiKmJi0](https://voovmeeting.com/dm/WDnELoiKmJi0))
 * 学生要求：
   * 坐得住：可独立在电脑面前认真上网课，跟随老师做实际电脑上操作的练习。不开小差。
   * 不害羞：需要发言表述时，可发言表述。需要演示时，可共享屏幕演示。
