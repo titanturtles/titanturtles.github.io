@@ -49,6 +49,7 @@ layout: default
 
 * 7zip压缩工具：[https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe](https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe)
 * VMWare Workstation Pro 17.5.2虚拟机工作站：[https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe](https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe)
+* Chrome浏览器：[https://scoreboard.titanturtles.xyz/files/CampChina/ChromeStandaloneSetup64.exe](https://scoreboard.titanturtles.xyz/files/CampChina/ChromeStandaloneSetup64.exe)
 
 ### 训练营资源
 
