@@ -46,12 +46,14 @@ layout: default
 * 苹果电脑：如果是老一些的使用Intel CPU的，可用。如果是新的使用ARM架构的m1/m2/m3之类的芯片的，不可以。
 
 ### 工具软件
+（百度网盘下载方式：链接：[https://pan.baidu.com/s/1bsbc2Rva26iETOJRzgfyIw](https://pan.baidu.com/s/1bsbc2Rva26iETOJRzgfyIw) 提取码：25ER 最好使用百度网盘app下载）
 
 * 7zip压缩工具：[https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe](https://scoreboard.titanturtles.xyz/files/CampChina/7z2408-x64.exe)
 * VMWare Workstation Pro 17.5.2虚拟机工作站：[https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe](https://scoreboard.titanturtles.xyz/files/CampChina/VMware-workstation-full-17.5.2-23775571.exe)
 * Chrome浏览器：[https://scoreboard.titanturtles.xyz/files/CampChina/ChromeStandaloneSetup64.exe](https://scoreboard.titanturtles.xyz/files/CampChina/ChromeStandaloneSetup64.exe)
 
 ### 训练营资源
+（百度网盘下载方式：链接：[https://pan.baidu.com/s/1bsbc2Rva26iETOJRzgfyIw](https://pan.baidu.com/s/1bsbc2Rva26iETOJRzgfyIw) 提取码：25ER 最好使用百度网盘app下载）
 
 * Ubuntu24演示虚拟机(3.6G)：[https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Ubu24x64Demo.zip)
 * Windows10演示虚拟机(6.5G)：[https://scoreboard.titanturtles.xyz/files/CampChina/Win10x64Demo.zip](https://scoreboard.titanturtles.xyz/files/CampChina/Win10x64Demo.zip)
