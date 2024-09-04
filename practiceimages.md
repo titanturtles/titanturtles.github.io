@@ -416,7 +416,7 @@ layout: default
 - Author: beyman ?
 - Difficulty: Easy
 - Mega Downloads: (Preferred) [https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI](https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Seinfeld/Seifeld%20ubuntu%20image%20by%20Sylvain%20Jones.zip](https://scoreboard.titanturtles.xyz/files/Seinfeld/Seifeld%20ubuntu%20image%20by%20Sylvain%20Jones.zip)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Seinfeld/Seinfeld%20ubuntu%20image%20by%20Sylvain%20Jones.zip](https://scoreboard.titanturtles.xyz/files/Seinfeld/Seinfeld%20ubuntu%20image%20by%20Sylvain%20Jones.zip)
 - MD5 Checksum: `a276df5cde736170eb9c4a63e81e9886`
 - Additional Info:
   
