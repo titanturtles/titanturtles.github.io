@@ -45,6 +45,7 @@ layout: default
 * [SEINFELD: Ubu ?, E](#seinfeld)
 * [NEVERMORE: Ubu 22, H](#nevermore)
 * [SYSTEM HARDENING 10: Ubu 22, H](#system-hardening-10)
+* [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
 
 ---
 
@@ -445,3 +446,21 @@ layout: default
 - MD5 Checksum: `2d70a3b32e2898614bcc773b43adc7f4`
 - Additional Info:
   - Readme: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md](https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md)
+ 
+ 
+---
+
+### BLOONS TD 6 THEME
+- Name: BLOONS TD 6 THEME
+- OS: DEBIAN 10
+- Author: Mobmaker
+- Difficulty: Easy
+- Mega Downloads: [https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing](https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.7z](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.7z)
+- MD5 Checksum: `2d70a3b32e2898614bcc773b43adc7f4`
+- Additional Info:
+  - Credentials: Username: dartmonkey, Password: monkey123!
+  - Original Website: [https://www.mobmaker.xyz/cypat-images](https://www.mobmaker.xyz/cypat-images)
+  - Answer Key:
+    - Download: [https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing](https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing)
+    - Additional Download: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf)
