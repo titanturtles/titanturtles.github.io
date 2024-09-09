@@ -11,6 +11,8 @@ layout: default
 
 **We are not responsible of any of the contents listed here.** These images are made for cybersecurity learning and practicing purpose. Naturally, there will be malicious contents inside each of the images. We are not responsible for any damage or loss incurred by using the contents listed below. We are not responsible for any loss or damage incurred by downloading and/or using the contents here. Please do not use any of the contents here for illegal activities. We are not responsible any illegal activities anyone performed based on downloading or using the contents here.
 
+If there is error in any of the content, please reach out to us at titanturtlesteam(a)gmail.com.
+
 ---
 
 ## Windows Images
