@@ -37,8 +37,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ## Linux Images
 
 * [SPACE FORCE SERVER: Deb 8, M](#space-force-server)
-* [NARNIA MINECRAFT SERVER: Ubu 22, E](#narnia-minecraft-server)
-* [ROOREAPER STRIKES BACK: Ubu 22, E](#rooreaper-strikes-back)
+* [NARNIA MINECRAFT SERVER: Ubu 22, M](#narnia-minecraft-server)
+* [ROOREAPER STRIKES BACK: Ubu 22, M](#rooreaper-strikes-back)
 * [FELLOWSHIP OF THE RING: Fed 38, H](#fellowship-of-the-ring)
 * [MR. ROBOT: Fed 37, H](#mr-robot)
 * [KALI'S UBUNTU IMAGE: Ubu 18, M](#kalis-ubuntu-image)
@@ -326,7 +326,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Name: NARNIA MINECRAFT SERVER (SYS HARDENING 6)
 - OS: UBUNTU 22
 - Author: Eth007
-- Difficulty: Easy
+- Difficulty: Medium (Ethan claimed to be Easy, but we took with grain of salt)
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/12x8aYXIpGwO47MIvUCB6G3bqV-8npVUx/view](https://drive.google.com/file/d/12x8aYXIpGwO47MIvUCB6G3bqV-8npVUx/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20Server.zip](https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20Server.zip)
 - MD5 Checksum: `ce79cf10ceda1957aadff3f9c1a1642b`
@@ -339,7 +339,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Name: ROOREAPER STRIKES BACK (SYS HARDENING 7)
 - OS: UBUNTU 22
 - Author: Eth007
-- Difficulty: Easy
+- Difficulty: Medium (Ethan claimed to be Easy, but we took with another grain of salt)
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1gyshPKjhQ2o907LQpwB_gq3BeqwmN2ko/view](https://drive.google.com/file/d/1gyshPKjhQ2o907LQpwB_gq3BeqwmN2ko/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Rooreaper/System%20Hardening%207.zip](https://scoreboard.titanturtles.xyz/files/Rooreaper/System%20Hardening%207.zip)
 - MD5 Checksum: `cf01b22ef0999ef975320cc39b7001f4`
