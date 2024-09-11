@@ -39,14 +39,14 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [SPACE FORCE SERVER: Deb 8, M](#space-force-server)
 * [NARNIA MINECRAFT SERVER: Ubu 22, M](#narnia-minecraft-server)
 * [ROOREAPER STRIKES BACK: Ubu 22, M](#rooreaper-strikes-back)
-* [FELLOWSHIP OF THE RING: Fed 38, H](#fellowship-of-the-ring)
+* [FELLOWSHIP OF THE RING: Fed 38, SH](#fellowship-of-the-ring)
 * [MR. ROBOT: Fed 37, H](#mr-robot)
 * [KALI'S UBUNTU IMAGE: Ubu 18, M](#kalis-ubuntu-image)
 * [HOUSE ON THE BORDERLAND: Ubu 20, M](#house-on-the-borderland)
 * [APERTURE SCIENCE UBUNTU: Ubu 22, M](#aperture-science-ubuntu)
-* [SEINFELD: Ubu ?, E](#seinfeld)
+* [SEINFELD: Ubu 16?, E](#seinfeld)
 * [NEVERMORE: Ubu 22, H](#nevermore)
-* [SYSTEM HARDENING 10: Ubu 22, H](#system-hardening-10)
+* [SYSTEM HARDENING 10: Ubu 22, M](#system-hardening-10)
 * [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
 
 ---
@@ -352,7 +352,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Name: FELLOWSHIP OF THE RING (SYS HARDENING 8)
 - OS: FEDORA 38
 - Author: Eth007
-- Difficulty: Hard
+- Difficulty: Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1N6fpGL-ZlT5C8nvf4Y68nSKz65CqyfBH/view](https://drive.google.com/file/d/1N6fpGL-ZlT5C8nvf4Y68nSKz65CqyfBH/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip](https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip)
 - MD5 Checksum: `9b002dcd1b895b8f2a0ce8e7db4d2ce6`
@@ -415,7 +415,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ### SEINFELD
 - Name: SEINFELD
-- OS: UBUNTU ?
+- OS: UBUNTU 16?
 - Author: beyman ?
 - Difficulty: Easy
 - Mega Downloads: (Preferred) [https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI](https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI)
@@ -443,7 +443,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Name: SYSTEM HARDENING 10
 - OS: UBUNTU 22
 - Author: FIREPONY57 + Eth007
-- Difficulty: Hard
+- Difficulty: Medium (but somewhat broken)
 - Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/system-hardening-10.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening10/system-hardening-10.zip)
 - MD5 Checksum: `2d70a3b32e2898614bcc773b43adc7f4`
 - Additional Info:
