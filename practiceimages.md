@@ -31,6 +31,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [KALI'S WINDOWS IMAGE: Win 10, M](#kalis-windows-image)
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
+* [TITAN LVL3: Win 10, E](#titan-lvl-3)
 
 ---
 
@@ -302,6 +303,23 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Answer Key: https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing
   - Walkthrough: https://cybervoid.me/posts/my-little-pony-walkthrough/
 
+   
+---
+
+### TITAN LVL 3
+- Name: TITAN LVL 3
+- OS: WINDOWS 10
+- Author: Troy HS
+- Difficulty: Easy
+- Mega Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip](https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip)
+- MD5 Checksum: `3ad26898b9cb9d1ddb55c1c33c2b515e`
+- Additional Info:
+  - Credentials: unknown
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
 ---
 
 ### SPACE FORCE SERVER
@@ -449,7 +467,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Info:
   - Readme: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md](https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md)
  
- 
 ---
 
 ### BLOONS TD 6 THEME
@@ -466,3 +483,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Answer Key:
     - Download: [https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing](https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing)
     - Additional Download: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf)
+
+   
+
