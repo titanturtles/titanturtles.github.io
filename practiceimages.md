@@ -49,6 +49,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [NEVERMORE: Ubu 22, H](#nevermore)
 * [SYSTEM HARDENING 10: Ubu 22, M](#system-hardening-10)
 * [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
+* [DEMON SLAYER: Deb 8, H](#demon-slayer)
 
 ---
 
@@ -478,11 +479,29 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.7z](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.7z)
 - MD5 Checksum: `56c6862e91f0290a173c3ae7bfc517d3`
 - Additional Info:
-  - Credentials: Username: dartmonkey, Password: monkey123!
+  - Credentials:
+    - Username: `dartmonkey`
+    - Password: `monkey123!`
   - Original Website: [https://www.mobmaker.xyz/cypat-images](https://www.mobmaker.xyz/cypat-images)
   - Answer Key:
     - Download: [https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing](https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing)
     - Additional Download: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf)
 
-   
+---
+
+### DEMON SLAYER
+- Name: DEMON SLAYER
+- OS: DEBIAN 8
+- Author: Troy HS
+- Difficulty: H
+- Mega Downloads: [https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link](https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/DemonSlayer/DemonSlayer.7z](https://scoreboard.titanturtles.xyz/files/DemonSlayer/DemonSlayer.7z)
+- MD5 Checksum: `fda3946ca9351adeacf43b8890069707`
+- Additional Info:
+  - Credentials:
+    - Username: `tanjiro`
+    - Password: `GottaSlayEmAll`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
 
