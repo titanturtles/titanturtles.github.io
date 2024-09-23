@@ -50,6 +50,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [SYSTEM HARDENING 10: Ubu 22, M](#system-hardening-10)
 * [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
 * [DEMON SLAYER: Deb 8, H](#demon-slayer)
+* [NINTENDO: Deb 11, H+](#nintendo)
 
 ---
 
@@ -504,4 +505,23 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
+
+---
+
+### NINTENDO
+- Name: NINTENDO
+- OS: DEBIAN 11
+- Author: Troy HS
+- Difficulty: Hard +
+- Mega Downloads: [https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link](https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Nintendo/Nintendo%20Debian%2011%20Semifinals%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/Nintendo/Nintendo%20Debian%2011%20Semifinals%20Practice%20Image.7z)
+- MD5 Checksum: `e88be558979fa73d0a66a198503d8d8a`
+- Additional Info:
+  - Credentials:
+    - Username: `msakurai`
+    - Password: `password`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
 
