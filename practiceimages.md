@@ -56,7 +56,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [POLYTOPIA: Ubu 20, U](#polytopia)
 * [LAMP STACK PRACTICE: Ubu 16, H](#lamp-stack-practice)
 * [PREMIER LEAGUE: Fed 36, M](#premier-league)
-* [RYAN GALLIGHER: Ubu, H](#ryan-galligher)
+* [RYAN GALLIGHER: Ubu 12, H](#ryan-galligher)
 
 ---
 
