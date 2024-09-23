@@ -33,6 +33,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [TITAN LVL3: Win 10, E](#titan-lvl-3)
 
+
 ---
 
 ## Linux Images
@@ -53,7 +54,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [NINTENDO: Deb 11, H+](#nintendo)
 * [AVATAR THE LAST LINUXBENDER: Ubu 14, U](#avatar-the-last-linuxbender)
 * [POLYTOPIA: Ubu 20, U](#polytopia)
-
+* [LAMP STACK PRACTICE: Ubu 16, H](#lamp-stack-practice)
+* 
 ---
 
 ### FBI
@@ -545,8 +547,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Answer Key:
     - Unknown
    
-
-
 ---
 
 ### POLYTOPIA
@@ -561,6 +561,24 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Credentials:
     - Username: `bardur`
     - Password: `p3rFect1yB@1anC*D$`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### LAMP STACK PRACTICE
+- Name: LAMP STACK PRACTICE
+- OS: UBUNTU 16
+- Author: Troy HS
+- Difficulty: Hard
+- Mega Downloads: [https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link](https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/LampStackPractice/Copy%20of%20LAMP%20Stack%20Practice.zip](https://scoreboard.titanturtles.xyz/files/LampStackPractice/Copy%20of%20LAMP%20Stack%20Practice.zip)
+- MD5 Checksum: `0d3a20f236eee30f769d585b614a33e2`
+- Additional Info:
+  - Credentials:
+    - Username: `freshman`
+    - Password: `troy`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
