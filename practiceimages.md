@@ -56,6 +56,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [POLYTOPIA: Ubu 20, U](#polytopia)
 * [LAMP STACK PRACTICE: Ubu 16, H](#lamp-stack-practice)
 * [PREMIER LEAGUE: Fed 36, M](#premier-league)
+* [RYAN GALLIGHER: Ubu, H](#ryan-galligher)
 
 ---
 
@@ -598,6 +599,25 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Credentials:
     - Username: `pguardiola`
     - Password: `fedora`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+
+---
+
+### RYAN GALLIGHER
+- Name: RYAN GALLIGHER
+- OS: UBUNTU 12
+- Author: Troy HS
+- Difficulty: Hard
+- Mega Downloads: [https://drive.google.com/file/d/1uqHjKvmc-xKHUm3Z_buHieGHNlOHqMG4/view](https://drive.google.com/file/d/1uqHjKvmc-xKHUm3Z_buHieGHNlOHqMG4/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/RyanGalligher/RyanGalligherUbuntu.zip](https://scoreboard.titanturtles.xyz/files/RyanGalligher/RyanGalligherUbuntu.zip)
+- MD5 Checksum: `6d29a034c69a06c7ee75b4094a9da8aa`
+- Additional Info:
+  - Credentials:
+    - Username: `Fester`
+    - Password: `You were a terrible mother!`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
