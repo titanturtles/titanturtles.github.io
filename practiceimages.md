@@ -51,7 +51,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
 * [DEMON SLAYER: Deb 8, H](#demon-slayer)
 * [NINTENDO: Deb 11, H+](#nintendo)
-* [AVATAR THE LAST LINUXBENDER: ](#avatar-the-last-linuxbender)
+* [AVATAR THE LAST LINUXBENDER: Ubu 14, U](#avatar-the-last-linuxbender)
 
 ---
 
@@ -530,7 +530,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ### AVATAR THE LAST LINUXBENDER
 - Name: AVATAR THE LAST LINUXBENDER
-- OS: DEBIAN 11
+- OS: UBUNTU 14
 - Author: Troy HS
 - Difficulty: Unknown
 - Mega Downloads: [https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link](https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link)
@@ -538,8 +538,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - MD5 Checksum: `5dfa2791213708f719fa206c9b9b7020`
 - Additional Info:
   - Credentials:
-    - Username: ` `
-    - Password: ` `
+    - Username: `aang`
+    - Password: `Th3B3st4v@t@r`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
