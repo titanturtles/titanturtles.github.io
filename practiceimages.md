@@ -55,7 +55,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [AVATAR THE LAST LINUXBENDER: Ubu 14, U](#avatar-the-last-linuxbender)
 * [POLYTOPIA: Ubu 20, U](#polytopia)
 * [LAMP STACK PRACTICE: Ubu 16, H](#lamp-stack-practice)
-* 
+* [PREMIER LEAGUE: Fed 36, M](#premier-league)
+
 ---
 
 ### FBI
@@ -579,6 +580,24 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Credentials:
     - Username: `freshman`
     - Password: `troy`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### PREMIER LEAGUE
+- Name: PREMIER LEAGUE
+- OS: FEDORA 36
+- Author: Troy HS
+- Difficulty: Medium
+- Mega Downloads: [https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing](https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/PremierLeague/Fedora_36_VM.7z](https://scoreboard.titanturtles.xyz/files/PremierLeague/Fedora_36_VM.7z)
+- MD5 Checksum: `3aed0634c1f5abec284c20f322462978`
+- Additional Info:
+  - Credentials:
+    - Username: `pguardiola`
+    - Password: `fedora`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
