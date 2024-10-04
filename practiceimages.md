@@ -32,7 +32,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [TITAN LVL3: Win 10, E](#titan-lvl-3)
-* [ROUND3 PRACTICE: Win ?, ?](#round3-practice)
 
 ---
 
@@ -57,6 +56,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [LAMP STACK PRACTICE: Ubu 16, H](#lamp-stack-practice)
 * [PREMIER LEAGUE: Fed 36, M](#premier-league)
 * [RYAN GALLIGHER: Ubu 12, H](#ryan-galligher)
+* [ROUND3 PRACTICE: Deb 9, U](#round3-practice)
 
 ---
 
@@ -322,22 +322,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Google Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip](https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip)
 - MD5 Checksum: `3ad26898b9cb9d1ddb55c1c33c2b515e`
-- Additional Info:
-  - Credentials: unknown
-  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
-
----
-
-### ROUND3 PRACTICE
-- Name: ROUND3 PRACTICE
-- OS: WINDOWS ?
-- Author: Troy HS
-- Difficulty: ?
-- Google Downloads: [https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link](https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip](https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip)
-- MD5 Checksum: `b8a74dfe76a1a38bdb9f985e858a7a84`
 - Additional Info:
   - Credentials: unknown
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
@@ -637,3 +621,20 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
+
+---
+
+### ROUND3 PRACTICE
+- Name: ROUND3 PRACTICE
+- OS: DEBIAN 9
+- Author: Troy HS
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link](https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip](https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip)
+- MD5 Checksum: `b8a74dfe76a1a38bdb9f985e858a7a84`
+- Additional Info:
+  - Credentials: unknown
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
