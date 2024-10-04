@@ -32,7 +32,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [TITAN LVL3: Win 10, E](#titan-lvl-3)
-* [ROUND3 PRACTICE: Win ?, ?](#round-3-practice)
+* [ROUND3 PRACTICE: Win ?, ?](#round3-practice)
 
 ---
 
