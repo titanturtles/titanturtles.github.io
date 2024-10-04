@@ -32,6 +32,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [TITAN LVL3: Win 10, E](#titan-lvl-3)
+* [ROUND2 PRACTICE: Win 10, E](#round2-practice)
 
 ---
 
@@ -319,9 +320,25 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: WINDOWS 10
 - Author: Troy HS
 - Difficulty: Easy
-- Google Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
+- Google Downloads: [https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link](https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip](https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip)
 - MD5 Checksum: `3ad26898b9cb9d1ddb55c1c33c2b515e`
+- Additional Info:
+  - Credentials: unknown
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### ROUND2 PRACTICE
+- Name: ROUND2 PRACTICE
+- OS: WINDOWS 10
+- Author: Troy HS
+- Difficulty: Easy
+- Google Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round2Win10/Round%202%20Win10%20PRACTICE.7z](https://scoreboard.titanturtles.xyz/files/Round2Win10/Round%202%20Win10%20PRACTICE.7z)
+- MD5 Checksum: `5037151f73c574f253af555a564dd80d`
 - Additional Info:
   - Credentials: unknown
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
