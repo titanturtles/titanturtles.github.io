@@ -57,7 +57,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [LAMP STACK PRACTICE: Ubu 16, H](#lamp-stack-practice)
 * [PREMIER LEAGUE: Fed 36, M](#premier-league)
 * [RYAN GALLIGHER: Ubu 12, H](#ryan-galligher)
-* [ROUND3 PRACTICE: Deb 9, U](#round3-practice)
+* [ROUND3 PRACTICE: Deb 9, H?](#round3-practice)
+* [R3: UBU 18, H?](#r3)
 
 ---
 
@@ -473,7 +474,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: UBUNTU 22
 - Author: hypernova
 - Difficulty: Hard
-- Mega Downloads: (Preferred) [https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view](https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view)
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view](https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Nevermore/nevermore.zip](https://scoreboard.titanturtles.xyz/files/Nevermore/nevermore.zip)
 - MD5 Checksum: `a3cb68459992e7c85d626ba74ace300d`
 - Additional Info:
@@ -499,7 +500,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: DEBIAN 10
 - Author: Mobmaker
 - Difficulty: Easy
-- Mega Downloads: [https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing](https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing)
+- Google Downloads: [https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing](https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.7z](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.7z)
 - MD5 Checksum: `56c6862e91f0290a173c3ae7bfc517d3`
 - Additional Info:
@@ -518,7 +519,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: DEBIAN 8
 - Author: Troy HS
 - Difficulty: Hard
-- Mega Downloads: [https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link](https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link)
+- Google Downloads: [https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link](https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/DemonSlayer/DemonSlayer.7z](https://scoreboard.titanturtles.xyz/files/DemonSlayer/DemonSlayer.7z)
 - MD5 Checksum: `fda3946ca9351adeacf43b8890069707`
 - Additional Info:
@@ -536,7 +537,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: DEBIAN 11
 - Author: Troy HS
 - Difficulty: Hard +
-- Mega Downloads: [https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link](https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link)
+- Google Downloads: [https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link](https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Nintendo/Nintendo%20Debian%2011%20Semifinals%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/Nintendo/Nintendo%20Debian%2011%20Semifinals%20Practice%20Image.7z)
 - MD5 Checksum: `e88be558979fa73d0a66a198503d8d8a`
 - Additional Info:
@@ -555,7 +556,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: UBUNTU 14
 - Author: Troy HS
 - Difficulty: Unknown
-- Mega Downloads: [https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link](https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link)
+- Google Downloads: [https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link](https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Avatar/Avatar_%20The%20Last%20Linuxbender-20171205T002226Z-001.zip](https://scoreboard.titanturtles.xyz/files/Avatar/Avatar_%20The%20Last%20Linuxbender-20171205T002226Z-001.zip)
 - MD5 Checksum: `5dfa2791213708f719fa206c9b9b7020`
 - Additional Info:
@@ -573,7 +574,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: UBUNTU 20
 - Author: Troy HS
 - Difficulty: Unknown
-- Mega Downloads: [https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link](https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link)
+- Google Downloads: [https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link](https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Polytopia/Polytopia.7z](https://scoreboard.titanturtles.xyz/files/Polytopia/Polytopia.7z)
 - MD5 Checksum: `092e80c4c2f5b0e5d26d630d28a48cc5`
 - Additional Info:
@@ -591,7 +592,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: UBUNTU 16
 - Author: Troy HS
 - Difficulty: Hard
-- Mega Downloads: [https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link](https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link)
+- Google Downloads: [https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link](https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/LampStackPractice/Copy%20of%20LAMP%20Stack%20Practice.zip](https://scoreboard.titanturtles.xyz/files/LampStackPractice/Copy%20of%20LAMP%20Stack%20Practice.zip)
 - MD5 Checksum: `0d3a20f236eee30f769d585b614a33e2`
 - Additional Info:
@@ -609,7 +610,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: FEDORA 36
 - Author: Troy HS
 - Difficulty: Medium
-- Mega Downloads: [https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing](https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing)
+- Google Downloads: [https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing](https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/PremierLeague/Fedora_36_VM.7z](https://scoreboard.titanturtles.xyz/files/PremierLeague/Fedora_36_VM.7z)
 - MD5 Checksum: `3aed0634c1f5abec284c20f322462978`
 - Additional Info:
@@ -628,7 +629,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: UBUNTU 12
 - Author: Troy HS
 - Difficulty: Hard
-- Mega Downloads: [https://drive.google.com/file/d/1uqHjKvmc-xKHUm3Z_buHieGHNlOHqMG4/view](https://drive.google.com/file/d/1uqHjKvmc-xKHUm3Z_buHieGHNlOHqMG4/view)
+- Google Downloads: [https://drive.google.com/file/d/1uqHjKvmc-xKHUm3Z_buHieGHNlOHqMG4/view](https://drive.google.com/file/d/1uqHjKvmc-xKHUm3Z_buHieGHNlOHqMG4/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/RyanGalligher/RyanGalligherUbuntu.zip](https://scoreboard.titanturtles.xyz/files/RyanGalligher/RyanGalligherUbuntu.zip)
 - MD5 Checksum: `6d29a034c69a06c7ee75b4094a9da8aa`
 - Additional Info:
@@ -645,13 +646,29 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Name: ROUND3 PRACTICE
 - OS: DEBIAN 9
 - Author: Troy HS
-- Difficulty: Unknown
+- Difficulty: Hard?
 - Google Downloads: [https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link](https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip](https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip)
 - MD5 Checksum: `b8a74dfe76a1a38bdb9f985e858a7a84`
 - Additional Info:
-  - Credentials: unknown
+  - Credentials: auto login
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
+
+---
+
+### R3
+- Name: ROUND2 PRACTICE
+- OS: WINDOWS 10
+- Author: Troy HS
+- Difficulty: Hard?
+- Google Downloads: [https://drive.google.com/file/d/1YeIwSb9_9orbohF4Xp7TcBHoOR92fth8/view?usp=drive_link](https://drive.google.com/file/d/1YeIwSb9_9orbohF4Xp7TcBHoOR92fth8/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/R3/R3.7z](https://scoreboard.titanturtles.xyz/files/R3/R3.7z)
+- MD5 Checksum: `6bcc28711d497b926e501a01d09852a4`
+- Additional Info:
+  - Credentials:
+    - User: `user`
+    - Password: `user`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
 
