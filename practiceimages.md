@@ -59,7 +59,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [RYAN GALLIGHER: Ubu 12, H](#ryan-galligher)
 * [ROUND3 PRACTICE: Deb 9, H?](#round3-practice)
 * [R3: UBU 18, H?](#r3)
-
+* [LITTLE BIG PLANET: UBU 16, U](#little-big-planet)
+* 
 ---
 
 ### FBI
@@ -671,4 +672,20 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - User: `user`
     - Password: `user`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+---
+
+### LITTLE BIG PLANET
+- Name: LITTLE BIG PLANET
+- OS: UBUNTU 16
+- Author: Troy HS
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/135ReRspmJm-4Kv4el_g-zpJITXDZUUO3/view?usp=drive_link](https://drive.google.com/file/d/135ReRspmJm-4Kv4el_g-zpJITXDZUUO3/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/LBP/LittleBigPlanet.7z](https://scoreboard.titanturtles.xyz/files/LBP/LittleBigPlanet.7z)
+- MD5 Checksum: `5b806f61a1fa2059e4722b9d57e63d4a`
+- Additional Info:
+  - README is not available
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
 
