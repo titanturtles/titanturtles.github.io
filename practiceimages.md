@@ -61,7 +61,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [ROUND3 PRACTICE: Deb 9, H?](#round3-practice)
 * [R3: UBU 18, H?](#r3)
 * [LITTLE BIG PLANET: UBU 16, U](#little-big-planet)
-* [CYBER IN THE SKY: UBU 16, U](#cyber-in-the-sky)
+* [CYBER IN THE SKY: LUBU 16, U](#cyber-in-the-sky)
 
 ---
 
@@ -700,7 +700,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ### CYBER IN THE SKY
 - Name: CYBER IN THE SKY
-- OS: UBUNTU 16
+- OS: LUBUNTU 16
 - Author: Troy HS
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1cz__cXoMFg2az92gEexMyT92rpSMk4aP/view?usp=drive_link](https://drive.google.com/file/d/1cz__cXoMFg2az92gEexMyT92rpSMk4aP/view?usp=drive_link)
