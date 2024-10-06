@@ -33,6 +33,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [TITAN LVL3: Win 10, E](#titan-lvl-3)
 * [ROUND2 PRACTICE: Win 10, E](#round2-practice)
+* [JASON: WinServer 2022, U](#jason)
 
 ---
 
@@ -342,6 +343,22 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Google Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round2Win10/Round%202%20Win10%20PRACTICE.7z](https://scoreboard.titanturtles.xyz/files/Round2Win10/Round%202%20Win10%20PRACTICE.7z)
 - MD5 Checksum: `5037151f73c574f253af555a564dd80d`
+- Additional Info:
+  - Credentials: unknown
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### JASON
+- Name: JASON
+- OS: WINDOWS SERVER 2022
+- Author: Troy HS
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/1hxRrVfQAuopYrDO70Qmm6YPk3NsXQLOu/view?usp=drive_link](https://drive.google.com/file/d/1hxRrVfQAuopYrDO70Qmm6YPk3NsXQLOu/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Jason/Jason.7z](https://scoreboard.titanturtles.xyz/files/Jason/Jason.7z)
+- MD5 Checksum: `853e7dec03d2c05d83534221579add30`
 - Additional Info:
   - Credentials: unknown
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
