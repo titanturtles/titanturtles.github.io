@@ -707,4 +707,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip](https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip)
 - MD5 Checksum: `63499540d1a746762641d57df1e5b7ac`
 - Additional Info:
+  - Credentials:
+    - User: `Sheeta`
+    - Password: `laputa`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
