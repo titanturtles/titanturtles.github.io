@@ -548,8 +548,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - Username: `tanjiro`
     - Password: `GottaSlayEmAll`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
+
 
 ---
 
@@ -566,8 +565,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - Username: `msakurai`
     - Password: `password`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
+
 
 
 ---
@@ -585,8 +583,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - Username: `aang`
     - Password: `Th3B3st4v@t@r`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
+
    
 ---
 
@@ -603,8 +600,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - Username: `bardur`
     - Password: `p3rFect1yB@1anC*D$`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
+
 
 ---
 
@@ -621,8 +617,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - Username: `freshman`
     - Password: `troy`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
+
 
 ---
 
@@ -639,8 +634,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - Username: `pguardiola`
     - Password: `fedora`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
 
 
 ---
@@ -658,8 +651,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - Username: `Fester`
     - Password: `You were a terrible mother!`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
 
 ---
 
@@ -674,8 +665,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Info:
   - Credentials: auto login
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
 
 ---
 
@@ -706,8 +695,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Info:
   - README is not available
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
 
 ---
 
@@ -720,8 +707,4 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip](https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip)
 - MD5 Checksum: `63499540d1a746762641d57df1e5b7ac`
 - Additional Info:
-  - README is not available
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
-  - Answer Key:
-    - Unknown
-
