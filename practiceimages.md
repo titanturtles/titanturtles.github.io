@@ -33,7 +33,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [TITAN LVL3: Win 10, E](#titan-lvl-3)
 * [ROUND2 PRACTICE: Win 10, E](#round2-practice)
-* [JASON: WinServer 2022, U](#jason)
+* [JASON: WinServer 2022, H](#jason)
 
 ---
 
@@ -355,7 +355,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Name: JASON
 - OS: WINDOWS SERVER 2022
 - Author: Troy HS
-- Difficulty: Unknown
+- Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1hxRrVfQAuopYrDO70Qmm6YPk3NsXQLOu/view?usp=drive_link](https://drive.google.com/file/d/1hxRrVfQAuopYrDO70Qmm6YPk3NsXQLOu/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Jason/Jason.7z](https://scoreboard.titanturtles.xyz/files/Jason/Jason.7z)
 - MD5 Checksum: `853e7dec03d2c05d83534221579add30`
