@@ -669,8 +669,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### R3
-- Name: ROUND2 PRACTICE
-- OS: WINDOWS 10
+- Name: R3
+- OS: UBUNTU 18
 - Author: Troy HS
 - Difficulty: Hard?
 - Google Downloads: [https://drive.google.com/file/d/1YeIwSb9_9orbohF4Xp7TcBHoOR92fth8/view?usp=drive_link](https://drive.google.com/file/d/1YeIwSb9_9orbohF4Xp7TcBHoOR92fth8/view?usp=drive_link)
