@@ -61,7 +61,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [ROUND3 PRACTICE: Deb 9, H?](#round3-practice)
 * [R3: UBU 18, H?](#r3)
 * [LITTLE BIG PLANET: UBU 16, U](#little-big-planet)
-
+* [CYBER IN THE SKY: UBU 16, U](#cyber-in-the-sky)
 
 ---
 
@@ -703,6 +703,22 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Google Downloads: [https://drive.google.com/file/d/135ReRspmJm-4Kv4el_g-zpJITXDZUUO3/view?usp=drive_link](https://drive.google.com/file/d/135ReRspmJm-4Kv4el_g-zpJITXDZUUO3/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/LBP/LittleBigPlanet.7z](https://scoreboard.titanturtles.xyz/files/LBP/LittleBigPlanet.7z)
 - MD5 Checksum: `5b806f61a1fa2059e4722b9d57e63d4a`
+- Additional Info:
+  - README is not available
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### CYBER IN THE SKY
+- Name: CYBER IN THE SKY
+- OS: UBUNTU 16
+- Author: Troy HS
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/1cz__cXoMFg2az92gEexMyT92rpSMk4aP/view?usp=drive_link](https://drive.google.com/file/d/1cz__cXoMFg2az92gEexMyT92rpSMk4aP/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip](https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip)
+- MD5 Checksum: `63499540d1a746762641d57df1e5b7ac`
 - Additional Info:
   - README is not available
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
