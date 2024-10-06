@@ -360,7 +360,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Jason/Jason.7z](https://scoreboard.titanturtles.xyz/files/Jason/Jason.7z)
 - MD5 Checksum: `853e7dec03d2c05d83534221579add30`
 - Additional Info:
-  - Credentials: unknown
+  - Credentials:
+    - User: `Jason`
+    - Password: `G0ldenFle3ce` 
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
