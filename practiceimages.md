@@ -34,6 +34,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [TITAN LVL3: Win 10, E](#titan-lvl-3)
 * [ROUND2 PRACTICE: Win 10, E](#round2-practice)
 * [JASON: WinServer 2022, H](#jason)
+* [Troy Mock: Win 10, ?](#troy-mock)
 
 ---
 
@@ -363,6 +364,23 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Credentials:
     - User: `Jason`
     - Password: `G0ldenFle3ce` 
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### TROY MOCK
+- Name: TROY MOCK
+- OS: WINDOWS 10
+- Author: Troy HS
+- Difficulty: ?
+- Google Downloads: ?
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/TroyMock/Troy%20Windows%2010%20Mock%20%28Image%20password%20is%20password%29.7z](https://scoreboard.titanturtles.xyz/files/TroyMock/Troy%20Windows%2010%20Mock%20%28Image%20password%20is%20password%29.7z)
+- MD5 Checksum: `7a3ab91c8b020486c8abe527e9531ddc`
+- Additional Info:
+  - Credentials:
+    - Password: `password` 
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
   - Answer Key:
     - Unknown
