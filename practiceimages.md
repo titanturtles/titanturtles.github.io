@@ -34,7 +34,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [TITAN LVL3: Win 10, E](#titan-lvl-3)
 * [ROUND2 PRACTICE: Win 10, E](#round2-practice)
 * [JASON: WinServer 2022, H](#jason)
-* [Troy Mock: Win 10, ?](#troy-mock)
+* [TROY MOCK: Win 10, ?](#troy-mock)
 
 ---
 
