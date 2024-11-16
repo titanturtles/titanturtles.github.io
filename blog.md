@@ -5,8 +5,26 @@ layout: default
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | **Blog** | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
-# 4th Place Overall CyberPatriot National Finals!!!
+# TitanTurtles 2024-2025 Competition Started
+Round 1 Results: All four teams full scored
+![CyberPatriot 2024 Results round 1](https://github.com/user-attachments/assets/9dc3ddb3-1455-421f-a285-9cc33970e79e)
 
+Our team hoodies this year are admirable
+![Full Club Photos](https://github.com/user-attachments/assets/ed0a1b3b-56c8-40c8-b645-2a00893e8bbd)
+
+Team 17-0224 TitanTurtles: Kevin Du, Arthur Yang, John Kong, Ashton Jiang, Brian Yu, Sean Ji
+![Team 2 Round 1 Tortoises](https://github.com/user-attachments/assets/4426ce68-b160-4a59-8268-e06ad990ce2c)
+
+Team 17-0219 TitanTortoises: Joseph Liang, Owin Yin, Derek Zhao, Luke Zhang, Jerry Zhong, Chelsea Teh
+![Team 2 Round 1 Tortoises](https://github.com/user-attachments/assets/4a3b0e27-3735-4f86-9c83-a56eb005d530)
+
+Team 17-0228 TitanTortue: Sarah Hu, Chris Hu, Hanah Ho, Mohan Gupta, Luke Xie, Kyler Chen 
+![Team 3 Round 1 Tortue](https://github.com/user-attachments/assets/a159f579-509b-4b9a-bc63-5c5fc95c3f5d)
+
+Team 17-0221 TitanWugui: Ian Hall, Shengxi Chen
+![Team 4 Round 1 Wugui](https://github.com/user-attachments/assets/d266a869-2c2c-4540-91e7-1f81232bc165)
+
+# 4th Place Overall CyberPatriot National Finals!!!
 Team Photo:
 ![Team Photo](assets/images/NatsCPXVI/TeamPhoto.jpg)
 
