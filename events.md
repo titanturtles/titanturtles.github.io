@@ -6,11 +6,13 @@ layout: default
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | **Events** | [Legend](./legend.html)
 ## Upcoming Events
 
-* Now - March, 2023: **CyberPatriot competition**
+* November 14-17, 2024: **CyberPatriot Round 2 Competition**
   <p>&nbsp;</p>
   
 ## Past Events
 
+* Oct 24-27, 2024: **CyberPatriot Round 1 Competition**
+* Mar 13 - 18 2024: **CyberPatriot National Final**
 * Jan. 21, 2023: **CyberPatriot semifinal**
 
   Time: 8am - 7pm, Jan. 21, 2023
