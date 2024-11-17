@@ -7,7 +7,7 @@ layout: default
 
 # TitanTurtles 2024-2025 Competition Started
 Round 1 Results: All four teams full scored
-![CyberPatriot 2024 Results round 1](https://github.com/user-attachments/assets/9dc3ddb3-1455-421f-a285-9cc33970e79e)
+![CyberPatriot 2024 Results round 1](https://github.com/user-attachments/assets/fcb9fa17-dba3-46ac-a936-3ac01a2ae401)
 
 Our team hoodies this year are admirable
 ![Full Club Photos](https://github.com/user-attachments/assets/ed0a1b3b-56c8-40c8-b645-2a00893e8bbd)
