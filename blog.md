@@ -4,6 +4,19 @@ layout: default
 ---
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | **Blog** | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
+# TitanTurtles 2024-2025 Round 2 Competition (November 14-17)
+Team 17-0224 TitanTurtles hype men prior to the competition
+![Team 1 TitanTurtles round 2](https://github.com/user-attachments/assets/fc0ac6f4-788d-4b1c-bcc5-43aaa4df5aeb)
+
+Team 17-0219 TitanTortoises very serious prior to the competition
+![TitanTortoises round 2](https://github.com/user-attachments/assets/ec3cf1cf-a82a-4aa8-9f69-7426046c5a0a)
+
+Team 17-0221 TitanWugui composed of all rookie teammates. Griffin works on Cisco this year. Club President Arthur Yang cheered up the wholte team
+![Team TitanWugui Round 2](https://github.com/user-attachments/assets/d85b795b-7bfe-4eb6-b197-38b46c4715f8)
+
+Team 17-0228 TitanTortue well prepared for the challenges
+![Team 3 Tortue Round 2](https://github.com/user-attachments/assets/5b881641-893f-4726-92e5-69380d3c0f65)
+
 
 # TitanTurtles 2024-2025 Competition Started
 Round 1 Results: All four teams full scored
