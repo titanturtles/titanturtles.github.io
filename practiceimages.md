@@ -202,6 +202,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Password: study
   - Answer Key: https://cybervoid.me/posts/baldis-basics-answer-key/
   - Answer Key: (alternate) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf)
+  - Answer Key: (md version) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf)
 
 ---
 
@@ -317,6 +318,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Password: ItNe3dsT0Be20%C00L3r
   - Answer Key: https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing
   - Walkthrough: https://cybervoid.me/posts/my-little-pony-walkthrough/
+  - Walkthrough: (alternate) [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md)
 
    
 ---
