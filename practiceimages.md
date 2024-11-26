@@ -201,6 +201,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - User: Student
   - Password: study
   - Answer Key: https://cybervoid.me/posts/baldis-basics-answer-key/
+  - Answer Key: (alternate) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf)
 
 ---
 
