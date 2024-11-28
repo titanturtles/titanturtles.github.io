@@ -423,6 +423,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### NARNIA MINECRAFT SERVER
+<img src="https://github.com/user-attachments/assets/03bb8e38-41a9-46b2-b6f5-c8b60a34d440" width="400"/>
+
+
 - Name: NARNIA MINECRAFT SERVER (SYS HARDENING 6)
 - OS: UBUNTU 22
 - Author: Eth007
@@ -432,6 +435,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - MD5 Checksum: `ce79cf10ceda1957aadff3f9c1a1642b`
 - Additional Info:
   - Original Website: https://eth007.me/blog/cypat/
+  - Credentials: lucy:Pa$$w0rd10
+  - Readme Copy: [https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20System%20Hardening%206%20Readme.pdf](https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20System%20Hardening%206%20Readme.pdf)
 
 ---
 
