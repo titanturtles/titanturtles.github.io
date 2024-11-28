@@ -454,6 +454,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### FRIENDS OF THE FELLOWSHIP
+<img src="https://github.com/user-attachments/assets/d38b213c-2f7b-4d11-a4c4-ca13abd04fec" width="400"/>
+
 - Name: FRIENDS OF THE FELLOWSHIP (SYS HARDENING 8)
 - OS: FEDORA 38
 - Author: Eth007
@@ -477,7 +479,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - MD5 Checksum: `5ea0ff7823ff8bd8578a987d80a99436`
 - Additional Info:
   - Original Website: https://tirefire.org/posts/fedora-practice/
-  - Writeup: https://github.com/Poarthan/mr.robot.sh-writeup
+  - Writeup: [https://github.com/Poarthan/mr.robot.sh-writeup](https://github.com/Poarthan/mr.robot.sh-writeup)
 
 ---
 
