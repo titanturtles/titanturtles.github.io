@@ -514,6 +514,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### SEINFELD
+<img src="https://github.com/user-attachments/assets/437fa990-3472-4ad6-add2-bf1a49219853" width="400"/>
+
 - Name: SEINFELD
 - OS: UBUNTU 16?
 - Author: beyman ?
