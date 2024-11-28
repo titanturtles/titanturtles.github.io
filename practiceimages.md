@@ -43,7 +43,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [SPACE FORCE SERVER: Deb 8, M](#space-force-server)
 * [NARNIA MINECRAFT SERVER: Ubu 22, M](#narnia-minecraft-server)
 * [ROOREAPER STRIKES BACK: Ubu 22, M](#rooreaper-strikes-back)
-* [FELLOWSHIP OF THE RING: Fed 38, SH](#fellowship-of-the-ring)
+* [FRIENDS OF THE FELLOWSHIP: Fed 38, SH](#friends-of-the-fellowship)
 * [MR. ROBOT: Fed 37, H](#mr-robot)
 * [KALI'S UBUNTU IMAGE: Ubu 18, M](#kalis-ubuntu-image)
 * [HOUSE ON THE BORDERLAND: Ubu 20, M](#house-on-the-borderland)
@@ -453,8 +453,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ---
 
-### FELLOWSHIP OF THE RING
-- Name: FELLOWSHIP OF THE RING (SYS HARDENING 8)
+### FRIENDS OF THE FELLOWSHIP
+- Name: FRIENDS OF THE FELLOWSHIP (SYS HARDENING 8)
 - OS: FEDORA 38
 - Author: Eth007
 - Difficulty: Super Hard
