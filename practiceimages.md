@@ -209,13 +209,24 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ### ALPHABET SOUP
 - Name: ALPHABET SOUP
 - OS: WINDOWS 10
-- Author: Donkey (discord: d0nkeyman)
+- Author: swiftsnails
 - Difficulty: Hard - Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view](https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/AlphabetSoup/Alphabet%20Soup.7z](https://scoreboard.titanturtles.xyz/files/AlphabetSoup/Alphabet%20Soup.7z)
 - MD5 Checksum: `ec82c40b7036b0802e0556b3977f2596`
 - Additional Info:
-  - Original Website: [https://cybervoid.me/projects/](https://cybervoid.me/projects/)
+  - VulnCats:
+    - Forensics Questions - 4
+    - User Auditing - 4
+    - Account Policies - 2
+    - Local Policies - 8
+    - Service Auditing - 3
+    - Defensive Countermeasures - 4
+    - Application Updates - 1
+    - Policy Violation: Unwanted Software - 1
+    - Policy Violation: Prohibited Files - 1
+    - Uncategorized Operating System Settings - 4
+    - Application Security Settings - 3
 
 ---
 
