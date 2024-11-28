@@ -660,6 +660,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### PREMIER LEAGUE
+<img src="https://github.com/user-attachments/assets/1f1d72c2-3b0d-4942-ba76-f6225b8ec601" width="400"/>
+
 - Name: PREMIER LEAGUE
 - OS: FEDORA 36
 - Author: Troy HS
