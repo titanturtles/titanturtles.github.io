@@ -207,7 +207,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### ALPHABET SOUP
-![image](https://github.com/user-attachments/assets/836ecb10-9c2f-4873-a844-4366961877d4)
+![image](https://github.com/user-attachments/assets/836ecb10-9c2f-4873-a844-4366961877d4){ width: 400px; }
 
 - Name: ALPHABET SOUP
 - OS: WINDOWS 10
