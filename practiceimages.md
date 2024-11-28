@@ -217,6 +217,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/AlphabetSoup/Alphabet%20Soup.7z](https://scoreboard.titanturtles.xyz/files/AlphabetSoup/Alphabet%20Soup.7z)
 - MD5 Checksum: `ec82c40b7036b0802e0556b3977f2596`
 - Additional Info:
+  - Credentials: no, not even in readme  
   - VulnCats:
     - Forensics Questions - 4
     - User Auditing - 4
