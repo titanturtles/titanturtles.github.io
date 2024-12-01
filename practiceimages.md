@@ -492,6 +492,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KalisUbuntu/Ubuntu%2018%20Pre-semifinals%20CPXV%20Practice.zip](https://scoreboard.titanturtles.xyz/files/KalisUbuntu/Ubuntu%2018%20Pre-semifinals%20CPXV%20Practice.zip)
 - MD5 Checksum: `edf4e95e9e7174874912b2f89e61bb29`
 - Additional Info:
+  - Credential: User: `rio`, Password: `1L0vemoV13$` 
 
 ---
 
