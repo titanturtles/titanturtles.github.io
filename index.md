@@ -7,13 +7,6 @@ layout: default
 
 
 
-# The Titanturtles Team advanced to CyberPatriot XVI National Finalists
-
-## Ranked #4 in CyberPatriot Final
-
-![Final](https://github.com/titanturtles/titanturtles.github.io/assets/94571412/09df9331-a74f-4ff3-a6ab-292786575e1f)
-
-
 # Team
 
 We are Cybersecurity competition team TitanTurtles. Our main competition is [CyberPatriot](https://www.uscyberpatriot.org/). We also participate in [picoCTF](https://picoctf.org/) annual competition and [Reply Challenge](https://challenges.reply.com/tamtamy/challenges/category/cybersecurity#home).
@@ -34,6 +27,16 @@ We won the Oregon Champion in season 2021~2022, 2022-2023 in high school open di
 **Our vision:** We are a diverse, connected and inspiring team partnering with school districtts, organizations and communities to deliver transformational knowledge sharing and value creation.
 
 **Our strategy:** Unleash the full potential of our students. Create social awareness of CyberSecurity through education, sharing and projects.
+
+
+* * *
+
+# The Titanturtles Team advanced to CyberPatriot XVI National Finalists
+
+## Ranked #4 in CyberPatriot Final
+
+![Final](https://github.com/titanturtles/titanturtles.github.io/assets/94571412/09df9331-a74f-4ff3-a6ab-292786575e1f)
+
 
 * * *
 
