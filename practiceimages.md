@@ -132,10 +132,10 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z](https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z)
   - MD5 Checksum: `54bd31dc5d01dea625f84cde68dae335`
   - Additional Info:
-    - Original Website: https://magistrate.shiversoft.net/
-    - Extraction Password: MushroomMan64
-    - Primary Login: Mario:S3cure%The%Shr00ms
-    - Walkthrough: https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view
+    - Original Website: [https://magistrate.shiversoft.net](https://magistrate.shiversoft.net)
+    - Extraction Password: `MushroomMan64`
+    - Primary Login: `Mario:S3cure%The%Shr00ms`
+    - Walkthrough: [https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view](https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view)
  
 ---
 
