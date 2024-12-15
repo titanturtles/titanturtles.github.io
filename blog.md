@@ -4,6 +4,9 @@ layout: default
 ---
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | **Blog** | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
+# TitanTurtles 2024-2025 Round 2 competition final results
+![image](https://github.com/user-attachments/assets/e746f6db-6f06-4ad2-99d3-6c2ad5487f97)
+
 # TitanTurtles 2024-2025 Round 2 Competition (November 14-17)
 Team 17-0224 TitanTurtles hype men prior to the competition
 ![Team 1 TitanTurtles round 2](https://github.com/user-attachments/assets/fc0ac6f4-788d-4b1c-bcc5-43aaa4df5aeb)
