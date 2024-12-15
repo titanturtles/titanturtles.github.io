@@ -4,6 +4,20 @@ layout: default
 ---
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | **Blog** | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
+# TitanTurtles 2024-2025 Round 3 (State round) competition December 12-15
+Team 17-0224 TitanTurtles team competed first this round at coach's house on Friday night after school. Most students had just finished full-day school and were exhausted. There were a few glitches through the process too. Cisco quiz was opened first without informing rest of the team. Team's overall ranking is #2 in the nation as of Sunday morning. CyberAegis will start competing on Sunday and knock down the ranking of every team on leader board.
+![team_0221_TitanTurtles](https://github.com/user-attachments/assets/c0f415ba-e747-451b-b692-86f0524116eb)
+
+Team 17-0219 TitanTortugas competed on Saturday afternoon at coach's house. Linux image crashed twice due to incorrect PAM configurations. Lots to learn during winter break.
+![Team 0219_TitanTortoises](https://github.com/user-attachments/assets/ed876d56-a0cb-48bc-b3d4-91a70ba57110)
+
+Team 17-0221 TitanWugui competed on Sunday morning. Coach, mentor and teammates are all in high spirit prior to competition.
+![Team 0221_TitanTortue](https://github.com/user-attachments/assets/afccdbc7-96de-441a-9e4f-ff70be340095)
+
+Team 17-0228 TitanTortue competed on Sunday afternoon. Cisco main was sick. Mohan was appointed Cisco main on spot and working on his best to carry Networking.
+![Uploading Team 0228_TitanTortue.jpg…]()
+
+
 # TitanTurtles 2024-2025 Round 2 competition final results
 ![image](https://github.com/user-attachments/assets/e746f6db-6f06-4ad2-99d3-6c2ad5487f97)
 
