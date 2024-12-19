@@ -454,7 +454,7 @@ In this tutorial, we will be teaching how to make a tetris game
      ```
   
   
-   * Full code
+   * Full gaming code
      ```python
         # Initialize the game engine
         pygame.init()
