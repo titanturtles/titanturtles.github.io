@@ -48,8 +48,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [NEVERMORE: Ubu 22, H](#nevermore)
 * [SYSTEM HARDENING 10: Ubu 22, M](#system-hardening-10)
 * [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
-
-
+* [INSIDE OUT: Deb 11, SH](#inside-out-debian)
+* [INSIDE OUT: Ubu 22, SH](#inside-out-ubuntu)
+* 
 ---
 
 ### FBI
@@ -500,4 +501,37 @@ If there is error in any of the content, please reach out to us at titanturtlest
     - Download: [https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing](https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing)
     - Additional Download: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf)
 
+---
 
+### INSIDE OUT DEBIAN
+- Name: INSIDE OUT DEBIAN
+- OS: DEBIAN 11
+- Author: Eth007
+- Difficulty: Super Hard
+- Google Downloads: [https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link](https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link)
+- Additional Downloads: `tbd`
+- MD5 Checksum: `tbd`
+- Additional Info:
+  - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
+  - Fun part:
+    - "2024-12-20 09:31:16 PST
+Images and Info
+First player to score 100 on both images will receive Discord Nitro for one month. Collaboration is permitted, but only one prize. If for any reason I suspect tampering or reverse engineering the engine, you are ineligible for the prize."
+
+
+---
+
+### INSIDE OUT UBUNTU
+- Name: INSIDE OUT UBUNTU
+- OS: UBUNTU 22
+- Author: Eth007
+- Difficulty: Super Hard
+- Google Downloads: [https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link](https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link)
+- Additional Downloads: `tbd`
+- MD5 Checksum: `tbd`
+- Additional Info:
+  - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
+  - Fun part:
+    - "2024-12-20 09:31:16 PST
+Images and Info
+First player to score 100 on both images will receive Discord Nitro for one month. Collaboration is permitted, but only one prize. If for any reason I suspect tampering or reverse engineering the engine, you are ineligible for the prize."
