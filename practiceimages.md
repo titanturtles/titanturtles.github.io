@@ -510,7 +510,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link](https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link)
 - Additional Downloads: `tbd`
-- MD5 Checksum: `tbd`
+- MD5 Checksum: `9220ca16a0b5651d18ec8656ae88e9eb`
 - Additional Info:
   - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
   - Fun part:
@@ -528,7 +528,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link](https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link)
 - Additional Downloads: `tbd`
-- MD5 Checksum: `tbd`
+- MD5 Checksum: `400817a1fb615ac857389e6fae6488f4`
 - Additional Info:
   - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
   - Fun part:
