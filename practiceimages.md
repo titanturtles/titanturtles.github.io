@@ -504,6 +504,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### INSIDE OUT DEBIAN
+
+<img src="https://github.com/user-attachments/assets/1089eb5b-8221-4809-91dc-99ad34fa8168" width="400"/>
+
 - Name: INSIDE OUT DEBIAN
 - OS: DEBIAN 11
 - Author: Eth007
