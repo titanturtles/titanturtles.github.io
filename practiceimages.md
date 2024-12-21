@@ -513,8 +513,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link](https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link)
 - Additional Downloads: `tbd`
-- MD5 Checksum: `9220ca16a0b5651d18ec8656ae88e9eb`
+- MD5 Checksum: `824e22c0fdaaf5cbbd8eb66639e0e2ea`
 - Additional Info:
+  - Credentials: user: `joy`, password: `pa$$w0rd10` 
   - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
   - Fun part:
     - "2024-12-20 09:31:16 PST
