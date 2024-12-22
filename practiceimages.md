@@ -532,7 +532,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link](https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link)
 - Additional Downloads: `tbd`
-- MD5 Checksum: `400817a1fb615ac857389e6fae6488f4`
+- MD5 Checksum: `945F145580306210028CA08F46A18C48`
 - Additional Info:
   - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
   - Fun part:
