@@ -531,7 +531,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Eth007
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link](https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/InsideOutUbunru/msf24_ubu22_p_sh_arena.zip](https://scoreboard.titanturtles.xyz/files/InsideOutUbunru/msf24_ubu22_p_sh_arena.zip)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/InsideOutUbuntu/msf24_ubu22_p_sh_arena.zip](https://scoreboard.titanturtles.xyz/files/InsideOutUbuntu/msf24_ubu22_p_sh_arena.zip)
 - MD5 Checksum: `945F145580306210028CA08F46A18C48`
 - Additional Info:
   - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
