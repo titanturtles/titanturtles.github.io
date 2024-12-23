@@ -512,7 +512,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Author: Eth007
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link](https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link)
-- Additional Downloads: `tbd`
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/InsideOutDebian/msf24_deb11_pgsms_sh_arena.zip](https://scoreboard.titanturtles.xyz/files/InsideOutDebian/msf24_deb11_pgsms_sh_arena.zip)
 - MD5 Checksum: `824e22c0fdaaf5cbbd8eb66639e0e2ea`
 - Additional Info:
   - Credentials: user: `joy`, password: `pa$$w0rd10` 
@@ -531,7 +531,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Eth007
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link](https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link)
-- Additional Downloads: `tbd`
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/InsideOutUbunru/msf24_ubu22_p_sh_arena.zip](https://scoreboard.titanturtles.xyz/files/InsideOutUbunru/msf24_ubu22_p_sh_arena.zip)
 - MD5 Checksum: `945F145580306210028CA08F46A18C48`
 - Additional Info:
   - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
