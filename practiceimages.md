@@ -168,7 +168,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip](https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip)
 - MD5 Checksum: `767d2c696c5c360697c9d3d0979dbb63`
 - Additional Info:
-  - Original Website: https://cybervoid.me/projects/cincinnati/
+  - Original Website: https://cybervoid.tech/projects/cincinnati/
   - User: Harambe
   - Password: 3stoyMuert0!
   - Answer Key: https://docs.google.com/document/d/1xixc3uMO6NTTUvr9lzw0PxgftJLmPHSJlPsQe9KgqTY/edit?usp=sharing
@@ -183,7 +183,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Downloads: [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip)
 - MD5 Checksum: `4a357ecb1f78c593805cf733ac234074`
 - Additional Info:
-  - Original Website: [https://cybervoid.me/projects/baldi/](https://cybervoid.me/projects/baldi/)
+  - Original Website: [https://cybervoid.tech/projects/baldi/](https://cybervoid.me/projects/baldi/)
   - Vulns: 50
   - Notes: Active Directory, IPsec, Users have reported seeing low disk space errors
   - User: Student
@@ -313,7 +313,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony.zip](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony.zip)
 - MD5 Checksum: `efa2078baa34e6b356645aa2060adbb2`
 - Additional Info:
-  - Original Website: https://cybervoid.me/projects/mlp/
+  - Original Website: https://cybervoid.tech/projects/mlp/
   - Vulns: 24
   - Notes: Easy vulns but extremely broken
   - User: Rainbow Dash
