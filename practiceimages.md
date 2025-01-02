@@ -427,6 +427,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### KALI'S UBUNTU IMAGE
+
+<img src="https://github.com/user-attachments/assets/6e5b9052-4be7-416f-87e2-cdd523b912b7" width="400"/>
+
 - Name: KALI'S WINDOWS IMAGE
 - OS: UBUNTU 18
 - Author: KaliPatriot
@@ -440,8 +443,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### HOUSE ON THE BORDERLAND
-<img src="https://github.com/user-attachments/assets/0cfc9fb2-7863-4bd1-99c2-90e6fb6f01b7" width="400"/>
 
+<img src="https://github.com/user-attachments/assets/0cfc9fb2-7863-4bd1-99c2-90e6fb6f01b7" width="400"/>
 
 - Name: HOUSE ON THE BORDERLAND
 - OS: UBUNTU 20
