@@ -548,6 +548,9 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 ---
 
 ### INSIDE OUT UBUNTU
+
+<img src="https://github.com/user-attachments/assets/e17a1b0a-7fbb-4f45-82ea-defcb3979a9d" width="400"/>
+
 - Name: INSIDE OUT UBUNTU
 - OS: UBUNTU 22
 - Author: Eth007
