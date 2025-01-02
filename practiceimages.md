@@ -327,6 +327,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### SUNRISE FOUNDATION TRAINING SIMULATION
+<img src="https://github.com/user-attachments/assets/be66f349-75a5-4061-bc04-6d7b19e830ec" width="400"/>
+
 - Name: SUNRISE FOUNDATION TRAINING SIMULATION
 - OS: WINDOWS 2022
 - Author: CarbonIce
