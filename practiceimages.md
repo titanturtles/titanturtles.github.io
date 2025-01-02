@@ -104,6 +104,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### MUSHROOM KINGDOM
+
+<img src="https://github.com/user-attachments/assets/62756ae1-c23a-4354-b90d-b7a8cdbac90e" width="400"/>
+
   - Name: MUSHROOM KINGDOM
   - OS: WINDOWS SERVER 2019
   - Author:
