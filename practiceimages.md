@@ -31,6 +31,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [KALI'S WINDOWS IMAGE: Win 10, M](#kalis-windows-image)
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
+* [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)
 
 ---
 
@@ -319,9 +320,24 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - User: Rainbow Dash
   - Password: ItNe3dsT0Be20%C00L3r
   - Answer Key: https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing
-  - Walkthrough: https://cybervoid.me/posts/my-little-pony-walkthrough/
+  - Walkthrough: https://cybervoid.tech/posts/my-little-pony-walkthrough/
   - Walkthrough: (alternate) [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md)
 
+
+---
+
+### SUNRISE FOUNDATION TRAINING SIMULATION
+- Name: SUNRISE FOUNDATION TRAINING SIMULATION
+- OS: WINDOWS 2022
+- Author: CarbonIce
+- Difficulty: Super Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1WxriWeMKa066UrHuAn7aQxvrNX3tJC5_](https://drive.google.com/file/d/1WxriWeMKa066UrHuAn7aQxvrNX3tJC5_)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SunriseFoundationTrainingSimulation/vulnverable_server_3.0.zip](https://scoreboard.titanturtles.xyz/files/SunriseFoundationTrainingSimulation/vulnverable_server_3.0.zip)
+- MD5 Checksum: `612dfe4aa1dc47d378b3458593e97dbc`
+- Additional Info:
+  - Credential: User: `adminaccount`, Password: `G0oDLuCK!!`
+  - Extraction Password: `1658502732`
+  - P.S. make sure to read both README's thoroughly. both of them. trust TVO.
   
 ---
 
