@@ -330,6 +330,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### SUNRISE FOUNDATION TRAINING SIMULATION
+
+<img src="https://github.com/user-attachments/assets/3bff6c51-7691-4dd5-80b2-3d8b9fdec695" width="400"/>
 <img src="https://github.com/user-attachments/assets/be66f349-75a5-4061-bc04-6d7b19e830ec" width="400"/>
 
 - Name: SUNRISE FOUNDATION TRAINING SIMULATION
