@@ -334,7 +334,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Author: CarbonIce
 - Difficulty: Super Hard
 - Google Downloads: (Preferred)
-  [https://drive.google.com/file/d/1WxriWeMKa066UrHuAn7aQxvrNX3tJC5\_/view](https://drive.google.com/file/d/1WxriWeMKa066UrHuAn7aQxvrNX3tJC5\_/view)
+  https://drive.google.com/file/d/1WxriWeMKa066UrHuAn7aQxvrNX3tJC5_/view
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SunriseFoundationTrainingSimulation/vulnerable_server_3.0.zip](https://scoreboard.titanturtles.xyz/files/SunriseFoundationTrainingSimulation/vulnerable_server_3.0.zip)
 - MD5 Checksum: `612dfe4aa1dc47d378b3458593e97dbc`
 - Additional Info:
