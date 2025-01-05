@@ -338,10 +338,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: WINDOWS 2022
 - Author: CarbonIce
 - Difficulty: Super Hard
-- Google Downloads: (Preferred)
-  https://drive.google.com/file/d/1WxriWeMKa066UrHuAn7aQxvrNX3tJC5_/view
+- Google Downloads: (Preferred) [https://discord.com/channels/301768361136750592/414537868766347265/1323896026817626205](https://discord.com/channels/301768361136750592/414537868766347265/1323896026817626205)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SunriseFoundationTrainingSimulation/vulnerable_server_3.0.zip](https://scoreboard.titanturtles.xyz/files/SunriseFoundationTrainingSimulation/vulnerable_server_3.0.zip)
-- MD5 Checksum: `612dfe4aa1dc47d378b3458593e97dbc`
+- MD5 Checksum: `0DB33F6C823CECAEC97330F256859827`
 - Additional Info:
   - Credential: User: `adminaccount`, Password: `G0oDLuCK!!`
   - Extraction Password: `1658502732`
