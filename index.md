@@ -66,19 +66,19 @@ Instagram: [@titanturtles](https://www.instagram.com/titanturtles)
 </style>
 <div class="snowflakes" aria-hidden="true">
   <div class="snowflake">
-    <div class="inner">*</div>
+    <div class="inner">&#x1f422;</div>
   </div>
   <div class="snowflake">
-    <div class="inner">*</div>
+    <div class="inner">❅</div>
   </div>
   <div class="snowflake">
-    <div class="inner">*</div>
+    <div class="inner">❅</div>
   </div>
   <div class="snowflake">
-    <div class="inner">*</div>
+    <div class="inner">❅</div>
   </div>
   <div class="snowflake">
-    <div class="inner">*</div>
+    <div class="inner">❅</div>
   </div>
   <div class="snowflake">
     <div class="inner">❅</div>
