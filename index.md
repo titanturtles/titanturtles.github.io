@@ -57,7 +57,7 @@ Instagram: [@titanturtles](https://www.instagram.com/titanturtles)
 /* customizable snowflake styling */
 .snowflake {
   color: #fff;
-  font-size: 1em;
+  font-size: 2em;
   font-family: Arial, sans-serif;
   text-shadow: 0 0 5px #000;
 }
@@ -66,19 +66,19 @@ Instagram: [@titanturtles](https://www.instagram.com/titanturtles)
 </style>
 <div class="snowflakes" aria-hidden="true">
   <div class="snowflake">
-    <div class="inner">❅</div>
+    <div class="inner">*</div>
   </div>
   <div class="snowflake">
-    <div class="inner">❅</div>
+    <div class="inner">*</div>
   </div>
   <div class="snowflake">
-    <div class="inner">❅</div>
+    <div class="inner">*</div>
   </div>
   <div class="snowflake">
-    <div class="inner">❅</div>
+    <div class="inner">*</div>
   </div>
   <div class="snowflake">
-    <div class="inner">❅</div>
+    <div class="inner">*</div>
   </div>
   <div class="snowflake">
     <div class="inner">❅</div>
