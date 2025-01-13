@@ -404,7 +404,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - OS: FEDORA 38
 - Author: Eth007
 - Difficulty: Super Hard
-- Google Downloads: (Preferred) [https://drive.google.com/file/d/1N6fpGL-ZlT5C8nvf4Y68nSKz65CqyfBH/view](https://drive.google.com/file/d/1N6fpGL-ZlT5C8nvf4Y68nSKz65CqyfBH/view)
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1pf11TRG9gh94x0wli3-tX3P4PlQhccmW/view?usp=drive_link](https://drive.google.com/file/d/1pf11TRG9gh94x0wli3-tX3P4PlQhccmW/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip](https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip)
 - MD5 Checksum: `9b002dcd1b895b8f2a0ce8e7db4d2ce6`
 - Additional Info:
