@@ -51,7 +51,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
 * [INSIDE OUT: Deb 11, SH](#inside-out-debian)
 * [INSIDE OUT: Ubu 22, SH](#inside-out-ubuntu)
-* [CYBERTECH UBUNTU IMAGE: Ubu 22, E](#cybertech-ubuntu-image)
+* [CYBERTECH UBUNTU IMAGE: Ubu 24, E](#cybertech-ubuntu-image)
 
 ---
 
@@ -579,7 +579,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 ### CYBERTECH UBUNTU IMAGE
 
 - Name: CYBERTECH UBUNTU IMAGE
-- OS: UBUNTU 22
+- OS: UBUNTU 24
 - Author: immortalmanan
 - Difficulty: Easy
 - Google Downloads: [https://drive.google.com/file/d/10QHbNdrtHqyX0U-5KMdIBHvdUt8FVi4e/view?usp=sharing](https://drive.google.com/file/d/10QHbNdrtHqyX0U-5KMdIBHvdUt8FVi4e/view?usp=sharing)
