@@ -51,6 +51,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
 * [INSIDE OUT: Deb 11, SH](#inside-out-debian)
 * [INSIDE OUT: Ubu 22, SH](#inside-out-ubuntu)
+* [CyberTech Ubuntu Image: Ubu 22, E](#cybertech-ubuntu-image)
 
 ---
 
@@ -571,6 +572,22 @@ First player to score 100 on both images will receive Discord Nitro for one mont
     - "2024-12-20 09:31:16 PST
 Images and Info
 First player to score 100 on both images will receive Discord Nitro for one month. Collaboration is permitted, but only one prize. If for any reason I suspect tampering or reverse engineering the engine, you are ineligible for the prize."
+
+
+---
+
+### CYBERTECH UBUNTU IMAGE
+
+- Name: CYBERTECH UBUNTU IMAGE
+- OS: UBUNTU 22
+- Author: immortalmanan
+- Difficulty: Easy
+- Google Downloads: [https://drive.google.com/file/d/10QHbNdrtHqyX0U-5KMdIBHvdUt8FVi4e/view?usp=sharing](https://drive.google.com/file/d/10QHbNdrtHqyX0U-5KMdIBHvdUt8FVi4e/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CyberTech/CyberTech%20Image.zip](https://scoreboard.titanturtles.xyz/files/CyberTech/CyberTech%20Image.zip)
+- MD5 Checksum: `c421c11a64807ad8ca54a50121c46aaa`
+- Additional Info:
+  - Credential: User: `jmuskington`, Password: `password123!`
+    
 
 <style>
 /* customizable snowflake styling */
