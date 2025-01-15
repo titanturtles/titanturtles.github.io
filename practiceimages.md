@@ -51,7 +51,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [BLOONS TD6 THEME: Deb 10, E](#bloons-td-6-theme)
 * [INSIDE OUT: Deb 11, SH](#inside-out-debian)
 * [INSIDE OUT: Ubu 22, SH](#inside-out-ubuntu)
-* [CyberTech Ubuntu Image: Ubu 22, E](#cybertech-ubuntu-image)
+* [CYBERTECH UBUNTU IMAGE: Ubu 22, E](#cybertech-ubuntu-image)
 
 ---
 
