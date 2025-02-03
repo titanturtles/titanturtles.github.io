@@ -294,6 +294,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Extraction Password: `1658502732`
   - "P.S. make sure to read both README's thoroughly. both of them. trust TVO."
   - Vulncats:
+    ```
      | Total Vulns:               | 35 | 34 | 69 |
      | -------------------------- | -- | -- | -- |
      | Forensics                  |  0 |  3 |  3 |
@@ -316,7 +317,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
      | MailEnable                 |  0 |  5 |  5 |
      | MySQL                      |  3 |  0 |  3 |
      | SMB                        |  0 |  1 |  1 |
-
+    ```
+    
 ---
 
 ### TOKYO III
