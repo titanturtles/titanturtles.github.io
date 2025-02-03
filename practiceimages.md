@@ -29,6 +29,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [KALI'S WINDOWS IMAGE: Win 10, M](#kalis-windows-image)
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 * [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)
+* [TOKYO III: WinServer 2025, SH](#tokyo-iii)
 
 ---
 
@@ -287,7 +288,27 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Credential: User: `adminaccount`, Password: `G0oDLuCK!!`
   - Extraction Password: `1658502732`
   - P.S. make sure to read both README's thoroughly. both of them. trust TVO.
-  
+
+---
+
+### TOKYO III
+
+<img src="https://github.com/user-attachments/assets/2dfccdca-df63-496b-9de8-46deab5b5e5a" width="400"/>
+
+- Name: TOKYO III
+- OS: Windows Server 2025
+- Author: x1nni
+- Difficulty: Super Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1ESfNnXQCUSI6tL_WgadnmJjPCG8zcOw_/view?usp=sharing](https://drive.google.com/file/d/1ESfNnXQCUSI6tL_WgadnmJjPCG8zcOw_/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Tokyo3/Tokyo-3.zip](https://scoreboard.titanturtles.xyz/files/Tokyo3/Tokyo-3.zip)
+- MD5 Checksum: `F4E3853960E04CA1BF0B62D2648B51B2`
+- Additional Info:
+  - "Don’t run away. Don’t run away."
+  - Credentials: Username: `sikari`, Password: `IMu$t(N0t)Run&w4y`
+  - "Limited Time: The first person to max this image and DM @x1nni on Discord with a screenshot gets 3 free months of YouTube Premium and 1 free month of Xbox PC Game Pass!"
+  - Original Release: 3 Feb 2025
+  - Original Website: https://ejinnis.ca/practice-images/tokyo-3/
+    
 ---
 
 ### SPACE FORCE SERVER
