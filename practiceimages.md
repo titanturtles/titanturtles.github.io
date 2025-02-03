@@ -229,6 +229,9 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ---
 
 ### PRINCETON-PLAINSBORO TEACHING HOSPITAL
+
+<img src="https://github.com/user-attachments/assets/7f628c97-c0ca-4ef8-9cd2-4bc27bfa2f77" width="400"/>
+
 - Name: PRINCETON-PLAINSBORO TEACHING HOSPITAL(PPTH)
 - OS: WINDOWS 11
 - Author: x1nni 
@@ -237,9 +240,11 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/PPTH/x1nni_ppth_h_win11.7z](https://scoreboard.titanturtles.xyz/files/PPTH/x1nni_ppth_h_win11.7z)
 - MD5 Checksum: `dc9d1d3c84cd08e29f1928f2ef9c7446`
 - Additional Info:
-  - Original Website: [https://x1nni.xyz/ppth.html](https://x1nni.xyz/ppth.html)
+  - Original Website: [https://ejinnis.ca/practice-images/princeton-plainsboro-teaching-hospital/](https://ejinnis.ca/practice-images/princeton-plainsboro-teaching-hospital/)
   - Answer Key: [https://docs.google.com/document/u/1/d/1TbgaE_jOj1PaEsjuev1fS_cVyovI7mVHE-7B-AwKtvc/edit](https://docs.google.com/document/u/1/d/1TbgaE_jOj1PaEsjuev1fS_cVyovI7mVHE-7B-AwKtvc/edit)
   - Walkthough: [https://www.youtube.com/watch?v=VuE2TXE1rEo](https://www.youtube.com/watch?v=VuE2TXE1rEo)
+  - "Think outside the box."
+  - Original Release: 2 Feb 2023
 
 ---
 
