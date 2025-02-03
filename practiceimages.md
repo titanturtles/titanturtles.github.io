@@ -337,7 +337,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Credentials: Username: `sikari`, Password: `IMu$t(N0t)Run&w4y`
   - "Limited Time: The first person to max this image and DM @x1nni on Discord with a screenshot gets 3 free months of YouTube Premium and 1 free month of Xbox PC Game Pass!"
   - Original Release: 3 Feb 2025
-  - Original Website: https://ejinnis.ca/practice-images/tokyo-3/
+  - Original Website: [https://ejinnis.ca/practice-images/tokyo-3/](https://ejinnis.ca/practice-images/tokyo-3/)
     
 ---
 
