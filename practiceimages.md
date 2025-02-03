@@ -23,14 +23,11 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [MUSHROOM KINGDOM: WinServer 2019, M](#mushroom-kingdom)
 * [SANTAS WORKSHOP: Win 10, E](#santas-workshop)
 * [RETURN OF THE KING: WinServer 2022, M](#return-of-the-king)
-* [CINCINATTI ZOO: Win 10, E](#cincinatti-zoo)
-* [BALDI'S BASICS: WinServer 2022, SH](#baldis-basics)
 * [ALPHABET SOUP: Win 10, H-SH](#alphabet-soup)
 * [APERTURE SCIENCE: Win 10, H-SH](#aperture-science-windows)
 * [PRINCETON-PLAINSBORO TEACHING HOSPITAL: Win 11, H-SH](#princeton-plainsboro-teaching-hospital)
 * [KALI'S WINDOWS IMAGE: Win 10, M](#kalis-windows-image)
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
-* [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)
 
 ---
@@ -164,41 +161,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ---
 
-### CINCINATTI ZOO
-- Name: CINCINATTI ZOO
-- OS: WINDOWS 10
-- Author: Donkey (discord: d0nkeyman)
-- Difficulty: Easy
-- Google Downloads: (Preferred) [https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view](https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip](https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip)
-- MD5 Checksum: `767d2c696c5c360697c9d3d0979dbb63`
-- Additional Info:
-  - Original Website: https://cybervoid.tech/projects/cincinnati/
-  - User: Harambe
-  - Password: 3stoyMuert0!
-  - Answer Key: https://docs.google.com/document/d/1xixc3uMO6NTTUvr9lzw0PxgftJLmPHSJlPsQe9KgqTY/edit?usp=sharing
-
----
-
-### BALDI'S BASICS
-- Name: BALDIS BASICS
-- OS: WINDOWS SERVER 2022
-- Author: Donkey (discord: d0nkeyman)
-- Difficulty: Super Hard
-- Downloads: [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip)
-- MD5 Checksum: `4a357ecb1f78c593805cf733ac234074`
-- Additional Info:
-  - Original Website: [https://cybervoid.tech/projects/baldi/](https://cybervoid.me/projects/baldi/)
-  - Vulns: 50
-  - Notes: Active Directory, IPsec, Users have reported seeing low disk space errors
-  - User: Student
-  - Password: study
-  - Answer Key: https://cybervoid.me/posts/baldis-basics-answer-key/
-  - Answer Key: (alternate) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf)
-  - Answer Key: (md version) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.md](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.md)
-
----
-
 ### ALPHABET SOUP
 <img src="https://github.com/user-attachments/assets/836ecb10-9c2f-4873-a844-4366961877d4" width="400"/>
 
@@ -306,27 +268,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Walkthrough: 
     - Video: [https://www.youtube.com/watch?v=6DjIExkbVoE](https://www.youtube.com/watch?v=6DjIExkbVoE)
     - Docs: [https://docs.google.com/presentation/d/1zO4cRpTY2b6SQK55EVPe7XSQKe2YqA8pwq7TOeYOvxg/edit?usp=sharing](https://docs.google.com/presentation/d/1zO4cRpTY2b6SQK55EVPe7XSQKe2YqA8pwq7TOeYOvxg/edit?usp=sharing)
-
----
-
-### MY LITTLE PONY
-- Name: MY LITTLE PONY
-- OS: WINDOWS 10
-- Author: Donkey (discord: d0nkeyman)
-- Difficulty: Medium
-- Google Downloads: (Preferred) [https://drive.google.com/file/d/1Og8lIMVqGKKenFXTpWYhA8X-szXyRtcY/view?usp=share_link](https://drive.google.com/file/d/1Og8lIMVqGKKenFXTpWYhA8X-szXyRtcY/view?usp=share_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony.zip](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony.zip)
-- MD5 Checksum: `efa2078baa34e6b356645aa2060adbb2`
-- Additional Info:
-  - Original Website: https://cybervoid.tech/projects/mlp/
-  - Vulns: 24
-  - Notes: Easy vulns but extremely broken
-  - User: Rainbow Dash
-  - Password: ItNe3dsT0Be20%C00L3r
-  - Answer Key: https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing
-  - Walkthrough: https://cybervoid.tech/posts/my-little-pony-walkthrough/
-  - Walkthrough: (alternate) [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md)
-
 
 ---
 
