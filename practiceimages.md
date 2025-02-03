@@ -292,7 +292,30 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Info:
   - Credential: User: `adminaccount`, Password: `G0oDLuCK!!`
   - Extraction Password: `1658502732`
-  - P.S. make sure to read both README's thoroughly. both of them. trust TVO.
+  - "P.S. make sure to read both README's thoroughly. both of them. trust TVO."
+  - Vulncats:
+     | Total Vulns:               | 35 | 34 | 69 |
+     | -------------------------- | -- | -- | -- |
+     | Forensics                  |  0 |  3 |  3 |
+     | Account Policy             |  1 |  0 |  1 |
+     | Defensive Countermeasures  |  2 |  2 |  4 |
+     | Local Policy               |  6 |  3 |  9 |
+     | Malware                    |  1 |  2 |  3 |
+     | Prohibited Files           |  4 |  1 |  5 |
+     | Service Auditing           |  2 |  3 |  5 |
+     | Unwanted Software          |  3 |  0 |  3 |
+     | Ucat. OS Settings          |  2 |  5 |  7 |
+     | User Auditing              |  4 |  1 |  5 |
+     | App Sec (Combined)         |  9 | 13 | 22 |
+     | -------------------------- | -- | -- | -- |
+     | AD                         |  0 |  2 |  2 |
+     | AD:CS                      |  0 |  1 |  1 |
+     | DNS                        |  2 |  1 |  3 |
+     | RDP                        |  3 |  0 |  3 |
+     | IIS                        |  1 |  3 |  4 |
+     | MailEnable                 |  0 |  5 |  5 |
+     | MySQL                      |  3 |  0 |  3 |
+     | SMB                        |  0 |  1 |  1 |
 
 ---
 
