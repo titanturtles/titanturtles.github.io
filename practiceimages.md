@@ -554,6 +554,9 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - MD5 Checksum: `c421c11a64807ad8ca54a50121c46aaa`
 - Additional Info:
   - Credential: User: `jmuskington`, Password: `password123!`
+  - Writeup:
+    - Author: shaamad
+    - [https://github.com/caol777/Cyber-Tech-Ubuntu-Practice-image-writeup](https://github.com/caol777/Cyber-Tech-Ubuntu-Practice-image-writeup)
     
 
 <style>
