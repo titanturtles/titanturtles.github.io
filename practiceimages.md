@@ -331,7 +331,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Difficulty: Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1ESfNnXQCUSI6tL_WgadnmJjPCG8zcOw_/view?usp=sharing](https://drive.google.com/file/d/1ESfNnXQCUSI6tL_WgadnmJjPCG8zcOw_/view?usp=sharing)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Tokyo3/Tokyo-3.zip](https://scoreboard.titanturtles.xyz/files/Tokyo3/Tokyo-3.zip)
-- MD5 Checksum: `F4E3853960E04CA1BF0B62D2648B51B2`
+- MD5 Checksum: `ED8548FE59BFB618048F79C52CA8E090`
 - Additional Info:
   - "Don’t run away. Don’t run away."
   - Credentials: Username: `sikari`, Password: `IMu$t(N0t)Run&w4y`
