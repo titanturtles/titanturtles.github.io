@@ -45,6 +45,8 @@ Standard Camp: $300 by April 30th ($350 starting May 1st)\
 Advanced Camp: $400 by April 30th ($500 starting May 1st)\
 Both Camps: $650 by April 30th ($800 starting May 1st)
 
+(Students with financial difficulties can apply for scholarship.)
+
 * * *
 
 ## Minimum Hardware requirement:
