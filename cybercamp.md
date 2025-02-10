@@ -69,11 +69,11 @@ Standard camps are designed to teach beginner students the basics of cybersecuri
 
 *Tuesday:* Cybersecurity principles, basic Windows security policies and tools, account management, windows file protections, and auditing and monitoring. Students will follow along and work with the Windows 10 demonstration image.
 
-*Wednesday:* Introduction to Linux, Ubuntu 18 terminology and concepts, basic GUI security, and intro to CLI. Students will follow along and work with the Ubuntu 18 demonstration image. 
+*Wednesday:* Introduction to Linux, Mint terminology and concepts, basic GUI security, and intro to CLI. Students will follow along and work with the Mint demonstration image. 
 
-*Thursday:* Basic command line security and intermediate Ubuntu security. Students will follow along and work with the Ubuntu 18  demonstration image.
+*Thursday:* Basic command line security and intermediate Mint security. Students will follow along and work with the Mint demonstration image.
 
-*Friday:* CyberPatriot competition day. Students will compete against their fellow campers on Windows 10 and Ubuntu 18 competition images. 
+*Friday:* CyberPatriot competition day. Students will compete against their fellow campers on Windows 10 and Mint competition images. 
 
 ### Advanced Camp:
 
@@ -87,13 +87,13 @@ The Advanced Camp curriculum is designed to allow instructors to pick and choose
 
 *Monday:* Cyber Ethics Module, Windows 10 Module
 
-*Tuesday:* Windows 10 Module, Ubuntu 18
+*Tuesday:* Windows 10 Module, Mint
 
-*Wednesday:* Ubuntu 18 Module 
+*Wednesday:* Mint Module 
 
 *Thursday:* Cisco Networking
 
-*Friday:* CyberPatriot competition day. Teams of students compete against each other on advanced Windows 10 and Ubuntu 18 images.
+*Friday:* CyberPatriot competition day. Teams of students compete against each other on advanced Windows 10 and Mint images.
 
 * * *
 
