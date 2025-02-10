@@ -11,7 +11,7 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 * * *
 
-## Apply:
+## Register:
 
 [Register for 2025 Summer CyberCamp](https://www.zeffy.com/ticketing/2025-titanturtles-cyberpatriot-cybercamp). 
 
