@@ -7,7 +7,7 @@ layout: default
 
 # Summer CyberCamp 2025
 
-We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time.
+We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time. We are Oregon Champions.
 
 * * *
 
