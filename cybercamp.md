@@ -15,7 +15,9 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 [Register for 2025 Summer CyberCamp](https://www.zeffy.com/ticketing/2025-titanturtles-cyberpatriot-cybercamp). 
 
-It is 100% refundable if you decided to withdraw before June 1st, 2025. After June 1st, no refund will be given.
+**(Please note, when you pay through zeffy, please set the extra fee to $0. We are not receiving these fees. Therefore, we cannot refund you these fees.)**
+
+It is 100% refundable if you decided to withdraw before June 1st, 2025. After June 1st, no refund will be given. 
 
 * * *
 
