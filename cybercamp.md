@@ -49,7 +49,7 @@ Both Camps: $650 by April 30th ($800 starting May 1st)
 
 ## Minimum Hardware requirement:
 
-Intel/AMD Quad core computers with internet connection, and at least 16GB of memory (RAM) and 100GB free SSD harddrive space. AMD computers should work fine. 
+Intel/AMD Quad core computers with internet connection, and at least 16GB of memory (RAM) and 100GB free SSD harddrive space.
 
 (Costco has qualified laptop at $700 and up. Amazon has qualified renewed laptop at less then $300, but YMMV.)
 
