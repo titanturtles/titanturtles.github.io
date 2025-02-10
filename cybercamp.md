@@ -63,7 +63,7 @@ Standard camps are designed to teach beginner students the basics of cybersecuri
 
 *Windows 10 Module* -- Security Policies, Account Management, File Protections, Auditing & Monitoring.
 
-*Ubuntu 18 Module* -- Terminology & Concepts, Basic User Interface Security, Basic Command Line, Intermediate Security
+*Mint (Linux) Module* -- Terminology & Concepts, Basic User Interface Security, Basic Command Line, Intermediate Security
 
 *Monday:* Introduction to the CyberPatriot National Youth Cyber Defense Competition, introduction to cybersecurity & careers, cyber ethics, online safety, how computers work, virtual machines, and cyber threats.
 
@@ -81,7 +81,7 @@ The Advanced Camp curriculum is designed to allow instructors to pick and choose
 
 *Windows 10 Module* -- Windows Graphical Utilities, Windows Command Line, optional Sysinternals Suite.
 
-*Mint Module* -- Init Systems, Advanced Command Line, Processes and Scheduled Tasks, optional Security Policies and PAM, optional Networking.
+*Mint (Linux) Module* -- Init Systems, Advanced Command Line, Processes and Scheduled Tasks, optional Security Policies and PAM, optional Networking.
 
 *Cisco NetAcad* -- Networking Modules 1-3.
 
