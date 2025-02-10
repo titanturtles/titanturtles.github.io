@@ -5,7 +5,7 @@ layout: default
 
 ## [Root](./index.html) | [Join](./apply.html) | **Camp** | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
-# Summer CyberCamp 2024
+# Summer CyberCamp 2025
 
 We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time.
 
@@ -13,16 +13,16 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 ## Apply:
 
-[Register for 2024 Summer CyberCamp](https://www.zeffy.com/en-US/ticketing/fe028ea7-0826-43de-9c82-d0f2ce49649d). 
+[Register for 2025 Summer CyberCamp](https://www.zeffy.com/ticketing/2025-titanturtles-cyberpatriot-cybercamp). 
 
-It is 100% refundable if you decided to withdraw before July 1st, 2024. After July 1st, no refund will be given.
+It is 100% refundable if you decided to withdraw before June 1st, 2024. After June 1st, no refund will be given.
 
 * * *
 
 ## Schedule:
 
-Standard Camp: July 29 to August 2, 2024\
-Advanced Camp: August 5 to August 9, 2024
+Standard Camp: July 7 to July 11, 2025\
+Advanced Camp: July 14 to July 18, 2025
 
 Time: 9am to 3pm (PDT)\
 Lunch break (Mon, Tue, Wed, Thur): 11:30am to 12:15pm (PDT)\
@@ -39,22 +39,19 @@ Online: Zoom Meeting
 ## Cost for the camp:
 
 Donation to Master Builders Club:\
-Standard Camp: $350 by April 30th ($450 starting May 1st)\
-Advanced Camp: $450 by April 30th ($600 starting May 1st)\
-Both Camps: $750 by April 30th ($1,000 starting May 1st)
-
-Online VMs access: Extra $50 per week (limited supply)
-(It is recommended to run VMs on your own computer. Online VMs are only for those who really could not get a computer to run the VMs locally.)
+Standard Camp: $300 by April 30th ($350 starting May 1st)\
+Advanced Camp: $400 by April 30th ($500 starting May 1st)\
+Both Camps: $650 by April 30th ($800 starting May 1st)
 
 * * *
 
 ## Hardware requirement:
 
-Intel computers with internet connection, and at least 16GB of memory (RAM) and 100GB free SSD harddrive space. AMD computers should work fine. 
+Intel/AMD computers with internet connection, and at least 16GB of memory (RAM) and 100GB free SSD harddrive space. AMD computers should work fine. 
 
 (Costco has qualified laptop at $700 and up. Amazon has qualified renewed laptop at around $300, but YMMV.)
 
-However, Apple M series computer will not work.
+However, Apple M series computer will not work directly. If you only have apple computer, we can convert the virtual images for you at an extra cost. 
 
 * * * 
 
@@ -84,7 +81,7 @@ The Advanced Camp curriculum is designed to allow instructors to pick and choose
 
 *Windows 10 Module* -- Windows Graphical Utilities, Windows Command Line, optional Sysinternals Suite.
 
-*Ubuntu 18 Module* -- Init Systems, Advanced Command Line, Processes and Scheduled Tasks, optional Security Policies and PAM, optional Networking.
+*Mint Module* -- Init Systems, Advanced Command Line, Processes and Scheduled Tasks, optional Security Policies and PAM, optional Networking.
 
 *Cisco NetAcad* -- Networking Modules 1-3.
 
