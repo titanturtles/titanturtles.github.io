@@ -45,11 +45,11 @@ Both Camps: $650 by April 30th ($800 starting May 1st)
 
 * * *
 
-## Hardware requirement:
+## Minimum Hardware requirement:
 
-Intel/AMD computers with internet connection, and at least 16GB of memory (RAM) and 100GB free SSD harddrive space. AMD computers should work fine. 
+Intel/AMD Quad core computers with internet connection, and at least 16GB of memory (RAM) and 100GB free SSD harddrive space. AMD computers should work fine. 
 
-(Costco has qualified laptop at $700 and up. Amazon has qualified renewed laptop at around $300, but YMMV.)
+(Costco has qualified laptop at $700 and up. Amazon has qualified renewed laptop at less then $300, but YMMV.)
 
 However, Apple M series computer will not work directly. If you only have apple computer, we can convert the virtual images for you at an extra cost. 
 
