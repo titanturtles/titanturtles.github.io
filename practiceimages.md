@@ -30,7 +30,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 * [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)
 * [TOKYO III: WinServer 2025, SH](#tokyo-iii)
-* [DEMOCRATIC PEOPLES REPUBLIC OF KOREA: WinServer 2025, M-H](#democratic-peoples-republic-of-korea)
+* [DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA: WinServer 2025, M-H](#democratic-peoples-republic-of-korea)
 
 ---
 
