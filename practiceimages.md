@@ -30,6 +30,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
 * [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)
 * [TOKYO III: WinServer 2025, SH](#tokyo-iii)
+* [DEMOCRATIC PEOPLES REPUBLIC OF KOREA: WinServer 2025, M-H](#democratic-peoples-republic-of-korea)
 
 ---
 
@@ -341,6 +342,23 @@ If there is error in any of the content, please reach out to us at titanturtlest
     
 ---
 
+### DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA
+
+<img src="https://github.com/user-attachments/assets/16b8df4c-ee2c-4998-8791-4cee4fe4bdc9" width="400"/>
+
+- Name: DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA
+- OS: Windows Server 2025
+- Author: lolmenow, SG, and a_person
+- Difficulty: Medium - Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1FJ9ZxVpQDMaX29SVykuNW1LMODr3BAGu/view?usp=sharing](https://drive.google.com/file/d/1FJ9ZxVpQDMaX29SVykuNW1LMODr3BAGu/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/NorthKorea/DPRoK.7z](https://scoreboard.titanturtles.xyz/files/NorthKorea/DPRoK.7z)
+- MD5 Checksum: `7f3e6c1478e7881684ab4c9e2afe22cc`
+- Additional Info:
+  - Important: Secure VBS last, as one of the points may break logon
+  - Credentials: Username: `Kim Jong Un`, Password: `N0rThKoR3@thEGo@t!!`
+  - Original Website: [https://sakouk.me/cyberpatriot](https://sakouk.me/cyberpatriot)
+    
+---
 ### SPACE FORCE SERVER
 - Name: SPACE FORCE SERVER
 - OS: DEBIAN 8
