@@ -373,6 +373,18 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z)
 - MD5 Checksum: ``
 - Additional Info:
+  - Original Website: [https://00.edu.ci/](https://00.edu.ci/)  
+  - Walkthrough: [https://sigma.00.edu.ci/Windows%20Persistence%20Writeup.pdf](https://sigma.00.edu.ci/Windows%20Persistence%20Writeup.pdf)
+  - Important Notes:
+    - Scoring report & README shortcuts on desktop do not work.
+    - Access them manually at:
+    - 📄 C:\aeacus\assets\ScoringReport.html
+    - 📄 C:\aeacus\assets\ReadMe.html
+    - 🔎 **IIS (Internet Information Services) is an authorized, critical service. Ensure you check it for persistence mechanisms.**
+    - 🛑 **Do not alter or delete**:
+    - ⚙ C:\Tools
+    - 🦆 C:\DesktopGoose
+    - (Removing these will not give points and may break the image.)
 
 ---
 ### SPACE FORCE SERVER
