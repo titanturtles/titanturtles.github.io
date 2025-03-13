@@ -31,6 +31,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)
 * [TOKYO III: WinServer 2025, SH](#tokyo-iii)
 * [DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA: WinServer 2025, M-H](#democratic-peoples-republic-of-korea)
+* [WINDOWS PERSISTENCE: WinServer 2025, ?](#windows-persistence)
 
 ---
 
@@ -359,7 +360,20 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - Important: Secure VBS last, as one of the points may break logon
   - Credentials: Username: `Kim Jong Un`, Password: `N0rThKoR3@thEGo@t!!`
   - Original Website: [https://sakouk.me/cyberpatriot](https://sakouk.me/cyberpatriot)
-    
+
+---
+
+### WINDOWS PERSISTENCE
+
+- Name: WINDOWS PERSISTENCE
+- OS: Windows Server 2025
+- Author: pumpkinjones6_02843 
+- Difficulty: ?
+- Sigma Downloads: (Preferred) [https://sigma.00.edu.ci/Windows%20Persistence%20(Server%202025).7z](https://sigma.00.edu.ci/Windows%20Persistence%20(Server%202025).7z)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z)
+- MD5 Checksum: ``
+- Additional Info:
+
 ---
 ### SPACE FORCE SERVER
 - Name: SPACE FORCE SERVER
