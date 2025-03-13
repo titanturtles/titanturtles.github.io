@@ -51,6 +51,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 * [INSIDE OUT: Deb 11, SH](#inside-out-debian)
 * [INSIDE OUT: Ubu 22, SH](#inside-out-ubuntu)
 * [CYBERTECH UBUNTU IMAGE: Ubu 24, E](#cybertech-ubuntu-image)
+* [KIMETSU NO YAIBA: Ubu 22, H](#kimetsu-no-yaiba)
 
 ---
 
@@ -602,6 +603,22 @@ First player to score 100 on both images will receive Discord Nitro for one mont
     - Author: shaamad
     - [https://github.com/caol777/Cyber-Tech-Ubuntu-Practice-image-writeup](https://github.com/caol777/Cyber-Tech-Ubuntu-Practice-image-writeup)
     
+
+---
+
+### KIMETSU NO YAIBA
+
+<img src="https://github.com/user-attachments/assets/cb3508c0-6ffa-4151-ad0f-98500c8a4361" width="400"/>
+
+- Name: KIMETSU NO YAIBA
+- OS: UBUNTU 22
+- Author: samn0270_65431
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1O3TSZnGTQf-pgcBOs7-d2XPuqYWgtCWE/view](https://drive.google.com/file/d/1O3TSZnGTQf-pgcBOs7-d2XPuqYWgtCWE/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KimetsuNoYaiba/Kimetsu%20No%20Yaiba.7z](https://scoreboard.titanturtles.xyz/files/KimetsuNoYaiba/Kimetsu%20No%20Yaiba.7z)
+- MD5 Checksum: `60fe90b23559ca79d66eddfe08a30c60`
+- Additional Info:
+
 
 <style>
 /* customizable snowflake styling */
