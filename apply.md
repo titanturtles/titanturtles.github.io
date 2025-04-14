@@ -7,7 +7,7 @@ layout: default
 
 # Applications:
 
-We are open for applying for the 2024-2025 CyberPatriot season. Click [here](https://www.zeffy.com/en-US/ticketing/8256a800-7f5a-4ba5-8f24-07488d69a3f3) to apply. 
+We are open for applying for the 2025-2026 CyberPatriot season. Click [here](https://www.zeffy.com/en-US/ticketing/8256a800-7f5a-4ba5-8f24-07488d69a3f3) to apply. 
 
 ## Introduction
 
@@ -19,11 +19,15 @@ CyberPatriot is a nationwide youth cybersecurity competition program managed by 
 
 Every year, the CyberPatriot competition season starts in April when registration is open (Competition starts in October) and ends in March of the next year when the National Final is held in Maryland.
 
-
 TitanTurtles Club Teams won\
+
+2024-2025
+
+* [CyberPatriot National Final 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
+
 2023-2024
 
-* [CyberPatriot National Final No. 4](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-XVI-National-Finals-Competition.aspx)
+* [CyberPatriot National Final 4th Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-XVI-National-Finals-Competition.aspx)
 
 * [CP Discord Open No.4](https://discord.com/cyberpatriot)
 
