@@ -7,7 +7,7 @@ layout: default
 
 # Applications:
 
-We are open for applying for the 2025-2026 CyberPatriot season. Click [here](https://www.zeffy.com/en-US/ticketing/8256a800-7f5a-4ba5-8f24-07488d69a3f3) to apply. 
+We are open for applying for the 2025-2026 CyberPatriot season. Click [here](https://www.zeffy.com/ticketing/3062b9e5-c9b4-43c2-aa0a-67edc167b158) to apply. 
 
 ## Introduction
 
@@ -54,7 +54,7 @@ Off season (March - August):
 * Recruiting season
 * CTF and other competitions
 * Offseason preparation
-* AFA CyberCamps (2 weeks, Standard Camp July 29 - Aug. 2, Advanced Camp Aug. 5 - Aug. 9)
+* AFA CyberCamps (2 weeks, Standard Camp July 7 - July 11, Advanced Camp July 14 - July 18)
 * Team registration
 * Social works
 
@@ -111,8 +111,8 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 * What we actually do?
 
     - Deep dive into computer systems
-    - Windows 10, Windows server 2019
-    - Linux: Ubuntu, Fedora
+    - Windows 11, Windows server 2019, 2022, 2025
+    - Linux: Ubuntu, Fedora, Debian, Mint
     - Cisco Networking
     - Find and Fix Vulnerabilities
 
