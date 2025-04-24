@@ -407,6 +407,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ### NARNIA MINECRAFT SERVER
 <img src="https://github.com/user-attachments/assets/03bb8e38-41a9-46b2-b6f5-c8b60a34d440" width="400"/>
+<img src="https://github.com/user-attachments/assets/119a65bf-9d4a-424a-a7ee-ea92a580ebab" width="400"/>
 
 
 - Name: NARNIA MINECRAFT SERVER (SYS HARDENING 6)
