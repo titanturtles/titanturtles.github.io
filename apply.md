@@ -9,7 +9,7 @@ layout: default
 
 We are open for applying for the 2025-2026 CyberPatriot season. Click [here](https://www.zeffy.com/ticketing/3062b9e5-c9b4-43c2-aa0a-67edc167b158) to apply. 
 
-If your company has donation match program such as Benevity, you can donate directly from your company's donation portal. The entity name is "The Master Builders Club" with tax id 82-4135345. We are running on very low budget. Additional donation match can help us to cover a lot of cost. Very appreciated.
+If your company has donation match program such as Benevity, you can donate directly from your company's donation portal. The entity name is "The Master Builders Club" with tax id 82-4135345. We are running on very low budget. Additional donation match can help us to cover a lot of cost. Very appreciated. Once done with the donation, send us an email to titanturtlesteam@gmail.com about your kid's information.
 
 
 ## Introduction
