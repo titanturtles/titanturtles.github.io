@@ -17,6 +17,8 @@ We are collaborating with Westview High School to provide AFA CyberPatriot Cyber
 
 **(Please note, when you pay through zeffy, set the optional fee to $0. We are not receiving these optional fees. Therefore, we cannot refund you these fees in case a refund occurs.)**
 
+**(If your company has donation match program such as Benevity, you can donate directly from your company's donation portal. The entity name is "The Master Builders Club" with tax id 82-4135345. We are running on very low budget. Additional donation match can help us to cover a lot of cost. Very appreciated. Once done with the donation, send us an email to titanturtlesteam@gmail.com about your kid's information.)**
+
 It is 100% refundable if you decided to withdraw before June 1st, 2025. After June 1st, no refund will be given. 
 
 * * *
