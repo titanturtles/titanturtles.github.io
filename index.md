@@ -31,6 +31,14 @@ We won the Oregon Champion in season 2021~2022, 2022-2023 in high school open di
 
 * * *
 
+# The Titanturtles Team won the 3rd place in High School Open Division at CyberPatriot XVII National Final
+
+![54396219554_ff780d6b0b_osmall](https://github.com/user-attachments/assets/eb983ab7-9daa-4fe5-a52f-6419f0f1588d)
+
+![Third Place Trophy](https://github.com/user-attachments/assets/3875d1af-62bf-4d02-a832-67b5b02340b7)
+
+* * *
+
 # The Titanturtles Team advanced to CyberPatriot XVI National Finalists
 
 ## Ranked #4 in CyberPatriot Final
