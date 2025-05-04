@@ -494,6 +494,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/HouseOnTheBorderland/houseOnTheBorderland.zip](https://scoreboard.titanturtles.xyz/files/HouseOnTheBorderland/houseOnTheBorderland.zip)
 - MD5 Checksum: `59f907e8e40e6c14ff2dab6984468c6c`
 - Additional Info:
+  - Credential: User: `pepper` or `houseOnTheBorderLand`, Pass: `deadworld`
 
 ---
 
