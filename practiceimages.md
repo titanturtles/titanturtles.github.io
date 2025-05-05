@@ -447,6 +447,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip](https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip)
 - MD5 Checksum: `9b002dcd1b895b8f2a0ce8e7db4d2ce6`
 - Additional Info:
+  - Extraction Password; `DWygzjqtQIfsAvzZNbsv` 
   - Original Website: https://eth007.me/blog/cypat/
   - Writeup: [https://github.com/Brycen-walker/CTF-Writeups/blob/main/imaginaryCTF-2023/syshardening-8/README.md](https://github.com/Brycen-walker/CTF-Writeups/blob/main/imaginaryCTF-2023/syshardening-8/README.md)
 
