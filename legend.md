@@ -11,11 +11,13 @@ We work hard, play hard. We appreciate everyone who spent their precious part of
 
 ---
 
-** Christopher Hu **
+**Christopher Hu**
 
 <img src="https://github.com/user-attachments/assets/42d58637-8590-4086-9aac-ead96ed78f8f" alt="Chris" width="600"/>
 
 Hi everyone! My name is Christopher Hu and I joined the club my junior year! I have mainly worked on Windows and I have really enjoyed it a lot! I will be attending University of Maryland -  College Park as a part of the class of 2029. I enjoy hanging out with friends, swimming, hiking, and traveling! I would strongly recommend the Westview TitanTurtles Cybersecurity Club to anyone interested in Computer Science.
+
+Instagram: [https://www.instagram.com/christopher.hu_/](https://www.instagram.com/christopher.hu_/)
 
 ---
 
