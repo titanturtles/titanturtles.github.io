@@ -23,6 +23,14 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ---
 
+## Previously Banned Images
+
+These virtual images are banned before. Try them at your own risk.
+
+[Banned Images](../bannedpracticeimages)
+
+---
+
 ## Windows Images
 
 * [FBI: Win 10](#fbi)
