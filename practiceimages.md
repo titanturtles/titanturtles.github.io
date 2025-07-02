@@ -19,6 +19,8 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 * [VMware](#vmware)
 * [7zip](#7zip)
+* [Packet Tracer](#packet-tracer)
+
 ---
 
 ## Windows Images
@@ -81,6 +83,11 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ### 7zip
   - Official Website: [https://www.7-zip.org/download.html](https://www.7-zip.org/download.html)
   - Windows: [https://scoreboard.titanturtles.xyz/files/Software/7z2408-x64.exe](https://scoreboard.titanturtles.xyz/files/Software/7z2408-x64.exe)
+
+---
+
+### Packet Tracer
+  - Windows: [https://scoreboard.titanturtles.xyz/files/Software/Packet_Tracer822_64bit_setup_signed.exe](https://scoreboard.titanturtles.xyz/files/Software/Packet_Tracer822_64bit_setup_signed.exe)
 
 ---
 
