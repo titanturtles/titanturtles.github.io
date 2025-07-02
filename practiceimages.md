@@ -18,7 +18,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ## Software
 
 * [VMware](#vmware)
-
+* [7zip](#7zip)
 ---
 
 ## Windows Images
@@ -75,6 +75,12 @@ If there is error in any of the content, please reach out to us at titanturtlest
   - MacOS:
     - VMware Fusion 13.6.3
     - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-Fusion-13.6.3-24585314_universal.dmg](https://scoreboard.titanturtles.xyz/files/Software/VMware-Fusion-13.6.3-24585314_universal.dmg)
+
+---
+
+### 7zip
+  - Official Website: [https://www.7-zip.org/download.html](https://www.7-zip.org/download.html)
+  - Windows: [https://scoreboard.titanturtles.xyz/files/Software/7z2408-x64.exe](https://scoreboard.titanturtles.xyz/files/Software/7z2408-x64.exe)
 
 ---
 
