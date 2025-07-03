@@ -29,8 +29,7 @@ Standard Camp: July 7 to July 11, 2025\
 Advanced Camp: July 14 to July 18, 2025
 
 Time: 9am to 3pm (PDT)\
-Lunch break (Mon, Tue, Wed, Thur): 11:30am to 12:15pm (PDT)\
-Lunch break (Friday): 12:30pm to 1:15pm (PDT)
+Lunch break: 11:30am to 12:15pm (PDT)
 
 * * *
 
