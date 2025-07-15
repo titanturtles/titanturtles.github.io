@@ -26,3 +26,5 @@ hypernova: [https://akshayrohatgi.com/blog/posts/How-To-Win-CyberPatriot/](https
 Coach Paul: [https://www.youtube.com/watch?v=mbA7YWqy3Dc](https://www.youtube.com/watch?v=mbA7YWqy3Dc)
 
 Community Practice Images: [https://titanturtles.org/practiceimages](https://titanturtles.org/practiceimages)
+
+Intel VT-x/EPT or AMD-V/RVI error for VMware: [https://titanturtles.org/vt-security-problem](https://titanturtles.org/vt-security-problem)
