@@ -3,7 +3,7 @@ title: Westview TitanTurtles Cybersecurity Club
 layout: default
 ---
 
-## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | **Grind** | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
+## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html) | **Virtualized Intel VT-x/EPT with VMware** 
 
 # Virtualized Intel VT-x/EPT with VMware
 
