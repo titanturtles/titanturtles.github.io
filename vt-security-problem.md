@@ -51,7 +51,7 @@ echo.
 echo.
 echo.
 echo =======================================================
-echo Finished. Please reboot your computer.
+echo "Finished. Please reboot your computer."
 pause > nul
 echo.
 echo.
