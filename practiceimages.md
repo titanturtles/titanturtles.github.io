@@ -73,18 +73,19 @@ These virtual images are banned before. Try them at your own risk.
 ---
 
 ### VMWARE
+Please make sure you download the newest version since older ones are known for vulnerabilities of host side execution.
   - Official Website:
     - You need to create a free account to download free VMware software 
     - Link: [https://support.broadcom.com/](https://support.broadcom.com/) 
   - Windows:
-    - VMware Workstation Pro 17.6.3
-    - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-workstation-full-17.6.3-24583834.exe](https://scoreboard.titanturtles.xyz/files/Software/VMware-workstation-full-17.6.3-24583834.exe)
+    - VMware Workstation Pro 17.6.4
+    - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-workstation-full-17.6.4-24832109.exe](https://scoreboard.titanturtles.xyz/files/Software/VMware-workstation-full-17.6.4-24832109.exe)
   - Linux:
-    - VMware Workstatino Pro 17.6.3
-    - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle](https://scoreboard.titanturtles.xyz/files/Software/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle)
+    - VMware Workstatino Pro 17.6.4
+    - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle](https://scoreboard.titanturtles.xyz/files/Software/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle)
   - MacOS:
-    - VMware Fusion 13.6.3
-    - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-Fusion-13.6.3-24585314_universal.dmg](https://scoreboard.titanturtles.xyz/files/Software/VMware-Fusion-13.6.3-24585314_universal.dmg)
+    - VMware Fusion 13.6.4
+    - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-Fusion-13.6.4-24832108_universal.dmg](https://scoreboard.titanturtles.xyz/files/Software/VMware-Fusion-13.6.4-24832108_universal.dmg)
 
 ---
 
