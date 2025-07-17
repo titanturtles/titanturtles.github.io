@@ -408,6 +408,7 @@ These virtual images are banned before. Try them at your own risk.
   - Important: Secure VBS last, as one of the points may break logon
   - Credentials: Username: `Kim Jong Un`, Password: `N0rThKoR3@thEGo@t!!`
   - Original Website: [https://sakouk.me/cyberpatriot](https://sakouk.me/cyberpatriot)
+  - Walkthrough: [https://drive.google.com/file/d/1QCItiMCyjkrtAYANVexixTLtQ3M-c-Ep/view](https://drive.google.com/file/d/1QCItiMCyjkrtAYANVexixTLtQ3M-c-Ep/view)
 
 ---
 
