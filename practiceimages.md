@@ -131,9 +131,6 @@ These virtual images are banned before. Try them at your own risk.
 
 ### AMONG THE REINDEER
 
-<img width="400" src="https://github.com/user-attachments/assets/c4017dd1-8e65-4147-8b34-915a1660aca7" />
-<img width="400" src="https://github.com/user-attachments/assets/1a5e6499-1ccc-427f-95a6-8eafb5a0c927" />
-
   - Name: AMONG THE REINDEER
   - OS: Windows 10
   - Author:
@@ -180,6 +177,10 @@ These virtual images are banned before. Try them at your own risk.
 ---
 
 ### SANTAS WORKSHOP
+
+<img width="400" src="https://github.com/user-attachments/assets/c4017dd1-8e65-4147-8b34-915a1660aca7" />
+<img width="400" src="https://github.com/user-attachments/assets/1a5e6499-1ccc-427f-95a6-8eafb5a0c927" />
+
   - Name: SANTAS WORKSHOP
   - OS: WINDOWS 10
   - Author:
