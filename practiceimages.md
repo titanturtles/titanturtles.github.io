@@ -69,6 +69,7 @@ These virtual images are banned before. Try them at your own risk.
 * [INSIDE OUT: Ubu 22, SH](#inside-out-ubuntu)
 * [CYBERTECH UBUNTU IMAGE: Ubu 24, E](#cybertech-ubuntu-image)
 * [KIMETSU NO YAIBA: Ubu 22, H](#kimetsu-no-yaiba)
+* [X-Men: Ubu 24, M-H](#x-men)
 
 ---
 
@@ -696,6 +697,22 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KimetsuNoYaiba/Kimetsu%20No%20Yaiba.7z](https://scoreboard.titanturtles.xyz/files/KimetsuNoYaiba/Kimetsu%20No%20Yaiba.7z)
 - MD5 Checksum: `60fe90b23559ca79d66eddfe08a30c60`
 - Additional Info:
+    
+
+---
+
+### X-MEN
+
+<img width="400" src="https://github.com/user-attachments/assets/960ee5d5-ea36-450a-a95d-1979ef0697ea" />
+
+- Name: X-MEN
+- OS: UBUNTU 24
+- Author: fastanddanger2, bluepotato102 
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/18mJ9lTTc8JR-jRz7eL1cqdJEKGrOFeCv/view?usp=sharing](https://drive.google.com/file/d/18mJ9lTTc8JR-jRz7eL1cqdJEKGrOFeCv/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Xmen/X-Men%20Ubuntu%20V1.zip](https://scoreboard.titanturtles.xyz/files/Xmen/X-Men%20Ubuntu%20V1.zip)
+- MD5 Checksum: `90de99b73145734a1d06262a47ef4e6d`
+- Additional Info: Might be buggy for the Forensics
 
 
 <style>
