@@ -185,6 +185,10 @@ These are banned practice images. So, they are here just as a record.
 ---
 
 ### NINTENDO
+
+<img width="400" src="https://github.com/user-attachments/assets/8df86bf5-9c9f-47ba-9fcf-fb099c5a9c01" />
+
+
 - Name: NINTENDO
 - OS: DEBIAN 11
 - Author: Troy HS
