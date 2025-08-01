@@ -48,6 +48,7 @@ These virtual images are banned before. Try them at your own risk.
 * [TOKYO III: WinServer 2025, SH](#tokyo-iii)
 * [DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA: WinServer 2025, M-H](#democratic-peoples-republic-of-korea)
 * [WINDOWS PERSISTENCE: WinServer 2025, ?](#windows-persistence)
+* [LOBOTOMY CORPORATION FIRST TRUMPET: WinServer 2022, H](#lobotomy-corporation-first-trumpet)
 
 ---
 
@@ -437,7 +438,24 @@ Please make sure you download the newest version since older ones are known for 
     - 🦆 C:\DesktopGoose
     - (Removing these will not give points and may break the image.)
 
+
 ---
+
+### LOBOTOMY CORPORATION FIRST TRUMPET
+
+- Name: LOBOTOMY CORPORATION FIRST TRUMPET
+- OS: Windows Server 2022
+- Author: carbonice 
+- Difficulty: H
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1Cs6egjX1yokZRGq8SmdLsHcgx0qwVl90/view](https://drive.google.com/file/d/1Cs6egjX1yokZRGq8SmdLsHcgx0qwVl90/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/c/Lobotomy/Lobotomy%20Corporation%20First%20Trumpet.zip](https://scoreboard.titanturtles.xyz/files/c/Lobotomy/Lobotomy%20Corporation%20First%20Trumpet.zip)
+- MD5 Checksum: `0bf3db3e3a91b506059dacccc519d686`
+- Additional Info:
+  - Extraction Password: `DH8v@}z79yb2Az]@#U*VCna`
+   
+---
+
+
 ### SPACE FORCE SERVER
 - Name: SPACE FORCE SERVER
 - OS: DEBIAN 8
