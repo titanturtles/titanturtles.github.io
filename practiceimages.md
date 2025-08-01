@@ -443,6 +443,9 @@ Please make sure you download the newest version since older ones are known for 
 
 ### LOBOTOMY CORPORATION FIRST TRUMPET
 
+<img width="400" src="https://github.com/user-attachments/assets/65da8ada-33d5-4625-9b28-68acbac122be" />
+
+
 - Name: LOBOTOMY CORPORATION FIRST TRUMPET
 - OS: Windows Server 2022
 - Author: carbonice 
