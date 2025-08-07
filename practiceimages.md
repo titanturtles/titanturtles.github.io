@@ -421,8 +421,7 @@ Please make sure you download the newest version since older ones are known for 
 - OS: Windows Server 2025
 - Author: pumpkinjones6_02843 
 - Difficulty: ?
-- Sigma Downloads: (Preferred) [https://sigma.00.edu.ci/Windows%20Persistence%20(Server%202025).7z](https://sigma.00.edu.ci/Windows%20Persistence%20(Server%202025).7z)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z)
+- Downloads: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z)
 - MD5 Checksum: ``
 - Additional Info:
   - Walkthrough: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf)
