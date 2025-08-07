@@ -33,7 +33,7 @@ PWN College: [https://pwn.college/](https://pwn.college/)
 
 ### Linux
 
-MIT Terminus Game: [https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html}(https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+MIT Terminus Game: [https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
 Linux Journey: [https://linuxjourney.com/](https://linuxjourney.com/)
 
