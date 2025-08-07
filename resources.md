@@ -29,4 +29,20 @@ Community Practice Images: [https://titanturtles.org/practiceimages](https://tit
 
 Intel VT-x/EPT or AMD-V/RVI error for VMware: [https://titanturtles.org/vt-security-problem](https://titanturtles.org/vt-security-problem)
 
+PWN College: [https://pwn.college/](https://pwn.college/)
+
+### Linux
+
+MIT Terminus Game: [https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html}(https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+
+Linux Journey: [https://linuxjourney.com/](https://linuxjourney.com/)
+
+Over the Wire: [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
+
+### Windows
+
+Under the Wire: [https://underthewire.tech/](https://underthewire.tech/)
+
+The French Website: [https://www.cert.ssi.gouv.fr/uploads/ad_checklist.html](https://www.cert.ssi.gouv.fr/uploads/ad_checklist.html)
+
 Windows Persistence: [https://persistence-info.github.io/](https://persistence-info.github.io/)
