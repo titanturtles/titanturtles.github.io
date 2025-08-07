@@ -23,8 +23,10 @@ tirefire: [https://tirefire.org/posts/cyberpatriot-curriculum/](https://tirefire
 
 hypernova: [https://akshayrohatgi.com/blog/posts/How-To-Win-CyberPatriot/](https://akshayrohatgi.com/blog/posts/How-To-Win-CyberPatriot/)
 
-Coach Paul: [https://www.youtube.com/watch?v=mbA7YWqy3Dc](https://www.youtube.com/watch?v=mbA7YWqy3Dc)
+Coach Paul: [https://www.youtube.com/watch?v=mbA7YWqy3Dc](https://www.youtube.com/watch?v=mbA7YWqy3Dc) (offline)
 
 Community Practice Images: [https://titanturtles.org/practiceimages](https://titanturtles.org/practiceimages)
 
 Intel VT-x/EPT or AMD-V/RVI error for VMware: [https://titanturtles.org/vt-security-problem](https://titanturtles.org/vt-security-problem)
+
+Windows Persistence: [https://persistence-info.github.io/](https://persistence-info.github.io/)
