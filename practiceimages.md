@@ -425,8 +425,7 @@ Please make sure you download the newest version since older ones are known for 
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z)
 - MD5 Checksum: ``
 - Additional Info:
-  - Original Website: [https://00.edu.ci/](https://00.edu.ci/)  
-  - Walkthrough: [https://sigma.00.edu.ci/Windows%20Persistence%20Writeup.pdf](https://sigma.00.edu.ci/Windows%20Persistence%20Writeup.pdf)
+  - Walkthrough: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf)
   - Important Notes:
     - Scoring report & README shortcuts on desktop do not work.
     - Access them manually at:
