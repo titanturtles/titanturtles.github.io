@@ -422,7 +422,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: pumpkinjones6_02843 
 - Difficulty: ?
 - Downloads: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z)
-- MD5 Checksum: ``
+- MD5 Checksum: `540fabdf9610e87fe8b0d2fcf682c0bb`
 - Additional Info:
   - Walkthrough: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf)
   - Important Notes:
