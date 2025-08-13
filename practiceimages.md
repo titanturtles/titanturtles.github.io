@@ -23,14 +23,6 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ---
 
-## Previously Banned Images
-
-These virtual images are banned before. Try them at your own risk.
-
-[Banned Images](../bannedpracticeimages)
-
----
-
 ## Windows Images
 
 * [FBI: Win 10](#fbi)
@@ -49,6 +41,13 @@ These virtual images are banned before. Try them at your own risk.
 * [DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA: WinServer 2025, M-H](#democratic-peoples-republic-of-korea)
 * [WINDOWS PERSISTENCE: WinServer 2025, ?](#windows-persistence)
 * [LOBOTOMY CORPORATION FIRST TRUMPET: WinServer 2022, H](#lobotomy-corporation-first-trumpet)
+* [TITAN LVL3: Win 10, E](#titan-lvl-3)
+* [ROUND2 PRACTICE: Win 10, E](#round2-practice)
+* [JASON: WinServer 2022, H](#jason)
+* [TROY MOCK: Win 10, ?](#troy-mock)
+* [CINCINATTI ZOO: Win 10, E](#cincinatti-zoo)
+* [BALDI'S BASICS: WinServer 2022, SH](#baldis-basics)
+* [MY LITTLE PONY: Win 10, M](#my-little-pony)
 
 ---
 
@@ -71,6 +70,17 @@ These virtual images are banned before. Try them at your own risk.
 * [CYBERTECH UBUNTU IMAGE: Ubu 24, E](#cybertech-ubuntu-image)
 * [KIMETSU NO YAIBA: Ubu 22, H](#kimetsu-no-yaiba)
 * [X-Men: Ubu 24, M-H](#x-men)
+* [DEMON SLAYER: Deb 8, H](#demon-slayer)
+* [NINTENDO: Deb 11, H+](#nintendo)
+* [AVATAR THE LAST LINUXBENDER: Ubu 14, U](#avatar-the-last-linuxbender)
+* [POLYTOPIA: Ubu 20, U](#polytopia)
+* [LAMP STACK PRACTICE: Ubu 16, H](#lamp-stack-practice)
+* [PREMIER LEAGUE: Fed 36, M](#premier-league)
+* [RYAN GALLIGHER: Ubu 12, H](#ryan-galligher)
+* [ROUND3 PRACTICE: Deb 9, H?](#round3-practice)
+* [R3: UBU 18, H?](#r3)
+* [LITTLE BIG PLANET: UBU 16, U](#little-big-planet)
+* [CYBER IN THE SKY: LUBU 16, U](#cyber-in-the-sky)
 
 ---
 
@@ -456,6 +466,127 @@ Please make sure you download the newest version since older ones are known for 
    
 ---
 
+### TITAN LVL 3
+- Name: TITAN LVL 3
+- OS: WINDOWS 10
+- Author: Troy HS
+- Difficulty: Easy
+- Google Downloads: [https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link](https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip](https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip)
+- MD5 Checksum: `3ad26898b9cb9d1ddb55c1c33c2b515e`
+- Additional Info:
+  - Credentials: unknown
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### ROUND2 PRACTICE
+- Name: ROUND2 PRACTICE
+- OS: WINDOWS 10
+- Author: Troy HS
+- Difficulty: Easy
+- Google Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round2Win10/Round%202%20Win10%20PRACTICE.7z](https://scoreboard.titanturtles.xyz/files/Round2Win10/Round%202%20Win10%20PRACTICE.7z)
+- MD5 Checksum: `5037151f73c574f253af555a564dd80d`
+- Additional Info:
+  - Credentials: unknown
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### JASON
+- Name: JASON
+- OS: WINDOWS SERVER 2022
+- Author: Troy HS
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1hxRrVfQAuopYrDO70Qmm6YPk3NsXQLOu/view?usp=drive_link](https://drive.google.com/file/d/1hxRrVfQAuopYrDO70Qmm6YPk3NsXQLOu/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Jason/Jason.7z](https://scoreboard.titanturtles.xyz/files/Jason/Jason.7z)
+- MD5 Checksum: `853e7dec03d2c05d83534221579add30`
+- Additional Info:
+  - Credentials:
+    - User: `Jason`
+    - Password: `G0ldenFle3ce` 
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### TROY MOCK
+- Name: TROY MOCK
+- OS: WINDOWS 10
+- Author: Troy HS
+- Difficulty: ?
+- Google Downloads: ?
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/TroyMock/Troy%20Windows%2010%20Mock%20%28Image%20password%20is%20password%29.7z](https://scoreboard.titanturtles.xyz/files/TroyMock/Troy%20Windows%2010%20Mock%20%28Image%20password%20is%20password%29.7z)
+- MD5 Checksum: `7a3ab91c8b020486c8abe527e9531ddc`
+- Additional Info:
+  - Credentials:
+    - Password: `password` 
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+  - Answer Key:
+    - Unknown
+
+---
+
+### CINCINATTI ZOO
+- Name: CINCINATTI ZOO
+- OS: WINDOWS 10
+- Author: Donkey (discord: d0nkeyman)
+- Difficulty: Easy
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view](https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip](https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip)
+- MD5 Checksum: `767d2c696c5c360697c9d3d0979dbb63`
+- Additional Info:
+  - Original Website: https://cybervoid.tech/projects/cincinnati/
+  - User: Harambe
+  - Password: 3stoyMuert0!
+  - Answer Key: https://docs.google.com/document/d/1xixc3uMO6NTTUvr9lzw0PxgftJLmPHSJlPsQe9KgqTY/edit?usp=sharing
+
+---
+
+### BALDI'S BASICS
+- Name: BALDIS BASICS
+- OS: WINDOWS SERVER 2022
+- Author: Donkey (discord: d0nkeyman)
+- Difficulty: Super Hard
+- Downloads: [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip)
+- MD5 Checksum: `4a357ecb1f78c593805cf733ac234074`
+- Additional Info:
+  - Original Website: [https://cybervoid.tech/projects/baldi/](https://cybervoid.me/projects/baldi/)
+  - Vulns: 50
+  - Notes: Active Directory, IPsec, Users have reported seeing low disk space errors
+  - User: Student
+  - Password: study
+  - Answer Key: https://cybervoid.me/posts/baldis-basics-answer-key/
+  - Answer Key: (alternate) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf)
+  - Answer Key: (md version) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.md](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.md)
+
+---
+
+### MY LITTLE PONY
+- Name: MY LITTLE PONY
+- OS: WINDOWS 10
+- Author: Donkey (discord: d0nkeyman)
+- Difficulty: Medium
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1Og8lIMVqGKKenFXTpWYhA8X-szXyRtcY/view?usp=share_link](https://drive.google.com/file/d/1Og8lIMVqGKKenFXTpWYhA8X-szXyRtcY/view?usp=share_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony.zip](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony.zip)
+- MD5 Checksum: `efa2078baa34e6b356645aa2060adbb2`
+- Additional Info:
+  - Original Website: https://cybervoid.tech/projects/mlp/
+  - Vulns: 24
+  - Notes: Easy vulns but extremely broken
+  - User: Rainbow Dash
+  - Password: ItNe3dsT0Be20%C00L3r
+  - Answer Key: https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing
+  - Walkthrough: https://cybervoid.tech/posts/my-little-pony-walkthrough/
+  - Walkthrough: (alternate) [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md)
+
+---
 
 ### SPACE FORCE SERVER
 - Name: SPACE FORCE SERVER
@@ -732,6 +863,192 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Xmen/X-Men%20Ubuntu%20V1.zip](https://scoreboard.titanturtles.xyz/files/Xmen/X-Men%20Ubuntu%20V1.zip)
 - MD5 Checksum: `90de99b73145734a1d06262a47ef4e6d`
 - Additional Info: Might be buggy for the Forensics
+
+---
+
+### DEMON SLAYER
+- Name: DEMON SLAYER
+- OS: DEBIAN 8
+- Author: Troy HS
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link](https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/DemonSlayer/DemonSlayer.7z](https://scoreboard.titanturtles.xyz/files/DemonSlayer/DemonSlayer.7z)
+- MD5 Checksum: `fda3946ca9351adeacf43b8890069707`
+- Additional Info:
+  - Credentials:
+    - Username: `tanjiro`
+    - Password: `GottaSlayEmAll`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+
+---
+
+### NINTENDO
+
+<img width="400" src="https://github.com/user-attachments/assets/8df86bf5-9c9f-47ba-9fcf-fb099c5a9c01" />
+
+
+- Name: NINTENDO
+- OS: DEBIAN 11
+- Author: Troy HS
+- Difficulty: Hard +
+- Google Downloads: [https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link](https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Nintendo/Nintendo%20Debian%2011%20Semifinals%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/Nintendo/Nintendo%20Debian%2011%20Semifinals%20Practice%20Image.7z)
+- MD5 Checksum: `e88be558979fa73d0a66a198503d8d8a`
+- Additional Info:
+  - Credentials:
+    - Username: `msakurai`
+    - Password: `password`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+
+
+---
+
+### AVATAR THE LAST LINUXBENDER
+- Name: AVATAR THE LAST LINUXBENDER
+- OS: UBUNTU 14
+- Author: Troy HS
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link](https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Avatar/Avatar_%20The%20Last%20Linuxbender-20171205T002226Z-001.zip](https://scoreboard.titanturtles.xyz/files/Avatar/Avatar_%20The%20Last%20Linuxbender-20171205T002226Z-001.zip)
+- MD5 Checksum: `5dfa2791213708f719fa206c9b9b7020`
+- Additional Info:
+  - Credentials:
+    - Username: `aang`
+    - Password: `Th3B3st4v@t@r`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+   
+---
+
+### POLYTOPIA
+- Name: POLYTOPIA
+- OS: UBUNTU 20
+- Author: Troy HS
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link](https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Polytopia/Polytopia.7z](https://scoreboard.titanturtles.xyz/files/Polytopia/Polytopia.7z)
+- MD5 Checksum: `092e80c4c2f5b0e5d26d630d28a48cc5`
+- Additional Info:
+  - Credentials:
+    - Username: `bardur`
+    - Password: `p3rFect1yB@1anC*D$`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+
+---
+
+### LAMP STACK PRACTICE
+- Name: LAMP STACK PRACTICE
+- OS: UBUNTU 16
+- Author: Troy HS
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link](https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/LampStackPractice/Copy%20of%20LAMP%20Stack%20Practice.zip](https://scoreboard.titanturtles.xyz/files/LampStackPractice/Copy%20of%20LAMP%20Stack%20Practice.zip)
+- MD5 Checksum: `0d3a20f236eee30f769d585b614a33e2`
+- Additional Info:
+  - Credentials:
+    - Username: `freshman`
+    - Password: `troy`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+
+---
+
+### PREMIER LEAGUE
+<img src="https://github.com/user-attachments/assets/1f1d72c2-3b0d-4942-ba76-f6225b8ec601" width="400"/>
+
+- Name: PREMIER LEAGUE
+- OS: FEDORA 36
+- Author: Troy HS
+- Difficulty: Medium
+- Google Downloads: [https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing](https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/PremierLeague/Fedora_36_VM.7z](https://scoreboard.titanturtles.xyz/files/PremierLeague/Fedora_36_VM.7z)
+- MD5 Checksum: `3aed0634c1f5abec284c20f322462978`
+- Additional Info:
+  - Credentials:
+    - Username: `pguardiola`
+    - Password: `fedora`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+
+---
+
+### RYAN GALLIGHER
+- Name: RYAN GALLIGHER
+- OS: UBUNTU 12
+- Author: Troy HS
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1uqHjKvmc-xKHUm3Z_buHieGHNlOHqMG4/view](https://drive.google.com/file/d/1uqHjKvmc-xKHUm3Z_buHieGHNlOHqMG4/view)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/RyanGalligher/RyanGalligherUbuntu.zip](https://scoreboard.titanturtles.xyz/files/RyanGalligher/RyanGalligherUbuntu.zip)
+- MD5 Checksum: `6d29a034c69a06c7ee75b4094a9da8aa`
+- Additional Info:
+  - Credentials:
+    - Username: `Fester`
+    - Password: `You were a terrible mother!`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+---
+
+### ROUND3 PRACTICE
+- Name: ROUND3 PRACTICE
+- OS: DEBIAN 9
+- Author: Troy HS
+- Difficulty: Hard?
+- Google Downloads: [https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link](https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip](https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip)
+- MD5 Checksum: `b8a74dfe76a1a38bdb9f985e858a7a84`
+- Additional Info:
+  - Credentials: auto login
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+---
+
+### R3
+- Name: R3
+- OS: UBUNTU 18
+- Author: Troy HS
+- Difficulty: Hard?
+- Google Downloads: [https://drive.google.com/file/d/1YeIwSb9_9orbohF4Xp7TcBHoOR92fth8/view?usp=drive_link](https://drive.google.com/file/d/1YeIwSb9_9orbohF4Xp7TcBHoOR92fth8/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/R3/R3.7z](https://scoreboard.titanturtles.xyz/files/R3/R3.7z)
+- MD5 Checksum: `6bcc28711d497b926e501a01d09852a4`
+- Additional Info:
+  - Credentials:
+    - User: `user`
+    - Password: `user`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+---
+
+### LITTLE BIG PLANET
+- Name: LITTLE BIG PLANET
+- OS: UBUNTU 16
+- Author: Troy HS
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/135ReRspmJm-4Kv4el_g-zpJITXDZUUO3/view?usp=drive_link](https://drive.google.com/file/d/135ReRspmJm-4Kv4el_g-zpJITXDZUUO3/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/LBP/LittleBigPlanet.7z](https://scoreboard.titanturtles.xyz/files/LBP/LittleBigPlanet.7z)
+- MD5 Checksum: `5b806f61a1fa2059e4722b9d57e63d4a`
+- Additional Info:
+  - README is not available
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
+---
+
+### CYBER IN THE SKY
+- Name: CYBER IN THE SKY
+- OS: LUBUNTU 16
+- Author: Troy HS
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/1cz__cXoMFg2az92gEexMyT92rpSMk4aP/view?usp=drive_link](https://drive.google.com/file/d/1cz__cXoMFg2az92gEexMyT92rpSMk4aP/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip](https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip)
+- MD5 Checksum: `63499540d1a746762641d57df1e5b7ac`
+- Additional Info:
+  - Credentials:
+    - User: `Sheeta`
+    - Password: `laputa`
+  - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
+
 
 
 <style>
