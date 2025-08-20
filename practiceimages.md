@@ -87,6 +87,7 @@ If there is error in any of the content, please reach out to us at titanturtlest
 ## Cisco Practices
 
 * [FINAL R3 BDSM](#final-r3-bdsm)
+* [NATIONAL EMULATOR TEMPLATE](#national-emulator-template)
 
 ---
 
@@ -1068,8 +1069,18 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - MD5 Checksum: `80fafcdad0dc537d6061fb410873c08c`
 
 ---
+https://discord.com/channels/301768361136750592/473972728890916865/1353391932973252741
 
+### NATIONAL EMULATOR TEMPLATE
+- Name: NATIONAL EMULATOR TEMPLATE
+- TYPE: Cisco Packet Tracer Activity
+- Author: noobfooditem123
+- Difficulty: Unknown
+- Discord Downloads: [https://discord.com/channels/301768361136750592/473972728890916865/1353391932973252741](https://discord.com/channels/301768361136750592/473972728890916865/1353391932973252741)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/nationalemulatortemplate/NationalsEmulatorTemplate.pka](https://scoreboard.titanturtles.xyz/files/cisco/nationalemulatortemplate/NationalsEmulatorTemplate.pka)
+- MD5 Checksum: `39b3a544cf6389c8a92a16a1ea84bfdb`
 
+---
 <style>
 /* customizable snowflake styling */
 .snowflake {
