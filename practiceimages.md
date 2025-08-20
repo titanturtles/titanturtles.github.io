@@ -84,6 +84,12 @@ If there is error in any of the content, please reach out to us at titanturtlest
 
 ---
 
+## Cisco Practices
+
+* [FINAL R3 BDSM](#final-r3-bdsm)
+
+---
+
 ### VMWARE
 Please make sure you download the newest version since older ones are known for vulnerabilities of host side execution.
   - Official Website:
@@ -1049,6 +1055,19 @@ First player to score 100 on both images will receive Discord Nitro for one mont
     - Password: `laputa`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
 
+
+---
+
+### FINAL R3 BDSM
+- Name: FINAL R3 BDSM
+- TYPE: Cisco Packet Tracer Activity
+- Author: @toasty (mónicà) @crescental_
+- Difficulty: Unknown
+- Discord Downloads: [https://discord.com/channels/301768361136750592/1058312750905954397/1190846581772132461](https://discord.com/channels/301768361136750592/1058312750905954397/1190846581772132461)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/bdsm/Final_R3_BDSM.pka](https://scoreboard.titanturtles.xyz/files/cisco/bdsm/Final_R3_BDSM.pka)
+- MD5 Checksum: `80fafcdad0dc537d6061fb410873c08c`
+
+---
 
 
 <style>
