@@ -11,6 +11,18 @@ We work hard, play hard. We appreciate everyone who spent their precious part of
 
 ---
 
+**Anya Li**
+
+<img src="https://github.com/user-attachments/assets/6ae5479c-a6bc-4110-8548-e9fe40c8ac94" alt="Anya" width="600"/>
+
+Hi everyone, my name is Anya Li, and I’ve competed in CyberPatriot for three years. I primarily worked on the Windows and Cisco subteams, and I’m really grateful for the opportunity to have been part of this team. It was awesome having the chance to learn cybersecurity through hands-on experience and collaborate with others who shared an interest in security. A lot of the skills I developed in competition have actually carried over into my everyday life as well.
+
+Next year, I’m headed to Seattle to study computer science (and hopefully do security related research) at the University of Washington. Outside of the CS world, I love biking, politics, and anything nature related. Definitely consider participating in CyberPatriot, as it’s truly a one of a kind competition experience where the skills you learn will continue to serve you long after the competitions are over!
+
+Instagram: @anya.rings
+
+---
+
 **Christopher Hu**
 
 <img src="https://github.com/user-attachments/assets/42d58637-8590-4086-9aac-ead96ed78f8f" alt="Chris" width="600"/>
