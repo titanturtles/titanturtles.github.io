@@ -19,7 +19,7 @@ Hi everyone, my name is Anya Li, and I’ve competed in CyberPatriot for three y
 
 Next year, I’m headed to Seattle to study computer science (and hopefully do security related research) at the University of Washington. Outside of the CS world, I love biking, politics, and anything nature related. Definitely consider participating in CyberPatriot, as it’s truly a one of a kind competition experience where the skills you learn will continue to serve you long after the competitions are over!
 
-Instagram: @anya.rings
+Instagram: [https://www.instagram.com/anya.rings/](https://www.instagram.com/anya.rings/)
 
 ---
 
