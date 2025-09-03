@@ -13,6 +13,8 @@ layout: default
 
 If there is error in any of the content, please reach out to us at titanturtlesteam(a)gmail.com.
 
+Also, there is a google sheet sharing practice images as well: [https://tinyurl.com/cypat-practice-images](https://tinyurl.com/cypat-practice-images)
+
 ---
 
 ## Software
