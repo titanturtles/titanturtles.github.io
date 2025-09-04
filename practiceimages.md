@@ -1127,6 +1127,9 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 
 ### R3 OKLAHOMA CUP 24-25
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/29b4a45d-07ac-4384-baab-4971f93557e4" />
+
+
 - Name: R3 OKLAHOMA CUP 24-25
 - TYPE: Cisco Packet Tracer Activity
 - Author: [Oklahoma Cup](https://www.okcup.info/)
