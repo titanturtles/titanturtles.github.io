@@ -1132,7 +1132,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Jeremy IT Lab
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1WsLlEmMS38Zfq0AOg3fq3TZmTX7sSPMz/view?usp=drive_link](https://drive.google.com/file/d/1WsLlEmMS38Zfq0AOg3fq3TZmTX7sSPMz/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/ccnamegalab/CCNA%20Mega%20Lab%20%28Jeremy%5C%27s%20IT%20Lab%29.pka](https://scoreboard.titanturtles.xyz/files/cisco/ccnamegalab/CCNA%20Mega%20Lab%20%28Jeremy%5C%27s%20IT%20Lab%29.pka)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/ccnamegalab/CCNA-Mega-Lab.pka](https://scoreboard.titanturtles.xyz/files/cisco/ccnamegalab/CCNA-Mega-Lab.pka)
 - MD5 Checksum: `ac8ee69f8289195719a489620707d9a8`
 - Walk through: https://www.youtube.com/watch?v=2p7-MluKAgE&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=126
 
