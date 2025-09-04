@@ -1066,6 +1066,9 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 ---
 
 ### FINAL R3 BDSM
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1f52cbda-fac1-4e1f-b7b5-87cc838c7aad" />
+
 - Name: FINAL R3 BDSM
 - TYPE: Cisco Packet Tracer Activity
 - Author: @toasty (mónicà) @crescental_
