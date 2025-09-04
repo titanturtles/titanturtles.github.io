@@ -1142,6 +1142,9 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 
 ### CCNA MEGA LAB
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6ef20fc0-2745-498f-8477-9a2aa2a1bfef" />
+
+
 - Name: CCNA MEGA LAB
 - TYPE: Cisco Packet Tracer Activity
 - Author: Jeremy IT Lab
