@@ -1077,6 +1077,9 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 ---
 
 ### NATIONAL EMULATOR TEMPLATE
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6531e466-e650-41a5-a967-8c2090553662" />
+
 - Name: NATIONAL EMULATOR TEMPLATE
 - TYPE: Cisco Packet Tracer Activity
 - Author: noobfooditem123
