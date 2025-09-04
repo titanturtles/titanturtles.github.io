@@ -93,6 +93,8 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [R2 OKLAHOMA CUP 24-25](#r2-oklahoma-cup-24-25)
 * [R3 OKLAHOMA CUP 23-24](#r3-oklahoma-cup-23-24)
 * [R3 OKLAHOMA CUP 24-25](#r3-oklahoma-cup-24-25)
+* [CCNA MEGA LAB](#ccna-mega-lab)
+
 ---
 
 ### VMWARE
@@ -1122,6 +1124,20 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - MD5 Checksum: `a4c5e58d706ce2ebb8cf86ec11a3951d`
 
 ---
+
+### CCNA MEGA LAB
+
+- Name: CCNA MEGA LAB
+- TYPE: Cisco Packet Tracer Activity
+- Author: Jeremy IT Lab
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/1WsLlEmMS38Zfq0AOg3fq3TZmTX7sSPMz/view?usp=drive_link](https://drive.google.com/file/d/1WsLlEmMS38Zfq0AOg3fq3TZmTX7sSPMz/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/ccnamegalab/CCNA%20Mega%20Lab%20%28Jeremy%27%5C%27%27s%20IT%20Lab%29.pka](https://scoreboard.titanturtles.xyz/files/cisco/ccnamegalab/CCNA%20Mega%20Lab%20%28Jeremy%27%5C%27%27s%20IT%20Lab%29.pka)
+- MD5 Checksum: `ac8ee69f8289195719a489620707d9a8`
+- Walk through: https://www.youtube.com/watch?v=2p7-MluKAgE&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=126
+
+---
+
 <style>
 /* customizable snowflake styling */
 .snowflake {
