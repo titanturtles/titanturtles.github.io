@@ -90,6 +90,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 
 * [FINAL R3 BDSM](#final-r3-bdsm)
 * [NATIONAL EMULATOR TEMPLATE](#national-emulator-template)
+* [R2 OKLAHOMA CUP 24-25](#r2-oklahoma-cup-24-25)
 
 ---
 
@@ -1071,7 +1072,6 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - MD5 Checksum: `80fafcdad0dc537d6061fb410873c08c`
 
 ---
-https://discord.com/channels/301768361136750592/473972728890916865/1353391932973252741
 
 ### NATIONAL EMULATOR TEMPLATE
 - Name: NATIONAL EMULATOR TEMPLATE
@@ -1081,6 +1081,20 @@ https://discord.com/channels/301768361136750592/473972728890916865/1353391932973
 - Discord Downloads: [https://discord.com/channels/301768361136750592/473972728890916865/1353391932973252741](https://discord.com/channels/301768361136750592/473972728890916865/1353391932973252741)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/nationalemulatortemplate/NationalsEmulatorTemplate.pka](https://scoreboard.titanturtles.xyz/files/cisco/nationalemulatortemplate/NationalsEmulatorTemplate.pka)
 - MD5 Checksum: `39b3a544cf6389c8a92a16a1ea84bfdb`
+
+---
+
+### R2 OKLAHOMA CUP 24-25
+
+- Name: R2 OKLAHOMA CUP 24-25
+- TYPE: Cisco Packet Tracer Activity
+- Author: [Oklahoma Cup](https://www.okcup.info/)
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/1Qy-oZx8F-jvvEfYJ0_i0kX3wCvmshXsY/view?usp=drive_link](https://drive.google.com/file/d/1Qy-oZx8F-jvvEfYJ0_i0kX3wCvmshXsY/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPT.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPT.pka)
+- MD5 Checksum: `a79572521f9df3ba507a5d1a02c34b10`
+- Unlocked Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPTUNLOCKED.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPTUNLOCKED.pka)
+- MD5 Checksum: `417af27c952acc9cf1d0ad510250a530`
 
 ---
 <style>
