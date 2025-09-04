@@ -91,7 +91,8 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [FINAL R3 BDSM](#final-r3-bdsm)
 * [NATIONAL EMULATOR TEMPLATE](#national-emulator-template)
 * [R2 OKLAHOMA CUP 24-25](#r2-oklahoma-cup-24-25)
-
+* [R3 OKLAHOMA CUP 23-24](#r3-oklahoma-cup-23-24)
+* [R3 OKLAHOMA CUP 24-25](#r3-oklahoma-cup-24-25)
 ---
 
 ### VMWARE
@@ -1095,6 +1096,30 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - MD5 Checksum: `a79572521f9df3ba507a5d1a02c34b10`
 - Unlocked Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPTUNLOCKED.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPTUNLOCKED.pka)
 - MD5 Checksum: `417af27c952acc9cf1d0ad510250a530`
+
+---
+
+### R3 OKLAHOMA CUP 23-24
+
+- Name: R3 OKLAHOMA CUP 23-24
+- TYPE: Cisco Packet Tracer Activity
+- Author: [Oklahoma Cup](https://www.okcup.info/)
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/18y8PBfuA_dF9tmlhD6-_CjSaIJESHVnM/view?usp=drive_link](https://drive.google.com/file/d/18y8PBfuA_dF9tmlhD6-_CjSaIJESHVnM/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R3_OKCUP_23_24_CiscoPT.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R3_OKCUP_23_24_CiscoPT.pka)
+- MD5 Checksum: `d167dfe6f9e06219e15f33791b7449ed`
+
+---
+
+### R3 OKLAHOMA CUP 24-25
+
+- Name: R3 OKLAHOMA CUP 24-25
+- TYPE: Cisco Packet Tracer Activity
+- Author: [Oklahoma Cup](https://www.okcup.info/)
+- Difficulty: Unknown
+- Google Downloads: [https://drive.google.com/file/d/1QbC1NRSNZ26EBlEQnee0LjSrBW-SW2fu/view?usp=drive_link](https://drive.google.com/file/d/1QbC1NRSNZ26EBlEQnee0LjSrBW-SW2fu/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R3_OKCUP_24_25_CiscoPT.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R3_OKCUP_24_25_CiscoPT.pka)
+- MD5 Checksum: `a4c5e58d706ce2ebb8cf86ec11a3951d`
 
 ---
 <style>
