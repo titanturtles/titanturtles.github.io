@@ -1074,7 +1074,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: shubuntu, prilasey
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1dQfLPgzDq-iaXBCNLLrgDsWxYtpTWbDP/view?usp=drive_link](https://drive.google.com/file/d/1dQfLPgzDq-iaXBCNLLrgDsWxYtpTWbDP/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files2/SystemHardening11/syshardening11.zip](https://scoreboard.titanturtles.xyz/files2/SystemHardening11/syshardening11.zip)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/c/SystemHardening11/syshardening11.zip](https://scoreboard.titanturtles.xyz/files/c/SystemHardening11/syshardening11.zip)
 - MD5 Checksum: `416fca601ce8f237bbd7f21d9bb238ce`
 - Additional Info:
   - Credentials:
@@ -1085,7 +1085,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
     - Totoro's studio has recently been cracked, please help him with hardening his system. (all the mirrors have the same file, only need to download from one)
   - README:
     - Google Downloads: [https://docs.google.com/document/d/1hW5BLLi1i3FN4SRWhx_7ZPefPjJhHNS2R2DLusmJKRI/edit?usp=sharing](https://docs.google.com/document/d/1hW5BLLi1i3FN4SRWhx_7ZPefPjJhHNS2R2DLusmJKRI/edit?usp=sharing)
-    - Additional Downloads: [https://scoreboard.titanturtles.xyz/files2/SystemHardening11/syshardening%2011%20README.pdf](https://scoreboard.titanturtles.xyz/files2/SystemHardening11/syshardening%2011%20README.pdf)
+    - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/c/SystemHardening11/syshardening%2011%20README.pdf](https://scoreboard.titanturtles.xyz/files/c/SystemHardening11/syshardening%2011%20README.pdf)
   - Errata: Please make a ticket about Forensics Question 5; it's not scored correctly but we will give you the scorable answer if you give us the correct answer.
 
 ---
