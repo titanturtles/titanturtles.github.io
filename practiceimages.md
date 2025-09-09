@@ -83,6 +83,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [R3: UBU 18, H?](#r3)
 * [LITTLE BIG PLANET: UBU 16, U](#little-big-planet)
 * [CYBER IN THE SKY: LUBU 16, U](#cyber-in-the-sky)
+* [TOTORO'S STUDIO: MINT 22, H](#totoros-studio)
 
 ---
 
@@ -1062,6 +1063,30 @@ First player to score 100 on both images will receive Discord Nitro for one mont
     - Password: `laputa`
   - Original Website: [https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts](https://github.com/Dudcom/Troy-High-School-Generic-Windows-Hardening-Scripts)
 
+---
+
+### TOTORO'S STUDIO
+
+<img width="400" src="https://github.com/user-attachments/assets/12854fd1-0054-428a-a3ab-0f998047786f" />
+
+- Name: TOTORO'S STUDIO (SYSTEM HARDENING 11)
+- OS: MINT 22
+- Author: shubuntu, prilasey
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1dQfLPgzDq-iaXBCNLLrgDsWxYtpTWbDP/view?usp=drive_link](https://drive.google.com/file/d/1dQfLPgzDq-iaXBCNLLrgDsWxYtpTWbDP/view?usp=drive_link)
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files2/SystemHardening11/syshardening11.zip](https://scoreboard.titanturtles.xyz/files2/SystemHardening11/syshardening11.zip)
+- MD5 Checksum: `416fca601ce8f237bbd7f21d9bb238ce`
+- Additional Info:
+  - Credentials:
+    - User: `totoro`
+    - Password: `password`
+  - Original Website: [https://2025.imaginaryctf.org](https://2025.imaginaryctf.org)
+  - Description:
+    - Totoro's studio has recently been cracked, please help him with hardening his system. (all the mirrors have the same file, only need to download from one)
+  - README:
+    - Google Downloads: [https://docs.google.com/document/d/1hW5BLLi1i3FN4SRWhx_7ZPefPjJhHNS2R2DLusmJKRI/edit?usp=sharing](https://docs.google.com/document/d/1hW5BLLi1i3FN4SRWhx_7ZPefPjJhHNS2R2DLusmJKRI/edit?usp=sharing)
+    - Additional Downloads: [https://scoreboard.titanturtles.xyz/files2/SystemHardening11/syshardening%2011%20README.pdf](https://scoreboard.titanturtles.xyz/files2/SystemHardening11/syshardening%2011%20README.pdf)
+  - Errata: Please make a ticket about Forensics Question 5; it's not scored correctly but we will give you the scorable answer if you give us the correct answer.
 
 ---
 
