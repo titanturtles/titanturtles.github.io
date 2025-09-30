@@ -11,7 +11,7 @@ layout: default
 
 We are Cybersecurity competition team TitanTurtles. Our main competition is [CyberPatriot](https://www.uscyberpatriot.org/). We also participate in [picoCTF](https://picoctf.org/) annual competition, [eCitadel](https://ecitadel.org) competition and [Reply Challenge](https://challenges.reply.com/tamtamy/challenges/category/cybersecurity#home).
 
-Our team members are Middle school and High school students. We are located at Portland, Oregon. We are associated with Westview High School. We welcome all middle school and high school students who are interested in learning computer and internet. We are partnered with the Westview Cybersecurity club: [westview.titanturtles.org](https://westview.titanturtles.org)
+Our team members are Middle school and High school students. We are located at Portland, Oregon. We are associated with Sunshine Elite Education. We welcome all middle school and high school students who are interested in learning computer and internet. We are also partnered with the Westview Cybersecurity club: [westview.titanturtles.org](https://westview.titanturtles.org)
 
 In the CyberPatriot competition, our team won the Oregon State Championship in the High School Open Division Platinum Tier—the top tier—for four consecutive seasons: 2021–2022 (CPXIV), 2022–2023 (CPXV), 2023–2024 (CPXVI), and 2024–2025 (CPX17). We also advanced to the National Finals in the Open Division in the 2023–2024 (CPXVI) and 2024–2025 (CPX17) seasons, finishing 4th and 3rd in the nation, respectively.
 
