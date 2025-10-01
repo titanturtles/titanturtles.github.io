@@ -31,6 +31,8 @@ Intel VT-x/EPT or AMD-V/RVI error for VMware: [https://titanturtles.org/vt-secur
 
 PWN College: [https://pwn.college/](https://pwn.college/)
 
+Cypat Community Guid: [https://cypat.guide/](https://cypat.guide/)
+
 ### Linux
 
 MIT Terminus Game: [https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
