@@ -95,7 +95,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [R3 OKLAHOMA CUP 23-24](#r3-oklahoma-cup-23-24)
 * [R3 OKLAHOMA CUP 24-25](#r3-oklahoma-cup-24-25)
 * [CCNA MEGA LAB](#ccna-mega-lab)
-* [Modules 1 to 13](#modules-1-to-13)
+* [MODULES 1 TO 13](#modules-1-to-13)
 
 ---
 
@@ -1184,7 +1184,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 
 ### MODULES 1 TO 13
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6ef20fc0-2745-498f-8477-9a2aa2a1bfef" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fa9a3ebe-815c-4620-a066-9f6431b75f9b" />
 
 
 - Name: MODULES 1 TO 13
