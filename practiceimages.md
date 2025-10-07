@@ -96,6 +96,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [R3 OKLAHOMA CUP 24-25](#r3-oklahoma-cup-24-25)
 * [CCNA MEGA LAB](#ccna-mega-lab)
 * [MODULES 1 TO 13](#modules-1-to-13)
+* [MHS CANCELLED TRY OUT](#mhs-cancelled-try-out)
 
 ---
 
@@ -1194,6 +1195,21 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Google Downloads: [https://drive.google.com/file/d/1NOZvFVst0RhbQuH18WS8P_t8mRubvTgf/view?usp=drive_link](https://drive.google.com/file/d/1NOZvFVst0RhbQuH18WS8P_t8mRubvTgf/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/modules1to13/Modules_1-13_Image.pka](https://scoreboard.titanturtles.xyz/files/cisco/modules1to13/Modules_1-13_Image.pka)
 - MD5 Checksum: `88df768da29883d02a5de7053fdaeb87`
+
+---
+
+### MHS CANCELLED TRY OUT
+
+
+
+- Name: MHS CANCELLED TRY OUT
+- TYPE: Cisco Packet Tracer Activity
+- Author: a_person
+- Difficulty: Unknown
+- Downloads:
+  - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/ak.pkt](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/ak.pkt)
+  - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/initial.pkt](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/initial.pkt)
+  - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/mhscyberpatriotpractice.pka](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/mhscyberpatriotpractice.pka)
 
 ---
 
