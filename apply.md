@@ -132,7 +132,7 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 
 * Each class is UNIQUE, every class is very important for first year students!
 
-* Students are expected to participate in 80% of the team meetings.
+* Students are expected to participate in 80% of the team meetings. However, none of the meetings is mandatory.
 
 * Homework: expect 3 - 10 hours of homework every week
 
