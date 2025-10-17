@@ -148,6 +148,11 @@ Please make sure you download the newest version since older ones are known for 
 
 ### Sarpedon
 
+  - Github: [https://github.com/elysium-suite/sarpedon](https://github.com/elysium-suite/sarpedon)
+  - Contributors: sourque, alvinzhengq, Akshay-Rohatgi, rjawesome, aaditgupta21, safinsingh, raad1masum
+  - Description:
+    - Simple and very fast aeacus endpoint.
+
 ---
 
 ### Seth
