@@ -27,7 +27,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 
 ## Scoring Engines
 
-* [AECUS](#aecus)
+* [AEACUS](#aeacus)
 * [SARPEDON](#sarpedon)
 * [SETH](#seth)
 * [MAGISTRATE ARCHIVES](#magistrate-archives)
@@ -137,8 +137,12 @@ Please make sure you download the newest version since older ones are known for 
 
 ---
 
-### Aecus
+### Aeacus
 
+  - Github: [https://github.com/elysium-suite/aeacus](https://github.com/elysium-suite/aeacus)
+  - Contributors: sourque, safinsingh, Akshay-Rohatgi, Mobmaker55, aaditgupta21, Altoid0, HexaDrakon, raad1masum, alvinzhengq, dolphinalt, batman084, ironzelato, deepsourcebot, zombiepigdragon, tire-fire, Eth007, dependabot, rjawesome, tyliec
+  - Description:
+    - aeacus is a vulnerability scoring engine for Windows and Linux, with an emphasis on simplicity.  
 
 ---
 
