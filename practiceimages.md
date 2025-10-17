@@ -30,7 +30,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [AEACUS](#aeacus)
 * [SARPEDON](#sarpedon)
 * [SETH](#seth)
-* [MAGISTRATE ARCHIVES](#magistrate-archives)
+* [MAGISTRATE ARCHIVE](#magistrate-archive)
 
 ---
 
@@ -157,9 +157,19 @@ Please make sure you download the newest version since older ones are known for 
 
 ### Seth
 
+  - Github: [https://github.com/Eth007/seth](https://github.com/Eth007/seth)
+  - Contributors: Eth007
+  - Description:
+    -  seth is a "find-and-fix" vulnerability scoring engine for creating cybersecurity training exercises, with a focus on resistance to reverse engineering. It runs on Linux systems, and is designed for use in competitions similar to CyberPatriot and eCitadel. This engine is useful in the case when competition organizers wish to stop competitors from finding answers through reverse engineering or dynamic analysis, in an enforcable way.
+
 ---
 
-### Magistrate Archives
+### Magistrate Archive
+
+  - Github: [https://github.com/shiversoftdev/Magistrate-Archive](https://github.com/shiversoftdev/Magistrate-Archive)
+  - Contributors: shiversoftdev
+  - Description:
+    - This repository is an archive of the work done by the Magistrate/Dynamix team for practice images for the CyberPatriot competition. This includes source to most of our tricks, the engine, and some of our design documents.
 
 ---
 
