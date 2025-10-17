@@ -25,6 +25,15 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 
 ---
 
+## Scoring Engines
+
+* [AECUS](#aecus)
+* [SARPEDON](#sarpedon)
+* [SETH](#seth)
+* [MAGISTRATE ARCHIVES](#magistrate-archives)
+
+---
+
 ## Windows Images
 
 * [FBI: Win 10](#fbi)
@@ -125,6 +134,23 @@ Please make sure you download the newest version since older ones are known for 
 
 ### Packet Tracer
   - Windows: [https://scoreboard.titanturtles.xyz/files/Software/Packet_Tracer822_64bit_setup_signed.exe](https://scoreboard.titanturtles.xyz/files/Software/Packet_Tracer822_64bit_setup_signed.exe)
+
+---
+
+### Aecus
+
+
+---
+
+### Sarpedon
+
+---
+
+### Seth
+
+---
+
+### Magistrate Archives
 
 ---
 
