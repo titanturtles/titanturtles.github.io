@@ -656,16 +656,17 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Adam Sakouk (discord: lolmenow)
 - Difficulty: Medium - Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1c1Zxr0AYk3gE_yUH_1vwxNETEmezvbBj/view?usp=sharing](https://drive.google.com/file/d/1c1Zxr0AYk3gE_yUH_1vwxNETEmezvbBj/view?usp=sharing)
-- Additional Downloads: 
-- MD5 Checksum: 
+- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/c/ETHS/Policy%20Violations%20VM%20-%20ETHS.7z](https://scoreboard.titanturtles.xyz/files/c/ETHS/Policy%20Violations%20VM%20-%20ETHS.7z)
+- MD5 Checksum: `c424244a9c95433cb44c6b75fa19e642`
 - Additional Info:
   - Original Website: [https://sakouk.me/cyberpatriot#eths-cyber-squad-policy-violations-image](https://sakouk.me/cyberpatriot#eths-cyber-squad-policy-violations-image)
   - Notes:
     - This image focuses exclusively on Policy Violations from the CyberPatriot vulnerability categories. It includes malware, prohibited files, and unwanted software, along with Forensic Questions. There are no vulnerabilities in any other categories.
     - You might see a popup saying that the VM is encrypted when loading into VMware. This is because Windows 11 uses a TPM chip and encrypts the data. If you see the popup, simply enter the same password as the autologin password below, that being: `CyberSquadViolations!`
     - You may start with negative points. This is by design and is not a bug.
-  - User: `Frank`
-  - Password: `CyberSquadViolations!`
+  - Credentials:
+    - User: `Frank`
+    - Password: `CyberSquadViolations!`
   - Answer Key: You can find the Aeacus config file which includes all scored vulnerabilities and some notes on how the vulnerabilities were created [here](https://sakouk.me/PolicyViolations-Config.txt)
 
 ---
