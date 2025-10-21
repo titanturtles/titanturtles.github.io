@@ -651,6 +651,9 @@ Please make sure you download the newest version since older ones are known for 
 ---
 
 ### ETHS CYBER SQUAD POLICY VIOLATIONS IMAGE
+
+<img width="400" alt="Screenshot 2025-10-21 115626" src="https://github.com/user-attachments/assets/4d06d814-be7d-4ba7-9f40-37467912b901" />
+
 - Name: ETHS CYBER SQUAD POLICY VIOLATIONS IMAGE
 - OS: WINDOWS 11
 - Author: Adam Sakouk (discord: lolmenow)
