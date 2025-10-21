@@ -59,6 +59,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [CINCINATTI ZOO: Win 10, E](#cincinatti-zoo)
 * [BALDI'S BASICS: WinServer 2022, SH](#baldis-basics)
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
+* [ETHS CYBER SQUAD POLICY VIOLATIONS IMAGE: Win 11, M-H](#eths-cyber-squad-policy-violations-image)
 
 ---
 
@@ -646,6 +647,26 @@ Please make sure you download the newest version since older ones are known for 
   - Answer Key: https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing
   - Walkthrough: https://cybervoid.tech/posts/my-little-pony-walkthrough/
   - Walkthrough: (alternate) [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md)
+
+---
+
+### ETHS CYBER SQUAD POLICY VIOLATIONS IMAGE
+- Name: ETHS CYBER SQUAD POLICY VIOLATIONS IMAGE
+- OS: WINDOWS 11
+- Author: Adam Sakouk (discord: lolmenow)
+- Difficulty: Medium - Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1c1Zxr0AYk3gE_yUH_1vwxNETEmezvbBj/view?usp=sharing](https://drive.google.com/file/d/1c1Zxr0AYk3gE_yUH_1vwxNETEmezvbBj/view?usp=sharing)
+- Additional Downloads: 
+- MD5 Checksum: 
+- Additional Info:
+  - Original Website: [https://sakouk.me/cyberpatriot#eths-cyber-squad-policy-violations-image](https://sakouk.me/cyberpatriot#eths-cyber-squad-policy-violations-image)
+  - Notes:
+    - This image focuses exclusively on Policy Violations from the CyberPatriot vulnerability categories. It includes malware, prohibited files, and unwanted software, along with Forensic Questions. There are no vulnerabilities in any other categories.
+    - You might see a popup saying that the VM is encrypted when loading into VMware. This is because Windows 11 uses a TPM chip and encrypts the data. If you see the popup, simply enter the same password as the autologin password below, that being: `CyberSquadViolations!`
+    - You may start with negative points. This is by design and is not a bug.
+  - User: `Frank`
+  - Password: `CyberSquadViolations!`
+  - Answer Key: You can find the Aeacus config file which includes all scored vulnerabilities and some notes on how the vulnerabilities were created [here](https://sakouk.me/PolicyViolations-Config.txt)
 
 ---
 
