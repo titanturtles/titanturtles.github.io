@@ -779,7 +779,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: poarthanarseus
 - Difficulty: Medium
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1MaEmGrTFMZIcG2S0DPCLDfWffThndkGk/view?usp=sharing](https://drive.google.com/file/d/1MaEmGrTFMZIcG2S0DPCLDfWffThndkGk/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/HouseOnTheBorderland/houseOnTheBorderland.zip](https://scoreboard.titanturtles.xyz/files/HouseOnTheBorderland/houseOnTheBorderland.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/houseOnTheBorderland.zip](https://practicevms.s3.us-east-1.amazonaws.com/houseOnTheBorderland.zip)
 - MD5 Checksum: `59f907e8e40e6c14ff2dab6984468c6c`
 - Additional Info:
   - Credential: User: `pepper` or `houseOnTheBorderLand`, Pass: `deadworld`
