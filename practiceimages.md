@@ -477,7 +477,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: lolmenow, SG, and a_person
 - Difficulty: Medium - Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1FJ9ZxVpQDMaX29SVykuNW1LMODr3BAGu/view?usp=sharing](https://drive.google.com/file/d/1FJ9ZxVpQDMaX29SVykuNW1LMODr3BAGu/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/NorthKorea/DPRoK.7z](https://scoreboard.titanturtles.xyz/files/NorthKorea/DPRoK.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/DPRoK.7z](https://practicevms.s3.us-east-1.amazonaws.com/DPRoK.7z)
 - MD5 Checksum: `7f3e6c1478e7881684ab4c9e2afe22cc`
 - Additional Info:
   - Important: Secure VBS last, as one of the points may break logon
