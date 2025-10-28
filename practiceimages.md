@@ -265,7 +265,7 @@ Please make sure you download the newest version since older ones are known for 
     - Matthew	Tutorial Creator, Beta Testing
   - Difficulty: Beginner
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view](https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view)
-  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SantasWorkshop/Santa%27s%20Workshop.zip](https://scoreboard.titanturtles.xyz/files/SantasWorkshop/Santa%27s%20Workshop.zip)
+  - Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Santa's+Workshop.zip](https://practicevms.s3.us-east-1.amazonaws.com/Santa's+Workshop.zip)
   - MD5 Checksum: `ad705c062fc7cda4ac496a72c5a9e4b2`
   - Additional Info:
     - Original Website: https://magistrate.shiversoft.net/
