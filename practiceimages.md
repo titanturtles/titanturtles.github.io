@@ -180,7 +180,7 @@ Please make sure you download the newest version since older ones are known for 
   - Author: John (discord: notstewart) 
   - Difficulty: ???
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view](https://drive.google.com/file/d/17rluTVF1S3bsQfk7Gt0MNKc_76FYbYid/view)
-  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/FBI/%28V4%29%20FBI%20Practice%20Image.7z)
+  - Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/(V4)+FBI+Practice+Image.7z](https://practicevms.s3.us-east-1.amazonaws.com/(V4)+FBI+Practice+Image.7z)
   - MD5 Checksum: `edfc2e557b620f6fca585ab5895b7698`
   - Additional Info:
 
