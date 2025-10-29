@@ -363,7 +363,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: x1nni 
 - Difficulty: Hard - Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view](https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/PPTH/x1nni_ppth_h_win11.7z](https://scoreboard.titanturtles.xyz/files/PPTH/x1nni_ppth_h_win11.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/x1nni_ppth_h_win11.7z](https://practicevms.s3.us-east-1.amazonaws.com/x1nni_ppth_h_win11.7z)
 - MD5 Checksum: `dc9d1d3c84cd08e29f1928f2ef9c7446`
 - Additional Info:
   - Original Website: [https://ejinnis.ca/practice-images/princeton-plainsboro-teaching-hospital/](https://ejinnis.ca/practice-images/princeton-plainsboro-teaching-hospital/)
