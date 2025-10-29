@@ -117,7 +117,7 @@ Please make sure you download the newest version since older ones are known for 
     - Link: [https://support.broadcom.com/](https://support.broadcom.com/) 
   - Windows:
     - VMware Workstation Pro 17.6.4
-    - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-workstation-full-17.6.4-24832109.exe](https://scoreboard.titanturtles.xyz/files/Software/VMware-workstation-full-17.6.4-24832109.exe)
+    - Link: [https://practicevms.s3.us-east-1.amazonaws.com/VMware-workstation-full-17.6.4-24832109.exe](https://practicevms.s3.us-east-1.amazonaws.com/VMware-workstation-full-17.6.4-24832109.exe)
   - Linux:
     - VMware Workstatino Pro 17.6.4
     - Link: [https://scoreboard.titanturtles.xyz/files/Software/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle](https://scoreboard.titanturtles.xyz/files/Software/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle)
