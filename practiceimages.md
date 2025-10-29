@@ -847,7 +847,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Mobmaker
 - Difficulty: Easy
 - Google Downloads: [https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing](https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.7z](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/0-Debian10-BloonsTD6.7z](https://practicevms.s3.us-east-1.amazonaws.com/0-Debian10-BloonsTD6.7z)
 - MD5 Checksum: `56c6862e91f0290a173c3ae7bfc517d3`
 - Additional Info:
   - Credentials:
