@@ -1146,7 +1146,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: shubuntu, prilasey
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1dQfLPgzDq-iaXBCNLLrgDsWxYtpTWbDP/view?usp=drive_link](https://drive.google.com/file/d/1dQfLPgzDq-iaXBCNLLrgDsWxYtpTWbDP/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/c/SystemHardening11/syshardening11.zip](https://scoreboard.titanturtles.xyz/files/c/SystemHardening11/syshardening11.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/syshardening11.zip](https://practicevms.s3.us-east-1.amazonaws.com/syshardening11.zip)
 - MD5 Checksum: `416fca601ce8f237bbd7f21d9bb238ce`
 - Additional Info:
   - Credentials:
