@@ -746,7 +746,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: tirefire
 - Difficulty: Hard
 - Google Downloads: (Preferred) [https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx](https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MrRobot/mr.robot.sh.zip](https://scoreboard.titanturtles.xyz/files/MrRobot/mr.robot.sh.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/mr.robot.sh.zip](https://practicevms.s3.us-east-1.amazonaws.com/mr.robot.sh.zip)
 - MD5 Checksum: `5ea0ff7823ff8bd8578a987d80a99436`
 - Additional Info:
   - Original Website: https://tirefire.org/posts/fedora-practice/
