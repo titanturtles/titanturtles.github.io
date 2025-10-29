@@ -869,7 +869,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Eth007
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link](https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/InsideOutDebian/msf24_deb11_pgsms_sh_arena.zip](https://scoreboard.titanturtles.xyz/files/InsideOutDebian/msf24_deb11_pgsms_sh_arena.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/msf24_deb11_pgsms_sh_arena.zip](https://practicevms.s3.us-east-1.amazonaws.com/msf24_deb11_pgsms_sh_arena.zip)
 - MD5 Checksum: `824e22c0fdaaf5cbbd8eb66639e0e2ea`
 - Additional Info:
   - Credentials: user: `joy`, password: `pa$$w0rd10` 
