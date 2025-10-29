@@ -280,7 +280,7 @@ Please make sure you download the newest version since older ones are known for 
   - OS: WINDOWS SERVER 2022
   - Author: firepony57
   - Difficulty: Medium
-  - Google Downloads: (Preferred) [https://drive.google.com/file/d/1gYM366G8HG_WSEGIR90widby_XoVkDxK/view](https://drive.google.com/file/d/1gYM366G8HG_WSEGIR90widby_XoVkDxK/view)
+  - Google Downloads: (Preferred) [https://drive.google.com/file/d/1qPkE62na-Io3lQcCrd0aXMEqt3ItjBpq/view?usp=drive_link](https://drive.google.com/file/d/1qPkE62na-Io3lQcCrd0aXMEqt3ItjBpq/view?usp=drive_link)
   - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip)
   - MD5 Checksum: `db32b84215688f8d08b57a6ce4c0eea2`
   - Additional Info:
