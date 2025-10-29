@@ -521,7 +521,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: carbonice 
 - Difficulty: H
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1Cs6egjX1yokZRGq8SmdLsHcgx0qwVl90/view](https://drive.google.com/file/d/1Cs6egjX1yokZRGq8SmdLsHcgx0qwVl90/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/c/Lobotomy/Lobotomy%20Corporation%20First%20Trumpet.zip](https://scoreboard.titanturtles.xyz/files/c/Lobotomy/Lobotomy%20Corporation%20First%20Trumpet.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Lobotomy+Corporation+First+Trumpet.zip](https://practicevms.s3.us-east-1.amazonaws.com/Lobotomy+Corporation+First+Trumpet.zip)
 - MD5 Checksum: `0bf3db3e3a91b506059dacccc519d686`
 - Additional Info:
   - Extraction Password: `DH8v@}z79yb2Az]@#U*VCna`
@@ -683,7 +683,7 @@ Please make sure you download the newest version since older ones are known for 
   - shiversoftdev	Engine Lead, Deployment, Theme
 - Difficulty: Intermediate
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1Eo6FIq9UfWtzyIso62FH9yJ922Kvj54T/view](https://drive.google.com/file/d/1Eo6FIq9UfWtzyIso62FH9yJ922Kvj54T/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SpaceForceServer/Space%20Force%20Server.zip](https://scoreboard.titanturtles.xyz/files/SpaceForceServer/Space%20Force%20Server.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Space+Force+Server.zip](https://practicevms.s3.us-east-1.amazonaws.com/Space+Force+Server.zip)
 - MD5 Checksum: `adf0092872d27cef4f15eb7d7ef23916`
 - Additional Info:
   - Original Website: https://magistrate.shiversoft.net/
@@ -701,7 +701,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Eth007
 - Difficulty: Medium (Ethan claimed to be Easy, but we took with grain of salt)
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/12x8aYXIpGwO47MIvUCB6G3bqV-8npVUx/view](https://drive.google.com/file/d/12x8aYXIpGwO47MIvUCB6G3bqV-8npVUx/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20Server.zip](https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20Server.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Narnia+Server.zip](https://practicevms.s3.us-east-1.amazonaws.com/Narnia+Server.zip)
 - MD5 Checksum: `ce79cf10ceda1957aadff3f9c1a1642b`
 - Additional Info:
   - Original Website: https://eth007.me/blog/cypat/
@@ -821,7 +821,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: hypernova
 - Difficulty: Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view](https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Nevermore/nevermore.zip](https://scoreboard.titanturtles.xyz/files/Nevermore/nevermore.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/nevermore.zip](https://practicevms.s3.us-east-1.amazonaws.com/nevermore.zip)
 - MD5 Checksum: `a3cb68459992e7c85d626ba74ace300d`
 - Additional Info:
   - Credentials: waddams:password
