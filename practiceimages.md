@@ -392,7 +392,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Altoid0
 - Difficulty: Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link](https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KAC/Server2019_KAC.7z](https://scoreboard.titanturtles.xyz/files/KAC/Server2019_KAC.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Server2019_KAC.7z](https://practicevms.s3.us-east-1.amazonaws.com/Server2019_KAC.7z)
 - MD5 Checksum: `7c8cb8281477b156e33f9677f3ded766`
 - Additional Info:
   - Critical Services: Active Directory and DNS
