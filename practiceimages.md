@@ -711,12 +711,12 @@ Please make sure you download the newest version since older ones are known for 
 ---
 
 ### ROOREAPER STRIKES BACK
-- Name: ROOREAPER STRIKES BACK (SYS HARDENING 7)
+- Name: ROOREAPER STRIKES BACK (SYSTEM HARDENING 7)
 - OS: UBUNTU 22
 - Author: Eth007
 - Difficulty: Medium (Ethan claimed to be Easy, but we took with another grain of salt)
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1gyshPKjhQ2o907LQpwB_gq3BeqwmN2ko/view](https://drive.google.com/file/d/1gyshPKjhQ2o907LQpwB_gq3BeqwmN2ko/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Rooreaper/System%20Hardening%207.zip](https://scoreboard.titanturtles.xyz/files/Rooreaper/System%20Hardening%207.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/System+Hardening+7.zip](https://practicevms.s3.us-east-1.amazonaws.com/System+Hardening+7.zip)
 - MD5 Checksum: `cf01b22ef0999ef975320cc39b7001f4`
 - Additional Info:
   - Original Website: https://eth007.me/blog/cypat/
