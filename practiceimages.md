@@ -601,7 +601,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Donkey (discord: d0nkeyman)
 - Difficulty: Easy
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view](https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip](https://scoreboard.titanturtles.xyz/files/CincinattiZoo/The%20Cincinnati%20Zoo.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/The+Cincinnati+Zoo.zip](https://practicevms.s3.us-east-1.amazonaws.com/The+Cincinnati+Zoo.zip)
 - MD5 Checksum: `767d2c696c5c360697c9d3d0979dbb63`
 - Additional Info:
   - Original Website: https://cybervoid.tech/projects/cincinnati/
