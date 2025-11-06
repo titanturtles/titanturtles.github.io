@@ -640,7 +640,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Donkey (discord: d0nkeyman)
 - Difficulty: Medium
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1Og8lIMVqGKKenFXTpWYhA8X-szXyRtcY/view?usp=share_link](https://drive.google.com/file/d/1Og8lIMVqGKKenFXTpWYhA8X-szXyRtcY/view?usp=share_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony.zip](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony.zip](https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony.zip)
 - MD5 Checksum: `efa2078baa34e6b356645aa2060adbb2`
 - Additional Info:
   - Original Website: https://cybervoid.tech/projects/mlp/
@@ -649,7 +649,7 @@ Please make sure you download the newest version since older ones are known for 
   - User: Rainbow Dash
   - Password: ItNe3dsT0Be20%C00L3r
   - Answer Key: https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing
-  - Walkthrough: https://cybervoid.tech/posts/my-little-pony-walkthrough/
+  - Walkthrough: [https://cybervoid.tech/posts/my-little-pony-walkthrough/](https://cybervoid.tech/posts/my-little-pony-walkthrough/)
   - Walkthrough: (alternate) [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md)
 
 ---
