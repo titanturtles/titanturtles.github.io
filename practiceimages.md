@@ -493,7 +493,7 @@ Please make sure you download the newest version since older ones are known for 
 - OS: Windows Server 2025
 - Author: pumpkinjones6_02843 
 - Difficulty: ?
-- Downloads: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20%28Server%202025%29.7z)
+- Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+(Server+2025).7z](https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+(Server+2025).7z)
 - MD5 Checksum: `540fabdf9610e87fe8b0d2fcf682c0bb`
 - Additional Info:
   - Walkthrough: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf)
