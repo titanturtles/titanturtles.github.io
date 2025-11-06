@@ -496,7 +496,7 @@ Please make sure you download the newest version since older ones are known for 
 - Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+(Server+2025).7z](https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+(Server+2025).7z)
 - MD5 Checksum: `540fabdf9610e87fe8b0d2fcf682c0bb`
 - Additional Info:
-  - Walkthrough: [https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf](https://scoreboard.titanturtles.xyz/files/WindowsPersistence/Windows%20Persistence%20Writeup.pdf)
+  - Walkthrough: [https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+Writeup.pdf](https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+Writeup.pdf)
   - Important Notes:
     - Scoring report & README shortcuts on desktop do not work.
     - Access them manually at:
