@@ -298,7 +298,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: swiftsnails
 - Difficulty: Hard - Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view](https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/AlphabetSoup/Alphabet%20Soup.7z](https://scoreboard.titanturtles.xyz/files/AlphabetSoup/Alphabet%20Soup.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Alphabet+Soup.7z](https://practicevms.s3.us-east-1.amazonaws.com/Alphabet+Soup.7z)
 - MD5 Checksum: `ec82c40b7036b0802e0556b3977f2596`
 - Additional Info:
   - Credentials: no, not even in readme  
