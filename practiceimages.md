@@ -241,7 +241,7 @@ Please make sure you download the newest version since older ones are known for 
     - TheiMacNoob	Beta Tester
   - Difficulty: Intermediate
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view](https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view)
-  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z](https://scoreboard.titanturtles.xyz/files/MushroomKingdom/imks-gold.7z)
+  - Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/imks-gold.7z](https://practicevms.s3.us-east-1.amazonaws.com/imks-gold.7z)
   - MD5 Checksum: `54bd31dc5d01dea625f84cde68dae335`
   - Additional Info:
     - Original Website: [https://magistrate.shiversoft.net](https://magistrate.shiversoft.net)
