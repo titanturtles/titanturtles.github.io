@@ -129,7 +129,7 @@ Please make sure you download the newest version since older ones are known for 
 
 ### 7zip
   - Official Website: [https://www.7-zip.org/download.html](https://www.7-zip.org/download.html)
-  - Windows: [https://scoreboard.titanturtles.xyz/files/Software/7z2408-x64.exe](https://scoreboard.titanturtles.xyz/files/Software/7z2408-x64.exe)
+  - Windows: [https://practicevms.s3.us-east-1.amazonaws.com/7z2501-x64.exe](https://practicevms.s3.us-east-1.amazonaws.com/7z2501-x64.exe)
 
 ---
 
