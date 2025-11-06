@@ -283,7 +283,7 @@ Please make sure you download the newest version since older ones are known for 
   - Author: firepony57
   - Difficulty: Medium
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/1qPkE62na-Io3lQcCrd0aXMEqt3ItjBpq/view?usp=drive_link](https://drive.google.com/file/d/1qPkE62na-Io3lQcCrd0aXMEqt3ItjBpq/view?usp=drive_link)
-  - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening9/Copy%20of%20System%20Hardening%209%20-%20ImaginaryCTF%202023.zip)
+  - Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Copy+of+System+Hardening+9+-+ImaginaryCTF+2023--111.zip](https://practicevms.s3.us-east-1.amazonaws.com/Copy+of+System+Hardening+9+-+ImaginaryCTF+2023--111.zip)
   - MD5 Checksum: `db32b84215688f8d08b57a6ce4c0eea2`
   - Additional Info:
     - Credential: user: `frodo`, password: `Pa$$w0rd10`
