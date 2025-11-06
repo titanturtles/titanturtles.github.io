@@ -193,7 +193,7 @@ Please make sure you download the newest version since older ones are known for 
   - Difficulty: Super Hard
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing](https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing)
   - Additional Downloads:
-    - [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/Beyond%20Journey%27s%20End.7z](https://scoreboard.titanturtles.xyz/files/seBeyondJourneysEnd/Beyond%20Journey%27s%20End.7z)
+    - [https://practicevms.s3.us-east-1.amazonaws.com/Beyond+Journey's+End.7z](https://practicevms.s3.us-east-1.amazonaws.com/Beyond+Journey's+End.7z)
     - [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat)
   - MD5 Checksum:
     - Beyond Journey's End.7z: `caf3646a8324bdb57a993b86550758a2`  
