@@ -617,7 +617,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Donkey (discord: d0nkeyman)
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1woYKSkHiBAZI92D2ihTE72LNLABaGtXv](https://drive.google.com/file/d/1woYKSkHiBAZI92D2ihTE72LNLABaGtXv)
-- Downloads: [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics.zip)
+- Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics.zip](https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics.zip)
 - MD5 Checksum: `4a357ecb1f78c593805cf733ac234074`
 - Additional Info:
   - Original Website: [https://cybervoid.tech/projects/baldi/](https://cybervoid.me/projects/baldi/)
