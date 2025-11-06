@@ -738,7 +738,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Eth007
 - Difficulty: Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1pf11TRG9gh94x0wli3-tX3P4PlQhccmW/view?usp=drive_link](https://drive.google.com/file/d/1pf11TRG9gh94x0wli3-tX3P4PlQhccmW/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip](https://scoreboard.titanturtles.xyz/files/FellowshipOfTheRing/System%20Hardening%208.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/System+Hardening+8.zip](https://practicevms.s3.us-east-1.amazonaws.com/System+Hardening+8.zip)
 - MD5 Checksum: `9b002dcd1b895b8f2a0ce8e7db4d2ce6`
 - Additional Info:
   - Extraction Password; `DWygzjqtQIfsAvzZNbsv` 
