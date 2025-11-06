@@ -247,7 +247,9 @@ Please make sure you download the newest version since older ones are known for 
     - Original Website: [https://magistrate.shiversoft.net](https://magistrate.shiversoft.net)
     - Extraction Password: `MushroomMan64`
     - Primary Login: `Mario:S3cure%The%Shr00ms`
-    - Walkthrough: [https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view](https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view)
+    - Walkthrough:
+      - [https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view](https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view)
+      - [https://practicevms.s3.us-east-1.amazonaws.com/Mushroom+Kingdom+Server+-+Image+Guide.pdf](https://practicevms.s3.us-east-1.amazonaws.com/Mushroom+Kingdom+Server+-+Image+Guide.pdf)
  
 ---
 
