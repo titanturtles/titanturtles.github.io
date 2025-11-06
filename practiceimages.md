@@ -799,7 +799,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: InfernusHawk
 - Difficulty: Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1_ZDn7K4Xy6pQ5YXWroqBkZoIdYfSivkT/view](https://drive.google.com/file/d/1_ZDn7K4Xy6pQ5YXWroqBkZoIdYfSivkT/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/ApertureScienceUbuntu/Aperture%20Science%20Ubuntu.zip](https://scoreboard.titanturtles.xyz/files/ApertureScienceUbuntu/Aperture%20Science%20Ubuntu.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Ubuntu.zip](https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Ubuntu.zip)
 - MD5 Checksum: `a276df5cde736170eb9c4a63e81e9886`
 - Additional Info:
   - Original Website: [https://discord.com/channels/301768361136750592/414537868766347265/1153440187091791972](https://discord.com/channels/301768361136750592/414537868766347265/1153440187091791972)
