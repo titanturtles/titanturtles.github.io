@@ -414,7 +414,7 @@ Please make sure you download the newest version since older ones are known for 
 - OS: WINDOWS 2022
 - Author: CarbonIce
 - Difficulty: Super Hard
-- Google Downloads: (Preferred) [https://discord.com/channels/301768361136750592/414537868766347265/1323896026817626205](https://discord.com/channels/301768361136750592/414537868766347265/1323896026817626205)
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1mm9jIRGv-OeGnywhIZgn4XcJV4fHjJGc/view?usp=sharing](https://drive.google.com/file/d/1mm9jIRGv-OeGnywhIZgn4XcJV4fHjJGc/view?usp=sharing)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/SunriseFoundationTrainingSimulation/vulnerable_server_v4.zip](https://scoreboard.titanturtles.xyz/files/SunriseFoundationTrainingSimulation/vulnerable_server_v4.zip)
 - MD5 Checksum: `0DB33F6C823CECAEC97330F256859827`
 - Additional Info:
