@@ -648,9 +648,12 @@ Please make sure you download the newest version since older ones are known for 
   - Notes: Easy vulns but extremely broken
   - User: Rainbow Dash
   - Password: ItNe3dsT0Be20%C00L3r
-  - Answer Key: https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing
-  - Walkthrough: [https://cybervoid.tech/posts/my-little-pony-walkthrough/](https://cybervoid.tech/posts/my-little-pony-walkthrough/)
-  - Walkthrough: (alternate) [https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md](https://scoreboard.titanturtles.xyz/files/MyLittlePony/My%20Little%20Pony%20Walkthrough.md)
+  - Answer Key:
+    - [https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing](https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing)
+    - [https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony+Answer+Key.pdf](https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony+Answer+Key.pdf)
+  - Walkthrough:
+    - [https://cybervoid.tech/posts/my-little-pony-walkthrough/](https://cybervoid.tech/posts/my-little-pony-walkthrough/)
+    - [https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony+Walkthrough.pdf](https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony+Walkthrough.pdf)
 
 ---
 
