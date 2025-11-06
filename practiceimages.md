@@ -620,12 +620,11 @@ Please make sure you download the newest version since older ones are known for 
 - Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics.zip](https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics.zip)
 - MD5 Checksum: `4a357ecb1f78c593805cf733ac234074`
 - Additional Info:
-  - Original Website: [https://cybervoid.tech/projects/baldi/](https://cybervoid.me/projects/baldi/)
+  - Original Website: [https://cybervoid.tech/projects/baldi/](https://cybervoid.tech/projects/baldi/)
   - Vulns: 50
   - Notes: Active Directory, IPsec, Users have reported seeing low disk space errors
-  - User: Student
-  - Password: study
-  - Answer Key: https://cybervoid.me/posts/baldis-basics-answer-key/
+  - Credential: User: `Student`, Password: `study`
+  - Answer Key: [https://cybervoid.tech/posts/baldis-basics-answer-key/](https://cybervoid.tech/posts/baldis-basics-answer-key/)
   - Answer Key: (alternate) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.pdf)
   - Answer Key: (md version) [https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.md](https://scoreboard.titanturtles.xyz/files/BaldisBasics/Baldi%27s%20Basics%20Answer%20Key.md)
 
