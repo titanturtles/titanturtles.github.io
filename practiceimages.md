@@ -382,7 +382,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: KaliPatriot
 - Difficulty: Medium
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing](https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KalisWindows/Windows%2010%20Practice.zip](https://scoreboard.titanturtles.xyz/files/KalisWindows/Windows%2010%20Practice.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Windows+10+Practice.zip](https://practicevms.s3.us-east-1.amazonaws.com/Windows+10+Practice.zip)
 - MD5 Checksum: `b6766f74112b8c63f201daf400ff4e0d`
 - Additional Info:
 
