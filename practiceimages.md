@@ -666,7 +666,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Adam Sakouk (discord: lolmenow)
 - Difficulty: Medium - Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1c1Zxr0AYk3gE_yUH_1vwxNETEmezvbBj/view?usp=sharing](https://drive.google.com/file/d/1c1Zxr0AYk3gE_yUH_1vwxNETEmezvbBj/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/c/ETHS/Policy%20Violations%20VM%20-%20ETHS.7z](https://scoreboard.titanturtles.xyz/files/c/ETHS/Policy%20Violations%20VM%20-%20ETHS.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Policy+Violations+VM+-+ETHS.7z](https://practicevms.s3.us-east-1.amazonaws.com/Policy+Violations+VM+-+ETHS.7z)
 - MD5 Checksum: `c424244a9c95433cb44c6b75fa19e642`
 - Additional Info:
   - Original Website: [https://sakouk.me/cyberpatriot#eths-cyber-squad-policy-violations-image](https://sakouk.me/cyberpatriot#eths-cyber-squad-policy-violations-image)
