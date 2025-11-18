@@ -9,7 +9,7 @@ layout: default
 
 **Disclaimer:** We share these images just to make it easier for people to use them. We appreciate the works of the original authors. If you think there is a copyright infringement, feel free to contact us. We will act accordingly.
 
-**We are not responsible of any of the contents listed here.** These images are made for cybersecurity learning and practicing purpose. Naturally, there will be malicious contents inside each of the images. We are not responsible for any damage or loss incurred by using the contents listed below. We are not responsible for any loss or damage incurred by downloading and/or using the contents here. Please do not use any of the contents here for illegal activities. We are not responsible any illegal activities anyone performed based on downloading or using the contents here.
+**We are not responsible of any of the contents listed here.** These images are made for cybersecurity learning and practicing purpose. Naturally, there will be malicious contents inside eacKimh of the images. We are not responsible for any damage or loss incurred by using the contents listed below. We are not responsible for any loss or damage incurred by downloading and/or using the contents here. Please do not use any of the contents here for illegal activities. We are not responsible any illegal activities anyone performed based on downloading or using the contents here.
 
 If there is error in any of the content, please reach out to us at titanturtlesteam(a)gmail.com.
 
@@ -327,9 +327,9 @@ Please make sure you download the newest version since older ones are known for 
   - Part 2: [https://drive.google.com/file/d/1Gp22ccrHR680o9Gdi52SvZEliBRpm0G8/view?usp=sharing](https://drive.google.com/file/d/1Gp22ccrHR680o9Gdi52SvZEliBRpm0G8/view?usp=sharing)
   - Part 3: [https://drive.google.com/file/d/1mo-r28xlR7aN4TUlEJGuHAkHss8W5lt1/view?usp=sharing](https://drive.google.com/file/d/1mo-r28xlR7aN4TUlEJGuHAkHss8W5lt1/view?usp=sharing)
 - Additional Downloads: 
-  - Part 1: [https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.001](https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.001)
-  - Part 2: [https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.002](https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.002)
-  - Part 3: [https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.003](https://scoreboard.titanturtles.xyz/files/ApertureScienceWindows/Aperture%20Science%20Windows.zip.003)
+  - Part 1: [https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.001](https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.001)
+  - Part 2: [https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.002](https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.002)
+  - Part 3: [https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.003](https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.003)
 - MD5 Checksum: 
   - Part 1: `3e4088f168a243778ca47cc3969c7f4f`
   - Part 2: `2f2271fea0c355cbe6b1aaca127c273e`
