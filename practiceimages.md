@@ -587,8 +587,8 @@ Please make sure you download the newest version since older ones are known for 
 - OS: WINDOWS 10
 - Author: Troy HS
 - Difficulty: ?
-- Google Downloads: ?
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/TroyMock/Troy%20Windows%2010%20Mock%20%28Image%20password%20is%20password%29.7z](https://scoreboard.titanturtles.xyz/files/TroyMock/Troy%20Windows%2010%20Mock%20%28Image%20password%20is%20password%29.7z)
+- Google Downloads: [https://drive.google.com/drive/folders/1dG-Xc7FsrCa_agSrjegMmlY8Ze0LI-jk?usp=drive_link](https://drive.google.com/drive/folders/1dG-Xc7FsrCa_agSrjegMmlY8Ze0LI-jk?usp=drive_link)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Troy+Windows+10+Mock.7z](https://practicevms.s3.us-east-1.amazonaws.com/Troy+Windows+10+Mock.7z)
 - MD5 Checksum: `7a3ab91c8b020486c8abe527e9531ddc`
 - Additional Info:
   - Credentials:
