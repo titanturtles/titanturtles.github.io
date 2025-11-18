@@ -841,7 +841,7 @@ Please make sure you download the newest version since older ones are known for 
 - OS: UBUNTU 22
 - Author: FIREPONY57 + Eth007
 - Difficulty: Medium (but somewhat broken)
-- Downloads: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/system-hardening-10.zip](https://scoreboard.titanturtles.xyz/files/SystemHardening10/system-hardening-10.zip)
+- Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/system-hardening-10.zip](https://practicevms.s3.us-east-1.amazonaws.com/system-hardening-10.zip)
 - MD5 Checksum: `2d70a3b32e2898614bcc773b43adc7f4`
 - Additional Info:
   - Readme: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md](https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md)
@@ -917,7 +917,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: immortalmanan
 - Difficulty: Easy
 - Google Downloads: [https://drive.google.com/file/d/10QHbNdrtHqyX0U-5KMdIBHvdUt8FVi4e/view?usp=sharing](https://drive.google.com/file/d/10QHbNdrtHqyX0U-5KMdIBHvdUt8FVi4e/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CyberTech/CyberTech%20Image.zip](https://scoreboard.titanturtles.xyz/files/CyberTech/CyberTech%20Image.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/CyberTech+Image.zip](https://practicevms.s3.us-east-1.amazonaws.com/CyberTech+Image.zip)
 - MD5 Checksum: `c421c11a64807ad8ca54a50121c46aaa`
 - Additional Info:
   - Credential: User: `jmuskington`, Password: `password123!`
