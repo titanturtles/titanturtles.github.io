@@ -47,7 +47,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [PRINCETON-PLAINSBORO TEACHING HOSPITAL: Win 11, H-SH](#princeton-plainsboro-teaching-hospital)
 * [KALI'S WINDOWS IMAGE: Win 10, M](#kalis-windows-image)
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
-* [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)
+* [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)sefe
 * [TOKYO III: WinServer 2025, SH](#tokyo-iii)
 * [DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA: WinServer 2025, M-H](#democratic-peoples-republic-of-korea)
 * [WINDOWS PERSISTENCE: WinServer 2025, ?](#windows-persistence)
@@ -815,7 +815,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: beyman ?
 - Difficulty: Easy
 - Mega Downloads: (Preferred) [https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI](https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Seinfeld/Seinfeld%20ubuntu%20image%20by%20Sylvain%20Jones.zip](https://scoreboard.titanturtles.xyz/files/Seinfeld/Seinfeld%20ubuntu%20image%20by%20Sylvain%20Jones.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Seinfeld+ubuntu+image+by+Sylvain+Jones.zip](https://practicevms.s3.us-east-1.amazonaws.com/Seinfeld+ubuntu+image+by+Sylvain+Jones.zip)
 - MD5 Checksum: `a276df5cde736170eb9c4a63e81e9886`
 - Additional Info:
   - Credentials: jerry:marblerye
