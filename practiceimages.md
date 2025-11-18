@@ -937,7 +937,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: samn0270_65431
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1O3TSZnGTQf-pgcBOs7-d2XPuqYWgtCWE/view](https://drive.google.com/file/d/1O3TSZnGTQf-pgcBOs7-d2XPuqYWgtCWE/view)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KimetsuNoYaiba/Kimetsu%20No%20Yaiba.7z](https://scoreboard.titanturtles.xyz/files/KimetsuNoYaiba/Kimetsu%20No%20Yaiba.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Kimetsu+No+Yaiba.7z](https://practicevms.s3.us-east-1.amazonaws.com/Kimetsu+No+Yaiba.7z)
 - MD5 Checksum: `60fe90b23559ca79d66eddfe08a30c60`
 - Additional Info:
     
