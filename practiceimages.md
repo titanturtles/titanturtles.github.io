@@ -770,7 +770,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: KaliPatriot
 - Difficulty: Medium
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view?usp=sharing](https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/KalisUbuntu/Ubuntu%2018%20Pre-semifinals%20CPXV%20Practice.zip](https://scoreboard.titanturtles.xyz/files/KalisUbuntu/Ubuntu%2018%20Pre-semifinals%20CPXV%20Practice.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Ubuntu+18+Pre-semifinals+CPXV+Practice.zip](https://practicevms.s3.us-east-1.amazonaws.com/Ubuntu+18+Pre-semifinals+CPXV+Practice.zip)
 - MD5 Checksum: `edf4e95e9e7174874912b2f89e61bb29`
 - Additional Info:
   - Credential: User: `rio`, Password: `1L0vemoV13$` 
