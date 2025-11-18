@@ -537,7 +537,7 @@ Please make sure you download the newest version since older ones are known for 
 - OS: WINDOWS 10
 - Author: Troy HS
 - Difficulty: Easy
-- Google Downloads: [https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link](https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link)
+- Google Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip](https://scoreboard.titanturtles.xyz/files/TitansLvl3/Titans_Lvl3_Win10.zip)
 - MD5 Checksum: `3ad26898b9cb9d1ddb55c1c33c2b515e`
 - Additional Info:
@@ -553,7 +553,7 @@ Please make sure you download the newest version since older ones are known for 
 - OS: WINDOWS 10
 - Author: Troy HS
 - Difficulty: Easy
-- Google Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
+- Google Downloads: [https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link](https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link)
 - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round2Win10/Round%202%20Win10%20PRACTICE.7z](https://scoreboard.titanturtles.xyz/files/Round2Win10/Round%202%20Win10%20PRACTICE.7z)
 - MD5 Checksum: `5037151f73c574f253af555a564dd80d`
 - Additional Info:
