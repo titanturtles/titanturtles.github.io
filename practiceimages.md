@@ -965,7 +965,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link](https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/DemonSlayer/DemonSlayer.7z](https://scoreboard.titanturtles.xyz/files/DemonSlayer/DemonSlayer.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/DemonSlayer.7z](https://practicevms.s3.us-east-1.amazonaws.com/DemonSlayer.7z)
 - MD5 Checksum: `fda3946ca9351adeacf43b8890069707`
 - Additional Info:
   - Credentials:
