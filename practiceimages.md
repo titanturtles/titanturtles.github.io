@@ -1021,7 +1021,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link](https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Polytopia/Polytopia.7z](https://scoreboard.titanturtles.xyz/files/Polytopia/Polytopia.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Polytopia.7z](https://practicevms.s3.us-east-1.amazonaws.com/Polytopia.7z)
 - MD5 Checksum: `092e80c4c2f5b0e5d26d630d28a48cc5`
 - Additional Info:
   - Credentials:
