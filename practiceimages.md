@@ -953,7 +953,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: fastanddanger2, bluepotato102 
 - Difficulty: Medium - Hard
 - Google Downloads: [https://drive.google.com/file/d/18mJ9lTTc8JR-jRz7eL1cqdJEKGrOFeCv/view?usp=sharing](https://drive.google.com/file/d/18mJ9lTTc8JR-jRz7eL1cqdJEKGrOFeCv/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Xmen/X-Men%20Ubuntu%20V1.zip](https://scoreboard.titanturtles.xyz/files/Xmen/X-Men%20Ubuntu%20V1.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/X-Men+Ubuntu+V1.zip](https://practicevms.s3.us-east-1.amazonaws.com/X-Men+Ubuntu+V1.zip)
 - MD5 Checksum: `90de99b73145734a1d06262a47ef4e6d`
 - Additional Info: Might be buggy for the Forensics
 
