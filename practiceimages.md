@@ -1004,7 +1004,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link](https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Avatar/Avatar_%20The%20Last%20Linuxbender-20171205T002226Z-001.zip](https://scoreboard.titanturtles.xyz/files/Avatar/Avatar_%20The%20Last%20Linuxbender-20171205T002226Z-001.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Avatar_+The+Last+Linuxbender-20171205T002226Z-001.zip](https://practicevms.s3.us-east-1.amazonaws.com/Avatar_+The+Last+Linuxbender-20171205T002226Z-001.zip)
 - MD5 Checksum: `5dfa2791213708f719fa206c9b9b7020`
 - Additional Info:
   - Credentials:
