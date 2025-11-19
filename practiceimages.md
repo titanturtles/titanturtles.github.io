@@ -986,7 +986,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Hard +
 - Google Downloads: [https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link](https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Nintendo/Nintendo%20Debian%2011%20Semifinals%20Practice%20Image.7z](https://scoreboard.titanturtles.xyz/files/Nintendo/Nintendo%20Debian%2011%20Semifinals%20Practice%20Image.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Nintendo+Debian+11+Semifinals+Practice+Image.7z](https://practicevms.s3.us-east-1.amazonaws.com/Nintendo+Debian+11+Semifinals+Practice+Image.7z)
 - MD5 Checksum: `e88be558979fa73d0a66a198503d8d8a`
 - Additional Info:
   - Credentials:
