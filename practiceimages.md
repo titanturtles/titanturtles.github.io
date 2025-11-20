@@ -1038,7 +1038,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link](https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/LampStackPractice/Copy%20of%20LAMP%20Stack%20Practice.zip](https://scoreboard.titanturtles.xyz/files/LampStackPractice/Copy%20of%20LAMP%20Stack%20Practice.zip)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Copy+of+LAMP+Stack+Practice.zip](https://practicevms.s3.us-east-1.amazonaws.com/Copy+of+LAMP+Stack+Practice.zip)
 - MD5 Checksum: `0d3a20f236eee30f769d585b614a33e2`
 - Additional Info:
   - Credentials:
@@ -1057,7 +1057,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Medium
 - Google Downloads: [https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing](https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/PremierLeague/Fedora_36_VM.7z](https://scoreboard.titanturtles.xyz/files/PremierLeague/Fedora_36_VM.7z)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Fedora_36_VM.7z](https://practicevms.s3.us-east-1.amazonaws.com/Fedora_36_VM.7z)
 - MD5 Checksum: `3aed0634c1f5abec284c20f322462978`
 - Additional Info:
   - Credentials:
