@@ -273,7 +273,8 @@ Please make sure you download the newest version since older ones are known for 
     - Original Website: https://magistrate.shiversoft.net/
     - Primary User: ElfShelf
     - Primary Password: $@nt4R0cks_42069
-    - Answer Key: https://drive.google.com/file/d/1BiigC1DC6eIlGcItkMLFGCR7_CUqY-YR/view
+    - Answer Key: [https://drive.google.com/file/d/1BiigC1DC6eIlGcItkMLFGCR7_CUqY-YR/view\](https://drive.google.com/file/d/1BiigC1DC6eIlGcItkMLFGCR7_CUqY-YR/view\)
+    - Walkthrough: [https://youtu.be/GkycHFwEZi0?si=qUpMoDqo7LW_CpTG](https://youtu.be/GkycHFwEZi0?si=qUpMoDqo7LW_CpTG)
  
 ---
 
