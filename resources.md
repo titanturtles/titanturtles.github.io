@@ -41,6 +41,8 @@ Linux Journey: [https://linuxjourney.com/](https://linuxjourney.com/)
 
 Over the Wire: [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
 
+Linux Visually (Safin Singh): [https://www.youtube.com/@SafinSingh](https://www.youtube.com/@SafinSingh)
+
 ### Windows
 
 Under the Wire: [https://underthewire.tech/](https://underthewire.tech/)
