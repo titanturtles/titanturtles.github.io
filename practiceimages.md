@@ -94,6 +94,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [LITTLE BIG PLANET: UBU 16, U](#little-big-planet)
 * [CYBER IN THE SKY: LUBU 16, U](#cyber-in-the-sky)
 * [TOTORO'S STUDIO: MINT 22, H](#totoros-studio)
+* [BOTFORGE: MINT 22, SH](#botforge)
 
 ---
 
@@ -1167,6 +1168,51 @@ First player to score 100 on both images will receive Discord Nitro for one mont
     - Google Downloads: [https://docs.google.com/document/d/1hW5BLLi1i3FN4SRWhx_7ZPefPjJhHNS2R2DLusmJKRI/edit?usp=sharing](https://docs.google.com/document/d/1hW5BLLi1i3FN4SRWhx_7ZPefPjJhHNS2R2DLusmJKRI/edit?usp=sharing)
     - Additional Downloads: [https://scoreboard.titanturtles.xyz/files/c/SystemHardening11/syshardening%2011%20README.pdf](https://scoreboard.titanturtles.xyz/files/c/SystemHardening11/syshardening%2011%20README.pdf)
   - Errata: Please make a ticket about Forensics Question 5; it's not scored correctly but we will give you the scorable answer if you give us the correct answer.
+
+---
+
+### BOTFORGE
+
+<img width="400" alt="Screenshot 2026-01-06 111627" src="https://github.com/user-attachments/assets/277dd920-3906-49a2-a5e4-6815a3760378" />
+
+- Name: BOTFORGE
+- OS: MINT 22
+- Author: tirefire
+- Difficulty: Super Hard (Even tirefire said intermediate. "If you’ve done a few practice images before, you should be comfortable here. If this is your first one, expect to learn a lot (and struggle a bit).")
+- Main Downloads: [https://ln5.sync.com/dl/a7d6d1f80#6mqzmf43-cg46ipx9-2cfvjtj4-p364qeqt](https://ln5.sync.com/dl/a7d6d1f80#6mqzmf43-cg46ipx9-2cfvjtj4-p364qeqt)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/botforge-mint22.zip](https://practicevms.s3.us-east-1.amazonaws.com/botforge-mint22.zip)
+- MD5 Checksum: `5276b58c0cdfba014b53c2a05ae55245`
+- Additional Info:
+  - Credentials:
+    - User: `mford`
+    - Password: unknown
+  - Original Website: [https://tirefire.org/posts/botforge-practice/](https://tirefire.org/posts/botforge-practice/)
+  - Description:
+    - Totoro's studio has recently been cracked, please help him with hardening his system. (all the mirrors have the same file, only need to download from one)
+  - Additional Info:
+    - What is it? 
+      A practice image for learning incident response and system hardening. Based on Linux Mint 22, it should help with learning Mint as well as other Debian-based systems.
+    - Why? 
+      To practice incident response on a realistic scenario. The findings connect to each other - the attacker had a motive, a method, and made mistakes you can trace.
+    - Theme 
+      BotForge is a small Discord bot hosting company. Think shared hosting, but for bots - customers upload code, BotForge runs it on shared infrastructure.
+      Three weeks ago, a customer called “vex” got terminated for running phishing bots. They didn’t take it well. Now the sysadmin is seeing strange network traffic, mystery processes at 3am, and a customer complaining about a leaked bot token.
+      You’re cleaning up the mess.
+    - Getting started 
+      The image auto-logs in as mford. Read the README on the Desktop - it has the scenario details and lists who should (and shouldn’t) be on the system.
+      Take a snapshot before you start. You’ll probably break something.
+    - Forensics Questions 
+      Seven questions on the Desktop (Forensics1.txt - Forensics7.txt). They’re breadcrumbs - answer them and you’ll stumble into most of the findings. Each references a MITRE ATT&CK technique ID if you want to dig deeper.
+    - Tips 
+      - Check what’s running, what’s listening, what’s scheduled
+      - Read configs carefully - the devil is in the details
+      - Git remembers things people wish it would forget
+      - Not everything malicious looks malicious
+      - The logs tell a story if you know where to look
+    - Requirements 
+      - VMware Workstation, Player, or Fusion
+      - 4GB RAM minimum (8GB recommended)
+      - 20GB disk space
 
 ---
 
