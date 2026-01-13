@@ -881,7 +881,7 @@ Please make sure you download the newest version since older ones are known for 
 - Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/msf24_deb11_pgsms_sh_arena.zip](https://practicevms.s3.us-east-1.amazonaws.com/msf24_deb11_pgsms_sh_arena.zip)
 - MD5 Checksum: `824e22c0fdaaf5cbbd8eb66639e0e2ea`
 - Additional Info:
-  - Credentials: user: `joy`, password: `pa$$w0rd10` 
+  - Credentials: user: `joy`, password: `Pa$$w0rd10` 
   - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
   - Fun part:
     - "2024-12-20 09:31:16 PST
