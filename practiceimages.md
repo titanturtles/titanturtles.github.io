@@ -904,7 +904,6 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - MD5 Checksum: `945F145580306210028CA08F46A18C48`
 - Additional Info:
   - Credential: `joy`:`Pa$$w0rd10` 
-  - Original Website: [https://arena.eth007.me/announcements](https://arena.eth007.me/announcements)
   - Fun part:
     - "2024-12-20 09:31:16 PST
 Images and Info
