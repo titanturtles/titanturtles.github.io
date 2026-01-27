@@ -47,7 +47,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [PRINCETON-PLAINSBORO TEACHING HOSPITAL: Win 11, H-SH](#princeton-plainsboro-teaching-hospital)
 * [KALI'S WINDOWS IMAGE: Win 10, M](#kalis-windows-image)
 * [KING ARTHUR'S CASTLE: WinServer 2019, SH](#king-arthurs-castle)
-* [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)sefe
+* [SUNRISE FOUNDATION TRAINING SIMULATION: WinServer 2022, SH](#sunrise-foundation-training-simulation)
 * [TOKYO III: WinServer 2025, SH](#tokyo-iii)
 * [DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA: WinServer 2025, M-H](#democratic-peoples-republic-of-korea)
 * [WINDOWS PERSISTENCE: WinServer 2025, ?](#windows-persistence)
