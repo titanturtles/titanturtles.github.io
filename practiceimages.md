@@ -699,7 +699,7 @@ Please make sure you download the newest version since older ones are known for 
   - Original Website: [https://sakouk.me/cyberpatriot#dead-by-daylight](https://sakouk.me/cyberpatriot#dead-by-daylight)
   - Notes:
     - Difficulty: Super hard. This image is designed to mimick the semifinals.
-    - A walkthrough is currently being written. It will be added here when it is ready.
+    - Walkthrough: [https://sakouk.me/blog/2025/dead-by-daylight-walkthrough.html](https://sakouk.me/blog/2025/dead-by-daylight-walkthrough.html) or [https://us-east-1.console.aws.amazon.com/s3/object/practicevms?region=us-east-1&prefix=Dead+by+Daylight+SH+Image+Walkthrough.pdf](https://us-east-1.console.aws.amazon.com/s3/object/practicevms?region=us-east-1&prefix=Dead+by+Daylight+SH+Image+Walkthrough.pdf)
   - Credentials:
     - Username: `David`
     - Password: `Th3_Ent1ty_Re4lm!`
