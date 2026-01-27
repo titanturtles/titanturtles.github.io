@@ -60,6 +60,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [BALDI'S BASICS: WinServer 2022, SH](#baldis-basics)
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [ETHS CYBER SQUAD POLICY VIOLATIONS IMAGE: Win 11, M-H](#eths-cyber-squad-policy-violations-image)
+* [DEATH BY DAYLIGHT: WinServer 2019, SH](#death-by-daylight)
 
 ---
 
@@ -680,6 +681,28 @@ Please make sure you download the newest version since older ones are known for 
     - User: `Frank`
     - Password: `CyberSquadViolations!`
   - Answer Key: You can find the Aeacus config file which includes all scored vulnerabilities and some notes on how the vulnerabilities were created [here](https://sakouk.me/PolicyViolations-Config.txt)
+
+---
+
+### DEATH BY DAYLIGHT
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2f0e5219-79f0-4d56-8706-9cf2dc231c12" />
+
+- Name: DEATH BY DAYLIGHT
+- OS: WINDOWS SERVER 2019
+- Author: Adam Sakouk (discord: lolmenow)
+- Difficulty: SUPER Hard
+- Google Downloads: (Preferred) [https://drive.google.com/file/d/1hWs8oLxXI1Ar0QaZSg0yTiQjHI_SPznd/view?usp=sharing](https://drive.google.com/file/d/1hWs8oLxXI1Ar0QaZSg0yTiQjHI_SPznd/view?usp=sharing)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/lolmenow_sf_p_sh_server2019_release.zip](https://practicevms.s3.us-east-1.amazonaws.com/lolmenow_sf_p_sh_server2019_release.zip)
+- MD5 Checksum: `c424244a9c95433cb44c6b75fa19e642`
+- Additional Info:
+  - Original Website: [https://sakouk.me/cyberpatriot#dead-by-daylight](https://sakouk.me/cyberpatriot#dead-by-daylight)
+  - Notes:
+    - Difficulty: Super hard. This image is designed to mimick the semifinals.
+    - A walkthrough is currently being written. It will be added here when it is ready.
+  - Credentials:
+    - Username: `David`
+    - Password: `Th3_Ent1ty_Re4lm!`
 
 ---
 
