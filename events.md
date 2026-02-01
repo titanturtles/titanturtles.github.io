@@ -21,7 +21,7 @@ layout: default
 
   Top Team\
   -National Rank - #1\
-  -TitanTurtles Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3\
+  -TitanTurtles Club Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3\
   -State Champion for 5 Consecutive Years
   <p>&nbsp;</p>
 
@@ -43,7 +43,7 @@ layout: default
 
 * Dec. 12-15 2024: **CyberPatriot 17 State Round**
 
-  -TitanTurtles Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3\
+  -TitanTurtles Club Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3\
   -State Champion for 4 Consecutive Years
   <p>&nbsp;</p>
 
