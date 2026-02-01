@@ -15,6 +15,7 @@ layout: default
 
   Top Team
   -National Rank - #2 (Unofficial)
+  <p>&nbsp;</p>
 
 * Dec. 11-14 2025: **CyberPatriot 18 State Round**
 
@@ -22,31 +23,40 @@ layout: default
   -National Rank - #1
   -TitanTurtles Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3
   -State Champion for 5 Consecutive Years
+  <p>&nbsp;</p>
 
 * Nov. 13-16 2025: **CyberPatriot 18 Round 2**
+  <p>&nbsp;</p>
 
 * Oct. 23-26 2025: **CyberPatriot 18 Round 1**
+  <p>&nbsp;</p>
 
 * Mar. 15-17 2025 (In-Person): **CyberPatriot 17 National Finals**
 
   -🥉Ranked #3 - CyberPatriot 17 National Finals
+  <p>&nbsp;</p>
 
 * Jan. 23-25 2025: **CyberPatriot 17 Semifinals**
 
   -National Rank - #1 (Team 1 Advanced to the National Finals)
+  <p>&nbsp;</p>
 
 * Dec. 12-15 2024: **CyberPatriot 17 State Round**
 
   -TitanTurtles Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3
   -State Champion for 4 Consecutive Years
+  <p>&nbsp;</p>
 
 * Nov. 14-17 2024: **CyberPatriot 17 Round 2 Competition**
+  <p>&nbsp;</p>
 
 * Oct. 24-27, 2024: **CyberPatriot 17 Round 1 Competition**
+  <p>&nbsp;</p>
   
 * Mar. 13 - 18 2024 (In-Person): **CyberPatriot XVI National Finals**
 
   -Ranked #4 - CyberPatriot XVI National Finals
+  <p>&nbsp;</p>
   
 * Jan. 21, 2023: **CyberPatriot semifinal**
 
