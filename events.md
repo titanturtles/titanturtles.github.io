@@ -38,7 +38,7 @@ layout: default
 
 * Jan. 23-25 2025: **CyberPatriot 17 Semifinals**
 
-  -National Rank - #1 (Team 1 Advanced to the National Finals)
+  -National Rank - #2 (Team 1 Advanced to the National Finals)
   <p>&nbsp;</p>
 
 * Dec. 12-15 2024: **CyberPatriot 17 State Round**
