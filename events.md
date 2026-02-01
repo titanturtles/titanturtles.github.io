@@ -1,18 +1,53 @@
 ---
-title: Westview TitanTurtles Cybersecurity Club
+title: TitanTurtles Cybersecurity Club
 layout: default
 ---
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | **Events** | [Legend](./legend.html)
 ## Upcoming Events
 
-* November 14-17, 2024: **CyberPatriot Round 2 Competition**
+* Coming Soon
   <p>&nbsp;</p>
   
 ## Past Events
 
-* Oct 24-27, 2024: **CyberPatriot Round 1 Competition**
-* Mar 13 - 18 2024: **CyberPatriot National Final**
+* Jan. 22-24 2026: **CyberPatriot 18 Semifinals Round**
+
+  Top Team
+  -National Rank - #2 (Unofficial)
+
+* Dec. 11-14 2025: **CyberPatriot 18 State Round**
+
+  Top Team
+  -National Rank - #1
+  -TitanTurtles Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3
+  -State Champion for 5 Consecutive Years
+
+* Nov. 13-16 2025: **CyberPatriot 18 Round 2**
+
+* Oct. 23-26 2025: **CyberPatriot 18 Round 1**
+
+* Mar. 15-17 2025 (In-Person): **CyberPatriot 17 National Finals**
+
+  -🥉Ranked #3 - CyberPatriot 17 National Finals
+
+* Jan. 23-25 2025: **CyberPatriot 17 Semifinals**
+
+  -National Rank - #1 (Team 1 Advanced to the National Finals)
+
+* Dec. 12-15 2024: **CyberPatriot 17 State Round**
+
+  -TitanTurtles Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3
+  -State Champion for 4 Consecutive Years
+
+* Nov. 14-17 2024: **CyberPatriot 17 Round 2 Competition**
+
+* Oct. 24-27, 2024: **CyberPatriot 17 Round 1 Competition**
+  
+* Mar. 13 - 18 2024 (In-Person): **CyberPatriot XVI National Finals**
+
+  -Ranked #4 - CyberPatriot XVI National Finals
+  
 * Jan. 21, 2023: **CyberPatriot semifinal**
 
   Time: 8am - 7pm, Jan. 21, 2023
