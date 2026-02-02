@@ -30,6 +30,8 @@ TitanTurtles Club Teams won
   
 * CyberPatriot Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
+* CyberPatriot Open Division Round 2 - National Rank #1
+
 2024-2025
 
 * [CyberPatriot National Final 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
