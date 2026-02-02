@@ -50,7 +50,7 @@ TitanTurtles Club Teams won
 
 * [CyberPatriot Open Division 1st, 2nd and 3rd Place Oregon Champion](https://www.uscyberpatriot.org/Documents/Scores/CP16_State%20Awards.xlsx)
           
-* [2024 GeorgeFox HS Programming Contest No. 1](https://cs.georgefox.edu/hs_contest/)
+* [2024 GeorgeFox HS Division 1 Programming Contest No. 1](https://cs.georgefox.edu/hs_contest/)
           
 * [2023 picoCTF US HS division No. 15 ](https://play.picoctf.org/events/72/scoreboards#2595)
           
