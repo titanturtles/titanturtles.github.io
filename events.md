@@ -58,9 +58,9 @@ layout: default
   -Ranked #4 - CyberPatriot XVI National Finals
   <p>&nbsp;</p>
   
-* Jan. 21, 2023: **CyberPatriot semifinal**
+* Jan. 21, 2023: **CyberPatriot XVI Semifinals**
 
-  Time: 8am - 7pm, Jan. 21, 2023
+  -National Rank - #5 (Team 1 Advanced to the National Finals)
   <p>&nbsp;</p> 
   
 * Jan. 29, 2023: **Tech Caregiver Education Series**
