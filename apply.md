@@ -22,11 +22,11 @@ CyberPatriot is a nationwide youth cybersecurity competition program managed by 
 
 Every year, the CyberPatriot competition season starts in April when registration is open (Competition starts in October) and ends in March of the next year when the National Final is held in Maryland.
 
-TitanTurtles Club Teams won
+TitanTurtles Club Teams Past Achievements
 
 2025-2026
 
-* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #2
+* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #2 (National Finalist: Top 12 in Semifinals)
   
 * CyberPatriot Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
@@ -36,7 +36,7 @@ TitanTurtles Club Teams won
 
 * [CyberPatriot National Final 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
   
-* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #2
+* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #2 (National Finalist: Top 12 in Semifinals)
   
 * CyberPatriot Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
@@ -44,7 +44,7 @@ TitanTurtles Club Teams won
 
 * [CyberPatriot National Final 4th Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-XVI-National-Finals-Competition.aspx)
 
-* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #5
+* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #5 (National Finalist: Top 12 in Semifinals)
 
 * [CP Discord Open No.4](https://discord.com/cyberpatriot)
 
