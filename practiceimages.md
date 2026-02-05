@@ -1364,6 +1364,9 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 
 ### HELIOS
 
+<img width="400" alt="{76C93339-822C-4215-B73C-D76555948BD1}" src="https://github.com/user-attachments/assets/cd7e8520-729b-46bf-8206-4946f3d514a7" />
+<img width="400" alt="{2282525B-75F6-46F2-AF09-36A370F8CA91}" src="https://github.com/user-attachments/assets/153b3aba-7018-4fe1-aedb-1d819740eaca" />
+
 
 - Name: Helios
 - TYPE: Cisco Packet Tracer Activity
