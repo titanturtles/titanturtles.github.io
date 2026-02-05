@@ -109,6 +109,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [CCNA MEGA LAB](#ccna-mega-lab)
 * [MODULES 1 TO 13](#modules-1-to-13)
 * [MHS CANCELLED TRY OUT](#mhs-cancelled-try-out)
+* [HELIOS](#helios)
 
 ---
 
@@ -1357,6 +1358,23 @@ First player to score 100 on both images will receive Discord Nitro for one mont
   - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/ak.pkt](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/ak.pkt)
   - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/initial.pkt](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/initial.pkt)
   - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/mhscyberpatriotpractice.pka](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/mhscyberpatriotpractice.pka)
+
+---
+
+
+### HELIOS
+
+
+- Name: Helios
+- TYPE: Cisco Packet Tracer Activity
+- Author: noobfooditem123
+- Difficulty: Unknown
+- AWS Downloads:
+  - [https://practicevms.s3.us-east-1.amazonaws.com/HeliosUnclustered.pkt](https://practicevms.s3.us-east-1.amazonaws.com/HeliosUnclustered.pkt)
+  - [https://practicevms.s3.us-east-1.amazonaws.com/HeliosServer.pkt](https://practicevms.s3.us-east-1.amazonaws.com/HeliosServer.pkt)
+- MD5 Checksum:
+  - `HeliosUnclustered.pkt: 2eecd7efac0a69b8231eec12f45144f8`
+  - `HeliosServer.pkt: f9b9181e71502d181a77e2466267f842`
 
 ---
 
