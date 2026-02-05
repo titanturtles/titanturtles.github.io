@@ -1355,9 +1355,9 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: a_person
 - Difficulty: Unknown
 - Downloads:
-  - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/ak.pkt](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/ak.pkt)
-  - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/initial.pkt](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/initial.pkt)
-  - [https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/mhscyberpatriotpractice.pka](https://scoreboard.titanturtles.xyz/files/cisco/mhscancelledtryout/mhscyberpatriotpractice.pka)
+  - [https://practicevms.s3.us-east-1.amazonaws.com/ak.pkt](https://practicevms.s3.us-east-1.amazonaws.com/ak.pkt)
+  - [https://practicevms.s3.us-east-1.amazonaws.com/initial.pkt](https://practicevms.s3.us-east-1.amazonaws.com/initial.pkt)
+  - [https://practicevms.s3.us-east-1.amazonaws.com/mhscyberpatriotpractice.pka](https://practicevms.s3.us-east-1.amazonaws.com/mhscyberpatriotpractice.pka)
 
 ---
 
