@@ -1341,7 +1341,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: noobfooditem123
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1NOZvFVst0RhbQuH18WS8P_t8mRubvTgf/view?usp=drive_link](https://drive.google.com/file/d/1NOZvFVst0RhbQuH18WS8P_t8mRubvTgf/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/modules1to13/Modules_1-13_Image.pka](https://scoreboard.titanturtles.xyz/files/cisco/modules1to13/Modules_1-13_Image.pka)
+- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka](https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka)
 - MD5 Checksum: `88df768da29883d02a5de7053fdaeb87`
 
 ---
