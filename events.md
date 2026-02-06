@@ -20,7 +20,7 @@ layout: default
 * Dec. 11-14 2025: **CyberPatriot 18 State Round**
 
   Top Team\
-  -National Rank - #1\
+  -National Rank - #2\
   -TitanTurtles Club Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3\
   -State Champion for 5 Consecutive Years
   <p>&nbsp;</p>
