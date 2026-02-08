@@ -19,7 +19,7 @@ layout: default
 
 # TitanTurtles 2024-2025 National Finals Competition in MD (Mar. 15-17)
 
-Congratulations TitanTurtles for becoming the first Oregon team to reach the podium at the CyberPatriot National Finals! Funny thing, we thought we competed horribly this year and placed around 7th, but were surprised to see the outcome. This year was a great year! The team worked really hard the day before the network security master challenge and it was worth it. Time to prepare for next year's nationals!\
+Congratulations TitanTurtles for becoming the first Oregon team to reach the podium at the CyberPatriot National Finals! The team worked really hard the day before the network security master challenge and it was worth it. Time to prepare for next year's nationals!\
 ![TitanTurtles3rdNational](assets/images/NationalFinals3rd.jpg)
 _3rd - CyberPatriot 17 National Finals_
 
@@ -27,9 +27,10 @@ _3rd - CyberPatriot 17 National Finals_
 # TitanTurtles 2024-2025 Round 4 (Semifinals Round) competition January 23-25
 
 Semifinals Results:\
--Team 17-0224 TitanTurtles Qualified for the National Finals! - National rank #2\
--Team 17-0219 TitanTortugas Ranked #37 in the Nation\
--Team 17-0221 TitanWugui Ranked #114 in the Nation\
+* Team 17-0224 TitanTurtles Qualified for the National Finals! - National rank #2\
+  This is Team TitanTurtles and the TitanTurtles club's second year advancing to the National Finals in CyberPatriot. Perhaps the only Oregon team to ever reach the top 3 in the Semifinals round.
+* Team 17-0219 TitanTortugas Ranked #37 in the Nation\
+* Team 17-0221 TitanWugui Ranked #114 in the Nation\
 
 Very Well Done teams!
 
@@ -114,6 +115,8 @@ Team Roster:
   - National Rank:  2nd Place Cisco Networking
 - Anya Li: Junior - Vice President of Windows Systems
   - National Rank: 28th place Windows 10
+ 
+Congratulations Team TitanTurtles, for being the first Oregon team to advance to the National Finals in CyberPatriot! The only team to do it!
 
 Official Published Results: [https://www.uscyberpatriot.org/Documents/Scores/CP16%20National%20Finalists\_Published.pdf](https://www.uscyberpatriot.org/Documents/Scores/CP16%20National%20Finalists_Published.pdf)
 
