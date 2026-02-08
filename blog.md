@@ -20,8 +20,8 @@ layout: default
 # TitanTurtles 2024-2025 National Finals Competition in MD (Mar. 15-17)
 
 Congratulations TitanTurtles for becoming the first Oregon team to reach the podium at the CyberPatriot National Finals! Funny thing, we thought we competed horribly this year and placed around 7th, but were surprised to see the outcome. This year was a great year! The team worked really hard the day before the network security master challenge and it was worth it. Time to prepare for next year's nationals!\
-![TitanTurtles3rdNational](https://github.com/user-attachments/assets/NationalFinals3rd.jpg)
-_3rd at the CyberPatriot 17 National Finals_
+![TitanTurtles3rdNational](assets/images/NationalFinals3rd.jpg)
+_3rd - CyberPatriot 17 National Finals_
 
 
 # TitanTurtles 2024-2025 Round 4 (Semifinals Round) competition January 23-25
