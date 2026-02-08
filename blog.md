@@ -4,6 +4,35 @@ layout: default
 ---
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | **Blog** | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
+
+# TitanTurtles 2025-2026 CyberPatriot 18 season Round 1
+
+(18-0035) TitanTurtles placed 7th in the Nation and 1st in the state.
+
+(18-0022) TitanTortoises placed 35th in the Nation and 2nd in the state.
+
+(18-0024) TitanWugui placed 60th in the Nation and 3rd in the state.
+
+(18-0026) TitanTortugas placed 142nd in the Nation and 4th in the state.
+
+(18-0036) TitanTartarugas placed 313th in the Nation and 5th in the state.
+
+# TitanTurtles 2024-2025 National Finals Competition in MD (Mar. 15-17)
+
+Congratulations TitanTurtles for becoming the first Oregon team to reach the podium at the CyberPatriot National Finals! Funny thing, we thought we competed horribly this year and placed around 7th, but we were surprised to see the outcome. This year was a great year! The team worked really hard the day before the network security master challenge and it was worth it. Time to prepare for next year's nationals!\
+![54396219554_ff780d6b0b_osmall](https://github.com/user-attachments/assets/eb983ab7-9daa-4fe5-a52f-6419f0f1588d)\
+_3rd at the CyberPatriot 17 National Finals_
+
+
+# TitanTurtles 2024-2025 Round 4 (Semifinals Round) competition January 23-25
+
+Semifinals Results:\
+-Team 17-0224 TitanTurtles Qualified for the National Finals! - National rank #2\
+-Team 17-0219 TitanTortugas Ranked #37 in the Nation\
+-Team 17-0221 TitanWugui Ranked #114 in the Nation\
+
+Very Well Done teams!
+
 # TitanTurtles 2024-2025 Round 3 (State round) competition December 12-15
 Team 17-0224 TitanTurtles team competed first this round at coach's house on Friday night after school. Most students had just finished full-day school and were exhausted. There were a few glitches through the process too. Cisco quiz was opened first without informing rest of the team. Team's overall ranking is #2 in the nation as of Sunday morning. CyberAegis will start competing on Sunday and knock down the ranking of every team on leader board.
 ![team_0221_TitanTurtles](https://github.com/user-attachments/assets/c0f415ba-e747-451b-b692-86f0524116eb)
