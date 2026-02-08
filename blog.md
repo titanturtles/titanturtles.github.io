@@ -26,7 +26,7 @@ _3rd - CyberPatriot 17 National Finals_
 
 # TitanTurtles 2024-2025 Round 4 (Semifinals Round) competition January 23-25
 
-Semifinals Results:\
+Semifinals Results:
 * Team 17-0224 TitanTurtles Qualified for the National Finals! - National rank #2\
   This is Team TitanTurtles and the TitanTurtles club's second year advancing to the National Finals in CyberPatriot. Perhaps the only Oregon team to ever reach the top 3 in the Semifinals round.
 * Team 17-0219 TitanTortugas Ranked #37 in the Nation\
