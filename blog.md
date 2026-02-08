@@ -1,5 +1,5 @@
 ---
-title: Westview TitanTurtles Cybersecurity Club
+title: TitanTurtles Cybersecurity Club
 layout: default
 ---
 
@@ -19,8 +19,8 @@ layout: default
 
 # TitanTurtles 2024-2025 National Finals Competition in MD (Mar. 15-17)
 
-Congratulations TitanTurtles for becoming the first Oregon team to reach the podium at the CyberPatriot National Finals! Funny thing, we thought we competed horribly this year and placed around 7th, but we were surprised to see the outcome. This year was a great year! The team worked really hard the day before the network security master challenge and it was worth it. Time to prepare for next year's nationals!\
-![54396219554_ff780d6b0b_osmall](https://github.com/user-attachments/assets/eb983ab7-9daa-4fe5-a52f-6419f0f1588d)\
+Congratulations TitanTurtles for becoming the first Oregon team to reach the podium at the CyberPatriot National Finals! Funny thing, we thought we competed horribly this year and placed around 7th, but were surprised to see the outcome. This year was a great year! The team worked really hard the day before the network security master challenge and it was worth it. Time to prepare for next year's nationals!\
+![TitanTurtles3rdNational](https://github.com/user-attachments/assets/NationalFinals3rd.jpg)
 _3rd at the CyberPatriot 17 National Finals_
 
 
