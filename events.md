@@ -17,7 +17,7 @@ layout: default
   Top Team\
   -National Rank - #2 (Official)\
   -CyberPatriot 18 National Finals (QUALIFIED!)
-
+ 
   Congratulations Team TitanTurtles for Qualifying for the CyberPatriot 18 National Finals!
   <p>&nbsp;</p>
 
