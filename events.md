@@ -15,7 +15,10 @@ layout: default
 * Jan. 22-24 2026: **CyberPatriot 18 Semifinals Round**
 
   Top Team\
-  -National Rank - #2 (Unofficial)
+  -National Rank - #2 (Official)\
+  -CyberPatriot 18 National Finals (QUALIFIED!)
+
+  Congratulations Team TitanTurtles for Qualifying for the CyberPatriot 18 National Finals!
   <p>&nbsp;</p>
 
 * Dec. 11-14 2025: **CyberPatriot 18 State Round**
