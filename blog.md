@@ -5,6 +5,12 @@ layout: default
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | **Blog** | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
+# TitanTurtles 2025-2026 CyberPatriot 18 Semifinals Round
+
+Team (18-0035) TitanTurtles Ranks #2 Nationally and qualifies for the CyberPatriot 18 National Finals!
+![CyberPatriotNationalFinalists](assets/images/CP18-NationalFinalist.png)
+_List of National Finalists for CyberPatriot 18 (TitanTurtles located at bottom right)_
+
 # TitanTurtles 2025-2026 CyberPatriot 18 season Round 1
 
 (18-0035) TitanTurtles placed 7th in the Nation and 1st in the state.
