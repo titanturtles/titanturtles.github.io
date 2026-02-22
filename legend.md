@@ -71,6 +71,8 @@ The University of Tokyo
 
 **Nathan Chen**
 
+University of Illinois Urbana-Champaign
+
 ---
 
 **Siddesh Mangipudi**
