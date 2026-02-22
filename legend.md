@@ -95,9 +95,13 @@ Instagram: [https://www.instagram.com/p/C7-vSJINoa3/?hl=en&img_index=1](https://
 
 **Ammar Mukadam**
 
+Purdue University
+
 ---
 
 **Owen Gifford**
+
+Vassar College
 
 ---
 
@@ -106,3 +110,5 @@ Instagram: [https://www.instagram.com/p/C7-vSJINoa3/?hl=en&img_index=1](https://
 ---
 
 **Virinchi**
+
+
