@@ -63,6 +63,12 @@ Instagram: [https://www.instagram.com/p/C8Awc2kSzeM/?hl=en&img_index=1](https://
 
 ---
 
+**Yuma Endo 遠藤 祐満**
+
+The University of Tokyo
+
+---
+
 **Nathan Chen**
 
 ---
