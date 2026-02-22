@@ -5,11 +5,21 @@ layout: default
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | **Blog** | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
-# TitanTurtles 2025-2026 CyberPatriot 18 Semifinals Round
+# TitanTurtles 2025-2026 CyberPatriot 18
 
-Team (18-0035) TitanTurtles Ranks #2 Nationally and qualifies for the CyberPatriot 18 National Finals!
+Team (18-0035) TitanTurtles Qualifies for the CyberPatriot 18 National Finals
 ![CyberPatriotNationalFinalists](assets/images/CP18-NationalFinalist.png)
 _List of National Finalists for CyberPatriot 18 (TitanTurtles located at bottom right)_
+
+Team (18-0035) CyberPatriot 18 Recap:
+
+* CyberPatriot 18 (Open Div, Platinum Tier) Semifinals Round - National Rank #2
+
+* CyberPatriot 18 (Open Div, Platinum Tier) State Round - National Rank #5
+
+* CyberPatriot 18 (Open Div) Round 2 - National Rank #1
+
+* CyberPatriot 18 (Open Div) Round 1 - National Rank #7
 
 # TitanTurtles 2025-2026 CyberPatriot 18 season Round 1
 
@@ -33,8 +43,8 @@ _3rd - CyberPatriot 17 National Finals_
 # TitanTurtles 2024-2025 Round 4 (Semifinals Round) competition January 23-25
 
 Semifinals Results:
-* Team 17-0224 TitanTurtles Qualified for the National Finals! - National rank #2\
-  This is Team TitanTurtles and the TitanTurtles club's second year advancing to the National Finals in CyberPatriot. Perhaps the only Oregon team to ever reach the top 3 in the Semifinals round.
+* Team 17-0224 TitanTurtles Qualified for the National Finals! - **National rank #2**\
+  This is Team TitanTurtles and the TitanTurtles club's second year advancing to the National Finals Round in CyberPatriot.
 * Team 17-0219 TitanTortugas Ranked #37 in the Nation\
 * Team 17-0221 TitanWugui Ranked #114 in the Nation\
 
