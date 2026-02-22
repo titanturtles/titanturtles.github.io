@@ -26,7 +26,9 @@ TitanTurtles Club Teams Past Achievements
 
 2025-2026
 
-* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #2 (National Finalist: Top 12 in Semifinals)
+* CyberPatriot 18 National Finals Qualification (#2/4000+)
+
+* CyberPatriot Open Division Platinum Tier Semifinals Round - **National Rank #2**
   
 * CyberPatriot Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
@@ -36,7 +38,7 @@ TitanTurtles Club Teams Past Achievements
 
 * [CyberPatriot National Final 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
   
-* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #2 (National Finalist: Top 12 in Semifinals)
+* CyberPatriot Open Division Platinum Tier Semifinals Round - **National Rank #2**
   
 * CyberPatriot Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
@@ -44,7 +46,7 @@ TitanTurtles Club Teams Past Achievements
 
 * [CyberPatriot National Final 4th Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-XVI-National-Finals-Competition.aspx)
 
-* CyberPatriot Open Division Platinum Tier Semifinals Round - National Rank #5 (National Finalist: Top 12 in Semifinals)
+* CyberPatriot Open Division Platinum Tier Semifinals Round - **National Rank #5**
 
 * [CP Discord Open No.4](https://discord.com/cyberpatriot)
 
@@ -58,7 +60,7 @@ TitanTurtles Club Teams Past Achievements
 
 * CyberPatriot #8 in OS images
   
-* CyberPatriot Semifinals Round - National Rank #18
+* CyberPatriot Semifinals Round - **National Rank #18**
   
 * CyberPatriot State Round - #1, #2, and #3 (TitanTurtles Club Teams)
 
