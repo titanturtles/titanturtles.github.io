@@ -36,7 +36,7 @@ TitanTurtles Club Teams Past Achievements
 
 2024-2025
 
-* CyberPatriot Mentor Of the Year Award 2025 - Xinle Yang
+* CyberPatriot Mentor Of the Year Award 2025
 
 * [CyberPatriot National Final 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
   
