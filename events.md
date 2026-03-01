@@ -104,3 +104,21 @@ layout: default
   Time: 1pm - 2pm, Apr. 23, 2023\
   Location: Annex room of Bethany Library, 4888 NW Bethany Blvd Suite K-2, Portland, Oregon
   <p>&nbsp;</p> 
+
+## Making History
+Our Team Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
+
+Our History:
+- National Finalist (Top 12 in Semifinals): CyberPatriot XVI, CyberPatriot 17, CyberPatriot 18
+
+- First and Only Oregon Team to Qualify and Compete at CyberPatriot Nationals
+
+- First Oregon Team to Reach the CyberPatriot National Finals Podium (3rd Place Open Division)
+
+- Semifinals National Rank #2: CyberPatriot 17, CyberPatriot 18
+
+- Semifinals National Rank #5: CyberPatriot XVI
+
+- #1 Ranking in the Nation CyberPatriot 18 (Round 2)
+
+- 5 Consecutive State Champions: CyberPatriot XIV, XV, XVI, 17, 18
