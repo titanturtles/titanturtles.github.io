@@ -109,6 +109,6 @@ Vassar College
 
 ---
 
-**Virinchi**
+**Virinchi Vanjarapu**
 
 
