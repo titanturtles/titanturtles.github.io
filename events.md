@@ -22,7 +22,7 @@ layout: default
   Awards:\
   🏆CyberPatriot 18 National Champion (OPEN DIVISION)\
   🏆CyberPatriot 18 Cisco National Champion (OPEN DIVISION)
-* * *
+---
   * Congratulations to All TitanTurtles Team Members:
 
     **Brian Yu** (12th Grade) - Linux Operating Systems
@@ -36,14 +36,14 @@ layout: default
     **John Kong** (10th Grade) - Cisco Networking
 
     **Ashton Jiang** (12th Grade) - Cisco Networking
-
-    Our Team is Forever Grateful for...\
+---
+  - Our Team is Forever Grateful for...\
     UCI, Cal Poly Pomona, and baseq for hosting Mock RvB's\
     Our Coach Pei, Coach Yang, and Mentor Sean for leading us\
     The Air and Space Force Association and all sponsors\
     The Teams that competed and celebrated with us\
     We couldn't have done it without you!
-* * *
+---
 * Jan. 22-24 2026: **CyberPatriot 18 Semifinals Round**
 
   Top Team\
