@@ -6,12 +6,36 @@ layout: default
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | **Events** | [Legend](./legend.html)
 ## Upcoming Events
 
-* CyberPatriot 18 National Finals (Mar. 20-24)
+* Coming Soon!
   <p>&nbsp;</p>
   
 ## Past Events
 
 **2025 - 2026 Season**
+
+* Mar. 19-24 2026: **CyberPatriot 18 National Finals**
+  CONGRATULATIONS TO THIS YEAR'S CYBERPATRIOT NATIONAL CHAMPIONS: TITANTURTLES!
+  List of Winners on the Official CyberPatriot Website: https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx
+
+  Awards:
+  🏆CyberPatriot 18 National Champion (OPEN DIVISION)
+  🏆CyberPatriot 18 Cisco National Champion (OPEN DIVISION)
+
+  Congratulations to All TitanTurtles Team Members:
+  **Brian Yu** (12th Grade) - Linux Operating Systems
+  **Arthur Yang** (11th Grade) - Linux Operating Systems
+  **Kevin Du** (12th Grade) - Windows Operating Systems
+  **Luna Ji** (12th Grade) - Windows Operating Systems
+  **John Kong** (10th Grade) - Cisco Networking
+  **Ashton Jiang** (12th Grade) - Cisco Networking
+
+  Forever Grateful for...
+  UCI, Cal Poly Pomona, and baseq for hosting Mock RvB's
+  Our Coach Pei, Coach Yang, and Mentor Sean for giving us advice
+  The Air and Space Force Association and all sponsors
+  The Teams that competed and celebrated with us
+  We couldn't have done it without you!
+
 * Jan. 22-24 2026: **CyberPatriot 18 Semifinals Round**
 
   Top Team\
@@ -108,12 +132,16 @@ layout: default
 ## Making History
 Our Team Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
 
-Our History:
-- National Finalist (Top 12 in Semifinals): CyberPatriot XVI, CyberPatriot 17, CyberPatriot 18
+Writing History:
+- CyberPatriot 18 National Champion (OPEN DIVISION) - National Finals
 
-- First and Only Oregon Team to Qualify and Compete at CyberPatriot Nationals
+- CyberPatriot 18 Cisco National Champion (OPEN DIVISION) - National Finals
 
-- First Oregon Team to Reach the CyberPatriot National Finals Podium (3rd Place Open Division)
+- National Finalist (Top 12 in Semifinals): **CyberPatriot XVI, CyberPatriot 17, CyberPatriot 18**
+
+- First and Only Oregon Team to **Qualify** and **Compete** at CyberPatriot National Finals
+
+- First Oregon Team to Reach the CyberPatriot National Finals Podium - 3rd Place (OPEN DIVISION)
 
 - Semifinals National Rank #2: CyberPatriot 17, CyberPatriot 18
 
