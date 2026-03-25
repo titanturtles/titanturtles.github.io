@@ -15,6 +15,7 @@ layout: default
 
 * Mar. 19-24 2026: **CyberPatriot 18 National Finals**
   CONGRATULATIONS TO THIS YEAR'S CYBERPATRIOT NATIONAL CHAMPIONS: TITANTURTLES!
+
   List of Winners on the Official CyberPatriot Website: https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx
 
   Awards:
