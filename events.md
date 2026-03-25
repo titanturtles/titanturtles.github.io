@@ -36,7 +36,7 @@ layout: default
     **John Kong** (10th Grade) - Cisco Networking
 
     **Ashton Jiang** (12th Grade) - Cisco Networking
----
+
   - Our Team is Forever Grateful for...\
     UCI, Cal Poly Pomona, and baseq for hosting Mock RvB's\
     Our Coach Pei, Coach Yang, and Mentor Sean for leading us\
