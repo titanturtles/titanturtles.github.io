@@ -14,7 +14,7 @@ layout: default
 **2025 - 2026 Season**
 
 * Mar. 19-24 2026: **CyberPatriot 18 National Finals**
-  CONGRATULATIONS TO THIS YEAR'S CYBERPATRIOT NATIONAL CHAMPIONS: TITANTURTLES!
+  **CONGRATULATIONS TO THIS YEAR'S CYBERPATRIOT NATIONAL CHAMPIONS: TITANTURTLES!**
 
   List of Winners on the Official CyberPatriot Website: https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx
 
@@ -22,19 +22,19 @@ layout: default
   🏆CyberPatriot 18 National Champion (OPEN DIVISION)
   🏆CyberPatriot 18 Cisco National Champion (OPEN DIVISION)
 
-  Congratulations to All TitanTurtles Team Members:
-  **Brian Yu** (12th Grade) - Linux Operating Systems
-  **Arthur Yang** (11th Grade) - Linux Operating Systems
-  **Kevin Du** (12th Grade) - Windows Operating Systems
-  **Luna Ji** (12th Grade) - Windows Operating Systems
-  **John Kong** (10th Grade) - Cisco Networking
+  Congratulations to All TitanTurtles Team Members:\
+  **Brian Yu** (12th Grade) - Linux Operating Systems\
+  **Arthur Yang** (11th Grade) - Linux Operating Systems\
+  **Kevin Du** (12th Grade) - Windows Operating Systems\
+  **Luna Ji** (12th Grade) - Windows Operating Systems\
+  **John Kong** (10th Grade) - Cisco Networking\
   **Ashton Jiang** (12th Grade) - Cisco Networking
 
-  Forever Grateful for...
-  UCI, Cal Poly Pomona, and baseq for hosting Mock RvB's
-  Our Coach Pei, Coach Yang, and Mentor Sean for giving us advice
-  The Air and Space Force Association and all sponsors
-  The Teams that competed and celebrated with us
+  Forever Grateful for...\
+  UCI, Cal Poly Pomona, and baseq for hosting Mock RvB's\
+  Our Coach Pei, Coach Yang, and Mentor Sean for giving us advice\
+  The Air and Space Force Association and all sponsors\
+  The Teams that competed and celebrated with us\
   We couldn't have done it without you!
 
 * Jan. 22-24 2026: **CyberPatriot 18 Semifinals Round**
