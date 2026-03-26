@@ -13,7 +13,7 @@ We are Cybersecurity competition team TitanTurtles. Our main competition is [Cyb
 
 Our team members are Middle school and High school students. We are located at Portland, Oregon. We are associated with Sunshine Elite Education. We welcome all middle school and high school students who are interested in learning computer and internet. We are also partnered with the Westview Cybersecurity club: [westview.titanturtles.org](https://westview.titanturtles.org)
 
-In the CyberPatriot competition, our team won the Oregon State Championship in the High School Open Division Platinum Tier —the top tier— for five consecutive seasons: 2021–2022 (CPXIV), 2022–2023 (CPXV), 2023–2024 (CPXVI), 2024–2025 (CP17), and 2025-2026 (CP18). We also advanced to the National Finals in the Open Division in the 2023–2024 (CPXVI) and 2024–2025 (CPXVII) seasons, finishing 4th and 3rd in the nation, respectively. Recently, we became the _CyberPatriot 18 National Champions_ in the Open Division at the 2025-2026 CyberPatriot 18 National Finals. Additionally, we took home the CyberPatriot 18, Cisco National Champion Award.
+In the CyberPatriot competition, our team won the Oregon State Championship in the High School Open Division Platinum Tier —the top tier— for five consecutive seasons: 2021–2022 (CPXIV), 2022–2023 (CPXV), 2023–2024 (CPXVI), 2024–2025 (CP17), and 2025-2026 (CP18). We also advanced to the National Finals in the Open Division in the 2023–2024 (CPXVI), 2024–2025 (CPXVII), and 2025-2026 (CPXVIII) seasons, finishing 4th, 3rd, and 1st in the nation, respectively. Our team TitanTurtles also won the CyberPatriot 18 Cisco National Champion Award at the CyberPatriot 18 National Finals.
 
 * We learn Linux, Windows, Network and much more.
 * We learn programming.
