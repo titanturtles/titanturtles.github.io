@@ -141,20 +141,18 @@ layout: default
 Our Team Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
 
 Writing History:
-- CyberPatriot 18 National Champion (OPEN DIVISION) - National Finals
+- National Champion (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
-- CyberPatriot 18 Cisco National Champion (OPEN DIVISION) - National Finals
+- Cisco National Champion (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
-- National Finalist (Top 12 in Semifinals): **CyberPatriot XVI, CyberPatriot 17, CyberPatriot 18**
+- National Finalist (Top 12 in Semifinals) - **(CPXVI), (CP17), (CP18)**
 
-- First and Only Oregon Team to **Qualify** and **Compete** at CyberPatriot National Finals
+- First and Only Oregon Team to Qualify and Compete at CyberPatriot National Finals - (CPXVI)
 
-- First Oregon Team to Reach the CyberPatriot National Finals Podium - 3rd Place (OPEN DIVISION)
+- First Oregon Team to Podium at the CyberPatriot National Finals (CP17) - 3rd Place (OPEN DIVISION)
 
-- Semifinals National Rank #2: CyberPatriot 17, CyberPatriot 18
+- Semifinals National Rank #2 - (CP17), (CP18)
 
-- Semifinals National Rank #5: CyberPatriot XVI
+- Semifinals National Rank #5 - (CPXVI)
 
-- #1 Ranking in the Nation CyberPatriot 18 (Round 2)
-
-- 5 Consecutive State Champions: CyberPatriot XIV, XV, XVI, 17, 18
+- 5 Consecutive State Champions - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18) 
