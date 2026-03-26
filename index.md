@@ -28,10 +28,19 @@ In the CyberPatriot competition, our team won the Oregon State Championship in t
 
 **Our strategy:** Unleash the full potential of our students. Create social awareness of CyberSecurity through education, sharing and projects.
 
+* * *
+
+# The TitanTurtles Team is crowned National Champion at the CyberPatriot 18 National Finals (OPEN Division)
+
+![CP18NationalChampion](assets/image/CP18NatChamp.jpg)
+
+# The TitanTurtles Team is crowned the Cisco National Champion at the CyberPatriot 18 National Finals (OPEN Division)
+
+![CP18CiscoNationalChampion](assets/image/CP18CiscoAward.jpg)
 
 * * *
 
-# The Titanturtles Team won the 3rd place in High School Open Division at CyberPatriot 17 National Final
+# The Titanturtles Team won the 3rd place in High School Open Division at CyberPatriot 17 National Finals
 
 ![54396219554_ff780d6b0b_osmall](https://github.com/user-attachments/assets/eb983ab7-9daa-4fe5-a52f-6419f0f1588d)
 
