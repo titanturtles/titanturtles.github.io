@@ -15,35 +15,35 @@ layout: default
 
 * Mar. 19-24 2026: **CyberPatriot 18 National Finals**
 
-  **CONGRATULATIONS TO THIS YEAR'S CYBERPATRIOT NATIONAL CHAMPIONS: TITANTURTLES!**
+  **Congratulations to this year's National Champions: TitanTurtles!**
 
-  List of Winners on the Official CyberPatriot Website: https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx
+  [List of Winners on the Official CyberPatriot Website](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx)
 
   Awards:\
-  🏆CyberPatriot 18 National Champion (OPEN DIVISION)\
-  🏆CyberPatriot 18 Cisco National Champion (OPEN DIVISION)
----
-  * Congratulations to All TitanTurtles Team Members:
+  🏆National Champion Award (OPEN DIVISION)\
+  🏆Cisco National Champion Award (OPEN DIVISION)
 
-    **Brian Yu** (12th Grade) - Linux Operating Systems
+- Congratulations to All TitanTurtles Team Members:
 
-    **Arthur Yang** (11th Grade) - Linux Operating Systems
+  **Brian Yu** (12th Grade) - Linux Operating Systems
 
-    **Kevin Du** (12th Grade) - Windows Operating Systems
+  **Arthur Yang** (11th Grade) - Linux Operating Systems
 
-    **Luna Ji** (12th Grade) - Windows Operating Systems
+  **Kevin Du** (12th Grade) - Windows Operating Systems
 
-    **John Kong** (10th Grade) - Cisco Networking
+  **Luna Ji** (12th Grade) - Windows Operating Systems
 
-    **Ashton Jiang** (12th Grade) - Cisco Networking
+  **John Kong** (10th Grade) - Cisco Networking
 
-  - Our Team is Forever Grateful for...\
-    UCI, Cal Poly Pomona, and baseq for hosting Mock RvB's\
-    Our Coach Pei, Coach Yang, and Mentor Sean for leading us\
-    The Air and Space Force Association and all sponsors\
-    The Teams that competed and celebrated with us\
-    We couldn't have done it without you!
----
+  **Ashton Jiang** (12th Grade) - Cisco Networking
+
+  Special Thanks to\
+  -UCI, Cal Poly Pomona, and baseq for hosting Mock RvB's\
+  -Coach Pei, Coach Yang, and Mentor Sean for leading us\
+  -The Air and Space Force Association and all sponsors\
+  -All the Teams that competed and celebrated with us\
+  The team couldn't have done it without you!
+
 * Jan. 22-24 2026: **CyberPatriot 18 Semifinals Round**
 
   Top Team\
