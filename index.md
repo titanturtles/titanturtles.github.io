@@ -32,11 +32,11 @@ In the CyberPatriot competition, our team won the Oregon State Championship in t
 
 # The TitanTurtles Team is crowned National Champion at the CyberPatriot 18 National Finals (OPEN Division)
 
-![CP18NationalChampion](assets/image/CP18NatChamp.jpg)
+![cp18champion](assets/images/CP18NatChamp.jpg)
 
 # The TitanTurtles Team is crowned the Cisco National Champion at the CyberPatriot 18 National Finals (OPEN Division)
 
-![CP18CiscoNationalChampion](assets/image/CP18CiscoAward.jpg)
+![cp18ciscochampion](assets/images/CP18CiscoAward.jpg)
 
 * * *
 
