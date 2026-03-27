@@ -11,7 +11,7 @@ layout: default
   
 ## Past Events
 
-**2025 - 2026 Season**
+<code style="color : cyan">**2025 - 2026 Season**</code>
 
 * Mar. 19-24 2026: **CyberPatriot 18 National Finals**
 
@@ -44,7 +44,7 @@ layout: default
 * Oct. 23-26 2025: **CyberPatriot 18 Round 1**
   <p>&nbsp;</p>
 
-**2024 - 2025 Season**
+<code style="color : greenyellow">**2024 - 2025 Season**</code>
 * Mar. 15-17 2025 (In-Person): **CyberPatriot 17 National Finals**
 
   * <ins>🥉Ranked #3 Nationally - CyberPatriot 17 National Finals</ins>
@@ -69,7 +69,7 @@ layout: default
 * Oct. 24-27, 2024: **CyberPatriot 17 Round 1 Competition**
   <p>&nbsp;</p>
 
-**2023 - 2024 Season**
+<code style="color : lightskyblue">**2023 - 2024 Season**</code>
 * Mar. 13 - 18 2024 (In-Person): **CyberPatriot XVI National Finals**
 
   * <ins>Ranked #4 Nationally- CyberPatriot XVI National Finals</ins>
@@ -118,7 +118,7 @@ layout: default
   <p>&nbsp;</p> 
 
 
-## Our History
+## <code style="color : gold">Our History</code>
 Our Team Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
 
 We are CyberPatriot competition teams TitanTurtles, TitanTortoises, TitanWugui, TitanTortugas, and TitanTartarugas. 
