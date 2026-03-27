@@ -15,7 +15,7 @@ Our team members are Middle school and High school students. We are located at P
 
 In the CyberPatriot competition, our team won the Oregon State Championship in the High School Open Division Platinum Tier —the top tier— for five consecutive seasons: 2021–2022 (CPXIV), 2022–2023 (CPXV), 2023–2024 (CPXVI), 2024–2025 (CP17), and 2025-2026 (CP18). 
 
-We also advanced to the National Finals in the Open Division in the 2023–2024 (CPXVI), 2024–2025 (CP17), and 2025-2026 (CP18) seasons, finishing 4th, 3rd, and 1st in the nation, respectively. During the 2025-2026 (CP18) season, our team TitanTurtles was crowned _National Champion_ and won the CyberPatriot 18 _Cisco National Champion_ Award at the CyberPatriot 18 National Finals.
+Our Team TitanTurtles also advanced to the National Finals in the Open Division for three consecutive seasons — _2023-2024 (CPXVI), 2024-2025 (CP17), and 2025-2026 (CP18)_ — finishing 4th, 3rd, and 1st in the nation, respectively. In the recent 2025-2026 (CP18) season, our team (TitanTurtles) was crowned Open Division National Champion and received the CyberPatriot 18 Cisco National Champion Award at the National Finals. 
 
 * We learn Linux, Windows, Network and much more.
 * We learn programming.
