@@ -7,11 +7,11 @@ layout: default
 
 # TitanTurtles 2025-2026 CyberPatriot 18
 
-TitanTurtles Team Picture
-![CyberPatriotNationalFinalist](assets/images/CP18Photo.png)
-_CyberPatriot 18 National Finalist TitanTurtles Team Photo_
+# Team (18-0035) TitanTurtles is crowned Open Division National Champion at the CyberPatriot 18 National Finals
 
-Team (18-0035) TitanTurtles Qualifies for the CyberPatriot 18 National Finals
+![CPnational](assets/images/CP18NatChamp.jpg)
+
+# Team (18-0035) TitanTurtles Qualifies for the CyberPatriot 18 National Finals
 ![CyberPatriotNationalFinalists](assets/images/CP18-NationalFinalist.png)
 _List of National Finalists for CyberPatriot 18 (TitanTurtles located at bottom right)_
 
