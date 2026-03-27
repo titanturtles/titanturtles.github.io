@@ -15,50 +15,27 @@ layout: default
 
 * Mar. 19-24 2026: **CyberPatriot 18 National Finals**
 
-  **Congratulations to this year's National Champions: TitanTurtles!**
+  * <ins>Ranked #1 Nationally - CyberPatriot 18 National Finals</ins>
+  * *TitanTurtles is crowned CyberPatriot 18 Open Division National Champion*
 
   [List of Winners on the Official CyberPatriot Website](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx)
 
-  Awards:\
-  🏆National Champion Award (OPEN DIVISION)\
-  🏆Cisco National Champion Award (OPEN DIVISION)
-
-- Congratulations to All TitanTurtles Team Members:
-
-  **Brian Yu** (12th Grade) - Linux Operating Systems
-
-  **Arthur Yang** (11th Grade) - Linux Operating Systems
-
-  **Kevin Du** (12th Grade) - Windows Operating Systems
-
-  **Luna Ji** (12th Grade) - Windows Operating Systems
-
-  **John Kong** (10th Grade) - Cisco Networking
-
-  **Ashton Jiang** (12th Grade) - Cisco Networking
-
-  Special Thanks to\
-  -UCI, Cal Poly Pomona, and baseq for hosting Mock RvB's\
-  -Coach Pei, Coach Yang, and Mentor Sean for leading us\
-  -The Air and Space Force Association and all sponsors\
-  -All the Teams that competed and celebrated with us\
-  The team couldn't have done it without you!
+  * Awards:
+    * <code style="color : gold">🏆National Champion Award (OPEN DIVISION)</code>
+    * <code style="color : gold">🏆Cisco National Champion Award (OPEN DIVISION)</code>
 
 * Jan. 22-24 2026: **CyberPatriot 18 Semifinals Round**
 
-  Top Team\
-  -National Rank - #2 (Official)\
-  -CyberPatriot 18 National Finals (QUALIFIED!)
+  * <ins>National Rank - #2</ins>
  
-  Congratulations Team TitanTurtles for Qualifying for the CyberPatriot 18 National Finals!
+  * _CyberPatriot Open Division team TitanTurtles qualifies for the CyberPatriot National Finals for the 3rd year in a row, being the only Oregon team to do so._
   <p>&nbsp;</p>
 
 * Dec. 11-14 2025: **CyberPatriot 18 State Round**
 
-  Top Team\
-  -National Rank - #2\
-  -TitanTurtles Club Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3\
-  -State Champion for 5 Consecutive Years
+  * <ins>National Rank - #2</ins>
+  * TitanTurtles Club Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3
+  * TitanTurtles becomes Oregon State Champion for the fifth year in a row
   <p>&nbsp;</p>
 
 * Nov. 13-16 2025: **CyberPatriot 18 Round 2**
@@ -70,18 +47,20 @@ layout: default
 **2024 - 2025 Season**
 * Mar. 15-17 2025 (In-Person): **CyberPatriot 17 National Finals**
 
-  -🥉Ranked #3 - CyberPatriot 17 National Finals
+  * <ins>🥉Ranked #3 Nationally - CyberPatriot 17 National Finals</ins>
   <p>&nbsp;</p>
 
 * Jan. 23-25 2025: **CyberPatriot 17 Semifinals**
 
-  -National Rank - #2 (Team 1 Advanced to the National Finals)
+  * <ins>National Rank - #2</ins>
+
+  * _TitanTurtles advanced to the CyberPatriot 17 National Finals_ 
   <p>&nbsp;</p>
 
 * Dec. 12-15 2024: **CyberPatriot 17 State Round**
 
-  -TitanTurtles Club Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3\
-  -State Champion for 4 Consecutive Years
+  * TitanTurtles Club Open Division Platinum Tier (STATE RANKING - OR): #1,#2,#3
+  * TitanTurtles becomes State Champion for the fourth year in a row
   <p>&nbsp;</p>
 
 * Nov. 14-17 2024: **CyberPatriot 17 Round 2 Competition**
@@ -93,12 +72,13 @@ layout: default
 **2023 - 2024 Season**
 * Mar. 13 - 18 2024 (In-Person): **CyberPatriot XVI National Finals**
 
-  -Ranked #4 - CyberPatriot XVI National Finals
+  * <ins>Ranked #4 Nationally- CyberPatriot XVI National Finals</ins>
   <p>&nbsp;</p>
   
 * Jan. 21, 2023: **CyberPatriot XVI Semifinals**
 
-  -National Rank - #5 (Team 1 Advanced to the National Finals)
+  * <ins>National Rank - #5</ins> 
+  * _TitanTurtles Advanced to the CyberPatriot XVI National Finals_
   <p>&nbsp;</p> 
   
 * Jan. 29, 2023: **Tech Caregiver Education Series**
@@ -137,17 +117,20 @@ layout: default
   Location: Annex room of Bethany Library, 4888 NW Bethany Blvd Suite K-2, Portland, Oregon
   <p>&nbsp;</p> 
 
-## Making History
+
+## Our History
 Our Team Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
+
+We are CyberPatriot competition teams TitanTurtles, TitanTortoises, TitanWugui, TitanTortugas, and TitanTartarugas. 
 
 Writing History:
 - National Champion (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
 - Cisco National Champion (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
-- National Finalist (Top 12 in Semifinals) - **(CPXVI), (CP17), (CP18)**
+- National Finalist (OPEN DIVISION) - **(CPXVI), (CP17), (CP18)**
 
-- First and Only Oregon Team to Qualify and Compete at CyberPatriot National Finals - (CPXVI)
+- First and Only (OPEN DIVISION) Oregon Team to Qualify and Compete at CyberPatriot National Finals - (CPXVI)
 
 - First Oregon Team to Podium at the CyberPatriot National Finals (CP17) - 3rd Place (OPEN DIVISION)
 
@@ -155,4 +138,4 @@ Writing History:
 
 - Semifinals National Rank #5 - (CPXVI)
 
-- 5 Consecutive State Champions - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18) 
+- 5 Consecutive State Champions - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18)
