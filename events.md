@@ -118,24 +118,24 @@ layout: default
   <p>&nbsp;</p> 
 
 
-## <code style="color : gold">Our History</code>
+## <code style="color : gold">History</code>
 Our Team Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
 
 We are CyberPatriot competition teams TitanTurtles, TitanTortoises, TitanWugui, TitanTortugas, and TitanTartarugas. 
 
 Writing History:
-- National Champion (OPEN DIVISION) - **CyberPatriot 18 National Finals**
+- <code style="color : gold">National Champion</code> (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
-- Cisco National Champion (OPEN DIVISION) - **CyberPatriot 18 National Finals**
+- <code style="color : gold">Cisco National Champion</code> (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
-- National Finalist (OPEN DIVISION) - **(CPXVI), (CP17), (CP18)**
+- <code style="color : green">National Finalist</code> (OPEN DIVISION) - **(CPXVI), (CP17), (CP18)**
 
-- First and Only (OPEN DIVISION) Oregon Team to Qualify and Compete at CyberPatriot National Finals - (CPXVI)
+- <code style="color : lightskyblue">First and Only Open Division Oregon Team to Qualify for the CyberPatriot National Finals</code> - (CPXVI)
 
-- First Oregon Team to Podium at the CyberPatriot National Finals (CP17) - 3rd Place (OPEN DIVISION)
+- <code style="color : lightskyblue">First Oregon Team to Podium at the CyberPatriot National Finals</code> (CP17) - <code style="color : darkorange">3rd Place</code> (OPEN DIVISION)
 
-- Semifinals National Rank #2 - (CP17), (CP18)
+- (OPEN Division, Platinum Tier) <code style="color : lightskyblue">Semifinals National Rank #2</code> - (CP17), (CP18)
 
-- Semifinals National Rank #5 - (CPXVI)
+- (OPEN Division, Platinum Tier) <code style="color : lightskyblue">Semifinals National Rank #5</code> - (CPXVI)
 
-- 5 Consecutive State Champions - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18)
+- <code style="color : gold">5 Consecutive State Champions</code> - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18)
