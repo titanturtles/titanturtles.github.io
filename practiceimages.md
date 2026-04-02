@@ -200,7 +200,7 @@ Please make sure you download the newest version since older ones are known for 
     - [https://practicevms.s3.us-east-1.amazonaws.com/Beyond+Journey's+End.7z](https://practicevms.s3.us-east-1.amazonaws.com/Beyond+Journey's+End.7z)
     - [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat)
   - MD5 Checksum:
-    - Beyond Journey's End.7z: `caf3646a8324bdb57a993b86550758a2`  
+    - Beyond Journey's End.7z: `caf3646a8324bdb57ab993b86550758a2`  
     - scoring.dat: `08e03ff4cd73cf98c2d5cdca9e1d7a2e`  
   - Additional Info:
     - Login information: Frieren:Password1!
@@ -881,7 +881,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Mobmaker
 - Difficulty: Easy
 - Google Downloads: [https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing](https://drive.google.com/file/d/1-QN2GjowfgRHPnI9JibqwZiyx-mGgCzT/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/0-Debian10-BloonsTD6.7z](https://practicevms.s3.us-east-1.amazonaws.com/0-Debian10-BloonsTD6.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1WK9glmtNH38k8iJwlBXlvjG_ht6VeW2o/view?usp=drive_link](https://drive.google.com/file/d/1WK9glmtNH38k8iJwlBXlvjG_ht6VeW2o/view?usp=drive_link)
 - MD5 Checksum: `56c6862e91f0290a173c3ae7bfc517d3`
 - Additional Info:
   - Credentials:
