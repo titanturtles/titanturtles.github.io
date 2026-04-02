@@ -96,6 +96,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [CYBER IN THE SKY: LUBU 16, U](#cyber-in-the-sky)
 * [TOTORO'S STUDIO: MINT 22, H](#totoros-studio)
 * [BOTFORGE: MINT 22, SH](#botforge)
+* [ONE BARLINE: MINT 21, F](#one-barline)
 
 ---
 
@@ -1239,6 +1240,30 @@ First player to score 100 on both images will receive Discord Nitro for one mont
       - 20GB disk space
 
 ---
+
+### ONE BARLINE
+
+
+- Name: ONE BARLINE
+- OS: MINT 21
+- Author: kalipatriot or matt
+- Difficulty: Fun
+- Google Downloads: [https://drive.google.com/file/d/1kPA2bziPAZbEnD1FNZMm5vBRRKvRnc8e/view?usp=sharing](https://drive.google.com/file/d/1kPA2bziPAZbEnD1FNZMm5vBRRKvRnc8e/view?usp=sharing)
+- Additional Downloads: 
+- MD5 Checksum: `d5229229c239753f1a5beba16ccadf52`
+- Additional Info:)
+  - Credentials:
+    - User: `lllllllllllllll`
+    - Password: `IIIIIIIIIIIIIII`
+  - Original Website: [https://ecitadel.org/practice](https://ecitadel.org/practice
+  - Description:
+    - April 1, 2026
+In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exclusive opportunity to sharpen their skills with a hands-on practice environment. The eCitadel Practice Round presents a fully operational virtual machine environment — assess it, secure it, and prove your readiness before competition day.
+    - This is a fun one created for April Fool's Day. It is testing users' programming skills on managing users. 
+
+---
+
+
 
 ### FINAL R3 BDSM
 
