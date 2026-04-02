@@ -33,6 +33,14 @@ PWN College: [https://pwn.college/](https://pwn.college/)
 
 Cypat Community Guid: [https://cypat.guide/](https://cypat.guide/)
 
+PortSwigger Web Security Academy: [https://portswigger.net/web-security/all-materials](https://portswigger.net/web-security/all-materials)
+
+MITRE ATT&CK: [https://attack.mitre.org/](https://attack.mitre.org/)
+
+Stig Viewer: [https://www.stigviewer.com/stigs](https://www.stigviewer.com/stigs)
+
+CIS Benchmark: [https://www.cisecurity.org/cis-benchmarks](https://www.cisecurity.org/cis-benchmarks)
+
 ### Linux
 
 MIT Terminus Game: [https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
