@@ -1249,13 +1249,13 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: kalipatriot or matt
 - Difficulty: Fun
 - Google Downloads: [https://drive.google.com/file/d/1kPA2bziPAZbEnD1FNZMm5vBRRKvRnc8e/view?usp=sharing](https://drive.google.com/file/d/1kPA2bziPAZbEnD1FNZMm5vBRRKvRnc8e/view?usp=sharing)
-- Additional Downloads: 
+- Additional Downloads: [https://drive.google.com/file/d/1acPq5D2YWuCwnMNVWCRvWbhpM05hnaqP/view?usp=drive_link](https://drive.google.com/file/d/1acPq5D2YWuCwnMNVWCRvWbhpM05hnaqP/view?usp=drive_link)
 - MD5 Checksum: `d5229229c239753f1a5beba16ccadf52`
 - Additional Info:)
   - Credentials:
     - User: `lllllllllllllll`
     - Password: `IIIIIIIIIIIIIII`
-  - Original Website: [https://ecitadel.org/practice](https://ecitadel.org/practice
+  - Original Website: [https://ecitadel.org/practice](https://ecitadel.org/practice)
   - Description:
     - April 1, 2026
 In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exclusive opportunity to sharpen their skills with a hands-on practice environment. The eCitadel Practice Round presents a fully operational virtual machine environment — assess it, secure it, and prove your readiness before competition day.
