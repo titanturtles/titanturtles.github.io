@@ -573,7 +573,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Troy HS
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1hxRrVfQAuopYrDO70Qmm6YPk3NsXQLOu/view?usp=drive_link](https://drive.google.com/file/d/1hxRrVfQAuopYrDO70Qmm6YPk3NsXQLOu/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Jason.7z](https://practicevms.s3.us-east-1.amazonaws.com/Jason.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1mseTJWeQ0PMwB34MGLS1wGdKxUBF30zR/view?usp=drive_link](https://drive.google.com/file/d/1mseTJWeQ0PMwB34MGLS1wGdKxUBF30zR/view?usp=drive_link)
 - MD5 Checksum: `853e7dec03d2c05d83534221579add30`
 - Additional Info:
   - Credentials:
