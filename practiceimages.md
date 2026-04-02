@@ -332,9 +332,9 @@ Please make sure you download the newest version since older ones are known for 
   - Part 2: [https://drive.google.com/file/d/1Gp22ccrHR680o9Gdi52SvZEliBRpm0G8/view?usp=sharing](https://drive.google.com/file/d/1Gp22ccrHR680o9Gdi52SvZEliBRpm0G8/view?usp=sharing)
   - Part 3: [https://drive.google.com/file/d/1mo-r28xlR7aN4TUlEJGuHAkHss8W5lt1/view?usp=sharing](https://drive.google.com/file/d/1mo-r28xlR7aN4TUlEJGuHAkHss8W5lt1/view?usp=sharing)
 - Additional Downloads: 
-  - Part 1: [https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.001](https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.001)
-  - Part 2: [https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.002](https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.002)
-  - Part 3: [https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.003](https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Windows.zip.003)
+  - Part 1: [https://drive.google.com/file/d/1DoPGO_7BOtLh6lP-vzAKqrvswC_vAEot/view?usp=drive_link](https://drive.google.com/file/d/1DoPGO_7BOtLh6lP-vzAKqrvswC_vAEot/view?usp=drive_link)
+  - Part 2: [https://drive.google.com/file/d/1J4mD4qiFwe3oHS4qsrqvf90ipbuYvOMf/view?usp=drive_link](https://drive.google.com/file/d/1J4mD4qiFwe3oHS4qsrqvf90ipbuYvOMf/view?usp=drive_link)
+  - Part 3: [https://drive.google.com/file/d/1VmWIxz6dMwgVx32T8pquBxXQze2s3ge2/view?usp=drive_link](https://drive.google.com/file/d/1VmWIxz6dMwgVx32T8pquBxXQze2s3ge2/view?usp=drive_link)
 - MD5 Checksum: 
   - Part 1: `3e4088f168a243778ca47cc3969c7f4f`
   - Part 2: `2f2271fea0c355cbe6b1aaca127c273e`
