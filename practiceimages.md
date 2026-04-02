@@ -634,8 +634,8 @@ Please make sure you download the newest version since older ones are known for 
   - Notes: Active Directory, IPsec, Users have reported seeing low disk space errors
   - Credential: User: `Student`, Password: `study`
   - Answer Key: [https://cybervoid.tech/posts/baldis-basics-answer-key/](https://cybervoid.tech/posts/baldis-basics-answer-key/)
-  - Answer Key: (alternate) [https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics+Answer+Key.pdf](https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics+Answer+Key.pdf)
-  - Answer Key: (md version) [https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics+Answer+Key.md](https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics+Answer+Key.md)
+  - Answer Key: (alternate) [https://drive.google.com/file/d/12ahDtoFZhwGwGtrfNDybmfbYVhjeAv2I/view?usp=drive_link](https://drive.google.com/file/d/12ahDtoFZhwGwGtrfNDybmfbYVhjeAv2I/view?usp=drive_link)
+  - Answer Key: (md version) [https://drive.google.com/file/d/1ekm4oRDIQqdYJImbfHXgsKjfD7sYVEVg/view?usp=drive_link](https://drive.google.com/file/d/1ekm4oRDIQqdYJImbfHXgsKjfD7sYVEVg/view?usp=drive_link)
 
 ---
 
