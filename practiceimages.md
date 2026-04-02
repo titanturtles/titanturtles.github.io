@@ -197,11 +197,9 @@ Please make sure you download the newest version since older ones are known for 
   - Difficulty: Super Hard
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing](https://drive.google.com/file/d/1PRe5T9WXljVBh2e9CBqCpzObezsBb-HH/view?usp=sharing)
   - Additional Downloads:
-    - [https://practicevms.s3.us-east-1.amazonaws.com/Beyond+Journey's+End.7z](https://practicevms.s3.us-east-1.amazonaws.com/Beyond+Journey's+End.7z)
-    - [https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat](https://scoreboard.titanturtles.xyz/files/BeyondJourneysEnd/scoring.dat)
+    - [https://drive.google.com/file/d/1pkzmijsMsCqXXd1srvAAjrfpGTPVimSU/view?usp=drive_link](https://drive.google.com/file/d/1pkzmijsMsCqXXd1srvAAjrfpGTPVimSU/view?usp=drive_link)
   - MD5 Checksum:
     - Beyond Journey's End.7z: `caf3646a8324bdb57ab993b86550758a2`  
-    - scoring.dat: `08e03ff4cd73cf98c2d5cdca9e1d7a2e`  
   - Additional Info:
     - Login information: Frieren:Password1!
     - Download the `scoring.dat` to replace the original scoring file in the image.
@@ -253,7 +251,7 @@ Please make sure you download the newest version since older ones are known for 
     - Primary Login: `Mario:S3cure%The%Shr00ms`
     - Walkthrough:
       - [https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view](https://drive.google.com/file/d/16Bggptd-y-WR8CFA2BhkGPrLSV0yzqaO/view)
-      - [https://practicevms.s3.us-east-1.amazonaws.com/Mushroom+Kingdom+Server+-+Image+Guide.pdf](https://practicevms.s3.us-east-1.amazonaws.com/Mushroom+Kingdom+Server+-+Image+Guide.pdf)
+      - [https://drive.google.com/file/d/1dpw6hYxTifYi6LZ-hBrP9mEuqWqFQp7C/view?usp=drive_link](https://drive.google.com/file/d/1dpw6hYxTifYi6LZ-hBrP9mEuqWqFQp7C/view?usp=drive_link)
  
 ---
 
@@ -288,7 +286,7 @@ Please make sure you download the newest version since older ones are known for 
   - Author: firepony57
   - Difficulty: Medium
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/1qPkE62na-Io3lQcCrd0aXMEqt3ItjBpq/view?usp=drive_link](https://drive.google.com/file/d/1qPkE62na-Io3lQcCrd0aXMEqt3ItjBpq/view?usp=drive_link)
-  - Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Copy+of+System+Hardening+9+-+ImaginaryCTF+2023--111.zip](https://practicevms.s3.us-east-1.amazonaws.com/Copy+of+System+Hardening+9+-+ImaginaryCTF+2023--111.zip)
+  - Additional Downloads: [https://drive.google.com/file/d/1L_wvPgoBWDSeGJG_rkbxv8xVjlLde2Rh/view?usp=drive_link](https://drive.google.com/file/d/1L_wvPgoBWDSeGJG_rkbxv8xVjlLde2Rh/view?usp=drive_link)
   - MD5 Checksum: `db32b84215688f8d08b57a6ce4c0eea2`
   - Additional Info:
     - Credential: user: `frodo`, password: `Pa$$w0rd10`
@@ -626,7 +624,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Donkey (discord: d0nkeyman)
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1woYKSkHiBAZI92D2ihTE72LNLABaGtXv](https://drive.google.com/file/d/1woYKSkHiBAZI92D2ihTE72LNLABaGtXv)
-- Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics.zip](https://practicevms.s3.us-east-1.amazonaws.com/Baldi's+Basics.zip)
+- Downloads: [https://drive.google.com/file/d/1kzTj4QWdmz2_mfgKJK_o9s41SyhQ9kkQ/view?usp=drive_link](https://drive.google.com/file/d/1kzTj4QWdmz2_mfgKJK_o9s41SyhQ9kkQ/view?usp=drive_link)
 - MD5 Checksum: `4a357ecb1f78c593805cf733ac234074`
 - Additional Info:
   - Original Website: [https://cybervoid.tech/projects/baldi/](https://cybervoid.tech/projects/baldi/)
@@ -655,10 +653,10 @@ Please make sure you download the newest version since older ones are known for 
   - Password: ItNe3dsT0Be20%C00L3r
   - Answer Key:
     - [https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing](https://docs.google.com/document/d/1c5L6_FCVsWxdm69jHNWEFEvlPvDjNXYuHB1vmSmri1w/edit?usp=sharing)
-    - [https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony+Answer+Key.pdf](https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony+Answer+Key.pdf)
+    - [https://drive.google.com/file/d/18zxrMELHSlM7Nf3U0Fon37tP2BLPr_dj/view?usp=drive_link](https://drive.google.com/file/d/18zxrMELHSlM7Nf3U0Fon37tP2BLPr_dj/view?usp=drive_link)
   - Walkthrough:
     - [https://cybervoid.tech/posts/my-little-pony-walkthrough/](https://cybervoid.tech/posts/my-little-pony-walkthrough/)
-    - [https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony+Walkthrough.pdf](https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony+Walkthrough.pdf)
+    - [https://drive.google.com/file/d/1QI2E1DMaMvwNLiwuC5U5n8FONB2g0BzX/view?usp=drive_link](https://drive.google.com/file/d/1QI2E1DMaMvwNLiwuC5U5n8FONB2g0BzX/view?usp=drive_link)
 
 ---
 
