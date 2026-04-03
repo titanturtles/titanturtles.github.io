@@ -368,7 +368,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: x1nni 
 - Difficulty: Hard - Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view](https://drive.google.com/file/d/1zTLpm26kZowc4mdNwrDv33RsCV-fj4-i/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/x1nni_ppth_h_win11.7z](https://practicevms.s3.us-east-1.amazonaws.com/x1nni_ppth_h_win11.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1zr7oglqP4T_sgl2dUiEgntlbSPYZ23OR/view?usp=drive_link](https://drive.google.com/file/d/1zr7oglqP4T_sgl2dUiEgntlbSPYZ23OR/view?usp=drive_link)
 - MD5 Checksum: `dc9d1d3c84cd08e29f1928f2ef9c7446`
 - Additional Info:
   - Original Website: [https://ejinnis.ca/practice-images/princeton-plainsboro-teaching-hospital/](https://ejinnis.ca/practice-images/princeton-plainsboro-teaching-hospital/)
@@ -733,7 +733,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Eth007
 - Difficulty: Medium (Ethan claimed to be Easy, but we took with grain of salt)
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/12x8aYXIpGwO47MIvUCB6G3bqV-8npVUx/view](https://drive.google.com/file/d/12x8aYXIpGwO47MIvUCB6G3bqV-8npVUx/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Narnia+Server.zip](https://practicevms.s3.us-east-1.amazonaws.com/Narnia+Server.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1odFY8VefTsaYPVqVbo9ZSJ309bgbEK_F/view?usp=drive_link](https://drive.google.com/file/d/1odFY8VefTsaYPVqVbo9ZSJ309bgbEK_F/view?usp=drive_link)
 - MD5 Checksum: `ce79cf10ceda1957aadff3f9c1a1642b`
 - Additional Info:
   - Original Website: https://eth007.me/blog/cypat/
@@ -824,7 +824,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: InfernusHawk
 - Difficulty: Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1_ZDn7K4Xy6pQ5YXWroqBkZoIdYfSivkT/view](https://drive.google.com/file/d/1_ZDn7K4Xy6pQ5YXWroqBkZoIdYfSivkT/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Ubuntu.zip](https://practicevms.s3.us-east-1.amazonaws.com/Aperture+Science+Ubuntu.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1_oztwfVLVUHIATD3W7vCg_VBZxhn-teD/view?usp=drive_link](https://drive.google.com/file/d/1_oztwfVLVUHIATD3W7vCg_VBZxhn-teD/view?usp=drive_link)
 - MD5 Checksum: `a276df5cde736170eb9c4a63e81e9886`
 - Additional Info:
   - Original Website: [https://discord.com/channels/301768361136750592/414537868766347265/1153440187091791972](https://discord.com/channels/301768361136750592/414537868766347265/1153440187091791972)
@@ -840,7 +840,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: beyman ?
 - Difficulty: Easy
 - Mega Downloads: (Preferred) [https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI](https://mega.nz/#!UJYVjQDC!s4bY7wkNLBqHmG3ZQCfXGe9uQgMG2g5b2LXKQ8AwFMI)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Seinfeld+ubuntu+image+by+Sylvain+Jones.zip](https://practicevms.s3.us-east-1.amazonaws.com/Seinfeld+ubuntu+image+by+Sylvain+Jones.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1bm-ouxczUDQf7FQrec154bTXDb3ysJb_/view?usp=drive_link](https://drive.google.com/file/d/1bm-ouxczUDQf7FQrec154bTXDb3ysJb_/view?usp=drive_link)
 - MD5 Checksum: `a276df5cde736170eb9c4a63e81e9886`
 - Additional Info:
   - Credentials: jerry:marblerye
@@ -942,7 +942,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: immortalmanan
 - Difficulty: Easy
 - Google Downloads: [https://drive.google.com/file/d/10QHbNdrtHqyX0U-5KMdIBHvdUt8FVi4e/view?usp=sharing](https://drive.google.com/file/d/10QHbNdrtHqyX0U-5KMdIBHvdUt8FVi4e/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/CyberTech+Image.zip](https://practicevms.s3.us-east-1.amazonaws.com/CyberTech+Image.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1JwIddasK9UzeQGxntdrbYiYLNgcDdHDS/view?usp=drive_link](https://drive.google.com/file/d/1JwIddasK9UzeQGxntdrbYiYLNgcDdHDS/view?usp=drive_link)
 - MD5 Checksum: `c421c11a64807ad8ca54a50121c46aaa`
 - Additional Info:
   - Credential: User: `jmuskington`, Password: `password123!`
@@ -962,7 +962,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: samn0270_65431
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1O3TSZnGTQf-pgcBOs7-d2XPuqYWgtCWE/view](https://drive.google.com/file/d/1O3TSZnGTQf-pgcBOs7-d2XPuqYWgtCWE/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Kimetsu+No+Yaiba.7z](https://practicevms.s3.us-east-1.amazonaws.com/Kimetsu+No+Yaiba.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1oGmDyQ5NYS-XE6VfbnQ27Td27suyXl2E/view?usp=drive_link](https://drive.google.com/file/d/1oGmDyQ5NYS-XE6VfbnQ27Td27suyXl2E/view?usp=drive_link)
 - MD5 Checksum: `60fe90b23559ca79d66eddfe08a30c60`
 - Additional Info:
     
@@ -990,7 +990,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link](https://drive.google.com/file/d/1Po6ddMehJ5_L6nteFR8K9Slpc_Jhu6gE/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/DemonSlayer.7z](https://practicevms.s3.us-east-1.amazonaws.com/DemonSlayer.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1bAOS1k8oimGRrR9v2793VPVFei0kU3h8/view?usp=drive_link](https://drive.google.com/file/d/1bAOS1k8oimGRrR9v2793VPVFei0kU3h8/view?usp=drive_link)
 - MD5 Checksum: `fda3946ca9351adeacf43b8890069707`
 - Additional Info:
   - Credentials:
@@ -1011,7 +1011,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Hard +
 - Google Downloads: [https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link](https://drive.google.com/file/d/1YEWwGZPPGMZmhno2HVDOk5To4eSbBYiC/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Nintendo+Debian+11+Semifinals+Practice+Image.7z](https://practicevms.s3.us-east-1.amazonaws.com/Nintendo+Debian+11+Semifinals+Practice+Image.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1CSdXT0GBTmzkl5EV90gPFJvlGpfqr8oj/view?usp=drive_link](https://drive.google.com/file/d/1CSdXT0GBTmzkl5EV90gPFJvlGpfqr8oj/view?usp=drive_link)
 - MD5 Checksum: `e88be558979fa73d0a66a198503d8d8a`
 - Additional Info:
   - Credentials:
@@ -1029,7 +1029,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link](https://drive.google.com/file/d/1hIpDrLzMRa0ddFQQAv47Iesg2He1LjB6/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Avatar_+The+Last+Linuxbender-20171205T002226Z-001.zip](https://practicevms.s3.us-east-1.amazonaws.com/Avatar_+The+Last+Linuxbender-20171205T002226Z-001.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1nw0xT1XvBWWY55S-jMbmBhNhn-1aHb-8/view?usp=drive_link](https://drive.google.com/file/d/1nw0xT1XvBWWY55S-jMbmBhNhn-1aHb-8/view?usp=drive_link)
 - MD5 Checksum: `5dfa2791213708f719fa206c9b9b7020`
 - Additional Info:
   - Credentials:
@@ -1046,7 +1046,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link](https://drive.google.com/file/d/15TrAA_BSeWOQwBqKXxWv4NQFC-GwJECC/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Polytopia.7z](https://practicevms.s3.us-east-1.amazonaws.com/Polytopia.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1q9Yu8oZRnw93Dr2fn3B6cZPfNgwXmkDh/view?usp=drive_link](https://drive.google.com/file/d/1q9Yu8oZRnw93Dr2fn3B6cZPfNgwXmkDh/view?usp=drive_link)
 - MD5 Checksum: `092e80c4c2f5b0e5d26d630d28a48cc5`
 - Additional Info:
   - Credentials:
@@ -1063,7 +1063,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link](https://drive.google.com/file/d/1vAq_f9lZq3vyFIu6fjwDcpsuMv-saUez/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Copy+of+LAMP+Stack+Practice.zip](https://practicevms.s3.us-east-1.amazonaws.com/Copy+of+LAMP+Stack+Practice.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1Wh8KhAEcO5R2G3wfKuy3xADnoKlFEECu/view?usp=drive_link](https://drive.google.com/file/d/1Wh8KhAEcO5R2G3wfKuy3xADnoKlFEECu/view?usp=drive_link)
 - MD5 Checksum: `0d3a20f236eee30f769d585b614a33e2`
 - Additional Info:
   - Credentials:
