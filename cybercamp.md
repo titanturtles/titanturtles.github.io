@@ -5,28 +5,22 @@ layout: default
 
 ## [Root](./index.html) | [Join](./apply.html) | **Camp** | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
-# Summer CyberCamp 2025
+# Summer CyberCamp 2026
 
-We are collaborating with Westview High School to provide AFA CyberPatriot CyberCamps during the summer time. We are Oregon Champions.
+We are collaborating with Sunshine Elite Education to provide AFA CyberPatriot CyberCamps during the summer time. We are Oregon Champions and National Champion.
 
 * * *
 
 ## Register:
 
-[Register for 2025 Summer CyberCamp](https://www.zeffy.com/ticketing/2025-titanturtles-cyberpatriot-cybercamp). 
-
-**(Please note, when you pay through zeffy, set the optional fee to $0. We are not receiving these optional fees. Therefore, we cannot refund you these fees in case a refund occurs.)**
-
-**(If your company has donation match program such as Benevity, you can donate directly from your company's donation portal. The entity name is "The Master Builders Club" with tax id 82-4135345. We are running on very low budget. Additional donation match can help us to cover a lot of cost. Very appreciated. Once done with the donation, send us an email to titanturtlesteam@gmail.com about your kid's information.)**
-
-It is 100% refundable if you decided to withdraw before June 1st, 2025. After June 1st, no refund will be given. 
+Registration for AFA certified CyberCamp 2026 is coming
 
 * * *
 
 ## Schedule:
 
-Standard Camp: July 7 to July 11, 2025\
-Advanced Camp: July 14 to July 18, 2025
+Standard Camp: June 15 to June 19, 2026\
+Advanced Camp: June 22 to June 26, 2026
 
 Time: 9am to 3pm (PDT)\
 Lunch break: 11:30am to 12:15pm (PDT)
@@ -41,22 +35,29 @@ Online: Zoom Meeting
 
 ## Cost for the camp:
 
-Donation to Master Builders Club:\
-Standard Camp: $300 \
-Advanced Camp: $400 \
-Both Camps: $650
+Through Sunshine Elite Education (will be posted very soon)
 
 (Students with financial difficulties can apply for scholarship.)
 
 * * *
 
-## Minimum Hardware requirement:
+## Minimum hardware requirements:
 
 Intel/AMD Quad core computers with internet connection, and at least 16GB of memory (RAM) and 100GB free SSD harddrive space.
 
-(Costco has qualified laptop at $700 and up. Amazon has qualified renewed laptop at less then $300, but YMMV.)
+(Costco has qualified laptop at $700 and up. Amazon has qualified renewed laptop at less then $300, but YMMV. Gaming laptop with at least 32GB of RAM memory and 1TB SSD harddrive is recommended for determined students.)
 
 However, Apple M series computer will not work directly. If you only have apple computer, we can convert the virtual images for you at an extra cost. 
+
+* * * 
+
+## Skill requirements:
+
+Standard Camp attendees do not need to have any prior knowledge of cybersecurity to participate. Some very basic knowledge of computer hardware (knowing how to use a mouse, browse the internet, identify common computer icons, etc.) is helpful but not necessary.
+
+Advanced​ Camp attendees must possess some prior knowledge. Most of the Advanced curriculum builds on material covered by our Standard camp and also draws from the activities/tasks in the CyberPatriot competition. Prior exposure to CyberPatriot or similar skill levels are recommended. 
+
+A basic English reading level is essential for both as many individual and group activities are written directives and students must work alone or within small groups to accomplish tasks. Cybersecurity or anything related to computers involve hands-on activities. ​
 
 * * * 
 
@@ -78,7 +79,7 @@ Standard camps are designed to teach beginner students the basics of cybersecuri
 
 *Thursday:* Basic command line security and intermediate Mint security. Students will follow along and work with the Mint demonstration image.
 
-*Friday:* CyberPatriot competition day. Students will compete against their fellow campers on Windows 10 and Mint competition images. 
+*Friday:* CyberPatriot competition day. Students will compete against their fellow campers on Windows 10 and Mint competition images.
 
 ### Advanced Camp:
 
