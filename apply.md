@@ -26,9 +26,9 @@ TitanTurtles Club Teams Past Achievements
 
 2025-2026
 
-* [CyberPatriot National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx)
+* [CyberPatriot National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx) - <code style='color : gold'>#1 in the Nation</code>
 
-* [CyberPatriot Cisco National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx)
+* [CyberPatriot Cisco National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx) - <code style='color : gold'>#1 in the Nation</code> (Cisco)
 
 * CyberPatriot 18 National Finals Qualification (#2/4000+)
 
