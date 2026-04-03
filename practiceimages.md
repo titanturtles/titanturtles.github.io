@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [ba](./legend.html) | **Practice Images** 
-
+t
 # Practice Images
 
 **Disclaimer:** We share these images just to make it easier for people to use them. We appreciate the works of the original authors. If you think there is a copyright infringement, feel free to contact us. We will act accordingly.
@@ -463,7 +463,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: x1nni
 - Difficulty: Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1ESfNnXQCUSI6tL_WgadnmJjPCG8zcOw_/view?usp=sharing](https://drive.google.com/file/d/1ESfNnXQCUSI6tL_WgadnmJjPCG8zcOw_/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Tokyo-3.zip](https://practicevms.s3.us-east-1.amazonaws.com/Tokyo-3.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1Z6rMM1FRF2MTDaxXQ5nHEO3fMBovWlKF/view?usp=drive_link](https://drive.google.com/file/d/1Z6rMM1FRF2MTDaxXQ5nHEO3fMBovWlKF/view?usp=drive_link)
 - MD5 Checksum: `ED8548FE59BFB618048F79C52CA8E090`
 - Additional Info:
   - "Don’t run away. Don’t run away."
