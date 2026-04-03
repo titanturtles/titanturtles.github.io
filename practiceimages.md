@@ -243,7 +243,7 @@ Please make sure you download the newest version since older ones are known for 
     - TheiMacNoob	Beta Tester
   - Difficulty: Intermediate
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view](https://drive.google.com/file/d/1KR1mnH5k5XGTOEJ-FdnYbZvLl12yMlQO/view)
-  - Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/imks-gold.7z](https://practicevms.s3.us-east-1.amazonaws.com/imks-gold.7z)
+  - Additional Downloads: [https://drive.google.com/file/d/1cHtqgTnMhRGrxkYxeGZ7vqJegbj76UCo/view?usp=drive_link](https://drive.google.com/file/d/1cHtqgTnMhRGrxkYxeGZ7vqJegbj76UCo/view?usp=drive_link)
   - MD5 Checksum: `54bd31dc5d01dea625f84cde68dae335`
   - Additional Info:
     - Original Website: [https://magistrate.shiversoft.net](https://magistrate.shiversoft.net)
@@ -500,10 +500,10 @@ Please make sure you download the newest version since older ones are known for 
 - OS: Windows Server 2025
 - Author: pumpkinjones6_02843 
 - Difficulty: ?
-- Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+(Server+2025).7z](https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+(Server+2025).7z)
+- Downloads: [https://drive.google.com/file/d/1xASQTw2yEdzUiEp02hQ0N0n2uceUUGPK/view?usp=drive_link](https://drive.google.com/file/d/1xASQTw2yEdzUiEp02hQ0N0n2uceUUGPK/view?usp=drive_link)
 - MD5 Checksum: `540fabdf9610e87fe8b0d2fcf682c0bb`
 - Additional Info:
-  - Walkthrough: [https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+Writeup.pdf](https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+Writeup.pdf)
+  - Walkthrough: []()[https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+Writeup.pdf](https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+Writeup.pdf)
   - Important Notes:
     - Scoring report & README shortcuts on desktop do not work.
     - Access them manually at:
@@ -591,7 +591,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Troy HS
 - Difficulty: ?
 - Google Downloads: [https://drive.google.com/drive/folders/1dG-Xc7FsrCa_agSrjegMmlY8Ze0LI-jk?usp=drive_link](https://drive.google.com/drive/folders/1dG-Xc7FsrCa_agSrjegMmlY8Ze0LI-jk?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Troy+Windows+10+Mock.7z](https://practicevms.s3.us-east-1.amazonaws.com/Troy+Windows+10+Mock.7z)
+- Additional Downloads: [https://drive.google.com/file/d/163fvAy7h145yPf0MwB8qJM22jVuYqF3S/view?usp=drive_link](https://drive.google.com/file/d/163fvAy7h145yPf0MwB8qJM22jVuYqF3S/view?usp=drive_link)
 - MD5 Checksum: `7a3ab91c8b020486c8abe527e9531ddc`
 - Additional Info:
   - Credentials:
@@ -608,7 +608,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Donkey (discord: d0nkeyman)
 - Difficulty: Easy
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view](https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/The+Cincinnati+Zoo.zip](https://practicevms.s3.us-east-1.amazonaws.com/The+Cincinnati+Zoo.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1uYwhyWOFh0eysJnhE_3KhZbrPovLlOp8/view?usp=drive_link](https://drive.google.com/file/d/1uYwhyWOFh0eysJnhE_3KhZbrPovLlOp8/view?usp=drive_link)
 - MD5 Checksum: `767d2c696c5c360697c9d3d0979dbb63`
 - Additional Info:
   - Original Website: https://cybervoid.tech/projects/cincinnati/
