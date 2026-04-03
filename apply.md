@@ -9,11 +9,11 @@ layout: default
 
 We will host an open house events on April 19th, 2026 at 2PM at Sunshine Elite Education.
 
-Time:
+Time:\
 2PM-4PM, April 19th, 2026
 
-Location:
-Sunshine Elite Education
+Location:\
+Sunshine Elite Education\
 1725 NW 167th Pl, Beaverton, OR 97006
 
 * What to expect in our club.
