@@ -133,7 +133,7 @@ Please make sure you download the newest version since older ones are known for 
 
 ### 7zip
   - Official Website: [https://www.7-zip.org/download.html](https://www.7-zip.org/download.html)
-  - Windows: [https://practicevms.s3.us-east-1.amazonaws.com/7z2501-x64.exe](https://practicevms.s3.us-east-1.amazonaws.com/7z2501-x64.exe)
+  - Windows: [https://drive.google.com/file/d/1dMjDwEZH-rylsKeOxOgs_FbU5TOTCh7l/view?usp=drive_link](https://drive.google.com/file/d/1dMjDwEZH-rylsKeOxOgs_FbU5TOTCh7l/view?usp=drive_link)
 
 ---
 
