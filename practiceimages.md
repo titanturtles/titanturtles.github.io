@@ -418,7 +418,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: CarbonIce
 - Difficulty: Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1mm9jIRGv-OeGnywhIZgn4XcJV4fHjJGc/view?usp=sharing](https://drive.google.com/file/d/1mm9jIRGv-OeGnywhIZgn4XcJV4fHjJGc/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/vulnerable_server_v4.zip](https://practicevms.s3.us-east-1.amazonaws.com/vulnerable_server_v4.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1ML32cclQEFgIHO1I26cb8rMFpf3GM_jj/view?usp=drive_link](https://drive.google.com/file/d/1ML32cclQEFgIHO1I26cb8rMFpf3GM_jj/view?usp=drive_link)
 - MD5 Checksum: `0DB33F6C823CECAEC97330F256859827`
 - Additional Info:
   - Credential: User: `adminaccount`, Password: `G0oDLuCK!!`
