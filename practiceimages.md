@@ -503,7 +503,7 @@ Please make sure you download the newest version since older ones are known for 
 - Downloads: [https://drive.google.com/file/d/1xASQTw2yEdzUiEp02hQ0N0n2uceUUGPK/view?usp=drive_link](https://drive.google.com/file/d/1xASQTw2yEdzUiEp02hQ0N0n2uceUUGPK/view?usp=drive_link)
 - MD5 Checksum: `540fabdf9610e87fe8b0d2fcf682c0bb`
 - Additional Info:
-  - Walkthrough: []()[https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+Writeup.pdf](https://practicevms.s3.us-east-1.amazonaws.com/Windows+Persistence+Writeup.pdf)
+  - Walkthrough: [https://drive.google.com/file/d/18MhzVC62TfGYUB2B-53YNQ7Gqh8ZZYGW/view?usp=drive_link](https://drive.google.com/file/d/18MhzVC62TfGYUB2B-53YNQ7Gqh8ZZYGW/view?usp=drive_link)
   - Important Notes:
     - Scoring report & README shortcuts on desktop do not work.
     - Access them manually at:
@@ -699,7 +699,7 @@ Please make sure you download the newest version since older ones are known for 
   - Original Website: [https://sakouk.me/cyberpatriot#dead-by-daylight](https://sakouk.me/cyberpatriot#dead-by-daylight)
   - Notes:
     - Difficulty: Super hard. This image is designed to mimick the semifinals.
-    - Walkthrough: [https://sakouk.me/blog/2025/dead-by-daylight-walkthrough.html](https://sakouk.me/blog/2025/dead-by-daylight-walkthrough.html) or [https://us-east-1.console.aws.amazon.com/s3/object/practicevms?region=us-east-1&prefix=Dead+by+Daylight+SH+Image+Walkthrough.pdf](https://us-east-1.console.aws.amazon.com/s3/object/practicevms?region=us-east-1&prefix=Dead+by+Daylight+SH+Image+Walkthrough.pdf)
+    - Walkthrough: [https://sakouk.me/blog/2025/dead-by-daylight-walkthrough.html](https://sakouk.me/blog/2025/dead-by-daylight-walkthrough.html) or [https://drive.google.com/file/d/18o9mX6q5lfYtZRDJGSsbi9l7jDDdS1Yx/view?usp=drive_link](https://drive.google.com/file/d/18o9mX6q5lfYtZRDJGSsbi9l7jDDdS1Yx/view?usp=drive_link)
   - Credentials:
     - Username: `David`
     - Password: `Th3_Ent1ty_Re4lm!`
@@ -778,7 +778,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: tirefire
 - Difficulty: Hard
 - Google Downloads: (Preferred) [https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx](https://ln5.sync.com/dl/3e4ff83c0/u2wyn5b9-yuthhkgw-dqhghbr4-qme8tqjx)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/mr.robot.sh.zip](https://practicevms.s3.us-east-1.amazonaws.com/mr.robot.sh.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1J8_Chna2VHwifIlqzFonLc12hFqOB63c/view?usp=drive_link](https://drive.google.com/file/d/1J8_Chna2VHwifIlqzFonLc12hFqOB63c/view?usp=drive_link)
 - MD5 Checksum: `5ea0ff7823ff8bd8578a987d80a99436`
 - Additional Info:
   - Original Website: https://tirefire.org/posts/fedora-practice/
@@ -811,7 +811,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: poarthanarseus
 - Difficulty: Medium
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1MaEmGrTFMZIcG2S0DPCLDfWffThndkGk/view?usp=sharing](https://drive.google.com/file/d/1MaEmGrTFMZIcG2S0DPCLDfWffThndkGk/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/houseOnTheBorderland.zip](https://practicevms.s3.us-east-1.amazonaws.com/houseOnTheBorderland.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1elI_0k1fKdIjXmInvJ6pcTJXSs9intxF/view?usp=drive_link](https://drive.google.com/file/d/1elI_0k1fKdIjXmInvJ6pcTJXSs9intxF/view?usp=drive_link)
 - MD5 Checksum: `59f907e8e40e6c14ff2dab6984468c6c`
 - Additional Info:
   - Credential: User: `pepper` or `houseOnTheBorderLand`, Pass: `deadworld`
@@ -901,7 +901,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Eth007
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link](https://drive.google.com/file/d/1Q65-3hOYKSssoMtwZBQND_o5BsiX1bjS/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/msf24_deb11_pgsms_sh_arena.zip](https://practicevms.s3.us-east-1.amazonaws.com/msf24_deb11_pgsms_sh_arena.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1MN_lHvfvSwbhTvNUJXwH-Ac_D94a5lO-/view?usp=drive_link](https://drive.google.com/file/d/1MN_lHvfvSwbhTvNUJXwH-Ac_D94a5lO-/view?usp=drive_link)
 - MD5 Checksum: `824e22c0fdaaf5cbbd8eb66639e0e2ea`
 - Additional Info:
   - Credentials: user: `joy`, password: `Pa$$w0rd10` 
@@ -923,7 +923,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Eth007
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link](https://drive.google.com/file/d/1qpe6mq5QS0s8ee-Z-fO4Yktm7Bx_Kl79/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/msf24_ubu22_p_sh_arena.zip](https://practicevms.s3.us-east-1.amazonaws.com/msf24_ubu22_p_sh_arena.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1H4AewNop7Ht30u7oFITyZj2BoOaB6Nr6/view?usp=drive_link](https://drive.google.com/file/d/1H4AewNop7Ht30u7oFITyZj2BoOaB6Nr6/view?usp=drive_link)
 - MD5 Checksum: `945F145580306210028CA08F46A18C48`
 - Additional Info:
   - Credential: `joy`:`Pa$$w0rd10` 
@@ -1082,7 +1082,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Medium
 - Google Downloads: [https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing](https://drive.google.com/file/d/1-L0uJp591MvzIF3F25f7TBMQBePP8X0T/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Fedora_36_VM.7z](https://practicevms.s3.us-east-1.amazonaws.com/Fedora_36_VM.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1tnskLP-j1fgPeVP2bBxLw09rCGyuLseh/view?usp=drive_link](https://drive.google.com/file/d/1tnskLP-j1fgPeVP2bBxLw09rCGyuLseh/view?usp=drive_link)
 - MD5 Checksum: `3aed0634c1f5abec284c20f322462978`
 - Additional Info:
   - Credentials:
@@ -1203,7 +1203,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: tirefire
 - Difficulty: Super Hard (Even tirefire said intermediate. "If you’ve done a few practice images before, you should be comfortable here. If this is your first one, expect to learn a lot (and struggle a bit).")
 - Main Downloads: [https://ln5.sync.com/dl/a7d6d1f80#6mqzmf43-cg46ipx9-2cfvjtj4-p364qeqt](https://ln5.sync.com/dl/a7d6d1f80#6mqzmf43-cg46ipx9-2cfvjtj4-p364qeqt)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/botforge-mint22.zip](https://practicevms.s3.us-east-1.amazonaws.com/botforge-mint22.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1zRDj2wIy3eCWw62Y9Yc95819JUjx1mbP/view?usp=drive_link](https://drive.google.com/file/d/1zRDj2wIy3eCWw62Y9Yc95819JUjx1mbP/view?usp=drive_link)
 - MD5 Checksum: `5276b58c0cdfba014b53c2a05ae55245`
 - Additional Info:
   - Credentials:
