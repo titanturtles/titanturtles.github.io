@@ -693,7 +693,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Adam Sakouk (discord: lolmenow)
 - Difficulty: SUPER Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1hWs8oLxXI1Ar0QaZSg0yTiQjHI_SPznd/view?usp=sharing](https://drive.google.com/file/d/1hWs8oLxXI1Ar0QaZSg0yTiQjHI_SPznd/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/lolmenow_sf_p_sh_server2019_release.zip](https://practicevms.s3.us-east-1.amazonaws.com/lolmenow_sf_p_sh_server2019_release.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1gtK_tokpA5KwfU5TaSlYRJ5gPNoClOeG/view?usp=drive_link](https://drive.google.com/file/d/1gtK_tokpA5KwfU5TaSlYRJ5gPNoClOeG/view?usp=drive_link)
 - MD5 Checksum: `d146daae9c2996c126b127a036147db6`
 - Additional Info:
   - Original Website: [https://sakouk.me/cyberpatriot#dead-by-daylight](https://sakouk.me/cyberpatriot#dead-by-daylight)
