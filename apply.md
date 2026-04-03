@@ -5,12 +5,25 @@ layout: default
 
 ## [Root](./index.html) | **Join** | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
+# Open House:
+
+We will host an open house events on April 19th, 2026 at 2PM at Sunshine Elite Education.
+
+Time:
+2PM-4PM, April 19th, 2026
+
+Location:
+Sunshine Elite Education
+1725 NW 167th Pl, Beaverton, OR 97006
+
+* What to expect in our club.
+* Meet with current students and alumni.
+* Fun activities.
+* Free trinklets.
+
 # Applications:
 
-We will open applications for the 2026-2027 season very soon. Please stay tuned.
-
-If your company has donation match program such as Benevity, you can donate directly from your company's donation portal. The entity name is "The Master Builders Club" with tax id 82-4135345. We are running on very low budget. Additional donation match can help us to cover a lot of cost. Very appreciated. Once done with the donation, send us an email to titanturtlesteam@gmail.com about your kid's information.
-
+Comming soon...
 
 ## Introduction
 
@@ -30,7 +43,7 @@ TitanTurtles Club Teams Past Achievements
 
 * [CyberPatriot Cisco National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx) - <code style='color : gold'>#1 in the Nation</code> (Cisco)
 
-* CyberPatriot 18 National Finals Qualification (#2/4000+)
+* **CyberPatriot 18 National Finals Champion (#1/5000~)**
 
 * CyberPatriot Open Division Platinum Tier Semifinals Round - **National Rank #2**
   
