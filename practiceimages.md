@@ -269,7 +269,7 @@ Please make sure you download the newest version since older ones are known for 
     - Matthew	Tutorial Creator, Beta Testing
   - Difficulty: Beginner
   - Google Downloads: (Preferred) [https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view](https://drive.google.com/file/d/1T7Lj5rHqq3JD2O1tZf_24vTytdOKytXO/view)
-  - Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Santa's+Workshop.zip](https://practicevms.s3.us-east-1.amazonaws.com/Santa's+Workshop.zip)
+  - Additional Downloads: [https://drive.google.com/file/d/1BwRRHK6HaQuN6FzGilmtQQ6T5xQpTU2m/view?usp=drive_link](https://drive.google.com/file/d/1BwRRHK6HaQuN6FzGilmtQQ6T5xQpTU2m/view?usp=drive_link)
   - MD5 Checksum: `ad705c062fc7cda4ac496a72c5a9e4b2`
   - Additional Info:
     - Original Website: https://magistrate.shiversoft.net/
@@ -397,7 +397,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Altoid0
 - Difficulty: Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link](https://drive.google.com/file/d/13OBAXsv408TQJ-WtNMc-mUEe2IBvI-UV/view?usp=share_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Server2019_KAC.7z](https://practicevms.s3.us-east-1.amazonaws.com/Server2019_KAC.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1Wof2Marm2rtcHmzzffWGwBAnoy14cvgu/view?usp=drive_link](https://drive.google.com/file/d/1Wof2Marm2rtcHmzzffWGwBAnoy14cvgu/view?usp=drive_link)
 - MD5 Checksum: `7c8cb8281477b156e33f9677f3ded766`
 - Additional Info:
   - Critical Services: Active Directory and DNS
@@ -541,7 +541,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Troy HS
 - Difficulty: Easy
 - Google Downloads: [https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view](https://drive.google.com/file/d/1sPRayHz74vLBL8KrQNO1JdAVzQQ2YpSB/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Titans_Lvl3_Win10.zip](https://practicevms.s3.us-east-1.amazonaws.com/Titans_Lvl3_Win10.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1Wof2Marm2rtcHmzzffWGwBAnoy14cvgu/view?usp=drive_link](https://drive.google.com/file/d/1Wof2Marm2rtcHmzzffWGwBAnoy14cvgu/view?usp=drive_link)
 - MD5 Checksum: `3ad26898b9cb9d1ddb55c1c33c2b515e`
 - Additional Info:
   - Credentials: unknown
@@ -557,7 +557,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Troy HS
 - Difficulty: Easy
 - Google Downloads: [https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link](https://drive.google.com/file/d/1mIWCB-dLjoGQO8XBqPOpwFo5nAuCo2Y9/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Round+2+Win10+PRACTICE.7z](https://practicevms.s3.us-east-1.amazonaws.com/Round+2+Win10+PRACTICE.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1wjaRRXqLuSMasoN9iGoat0ZzLE1j-MML/view?usp=drive_link](https://drive.google.com/file/d/1wjaRRXqLuSMasoN9iGoat0ZzLE1j-MML/view?usp=drive_link)
 - MD5 Checksum: `5037151f73c574f253af555a564dd80d`
 - Additional Info:
   - Credentials: unknown
@@ -624,7 +624,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Donkey (discord: d0nkeyman)
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1woYKSkHiBAZI92D2ihTE72LNLABaGtXv](https://drive.google.com/file/d/1woYKSkHiBAZI92D2ihTE72LNLABaGtXv)
-- Downloads: [https://drive.google.com/file/d/1kzTj4QWdmz2_mfgKJK_o9s41SyhQ9kkQ/view?usp=drive_link](https://drive.google.com/file/d/1kzTj4QWdmz2_mfgKJK_o9s41SyhQ9kkQ/view?usp=drive_link)
+- Alternative Downloads: [https://drive.google.com/file/d/1kzTj4QWdmz2_mfgKJK_o9s41SyhQ9kkQ/view?usp=drive_link](https://drive.google.com/file/d/1kzTj4QWdmz2_mfgKJK_o9s41SyhQ9kkQ/view?usp=drive_link)
 - MD5 Checksum: `4a357ecb1f78c593805cf733ac234074`
 - Additional Info:
   - Original Website: [https://cybervoid.tech/projects/baldi/](https://cybervoid.tech/projects/baldi/)
@@ -643,7 +643,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Donkey (discord: d0nkeyman)
 - Difficulty: Medium
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1Og8lIMVqGKKenFXTpWYhA8X-szXyRtcY/view?usp=share_link](https://drive.google.com/file/d/1Og8lIMVqGKKenFXTpWYhA8X-szXyRtcY/view?usp=share_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony.zip](https://practicevms.s3.us-east-1.amazonaws.com/My+Little+Pony.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1lOVU6RrAwMlk9QuKW7R7jHucgaa_1Bo8/view?usp=drive_link](https://drive.google.com/file/d/1lOVU6RrAwMlk9QuKW7R7jHucgaa_1Bo8/view?usp=drive_link)
 - MD5 Checksum: `efa2078baa34e6b356645aa2060adbb2`
 - Additional Info:
   - Original Website: https://cybervoid.tech/projects/mlp/
@@ -669,7 +669,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Adam Sakouk (discord: lolmenow)
 - Difficulty: Medium - Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1c1Zxr0AYk3gE_yUH_1vwxNETEmezvbBj/view?usp=sharing](https://drive.google.com/file/d/1c1Zxr0AYk3gE_yUH_1vwxNETEmezvbBj/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Policy+Violations+VM+-+ETHS.7z](https://practicevms.s3.us-east-1.amazonaws.com/Policy+Violations+VM+-+ETHS.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1mXRiP_db2BqQ6oSABQzMAEtMu5cxPZLL/view?usp=drive_link](https://drive.google.com/file/d/1mXRiP_db2BqQ6oSABQzMAEtMu5cxPZLL/view?usp=drive_link)
 - MD5 Checksum: `c424244a9c95433cb44c6b75fa19e642`
 - Additional Info:
   - Original Website: [https://sakouk.me/cyberpatriot#eths-cyber-squad-policy-violations-image](https://sakouk.me/cyberpatriot#eths-cyber-squad-policy-violations-image)
