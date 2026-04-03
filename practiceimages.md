@@ -853,11 +853,11 @@ Please make sure you download the newest version since older ones are known for 
 - Author: hypernova
 - Difficulty: Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view](https://drive.google.com/file/d/1EW3hsjZMM--UtoFJuYBVbAMhUwU4Z8gn/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/nevermore.zip](https://practicevms.s3.us-east-1.amazonaws.com/nevermore.zip)
+- Additional Downloads: [https://drive.google.com/file/d/15GTtFHmJR0LYHl8IMId_EufIy9SE1KZh/view?usp=drive_link](https://drive.google.com/file/d/15GTtFHmJR0LYHl8IMId_EufIy9SE1KZh/view?usp=drive_link)
 - MD5 Checksum: `a3cb68459992e7c85d626ba74ace300d`
 - Additional Info:
   - Credentials: waddams:password
-  - Answer Key: [https://scoreboard.titanturtles.xyz/files/Nevermore/Nevermore_Answers.pdf](https://scoreboard.titanturtles.xyz/files/Nevermore/Nevermore_Answers.pdf)
+  - Answer Key: [https://drive.google.com/file/d/1_SHjiDFpJO9c7bgb9aLk2yB89RshWpAK/view?usp=drive_link](https://drive.google.com/file/d/1_SHjiDFpJO9c7bgb9aLk2yB89RshWpAK/view?usp=drive_link)
  
 ---
 
