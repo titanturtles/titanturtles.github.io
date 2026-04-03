@@ -528,7 +528,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: carbonice 
 - Difficulty: H
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1Cs6egjX1yokZRGq8SmdLsHcgx0qwVl90/view](https://drive.google.com/file/d/1Cs6egjX1yokZRGq8SmdLsHcgx0qwVl90/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Lobotomy+Corporation+First+Trumpet.zip](https://practicevms.s3.us-east-1.amazonaws.com/Lobotomy+Corporation+First+Trumpet.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1vPYGxF4wUSJ2gmQopo7YEqragPebo5cd/view?usp=drive_link](https://drive.google.com/file/d/1vPYGxF4wUSJ2gmQopo7YEqragPebo5cd/view?usp=drive_link)
 - MD5 Checksum: `0bf3db3e3a91b506059dacccc519d686`
 - Additional Info:
   - Extraction Password: `DH8v@}z79yb2Az]@#U*VCna`
