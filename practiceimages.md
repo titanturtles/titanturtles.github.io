@@ -715,7 +715,7 @@ Please make sure you download the newest version since older ones are known for 
   - shiversoftdev	Engine Lead, Deployment, Theme
 - Difficulty: Intermediate
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1Eo6FIq9UfWtzyIso62FH9yJ922Kvj54T/view](https://drive.google.com/file/d/1Eo6FIq9UfWtzyIso62FH9yJ922Kvj54T/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Space+Force+Server.zip](https://practicevms.s3.us-east-1.amazonaws.com/Space+Force+Server.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1yVqvSJRoo-k7FYBn5wzwjBFUJ1wpXKVr/view?usp=drive_link](https://drive.google.com/file/d/1yVqvSJRoo-k7FYBn5wzwjBFUJ1wpXKVr/view?usp=drive_link)
 - MD5 Checksum: `adf0092872d27cef4f15eb7d7ef23916`
 - Additional Info:
   - Original Website: https://magistrate.shiversoft.net/
@@ -748,7 +748,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Eth007
 - Difficulty: Medium (Ethan claimed to be Easy, but we took with another grain of salt)
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1gyshPKjhQ2o907LQpwB_gq3BeqwmN2ko/view](https://drive.google.com/file/d/1gyshPKjhQ2o907LQpwB_gq3BeqwmN2ko/view)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/System+Hardening+7.zip](https://practicevms.s3.us-east-1.amazonaws.com/System+Hardening+7.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1ewD_bsBFpwWlGWX_FrEutRTaGwN8HUKH/view?usp=drive_link](https://drive.google.com/file/d/1ewD_bsBFpwWlGWX_FrEutRTaGwN8HUKH/view?usp=drive_link)
 - MD5 Checksum: `cf01b22ef0999ef975320cc39b7001f4`
 - Additional Info:
   - Original Website: https://eth007.me/blog/cypat/
@@ -763,7 +763,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: Eth007
 - Difficulty: Super Hard
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1pf11TRG9gh94x0wli3-tX3P4PlQhccmW/view?usp=drive_link](https://drive.google.com/file/d/1pf11TRG9gh94x0wli3-tX3P4PlQhccmW/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/System+Hardening+8.zip](https://practicevms.s3.us-east-1.amazonaws.com/System+Hardening+8.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1rvzWfVwA35R4JArtlv-tMbpWxvtxX-tU/view?usp=drive_link](https://drive.google.com/file/d/1rvzWfVwA35R4JArtlv-tMbpWxvtxX-tU/view?usp=drive_link)
 - MD5 Checksum: `9b002dcd1b895b8f2a0ce8e7db4d2ce6`
 - Additional Info:
   - Extraction Password; `DWygzjqtQIfsAvzZNbsv` 
@@ -795,7 +795,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: KaliPatriot
 - Difficulty: Medium
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view?usp=sharing](https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Ubuntu+18+Pre-semifinals+CPXV+Practice.zip](https://practicevms.s3.us-east-1.amazonaws.com/Ubuntu+18+Pre-semifinals+CPXV+Practice.zip)
+- Additional Downloads: [https://drive.google.com/file/d/13pMKNo5zyle4sMN21VO-nBom5VUMjzrI/view?usp=drive_link](https://drive.google.com/file/d/13pMKNo5zyle4sMN21VO-nBom5VUMjzrI/view?usp=drive_link)
 - MD5 Checksum: `edf4e95e9e7174874912b2f89e61bb29`
 - Additional Info:
   - Credential: User: `rio`, Password: `1L0vemoV13$` 
@@ -866,7 +866,7 @@ Please make sure you download the newest version since older ones are known for 
 - OS: UBUNTU 22
 - Author: FIREPONY57 + Eth007
 - Difficulty: Medium (but somewhat broken)
-- Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/system-hardening-10.zip](https://practicevms.s3.us-east-1.amazonaws.com/system-hardening-10.zip)
+- Downloads: [https://drive.google.com/file/d/1zCACiKGQ01pOv_0eQHYs5TMkUb6tUCQr/view?usp=drive_link](https://drive.google.com/file/d/1zCACiKGQ01pOv_0eQHYs5TMkUb6tUCQr/view?usp=drive_link)
 - MD5 Checksum: `2d70a3b32e2898614bcc773b43adc7f4`
 - Additional Info:
   - Readme: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md](https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md)
@@ -978,7 +978,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: fastanddanger2, bluepotato102 
 - Difficulty: Medium - Hard
 - Google Downloads: [https://drive.google.com/file/d/18mJ9lTTc8JR-jRz7eL1cqdJEKGrOFeCv/view?usp=sharing](https://drive.google.com/file/d/18mJ9lTTc8JR-jRz7eL1cqdJEKGrOFeCv/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/X-Men+Ubuntu+V1.zip](https://practicevms.s3.us-east-1.amazonaws.com/X-Men+Ubuntu+V1.zip)
+- Additional Downloads: [https://drive.google.com/file/d/13NkObjcW8QqL0NEnsVa6WI-B8q8V2Dkv/view?usp=drive_link](https://drive.google.com/file/d/13NkObjcW8QqL0NEnsVa6WI-B8q8V2Dkv/view?usp=drive_link)
 - MD5 Checksum: `90de99b73145734a1d06262a47ef4e6d`
 - Additional Info: Might be buggy for the Forensics
 
