@@ -385,7 +385,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: KaliPatriot
 - Difficulty: Medium
 - Google Downloads: (Preferred) [https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing](https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Windows+10+Practice.zip](https://practicevms.s3.us-east-1.amazonaws.com/Windows+10+Practice.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1L5VFOH1TjALk7pfv76hEBK8FDCdHe1Ko/view?usp=drive_link](https://drive.google.com/file/d/1L5VFOH1TjALk7pfv76hEBK8FDCdHe1Ko/view?usp=drive_link)
 - MD5 Checksum: `b6766f74112b8c63f201daf400ff4e0d`
 - Additional Info:
 
