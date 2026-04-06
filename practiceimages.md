@@ -111,6 +111,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [MODULES 1 TO 13](#modules-1-to-13)
 * [MHS CANCELLED TRY OUT](#mhs-cancelled-try-out)
 * [HELIOS](#helios)
+* [BABY_STEPS](#baby-steps)
 
 ---
 
@@ -1401,6 +1402,30 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - MD5 Checksum:
   - `HeliosUnclustered.pkt: 2eecd7efac0a69b8231eec12f45144f8`
   - `HeliosServer.pkt: f9b9181e71502d181a77e2466267f842`
+
+---
+
+### BABY STEPS
+
+- Name: Baby Steps
+- TYPE: Cisco Packet Tracer Activity
+- Author: StageKing
+- Difficulty: Easy
+- Original Downloads: [https://cdn.discordapp.com/attachments/1489771064274845729/1489771065583337612/BabyStepsCisco.pka?ex=69d4ecac&is=69d39b2c&hm=349900d8dceaf48543d8835da864f8ee7d86acf82fbbb74916372b955c80a1a8&](https://cdn.discordapp.com/attachments/1489771064274845729/1489771065583337612/BabyStepsCisco.pka?ex=69d4ecac&is=69d39b2c&hm=349900d8dceaf48543d8835da864f8ee7d86acf82fbbb74916372b955c80a1a8&)
+- Additional Downloads: [https://drive.google.com/file/d/1lB1Sh9BrwruTmZbC0Dfs8yKMp8t4y7RE/view?usp=drive_link](https://drive.google.com/file/d/1lB1Sh9BrwruTmZbC0Dfs8yKMp8t4y7RE/view?usp=drive_link)
+- MD5 Checksum: `0f30beabca66e5ddd2077f85b4f0f2f3`
+
+---
+
+### PIXYSTEMS
+
+- Name: Pixystems
+- TYPE: Cisco Packet Tracer Activity
+- Author: AntryCat
+- Difficulty: Easy
+- Original Downloads: [https://cdn.discordapp.com/attachments/1472089862621495326/1472089863011438672/Pixystems.pka?ex=69d53345&is=69d3e1c5&hm=623ce1ce8b35e0aca3e0d32b4e92b7923630dd21af04e08733081b5bb89175ab&](https://cdn.discordapp.com/attachments/1472089862621495326/1472089863011438672/Pixystems.pka?ex=69d53345&is=69d3e1c5&hm=623ce1ce8b35e0aca3e0d32b4e92b7923630dd21af04e08733081b5bb89175ab&)
+- Additional Downloads: [https://drive.google.com/file/d/1C5Uc7cN47kp1zF2YAm-aUO9AIJiIYItk/view?usp=drive_link](https://drive.google.com/file/d/1C5Uc7cN47kp1zF2YAm-aUO9AIJiIYItk/view?usp=drive_link)
+- MD5 Checksum: `35524adee9542096f4e88c2d59c8e10`
 
 ---
 
