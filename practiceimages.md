@@ -736,9 +736,9 @@ Please make sure you download the newest version since older ones are known for 
 - Additional Downloads: [https://drive.google.com/file/d/1odFY8VefTsaYPVqVbo9ZSJ309bgbEK_F/view?usp=drive_link](https://drive.google.com/file/d/1odFY8VefTsaYPVqVbo9ZSJ309bgbEK_F/view?usp=drive_link)
 - MD5 Checksum: `ce79cf10ceda1957aadff3f9c1a1642b`
 - Additional Info:
-  - Original Website: https://eth007.me/blog/cypat/
+  - Original Website: [https://eth007.me/blog/projects/](https://eth007.me/blog/projects/)
   - Credentials: lucy:Pa$$w0rd10
-  - Readme Copy: [https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20System%20Hardening%206%20Readme.pdf](https://scoreboard.titanturtles.xyz/files/NarniaMinecraftServer/Narnia%20System%20Hardening%206%20Readme.pdf)
+  - Readme Copy: [https://drive.google.com/file/d/19xv2FtHSJQjf_rnRDb6t-GNdlazf5WF7/view?usp=drive_link](https://drive.google.com/file/d/19xv2FtHSJQjf_rnRDb6t-GNdlazf5WF7/view?usp=drive_link)
 
 ---
 
@@ -869,7 +869,7 @@ Please make sure you download the newest version since older ones are known for 
 - Downloads: [https://drive.google.com/file/d/1zCACiKGQ01pOv_0eQHYs5TMkUb6tUCQr/view?usp=drive_link](https://drive.google.com/file/d/1zCACiKGQ01pOv_0eQHYs5TMkUb6tUCQr/view?usp=drive_link)
 - MD5 Checksum: `2d70a3b32e2898614bcc773b43adc7f4`
 - Additional Info:
-  - Readme: [https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md](https://scoreboard.titanturtles.xyz/files/SystemHardening10/README.md)
+  - Info and Fix: [https://docs.google.com/document/d/1X8lZ0ymlF_HGtSDXA1qyeW_F0hYekdFOuRp1NKrNhSc/edit?usp=sharing](https://docs.google.com/document/d/1X8lZ0ymlF_HGtSDXA1qyeW_F0hYekdFOuRp1NKrNhSc/edit?usp=sharing)
  
 ---
 
@@ -888,7 +888,7 @@ Please make sure you download the newest version since older ones are known for 
   - Original Website: [https://www.mobmaker.xyz/cypat-images](https://www.mobmaker.xyz/cypat-images)
   - Answer Key:
     - Download: [https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing](https://drive.google.com/file/d/15bA9T38Lq7FYhLNJM2CkNV3hUXaga9WL/view?usp=sharing)
-    - Additional Download: [https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf](https://scoreboard.titanturtles.xyz/files/BloonsTD6/0-Debian10-BloonsTD6.pdf)
+    - Additional Download: [https://drive.google.com/file/d/1uYZsaEUfLsZU-e_eS1paeoBgAcaWn7Ou/view?usp=drive_link](https://drive.google.com/file/d/1uYZsaEUfLsZU-e_eS1paeoBgAcaWn7Ou/view?usp=drive_link)
 
 ---
 
@@ -1115,7 +1115,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Hard?
 - Google Downloads: [https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link](https://drive.google.com/file/d/1Lcto3IiZkmKst3zcR7Iu4zlHrhAmJ5oe/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip](https://scoreboard.titanturtles.xyz/files/Round3Practice/Round3%20Practice%20Image.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1eic9-sOiOoytZc65dEQNMQaSSfktZKe1/view?usp=drive_link](https://drive.google.com/file/d/1eic9-sOiOoytZc65dEQNMQaSSfktZKe1/view?usp=drive_link)
 - MD5 Checksum: `b8a74dfe76a1a38bdb9f985e858a7a84`
 - Additional Info:
   - Credentials: auto login
@@ -1129,7 +1129,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Hard?
 - Google Downloads: [https://drive.google.com/file/d/1YeIwSb9_9orbohF4Xp7TcBHoOR92fth8/view?usp=drive_link](https://drive.google.com/file/d/1YeIwSb9_9orbohF4Xp7TcBHoOR92fth8/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/R3/R3.7z](https://scoreboard.titanturtles.xyz/files/R3/R3.7z)
+- Additional Downloads: [https://drive.google.com/file/d/1eic9-sOiOoytZc65dEQNMQaSSfktZKe1/view?usp=drive_link](https://drive.google.com/file/d/1eic9-sOiOoytZc65dEQNMQaSSfktZKe1/view?usp=drive_link)
 - MD5 Checksum: `6bcc28711d497b926e501a01d09852a4`
 - Additional Info:
   - Credentials:
