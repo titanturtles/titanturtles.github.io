@@ -1159,7 +1159,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: Troy HS
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1cz__cXoMFg2az92gEexMyT92rpSMk4aP/view?usp=drive_link](https://drive.google.com/file/d/1cz__cXoMFg2az92gEexMyT92rpSMk4aP/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip](https://scoreboard.titanturtles.xyz/files/CyberInTheSky/Copy%20of%20Cyber%20in%20the%20Sky.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1FKLZQjvvYXzvD5TLBQAJ3qAnETjk3lnR/view?usp=drive_link](https://drive.google.com/file/d/1FKLZQjvvYXzvD5TLBQAJ3qAnETjk3lnR/view?usp=drive_link)
 - MD5 Checksum: `63499540d1a746762641d57df1e5b7ac`
 - Additional Info:
   - Credentials:
@@ -1272,7 +1272,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: @toasty (mónicà) @crescental_
 - Difficulty: Unknown
 - Discord Downloads: [https://discord.com/channels/301768361136750592/1058312750905954397/1190846581772132461](https://discord.com/channels/301768361136750592/1058312750905954397/1190846581772132461)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/bdsm/Final_R3_BDSM.pka](https://scoreboard.titanturtles.xyz/files/cisco/bdsm/Final_R3_BDSM.pka)
+- Additional Downloads: [https://drive.google.com/file/d/1wdpYKd9cmird_AZVNyZEo-S-ElMkOgxJ/view?usp=drive_link](https://drive.google.com/file/d/1wdpYKd9cmird_AZVNyZEo-S-ElMkOgxJ/view?usp=drive_link)
 - MD5 Checksum: `80fafcdad0dc537d6061fb410873c08c`
 
 ---
@@ -1286,7 +1286,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: noobfooditem123
 - Difficulty: Unknown
 - Discord Downloads: [https://discord.com/channels/301768361136750592/473972728890916865/1353391932973252741](https://discord.com/channels/301768361136750592/473972728890916865/1353391932973252741)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/nationalemulatortemplate/NationalsEmulatorTemplate.pka](https://scoreboard.titanturtles.xyz/files/cisco/nationalemulatortemplate/NationalsEmulatorTemplate.pka)
+- Additional Downloads: [https://drive.google.com/file/d/1U5mb_n_7_nH-9BoYOQ-1fRR_ubJLiDVw/view?usp=drive_link](https://drive.google.com/file/d/1U5mb_n_7_nH-9BoYOQ-1fRR_ubJLiDVw/view?usp=drive_link)
 - MD5 Checksum: `39b3a544cf6389c8a92a16a1ea84bfdb`
 
 ---
@@ -1301,9 +1301,9 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: [Oklahoma Cup](https://www.okcup.info/)
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1Qy-oZx8F-jvvEfYJ0_i0kX3wCvmshXsY/view?usp=drive_link](https://drive.google.com/file/d/1Qy-oZx8F-jvvEfYJ0_i0kX3wCvmshXsY/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPT.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPT.pka)
+- Additional Downloads: [https://drive.google.com/file/d/1CNM3pAFH7MCFGVzMzJA7XwIa6Svncw4j/view?usp=drive_link](https://drive.google.com/file/d/1CNM3pAFH7MCFGVzMzJA7XwIa6Svncw4j/view?usp=drive_link)
 - MD5 Checksum: `a79572521f9df3ba507a5d1a02c34b10`
-- Unlocked Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPTUNLOCKED.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R2_OKCUP_24_25_CiscoPTUNLOCKED.pka)
+- Unlocked Downloads: [https://drive.google.com/file/d/1kTPrnz0V9EPG31mri78GkOTMXvBG-hdv/view?usp=drive_link](https://drive.google.com/file/d/1kTPrnz0V9EPG31mri78GkOTMXvBG-hdv/view?usp=drive_link)
 - MD5 Checksum: `417af27c952acc9cf1d0ad510250a530`
 
 ---
@@ -1318,7 +1318,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: [Oklahoma Cup](https://www.okcup.info/)
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/18y8PBfuA_dF9tmlhD6-_CjSaIJESHVnM/view?usp=drive_link](https://drive.google.com/file/d/18y8PBfuA_dF9tmlhD6-_CjSaIJESHVnM/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R3_OKCUP_23_24_CiscoPT.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R3_OKCUP_23_24_CiscoPT.pka)
+- Additional Downloads: [https://drive.google.com/file/d/1AxNk_A0aU_qJL72ez80rpAiOWrYckOt9/view?usp=drive_link](https://drive.google.com/file/d/1AxNk_A0aU_qJL72ez80rpAiOWrYckOt9/view?usp=drive_link)
 - MD5 Checksum: `d167dfe6f9e06219e15f33791b7449ed`
 
 ---
@@ -1333,7 +1333,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: [Oklahoma Cup](https://www.okcup.info/)
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1QbC1NRSNZ26EBlEQnee0LjSrBW-SW2fu/view?usp=drive_link](https://drive.google.com/file/d/1QbC1NRSNZ26EBlEQnee0LjSrBW-SW2fu/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/okcup/R3_OKCUP_24_25_CiscoPT.pka](https://scoreboard.titanturtles.xyz/files/cisco/okcup/R3_OKCUP_24_25_CiscoPT.pka)
+- Additional Downloads: [https://drive.google.com/file/d/1fPzkfcfeNpeRtygmk2kCIkUTBwilxkE0/view?usp=drive_link](https://drive.google.com/file/d/1fPzkfcfeNpeRtygmk2kCIkUTBwilxkE0/view?usp=drive_link)
 - MD5 Checksum: `a4c5e58d706ce2ebb8cf86ec11a3951d`
 
 ---
@@ -1348,7 +1348,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: Jeremy IT Lab
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1WsLlEmMS38Zfq0AOg3fq3TZmTX7sSPMz/view?usp=drive_link](https://drive.google.com/file/d/1WsLlEmMS38Zfq0AOg3fq3TZmTX7sSPMz/view?usp=drive_link)
-- Additional Downloads: [https://scoreboard.titanturtles.xyz/files/cisco/ccnamegalab/CCNA-Mega-Lab.pka](https://scoreboard.titanturtles.xyz/files/cisco/ccnamegalab/CCNA-Mega-Lab.pka)
+- Additional Downloads: [https://drive.google.com/file/d/1atKF94lMEEw0CUbCYVWXOra1DKrtlJxU/view?usp=drive_link](https://drive.google.com/file/d/1atKF94lMEEw0CUbCYVWXOra1DKrtlJxU/view?usp=drive_link)
 - MD5 Checksum: `ac8ee69f8289195719a489620707d9a8`
 - Walk through: https://www.youtube.com/watch?v=2p7-MluKAgE&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=126
 
