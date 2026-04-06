@@ -1364,7 +1364,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: noobfooditem123
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1NOZvFVst0RhbQuH18WS8P_t8mRubvTgf/view?usp=drive_link](https://drive.google.com/file/d/1NOZvFVst0RhbQuH18WS8P_t8mRubvTgf/view?usp=drive_link)
-- Additional Downloads: [[https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka](https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka)]([https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka](https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka))
+- Additional Downloads: [https://drive.google.com/file/d/1Qj13AfPe7EC3RzP0h1vybRrHbBTEOehw/view?usp=drive_link](https://drive.google.com/file/d/1Qj13AfPe7EC3RzP0h1vybRrHbBTEOehw/view?usp=drive_link)
 - MD5 Checksum: `88df768da29883d02a5de7053fdaeb87`
 
 ---
@@ -1396,8 +1396,8 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: noobfooditem123
 - Difficulty: Unknown
 - AWS Downloads:
-  - [https://practicevms.s3.us-east-1.amazonaws.com/HeliosUnclustered.pkt](https://practicevms.s3.us-east-1.amazonaws.com/HeliosUnclustered.pkt)
-  - [https://practicevms.s3.us-east-1.amazonaws.com/HeliosServer.pkt](https://practicevms.s3.us-east-1.amazonaws.com/HeliosServer.pkt)
+  - [https://drive.google.com/file/d/1iBaFqKySetjwCm5sITTAB57Ajk10st5A/view?usp=drive_link](https://drive.google.com/file/d/1iBaFqKySetjwCm5sITTAB57Ajk10st5A/view?usp=drive_link)
+  - [https://drive.google.com/file/d/1yT9oxKfyaZMXog8skRzV5aWNUnaqv9zY/view?usp=drive_link](https://drive.google.com/file/d/1yT9oxKfyaZMXog8skRzV5aWNUnaqv9zY/view?usp=drive_link)
 - MD5 Checksum:
   - `HeliosUnclustered.pkt: 2eecd7efac0a69b8231eec12f45144f8`
   - `HeliosServer.pkt: f9b9181e71502d181a77e2466267f842`
