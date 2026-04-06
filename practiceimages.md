@@ -120,14 +120,14 @@ Please make sure you download the newest version since older ones are known for 
     - You need to create a free account to download free VMware software 
     - Link: [https://support.broadcom.com/](https://support.broadcom.com/) 
   - Windows:
-    - VMware Workstation Pro 17.6.4
-    - Link: [https://practicevms.s3.us-east-1.amazonaws.com/VMware-workstation-full-17.6.4-24832109.exe](https://practicevms.s3.us-east-1.amazonaws.com/VMware-workstation-full-17.6.4-24832109.exe)
+    - VMware Workstation Pro 25H2u1
+    - Link: [https://drive.google.com/file/d/10VBftDFas_XkfHkWGioAP5zu3IbzWNVl/view?usp=drive_link](https://drive.google.com/file/d/10VBftDFas_XkfHkWGioAP5zu3IbzWNVl/view?usp=drive_link)
   - Linux:
-    - VMware Workstatino Pro 17.6.4
-    - Link: [https://practicevms.s3.us-east-1.amazonaws.com/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle](https://practicevms.s3.us-east-1.amazonaws.com/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle)
+    - VMware Workstatino Pro 25H2u1
+    - Link: [https://drive.google.com/file/d/1Ioe_bJOSMKgEcQzvfqhhICuHrorF2vfI/view?usp=drive_link](https://drive.google.com/file/d/1Ioe_bJOSMKgEcQzvfqhhICuHrorF2vfI/view?usp=drive_link)
   - MacOS:
-    - VMware Fusion 13.6.4
-    - Link: [https://practicevms.s3.us-east-1.amazonaws.com/VMware-Fusion-13.6.4-24832108_universal.dmg](https://practicevms.s3.us-east-1.amazonaws.com/VMware-Fusion-13.6.4-24832108_universal.dmg)
+    - VMware Fusion 25H2u1
+    - Link: [https://drive.google.com/file/d/1e3FMVCprxUU6MhBX17hPA4o5oha6NbZk/view?usp=drive_link](https://drive.google.com/file/d/1e3FMVCprxUU6MhBX17hPA4o5oha6NbZk/view?usp=drive_link)
 
 ---
 
@@ -138,7 +138,7 @@ Please make sure you download the newest version since older ones are known for 
 ---
 
 ### Packet Tracer
-  - Windows: [https://practicevms.s3.us-east-1.amazonaws.com/Packet_Tracer822_64bit_setup_signed.exe](https://practicevms.s3.us-east-1.amazonaws.com/Packet_Tracer822_64bit_setup_signed.exe)
+  - Windows: [https://drive.google.com/file/d/112ZdBzFSAMxX8CfffUgjFymy5qdUNnSi/view?usp=drive_link](https://drive.google.com/file/d/112ZdBzFSAMxX8CfffUgjFymy5qdUNnSi/view?usp=drive_link)
 
 ---
 
