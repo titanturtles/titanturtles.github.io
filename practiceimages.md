@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [ba](./legend.html) | **Practice Images** 
-t
+
 # Practice Images
 
 **Disclaimer:** We share these images just to make it easier for people to use them. We appreciate the works of the original authors. If you think there is a copyright infringement, feel free to contact us. We will act accordingly.
@@ -1178,7 +1178,7 @@ First player to score 100 on both images will receive Discord Nitro for one mont
 - Author: shubuntu, prilasey
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1dQfLPgzDq-iaXBCNLLrgDsWxYtpTWbDP/view?usp=drive_link](https://drive.google.com/file/d/1dQfLPgzDq-iaXBCNLLrgDsWxYtpTWbDP/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/syshardening11.zip](https://practicevms.s3.us-east-1.amazonaws.com/syshardening11.zip)
+- Additional Downloads: [https://drive.google.com/file/d/1OX738tupivEDUXg4jA2V3vlVHFhBZI0J/view?usp=drive_link](https://drive.google.com/file/d/1OX738tupivEDUXg4jA2V3vlVHFhBZI0J/view?usp=drive_link)
 - MD5 Checksum: `416fca601ce8f237bbd7f21d9bb238ce`
 - Additional Info:
   - Credentials:
@@ -1364,7 +1364,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: noobfooditem123
 - Difficulty: Unknown
 - Google Downloads: [https://drive.google.com/file/d/1NOZvFVst0RhbQuH18WS8P_t8mRubvTgf/view?usp=drive_link](https://drive.google.com/file/d/1NOZvFVst0RhbQuH18WS8P_t8mRubvTgf/view?usp=drive_link)
-- Additional Downloads: [https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka](https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka)
+- Additional Downloads: [[https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka](https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka)]([https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka](https://practicevms.s3.us-east-1.amazonaws.com/Modules_1-13_Image.pka))
 - MD5 Checksum: `88df768da29883d02a5de7053fdaeb87`
 
 ---
@@ -1378,9 +1378,9 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: a_person
 - Difficulty: Unknown
 - Downloads:
-  - [https://practicevms.s3.us-east-1.amazonaws.com/ak.pkt](https://practicevms.s3.us-east-1.amazonaws.com/ak.pkt)
-  - [https://practicevms.s3.us-east-1.amazonaws.com/initial.pkt](https://practicevms.s3.us-east-1.amazonaws.com/initial.pkt)
-  - [https://practicevms.s3.us-east-1.amazonaws.com/mhscyberpatriotpractice.pka](https://practicevms.s3.us-east-1.amazonaws.com/mhscyberpatriotpractice.pka)
+  - [https://drive.google.com/file/d/13v_HUaWEKtzAnql2D5YYpECk4bkOMVi8/view?usp=drive_link](https://drive.google.com/file/d/13v_HUaWEKtzAnql2D5YYpECk4bkOMVi8/view?usp=drive_link)
+  - [https://drive.google.com/file/d/1SltXOH18ydJaSBPf6wMEIntk91fMov8t/view?usp=drive_link](https://drive.google.com/file/d/1SltXOH18ydJaSBPf6wMEIntk91fMov8t/view?usp=drive_link)
+  - [https://drive.google.com/file/d/14E9T803Up1XStBxmzYNEf_PRyArv0SuF/view?usp=drive_link](https://drive.google.com/file/d/14E9T803Up1XStBxmzYNEf_PRyArv0SuF/view?usp=drive_link)
 
 ---
 
