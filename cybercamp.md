@@ -13,7 +13,8 @@ We are collaborating with Sunshine Elite Education to provide AFA CyberPatriot C
 
 ## Register:
 
-Registration for AFA certified CyberCamp 2026 is coming
+Click the following link at Sunshine Elite Education website to register:
+[https://www.sunshineeliteeducation.com/course.php?term=87&filter_title=cyberpatriot](https://www.sunshineeliteeducation.com/course.php?term=87&filter_title=cyberpatriot)
 
 * * *
 
@@ -30,14 +31,6 @@ Lunch break: 11:30am to 12:15pm (PDT)
 ## Location:
 
 Online: Zoom Meeting
-
-* * *
-
-## Cost for the camp:
-
-Through Sunshine Elite Education (will be posted very soon)
-
-(Students with financial difficulties can apply for scholarship.)
 
 * * *
 
