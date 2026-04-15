@@ -140,4 +140,4 @@ Writing History:
 
 - <code style="color : gold">Five Consecutive State Champions</code> - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18)
 
-- Middle School State Champion Team Debut Semifinals National Rank #7 - (CP18)
+- Middle School State Champion Team Debut - <code style="color : lightskyblue">Semifinals National Rank #7</code> - (CP18)
