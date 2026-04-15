@@ -119,9 +119,9 @@ layout: default
 
 
 ## <code style="color : gold">History</code>
-Our Team Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
+Our Club Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
 
-We are CyberPatriot competition teams TitanTurtles, TitanTortoises, TitanWugui, TitanTortugas, and TitanTartarugas. 
+We are CyberPatriot competition teams TitanTurtles, TitanTortoises, TitanWugui, TitanTortugas, TitanTartarugas, and TitanKame.
 
 Writing History:
 - <code style="color : gold">National Champion</code> (OPEN DIVISION) - **CyberPatriot 18 National Finals**
@@ -138,6 +138,6 @@ Writing History:
 
 - (OPEN Division, Platinum Tier) <code style="color : lightskyblue">Semifinals National Rank #5</code> - (CPXVI)
 
-- <code style="color : gold">5 Consecutive State Champions</code> - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18)
+- <code style="color : gold">Five Consecutive State Champions</code> - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18)
 
-- Middle School Team Debut - National Rank #7 (Semifinals) - Oregon Rank #1 (Middle School Division)
+- Middle School State Champion Team Debut Semifinals National Rank #7 - (CP18)
