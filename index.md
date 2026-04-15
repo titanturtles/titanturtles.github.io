@@ -13,9 +13,9 @@ We are Cybersecurity competition team TitanTurtles. Our main competition is [Cyb
 
 Our team members are Middle school and High school students. We are located at Portland, Oregon. We are associated with Sunshine Elite Education. We welcome all middle school and high school students who are interested in learning computer and internet. We are also partnered with the Westview Cybersecurity club: [westview.titanturtles.org](https://westview.titanturtles.org)
 
-In the CyberPatriot competition, our team won the Oregon State Championship in the High School Open Division Platinum Tier —the top tier— for five consecutive seasons: 2021–2022 (CPXIV), 2022–2023 (CPXV), 2023–2024 (CPXVI), 2024–2025 (CP17), and 2025-2026 (CP18). 
+In the CyberPatriot competition, our team won the <code style="color : gold">Oregon State Championship</code> in the High School Open Division Platinum Tier —the top tier— for five consecutive seasons: 2021–2022 (CPXIV), 2022–2023 (CPXV), 2023–2024 (CPXVI), 2024–2025 (CP17), and 2025-2026 (CP18). 
 
-Our Team TitanTurtles also advanced to the National Finals in the Open Division for three consecutive seasons (_2023-2024 (CPXVI), 2024-2025 (CP17), and 2025-2026 (CP18)_) being the only Oregon team to do so. In the past 2023-2024 (CPXVI) and 2024-2025 (CP17) National Finals, team TitanTurtles placed 4th and <code style="color : darkorange">3rd in the nation</code>, respectively. In the recent 2025-2026 (CP18) season, our team TitanTurtles was crowned <code style="color : gold">Open Division National Champion</code> and received the <code style="color : gold">Open Division Cisco National Champion</code> Award at the CyberPatriot 18 National Finals. 
+Our Team TitanTurtles also advanced to the <code style="color : green">National Finals</code> in the Open Division for three consecutive seasons (_2023-2024 (CPXVI), 2024-2025 (CP17), and 2025-2026 (CP18)_) being the only Oregon team to do so. In the past 2023-2024 (CPXVI) and 2024-2025 (CP17) National Finals, team TitanTurtles placed 4th and <code style="color : darkorange">3rd in the nation</code>, respectively. In the recent 2025-2026 (CP18) season, our team TitanTurtles was crowned <code style="color : gold">Open Division National Champion</code> and received the <code style="color : gold">Open Division Cisco National Champion</code> Award at the CyberPatriot 18 National Finals. 
 
 * We learn Linux, Windows, Network and much more.
 * We learn programming.
@@ -32,11 +32,11 @@ Our Team TitanTurtles also advanced to the National Finals in the Open Division 
 
 * * *
 
-# The TitanTurtles Team is crowned National Champion at the CyberPatriot 18 National Finals (OPEN Division)
+# The TitanTurtles Team is crowned <code style="color : gold">National Champion</code> at the CyberPatriot 18 National Finals (OPEN Division)
 
 ![cp18champion](assets/images/CP18NatChamp.jpg)
 
-# The TitanTurtles Team is crowned the Cisco National Champion at the CyberPatriot 18 National Finals (OPEN Division)
+# The TitanTurtles Team is crowned the <code style="color : gold">Cisco National Champion</code> at the CyberPatriot 18 National Finals (OPEN Division)
 
 ![cp18ciscochampion](assets/images/CP18CiscoAward.jpg)
 
