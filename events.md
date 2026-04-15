@@ -139,3 +139,5 @@ Writing History:
 - (OPEN Division, Platinum Tier) <code style="color : lightskyblue">Semifinals National Rank #5</code> - (CPXVI)
 
 - <code style="color : gold">5 Consecutive State Champions</code> - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18)
+
+- Middle School Team Debut - National Rank #7 (Semifinals) - Oregon Rank #1 (Middle School Division)
