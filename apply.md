@@ -23,7 +23,7 @@ Sunshine Elite Education\
 
 # Applications:
 
-Comming soon...
+Click Here: [https://www.sunshineeliteeducation.com/course.php?term=88&filter_title=CyberPatriot](https://www.sunshineeliteeducation.com/course.php?term=88&filter_title=CyberPatriot)
 
 ## Introduction
 
