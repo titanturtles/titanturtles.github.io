@@ -39,29 +39,37 @@ TitanTurtles Club Teams Past Achievements
 
 2025-2026
 
-* [CyberPatriot CP18 National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx) - <code style='color : gold'>#1 in the Nation</code>
+* [CyberPatriot CP18 National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx) - <code style='color : gold'>National Champion (#1/5000~)</code>
 
-* [CyberPatriot CP18 Cisco National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx) - <code style='color : gold'>#1 in the Nation</code> (Cisco)
+* [CyberPatriot CP18 Cisco National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Competition/Season%20History/CyberPatriot-18.aspx) - <code style='color : gold'>Cisco National Champion</code>
+
+* Cyberpatriot 18 Open Division Platinum Tier Semifinals Round - **National Rank #2**
 
 * **CyberPatriot 18 National Finals Champion (#1/5000~)**
 
 * CyberPatriot Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
+* picoCTF2026 US MS division Ranked #5 - *The CTF Smashers* (team)
+
+* picoCTF2026 JP Ranked #4 - *chillyblue* (solo)
+
+* picoCTF2026 Global Ranked #15 - *chillyblue* (solo)
+
 2024-2025
 
 * CyberPatriot Mentor Of the Year Award 2025
 
-* [CyberPatriot CP17 National Final 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
+* [CyberPatriot CP17 National Finals 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
   
-* CyberPatriot CP17 Open Division Platinum Tier Semifinals Round - **National Rank #2**
+* CyberPatriot 17 Open Division Platinum Tier Semifinals Round - **National Rank #2**
   
-* CyberPatriot CP17 Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
+* CyberPatriot 17 Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
 2023-2024
 
-* [CyberPatriot National Final 4th Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-XVI-National-Finals-Competition.aspx)
+* [CyberPatriot XVI National Finals 4th Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-XVI-National-Finals-Competition.aspx)
 
-* CyberPatriot Open Division Platinum Tier Semifinals Round - **National Rank #5**
+* CyberPatriot XVI Open Division Platinum Tier Semifinals Round - **National Rank #5**
 
 * [CP Discord Open No.4](https://discord.com/cyberpatriot)
 
