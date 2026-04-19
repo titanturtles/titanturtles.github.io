@@ -65,6 +65,8 @@ TitanTurtles Club Teams Past Achievements
   
 * CyberPatriot 17 Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
+* picoCTF2025 JP Ranked #12 - *chillyblue* (solo)
+
 2023-2024
 
 * [CyberPatriot XVI National Finals 4th Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-XVI-National-Finals-Competition.aspx)
