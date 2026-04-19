@@ -80,6 +80,8 @@ TitanTurtles Club Teams Past Achievements
 * [2024 GeorgeFox HS Division 1 Programming Contest No. 1](https://cs.georgefox.edu/hs_contest/)
           
 * [2023 picoCTF US HS division No. 15 ](https://play.picoctf.org/events/72/scoreboards#2595)
+
+* picoCTF2024 JP Ranked #14 - *chillyblue* (solo)
           
 2022-2023
 
