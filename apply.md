@@ -39,13 +39,11 @@ TitanTurtles Club Teams Past Achievements
 
 2025-2026
 
-* [CyberPatriot CP18 National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx) - <code style='color : gold'>National Champion (#1/5000~)</code>
+* [CyberPatriot 18 National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-18-Winners.aspx) - <code style='color : gold'>National Champion (#1/5000~)</code>
 
-* [CyberPatriot CP18 Cisco National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Competition/Season%20History/CyberPatriot-18.aspx) - <code style='color : gold'>Cisco National Champion</code>
+* [CyberPatriot 18 Cisco National Champion (OPEN Division)](https://www.uscyberpatriot.org/Pages/Competition/Season%20History/CyberPatriot-18.aspx) - <code style='color : gold'>Cisco National Champion</code>
 
 * Cyberpatriot 18 Open Division Platinum Tier Semifinals Round - **National Rank #2**
-
-* **CyberPatriot 18 National Finals Champion (#1/5000~)**
 
 * CyberPatriot Open Division Platinum Tier State Round - #1, #2, #3 (TitanTurtles Club Teams)
 
@@ -59,7 +57,7 @@ TitanTurtles Club Teams Past Achievements
 
 * CyberPatriot Mentor Of the Year Award 2025
 
-* [CyberPatriot CP17 National Finals 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
+* [CyberPatriot 17 National Finals 3rd Place](https://www.uscyberpatriot.org/Pages/Announcements/CyberPatriot-17.aspx)
   
 * CyberPatriot 17 Open Division Platinum Tier Semifinals Round - **National Rank #2**
   
