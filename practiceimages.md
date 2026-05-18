@@ -1271,7 +1271,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: Snow
 - Difficulty: Super Hard
 - Google Downloads: [https://drive.google.com/file/d/1NPcR_uo73NvqtaC8ebIU19xTrIu4w0eB](https://drive.google.com/file/d/1NPcR_uo73NvqtaC8ebIU19xTrIu4w0eB)
-- Additional Downloads: [https://drive.google.com/file/d/1WrsyjWD7SYMj6ELlQsMTdHDkN4POXDpt/view?usp=sharing]([v](https://drive.google.com/file/d/1WrsyjWD7SYMj6ELlQsMTdHDkN4POXDpt/view?usp=sharing))
+- Additional Downloads: [https://drive.google.com/file/d/1WrsyjWD7SYMj6ELlQsMTdHDkN4POXDpt/view?usp=sharing](https://drive.google.com/file/d/1WrsyjWD7SYMj6ELlQsMTdHDkN4POXDpt/view?usp=sharing)
 - MD5 Checksum: `ca80007ccd012199309c4a99ad6ac6df`
 - Additional Info:)
   - Credentials:
