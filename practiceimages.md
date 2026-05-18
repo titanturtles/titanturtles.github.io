@@ -97,6 +97,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [TOTORO'S STUDIO: MINT 22, H](#totoros-studio)
 * [BOTFORGE: MINT 22, SH](#botforge)
 * [ONE BARLINE: MINT 21, F](#one-barline)
+* [POTATO_KINGDOM: MINT 21, SH](#potato-kingdom)
 
 ---
 
@@ -1263,6 +1264,21 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 
 ---
 
+### POTATO KINGDOM
+
+- Name: POTATO KINGDOM
+- OS: MINT 21
+- Author: Snow
+- Difficulty: Super Hard
+- Google Downloads: [https://drive.google.com/file/d/1NPcR_uo73NvqtaC8ebIU19xTrIu4w0eB](https://drive.google.com/file/d/1NPcR_uo73NvqtaC8ebIU19xTrIu4w0eB)
+- Additional Downloads: [https://drive.google.com/file/d/1WrsyjWD7SYMj6ELlQsMTdHDkN4POXDpt/view?usp=sharing]([v](https://drive.google.com/file/d/1WrsyjWD7SYMj6ELlQsMTdHDkN4POXDpt/view?usp=sharing))
+- MD5 Checksum: `ca80007ccd012199309c4a99ad6ac6df`
+- Additional Info:)
+  - Credentials:
+    - User: `puhtahto`
+    - Password: `potato`
+
+---
 
 
 ### FINAL R3 BDSM
