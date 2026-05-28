@@ -65,7 +65,7 @@ Instagram: [https://www.instagram.com/p/C8Awc2kSzeM/?hl=en&img_index=1](https://
 
 **Ashton Jiang**
 
-<img width="600" alt="IMG_5315" src="https://github.com/user-attachments/assets/39362ddc-e89d-46d7-9d2c-887a09416a01" />
+<img width="600" height="600" style="object-fit: cover; object-position: top;" alt="IMG_5315" src="https://github.com/user-attachments/assets/39362ddc-e89d-46d7-9d2c-887a09416a01" />
 <p>
 <img width="195" height="195" style="object-fit: cover;" alt="IMG_8005" src="https://github.com/user-attachments/assets/e8ea05b9-d11d-4e23-a1bf-be04ede42332" />
 <img width="195" height="195" style="object-fit: cover;" alt="IMG_6736" src="https://github.com/user-attachments/assets/58973128-0830-4aca-a1a1-db5a9cd620cd" />
