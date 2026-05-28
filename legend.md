@@ -85,7 +85,7 @@ TitanTurtles is like a perfect meritocracy where hard work is heavily rewarded. 
 
 In my free time I enjoy brawling, clashing, rowing, playing guitar, eating, and watching sports. I plan on attending the University of Waterloo in Canada where I will be studying Electrical Engineering.
 
-Follow my IG plz: https://www.instagram.com/ashtonzjiang/
+Follow my IG plz: [https://www.instagram.com/ashtonzjiang/](https://www.instagram.com/ashtonzjiang/)
 
 ---
 
