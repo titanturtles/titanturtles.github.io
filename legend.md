@@ -67,13 +67,13 @@ Instagram: [https://www.instagram.com/p/C8Awc2kSzeM/?hl=en&img_index=1](https://
 
 <img width="600" alt="IMG_5315" src="https://github.com/user-attachments/assets/39362ddc-e89d-46d7-9d2c-887a09416a01" />
 <p>
-<img width="200" height="200" style="object-fit: cover;" alt="IMG_8005" src="https://github.com/user-attachments/assets/e8ea05b9-d11d-4e23-a1bf-be04ede42332" />
-<img width="200" height="200" style="object-fit: cover;" alt="IMG_6736" src="https://github.com/user-attachments/assets/58973128-0830-4aca-a1a1-db5a9cd620cd" />
-<img width="200" height="200" style="object-fit: cover;" alt="IMG_7917" src="https://github.com/user-attachments/assets/234799d2-a061-491c-aeb3-5bc9a930e379" />
+<img width="189" height="189" style="object-fit: cover;" alt="IMG_8005" src="https://github.com/user-attachments/assets/e8ea05b9-d11d-4e23-a1bf-be04ede42332" />
+<img width="189" height="189" style="object-fit: cover;" alt="IMG_6736" src="https://github.com/user-attachments/assets/58973128-0830-4aca-a1a1-db5a9cd620cd" />
+<img width="189" height="189" style="object-fit: cover;" alt="IMG_7917" src="https://github.com/user-attachments/assets/234799d2-a061-491c-aeb3-5bc9a930e379" />
 <br>
-<img width="200" height="200" style="object-fit: cover;" alt="IMG_3574" src="https://github.com/user-attachments/assets/31017ab8-c03a-410a-a470-e7844a889746" />
-<img width="200" height="200" style="object-fit: cover;" alt="IMG_8889" src="https://github.com/user-attachments/assets/766cd137-c1ac-47a6-829d-0c2cb09c41c9" />
-<img width="200" height="200" style="object-fit: cover;" alt="IMG_3040" src="https://github.com/user-attachments/assets/2d5a4397-4265-40b3-b1c9-a5a3dd640ceb" />
+<img width="189" height="189" style="object-fit: cover;" alt="IMG_3574" src="https://github.com/user-attachments/assets/31017ab8-c03a-410a-a470-e7844a889746" />
+<img width="189" height="189" style="object-fit: cover;" alt="IMG_8889" src="https://github.com/user-attachments/assets/766cd137-c1ac-47a6-829d-0c2cb09c41c9" />
+<img width="189" height="189" style="object-fit: cover;" alt="IMG_3040" src="https://github.com/user-attachments/assets/2d5a4397-4265-40b3-b1c9-a5a3dd640ceb" />
 </p>
 
 
