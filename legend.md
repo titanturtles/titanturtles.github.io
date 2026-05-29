@@ -11,6 +11,34 @@ We work hard, play hard. We appreciate everyone who spent their precious part of
 
 ---
 
+**Brian Yu**
+
+<img width="600" alt="Screenshot_2026-05-28_182318" src="https://github.com/user-attachments/assets/86a951d5-ff5c-4e7c-814d-95f3e8d006f0" />
+
+Hi guys,
+
+I'm Brian, and I like cybersecurity, robotics, and computing. I've done CyberPatriot since 2023 where I've done Linux for the majority of the time, though I've also learned a lot about Windows and Networking along the way. I'll be attending the University of California, Berkeley to study Data Science as part of the class of 2030, where I hope to continue to draw on the knowledge I've gained from TitanTurtles. I love this team, and I've enjoyed every second of it. I truly recommend everyone to join.
+
+LinkedIn: [https://www.linkedin.com/in/brianhyu08/](https://www.linkedin.com/in/brianhyu08/)
+
+---
+
+**Ashton Jiang**
+
+<img width="600" alt="A6403761" src="https://github.com/user-attachments/assets/d219b65e-b5d7-4077-957a-a8a14ed0eb7c" />
+
+Hello,
+
+My name is Ashton and I have competed in CyberPatriot for four years. I primarily (only) do Cisco networking. I have been apart of all three national qualifying teams. I have really enjoyed my time at TitanTurtles and am sure that everyone in the club thinks the same. 
+
+TitanTurtles is like a perfect meritocracy where hard work is heavily rewarded. I have met many cool people both in the club as well as from other clubs who are involved in CyberPatriot. Cybersecurity has opened many doors for me including internships, college apps, and a lot of t-shirts.
+
+In my free time I enjoy brawling, clashing, rowing, playing guitar, eating, and watching sports. I plan on attending the University of Waterloo in Canada where I will be studying Electrical Engineering.
+
+Follow my IG plz: [https://www.instagram.com/ashtonzjiang/](https://www.instagram.com/ashtonzjiang/)
+
+---
+
 **Anya Li**
 
 <img src="https://github.com/user-attachments/assets/6ae5479c-a6bc-4110-8548-e9fe40c8ac94" alt="Anya" width="600"/>
@@ -60,32 +88,6 @@ Instagram: [https://www.instagram.com/p/C8LehmUpYwW/?hl=en&img_index=1](https://
 Hi, everyone, I'm Michael, previously a Westview high school student, and I competed in Cyberpatriot for 3 years. I was previously team 1 Cisco main and a national finalist. I am attending Georgia Institute of Technology to obtain a bachelors in CS. I enjoy playing tennis, gaming, and hanging out with my dog.
 
 Instagram: [https://www.instagram.com/p/C8Awc2kSzeM/?hl=en&img_index=1](https://www.instagram.com/p/C8Awc2kSzeM/?hl=en&img_index=1)
-
----
-
-**Ashton Jiang**
-
-<img width="600" height="600" style="object-fit: cover; object-position: top;" alt="IMG_5315" src="https://github.com/user-attachments/assets/39362ddc-e89d-46d7-9d2c-887a09416a01" />
-<p>
-<img width="194" height="194" style="object-fit: cover;" alt="IMG_8005" src="https://github.com/user-attachments/assets/e8ea05b9-d11d-4e23-a1bf-be04ede42332" />
-<img width="194" height="194" style="object-fit: cover;" alt="IMG_6736" src="https://github.com/user-attachments/assets/58973128-0830-4aca-a1a1-db5a9cd620cd" />
-<img width="194" height="194" style="object-fit: cover;" alt="IMG_7917" src="https://github.com/user-attachments/assets/234799d2-a061-491c-aeb3-5bc9a930e379" />
-<br>
-<img width="194" height="194" style="object-fit: cover;" alt="IMG_3574" src="https://github.com/user-attachments/assets/31017ab8-c03a-410a-a470-e7844a889746" />
-<img width="194" height="194" style="object-fit: cover;" alt="IMG_8889" src="https://github.com/user-attachments/assets/766cd137-c1ac-47a6-829d-0c2cb09c41c9" />
-<img width="194" height="194" style="object-fit: cover;" alt="IMG_3040" src="https://github.com/user-attachments/assets/2d5a4397-4265-40b3-b1c9-a5a3dd640ceb" />
-</p>
-
-
-Hello,
-
-My name is Ashton and I have competed in CyberPatriot for four years. I primarily (only) do Cisco networking. I have been apart of all three national qualifying teams. I have really enjoyed my time at TitanTurtles and am sure that everyone in the club thinks the same. 
-
-TitanTurtles is like a perfect meritocracy where hard work is heavily rewarded. I have met many cool people both in the club as well as from other clubs who are involved in CyberPatriot. Cybersecurity has opened many doors for me including internships, college apps, and a lot of t-shirts.
-
-In my free time I enjoy brawling, clashing, rowing, playing guitar, eating, and watching sports. I plan on attending the University of Waterloo in Canada where I will be studying Electrical Engineering.
-
-Follow my IG plz: [https://www.instagram.com/ashtonzjiang/](https://www.instagram.com/ashtonzjiang/)
 
 ---
 
