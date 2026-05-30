@@ -3,7 +3,7 @@ title: Westview TitanTurtles Cybersecurity Club
 layout: default
 ---
 
-## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [ba](./legend.html) | **Practice Images** 
+## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html) | **Practice Images** 
 
 # Practice Images
 
@@ -123,14 +123,14 @@ Please make sure you download the newest version since older ones are known for 
     - You need to create a free account to download free VMware software 
     - Link: [https://support.broadcom.com/](https://support.broadcom.com/) 
   - Windows:
-    - VMware Workstation Pro 25H2u1
-    - Link: [https://drive.google.com/file/d/10VBftDFas_XkfHkWGioAP5zu3IbzWNVl/view?usp=drive_link](https://drive.google.com/file/d/10VBftDFas_XkfHkWGioAP5zu3IbzWNVl/view?usp=drive_link)
+    - VMware Workstation Pro 26H1
+    - Link: [https://drive.google.com/file/d/1vamXYazCWLk6zCgxXt7piYdAVK-2Z2ay/view?usp=drive_link](https://drive.google.com/file/d/1vamXYazCWLk6zCgxXt7piYdAVK-2Z2ay/view?usp=drive_link)
   - Linux:
-    - VMware Workstatino Pro 25H2u1
-    - Link: [https://drive.google.com/file/d/1Ioe_bJOSMKgEcQzvfqhhICuHrorF2vfI/view?usp=drive_link](https://drive.google.com/file/d/1Ioe_bJOSMKgEcQzvfqhhICuHrorF2vfI/view?usp=drive_link)
+    - VMware Workstatino Pro 26H1
+    - Link: [https://drive.google.com/file/d/1SaeyTGE80YPseLaVN69eSIlonjX3eiXp/view?usp=drive_link](https://drive.google.com/file/d/1SaeyTGE80YPseLaVN69eSIlonjX3eiXp/view?usp=drive_link)
   - MacOS:
-    - VMware Fusion 25H2u1
-    - Link: [https://drive.google.com/file/d/1e3FMVCprxUU6MhBX17hPA4o5oha6NbZk/view?usp=drive_link](https://drive.google.com/file/d/1e3FMVCprxUU6MhBX17hPA4o5oha6NbZk/view?usp=drive_link)
+    - VMware Fusion 26H1
+    - Link: [https://drive.google.com/file/d/1Scp3dLghZ9beQuxuZ9ax5fe09reQdgwx/view?usp=drive_link](https://drive.google.com/file/d/1Scp3dLghZ9beQuxuZ9ax5fe09reQdgwx/view?usp=drive_link)
 
 ---
 
