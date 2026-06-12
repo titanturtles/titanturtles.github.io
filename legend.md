@@ -16,6 +16,7 @@ We work hard, play hard. We appreciate everyone who spent their precious part of
 <img width="600" alt="IMG_7752_Copy" src="https://github.com/user-attachments/assets/e9187800-cee5-428b-9e42-743e53db8e85" />
 
 Hello, everyone!
+
 My name is Chelsea Teh, and I was fortunate enough to compete in CyberPatriot for two years. It was an amazing experience working as a member of this team as a Cisco specialist, competing in high-pressure yet collaborative and exhilarating environments, and learning both professionally/academically and personally from my fellow teammates.
 
 I am enormously grateful to be a part of the Class of 2030 at The University of Chicago in the fall to double major in Computer Science and Economics. Beyond all things tech, I enjoy a wide range of music; Taekwondo; rock climbing; good books, movies, and food; better company; and traveling to new places. Thank you again to the TitanTurtles Team for an incredible experience and for opening up the world of cybersecurity to me!
