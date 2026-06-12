@@ -23,9 +23,9 @@ I am enormously grateful to be a part of the Class of 2030 at The University of 
 
 Let’s connect!
 
-LinkedIn: https://www.linkedin.com/in/chelsea-teh-76874337a?trk=contact-info
+LinkedIn: [https://www.linkedin.com/in/chelsea-teh-76874337a?trk=contact-info](https://www.linkedin.com/in/chelsea-teh-76874337a?trk=contact-info)
 
-Instagram: https://www.instagram.com/chel.inteh.sea007?igsh=Y3JwZGtlMGFqOGM2&utm_source=qr 
+Instagram: [https://www.instagram.com/chel.inteh.sea007?igsh=Y3JwZGtlMGFqOGM2&utm_source=qr](https://www.instagram.com/chel.inteh.sea007?igsh=Y3JwZGtlMGFqOGM2&utm_source=qr)
 
 ---
 
