@@ -21,7 +21,9 @@ My name is Chelsea Teh, and I was fortunate enough to compete in CyberPatriot fo
 I am enormously grateful to be a part of the Class of 2030 at The University of Chicago in the fall to double major in Computer Science and Economics. Beyond all things tech, I enjoy a wide range of music; Taekwondo; rock climbing; good books, movies, and food; better company; and traveling to new places. Thank you again to the TitanTurtles Team for an incredible experience and for opening up the world of cybersecurity to me!
 
 Let’s connect!
+
 LinkedIn: https://www.linkedin.com/in/chelsea-teh-76874337a?trk=contact-info
+
 Instagram: https://www.instagram.com/chel.inteh.sea007?igsh=Y3JwZGtlMGFqOGM2&utm_source=qr 
 
 ---
