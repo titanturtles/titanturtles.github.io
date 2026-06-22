@@ -11,6 +11,20 @@ We work hard, play hard. We appreciate everyone who spent their precious part of
 
 ---
 
+**Shengxi Chen**
+
+<img width="600" alt="IMG_9756_Original" src="https://github.com/user-attachments/assets/102f1631-6966-430c-b74d-c68d728b4d37" />
+
+Hello, I am Shengxi Chen, and I’ve been involved in CyberPatriot with TitanTurtles throughout high school, primarily working on Windows systems. Through competitions and personal projects, I’ve spent a lot of time working on Windows and Forensics, and I’ve really enjoyed the hands-on and team collaboration aspects that come with it.
+
+This fall, I’ll be attending the University of California, Irvine, where I plan to study Computer Science with a focus on cybersecurity. I’m excited to continue building on the skills I learnt through TitanTurtles and explore more advanced topics in computer science. Still, in my free time, I like to play video games, go fishing, and hang out with my friends.
+
+I’m really grateful for the experience, community, and opportunities TitanTurtles has given me, and this has been a huge part of my journey.
+
+LinkedIn: www.linkedin.com/in/shengxic
+
+---
+
 **Chelsea Teh**
 
 <img width="600" alt="IMG_7752_Copy" src="https://github.com/user-attachments/assets/e9187800-cee5-428b-9e42-743e53db8e85" />
