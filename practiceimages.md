@@ -141,8 +141,13 @@ Please make sure you download the newest version since older ones are known for 
 ---
 
 ### Packet Tracer
-  - Windows: [https://drive.google.com/file/d/112ZdBzFSAMxX8CfffUgjFymy5qdUNnSi/view?usp=drive_link](https://drive.google.com/file/d/112ZdBzFSAMxX8CfffUgjFymy5qdUNnSi/view?usp=drive_link)
-
+  - Version: 9.0.0
+  - Windows:
+    - Link: [https://drive.google.com/file/d/1vz3FiWNUge8zEVXrRpW-dpSWLPn8yxAu/view?usp=drive_link](https://drive.google.com/file/d/1vz3FiWNUge8zEVXrRpW-dpSWLPn8yxAu/view?usp=drive_link)
+  - Linux:
+    - Link: [https://drive.google.com/file/d/1lweDFo9TlSdLWrL28nQEa9RpT_yhC5WL/view?usp=drive_link](https://drive.google.com/file/d/1lweDFo9TlSdLWrL28nQEa9RpT_yhC5WL/view?usp=drive_link)
+  - MacOS:
+    - Link: [https://drive.google.com/file/d/18dT_bmWEkuv8b0yUSoGB1iivVIlH868F/view?usp=drive_link](https://drive.google.com/file/d/18dT_bmWEkuv8b0yUSoGB1iivVIlH868F/view?usp=drive_link)
 ---
 
 ### Aeacus
