@@ -21,7 +21,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 
 * [VMware](#vmware)
 * [7zip](#7zip)
-* [Packet Tracer](#packet-tracer)
+* [Cisco Packet Tracer](#cisco-packet-tracer)
 
 ---
 
@@ -140,7 +140,7 @@ Please make sure you download the newest version since older ones are known for 
 
 ---
 
-### Packet Tracer
+### Cisco Packet Tracer
   - Version: 9.0.0
   - Windows:
     - Link: [https://drive.google.com/file/d/1vz3FiWNUge8zEVXrRpW-dpSWLPn8yxAu/view?usp=drive_link](https://drive.google.com/file/d/1vz3FiWNUge8zEVXrRpW-dpSWLPn8yxAu/view?usp=drive_link)
