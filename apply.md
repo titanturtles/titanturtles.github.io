@@ -5,22 +5,6 @@ layout: default
 
 ## [Root](./index.html) | **Join** | [Camp](./cybercamp.html) | [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html)
 
-# Open House:
-
-We will host an open house events on April 19th, 2026 at 2PM at Sunshine Elite Education.
-
-Time:\
-2PM-4PM, April 19th, 2026
-
-Location:\
-Sunshine Elite Education\
-1725 NW 167th Pl, Beaverton, OR 97006
-
-* What to expect in our club.
-* Meet with current students and alumni.
-* Fun activities.
-* Free trinklets.
-
 # Applications:
 
 Click Here: [https://www.sunshineeliteeducation.com/course.php?term=88&filter_title=CyberPatriot](https://www.sunshineeliteeducation.com/course.php?term=88&filter_title=CyberPatriot)
@@ -138,7 +122,7 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 
 * Grades: new students grade 6 - 12 are preferred
 
-* Required Donation: $350 per year (To cover 4 rounds of tournaments cost (registration, food, places, internet, servers) and cost of other learning materials. If advance to National Final Competition Tournament, there will be at least $350 additional cost.) 
+* Required Donation: $1,350 per year (To cover 4 rounds of tournaments cost (registration, food, places, internet, servers) and cost of other learning materials. If advance to National Final Competition Tournament, there will be at least $1,350 additional cost.) 
 
 * **New students are expected to participate in both Standard and Advanced Camps hosted between July 29 to August 9. It will be really hard for students to catch up if students did not participate in the camps.** Details of the camp can be found here: https://titanturtles.org/cybercamp.html.
 
