@@ -122,7 +122,7 @@ Like all serious sports or academic competitions, CyberPatriot requires commitme
 
 * Grades: new students grade 6 - 12 are preferred
 
-* Required Donation: $1,350 per year (To cover 4 rounds of tournaments cost (registration, food, places, internet, servers) and cost of other learning materials. If advance to National Final Competition Tournament, there will be at least $1,350 additional cost.) For details, please go to link: [https://www.sunshineeliteeducation.com/course.php?term=88&filter_title=CyberPatriot](https://www.sunshineeliteeducation.com/course.php?term=88&filter_title=CyberPatriot)
+* Required Donation: For details, please go to link: [https://www.sunshineeliteeducation.com/course.php?term=88&filter_title=CyberPatriot](https://www.sunshineeliteeducation.com/course.php?term=88&filter_title=CyberPatriot)
 
 * **New students are expected to participate in both Standard and Advanced Camps hosted between July 29 to August 9. It will be really hard for students to catch up if students did not participate in the camps.** Details of the camp can be found here: https://titanturtles.org/cybercamp.html.
 
