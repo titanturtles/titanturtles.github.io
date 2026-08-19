@@ -98,6 +98,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [BOTFORGE: MINT 22, SH](#botforge)
 * [ONE BARLINE: MINT 21, F](#one-barline)
 * [POTATO_KINGDOM: MINT 21, SH](#potato-kingdom)
+* [HOLLOW KNIGHT: Ubu 24, H](#hollow-knight)
 
 ---
 
@@ -1279,13 +1280,30 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Google Downloads: [https://drive.google.com/file/d/1NPcR_uo73NvqtaC8ebIU19xTrIu4w0eB](https://drive.google.com/file/d/1NPcR_uo73NvqtaC8ebIU19xTrIu4w0eB)
 - Additional Downloads: [https://drive.google.com/file/d/1WrsyjWD7SYMj6ELlQsMTdHDkN4POXDpt/view?usp=sharing](https://drive.google.com/file/d/1WrsyjWD7SYMj6ELlQsMTdHDkN4POXDpt/view?usp=sharing)
 - MD5 Checksum: `ca80007ccd012199309c4a99ad6ac6df`
-- Additional Info:)
+- Additional Info:
   - Credentials:
     - User: `puhtahto`
     - Password: `potato`
 
 ---
 
+### HOLLOW KNIGHT
+
+<img width="400" alt="Screenshot 2026-08-06 185047" src="https://github.com/user-attachments/assets/2a980be4-70d9-49e2-84b1-cd2f81ae7361" />
+
+- Name: HOLLOW KNIGHT
+- OS: UBUNTU 24
+- Author: Arya Bhatt
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/drive/folders/1cpgftalqqRAitYMl3Z31RrKJm6FOHJ5D](https://drive.google.com/drive/folders/1cpgftalqqRAitYMl3Z31RrKJm6FOHJ5D)
+- Additional Downloads: [https://drive.google.com/file/d/16r7v25QQMYtemS5_RTYerIKZ2o3YoMBk](https://drive.google.com/file/d/16r7v25QQMYtemS5_RTYerIKZ2o3YoMBk)
+- MD5 Checksum: `7aa60ff1b135cb72d5a08acfde4cb758`
+- Additional Info:
+  - Credentials:
+    - User: `knight`
+    - Password: `password`
+
+---
 
 ### FINAL R3 BDSM
 
