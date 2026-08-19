@@ -115,7 +115,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [HELIOS](#helios)
 * [BABY_STEPS](#baby-steps)
 * [PIXYSTEMS](#pixystems)
-* [ATOMIC INN}(#atomic-inn)
+* [ATOMIC INN](#atomic-inn)
 
 ---
 
