@@ -115,6 +115,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [HELIOS](#helios)
 * [BABY_STEPS](#baby-steps)
 * [PIXYSTEMS](#pixystems)
+* [ATOMIC INN}(#atomic-inn)
 
 ---
 
@@ -1467,6 +1468,17 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Original Downloads: [https://cdn.discordapp.com/attachments/1472089862621495326/1472089863011438672/Pixystems.pka?ex=69d53345&is=69d3e1c5&hm=623ce1ce8b35e0aca3e0d32b4e92b7923630dd21af04e08733081b5bb89175ab&](https://cdn.discordapp.com/attachments/1472089862621495326/1472089863011438672/Pixystems.pka?ex=69d53345&is=69d3e1c5&hm=623ce1ce8b35e0aca3e0d32b4e92b7923630dd21af04e08733081b5bb89175ab&)
 - Additional Downloads: [https://drive.google.com/file/d/1C5Uc7cN47kp1zF2YAm-aUO9AIJiIYItk/view?usp=drive_link](https://drive.google.com/file/d/1C5Uc7cN47kp1zF2YAm-aUO9AIJiIYItk/view?usp=drive_link)
 - MD5 Checksum: `35524adee9542096f4e88c2d59c8e10`
+
+---
+
+### ATOMIC INN
+
+- Name: Atomic Inn
+- TYPE: Cisco Packet Tracer Activity
+- Author: AntryCat
+- Difficulty: Medium
+- Google Downloads: [https://drive.google.com/file/d/1BrgWribU0a15wiULX28jddPJP7Yz3sD5](https://drive.google.com/file/d/1BrgWribU0a15wiULX28jddPJP7Yz3sD5)
+- MD5 Checksum: `e904077c9205736eae7ac424f00f29e5`
 
 ---
 
