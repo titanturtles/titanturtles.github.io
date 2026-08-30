@@ -1,5 +1,5 @@
 ---
-title: Westview TitanTurtles Cybersecurity Club
+title: Oregon TitanTurtles Cybersecurity Club
 layout: default
 ---
 
