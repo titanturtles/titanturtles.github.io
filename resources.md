@@ -1,5 +1,5 @@
 ---
-title: Oregon TitanTurtles Cybersecurity Club
+title: TitanTurtles Cybersecurity Club
 layout: default
 ---
 
