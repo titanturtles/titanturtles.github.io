@@ -100,7 +100,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [ONE BARLINE: MINT 21, F](#one-barline)
 * [POTATO_KINGDOM: MINT 21, SH](#potato-kingdom)
 * [HOLLOW KNIGHT: Ubu 24, H](#hollow-knight)
-
+* [AGE OF PIRATES: MINT, EM](#age-of-pirates)
 ---
 
 ## Cisco Practices
@@ -112,7 +112,6 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [R3 OKLAHOMA CUP 24-25](#r3-oklahoma-cup-24-25)
 * [CCNA MEGA LAB](#ccna-mega-lab)
 * [MODULES 1 TO 13](#modules-1-to-13)
-* [MHS CANCELLED TRY OUT](#mhs-cancelled-try-out)
 * [HELIOS](#helios)
 * [BABY_STEPS](#baby-steps)
 * [PIXYSTEMS](#pixystems)
@@ -1320,6 +1319,23 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 
 ---
 
+### AGE OF PIRATES
+
+- Name: AGE OF PIRATES
+- OS: MINT
+- Author: brody001301 (Goose (junior cheeseman))
+- Difficulty: Easy-Medium
+- Google Downloads: [https://drive.google.com/file/d/1uXWLFdBXJ-_IgD2vtWKtXLmW4oiE6vOr/view](https://drive.google.com/file/d/1uXWLFdBXJ-_IgD2vtWKtXLmW4oiE6vOr/view)
+- Additional Downloads: 
+- MD5 Checksum: ``
+- Additional Info:
+  - Credentials:
+    - User: `jack_sparrow`
+    - Password: `C@pt@1nJack#321`
+  - Walkthrough: [https://docs.google.com/document/d/1Sot7DwxAmgyOh7lEI416D_mDu4dMUuZG68MAA4uGDvQ/edit?usp=sharing](https://docs.google.com/document/d/1Sot7DwxAmgyOh7lEI416D_mDu4dMUuZG68MAA4uGDvQ/edit?usp=sharing)
+
+---
+
 ### FINAL R3 BDSM
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/1f52cbda-fac1-4e1f-b7b5-87cc838c7aad" />
@@ -1425,22 +1441,6 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - MD5 Checksum: `88df768da29883d02a5de7053fdaeb87`
 
 ---
-
-### MHS CANCELLED TRY OUT
-
-
-
-- Name: MHS CANCELLED TRY OUT
-- TYPE: Cisco Packet Tracer Activity
-- Author: a_person
-- Difficulty: Unknown
-- Downloads:
-  - [https://drive.google.com/file/d/13v_HUaWEKtzAnql2D5YYpECk4bkOMVi8/view?usp=drive_link](https://drive.google.com/file/d/13v_HUaWEKtzAnql2D5YYpECk4bkOMVi8/view?usp=drive_link)
-  - [https://drive.google.com/file/d/1SltXOH18ydJaSBPf6wMEIntk91fMov8t/view?usp=drive_link](https://drive.google.com/file/d/1SltXOH18ydJaSBPf6wMEIntk91fMov8t/view?usp=drive_link)
-  - [https://drive.google.com/file/d/14E9T803Up1XStBxmzYNEf_PRyArv0SuF/view?usp=drive_link](https://drive.google.com/file/d/14E9T803Up1XStBxmzYNEf_PRyArv0SuF/view?usp=drive_link)
-
----
-
 
 ### HELIOS
 
