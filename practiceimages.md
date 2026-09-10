@@ -101,6 +101,8 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [POTATO_KINGDOM: MINT 21, SH](#potato-kingdom)
 * [HOLLOW KNIGHT: Ubu 24, H](#hollow-knight)
 * [AGE OF PIRATES: MINT, EM](#age-of-pirates)
+* [GEMSTONES: Ubu 24, SH](#gemstones)
+
 ---
 
 ## Cisco Practices
@@ -1334,6 +1336,22 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
     - Password: `C@pt@1nJack#321`
   - Critical services: SSH, FTP, Apache
   - Walkthrough: [https://docs.google.com/document/d/1Sot7DwxAmgyOh7lEI416D_mDu4dMUuZG68MAA4uGDvQ/edit?usp=sharing](https://docs.google.com/document/d/1Sot7DwxAmgyOh7lEI416D_mDu4dMUuZG68MAA4uGDvQ/edit?usp=sharing)
+
+---
+
+### GEMSTONES
+
+- Name: GEMSTONES
+- OS: Ubuntu 24
+- Author: sngo._ (Snow)
+- Difficulty: Super Hard
+- Google Downloads: [https://drive.google.com/file/d/1eQuuvQmBWf8RPz-9qlDe9BlsCtqP9gom/view?usp=sharing](https://drive.google.com/file/d/1eQuuvQmBWf8RPz-9qlDe9BlsCtqP9gom/view?usp=sharing)
+- Additional Downloads: 
+- MD5 Checksum: ``
+- Additional Info:
+  - Credentials:
+    - User: `amethyst`
+    - Password: `password`
 
 ---
 
