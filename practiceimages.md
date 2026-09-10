@@ -116,6 +116,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [BABY_STEPS](#baby-steps)
 * [PIXYSTEMS](#pixystems)
 * [ATOMIC INN](#atomic-inn)
+* [AP CYBERPATRIOT](#ap-cyberpatriot)
 
 ---
 
@@ -1479,6 +1480,16 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Difficulty: Medium
 - Google Downloads: [https://drive.google.com/file/d/1BrgWribU0a15wiULX28jddPJP7Yz3sD5](https://drive.google.com/file/d/1BrgWribU0a15wiULX28jddPJP7Yz3sD5)
 - MD5 Checksum: `e904077c9205736eae7ac424f00f29e5`
+
+---
+
+### AP CYBERPATRIOT
+
+- Name: AP CyberPatriot Networking R2 Full Exam
+- TYPE: PDF
+- Author: lolmenow okdargy
+- Difficulty: Medium
+- Website: [https://sakouk.me/blog/2026/AP-CyberPatriot-R2-Mock-Exam.html](https://sakouk.me/blog/2026/AP-CyberPatriot-R2-Mock-Exam.html)
 
 ---
 
