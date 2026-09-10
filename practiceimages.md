@@ -61,6 +61,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [MY LITTLE PONY: Win 10, M](#my-little-pony)
 * [ETHS CYBER SQUAD POLICY VIOLATIONS IMAGE: Win 11, M-H](#eths-cyber-squad-policy-violations-image)
 * [DEATH BY DAYLIGHT: WinServer 2019, SH](#death-by-daylight)
+* [TOWN OF SALEM: WinServer 2022, H](#town-of-salem)
 
 ---
 
@@ -715,6 +716,18 @@ Please make sure you download the newest version since older ones are known for 
   - Credentials:
     - Username: `David`
     - Password: `Th3_Ent1ty_Re4lm!`
+
+---
+
+
+### TOWN OF SALEM
+
+- Name: TOWN OF SALEM
+- OS: WINDOWS SERVER 2022
+- Author: many_overcomplications
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1zD4LH7bWTvrJT3l0pJ906jgcWiDOjCIo/view?usp=sharing](https://drive.google.com/file/d/1zD4LH7bWTvrJT3l0pJ906jgcWiDOjCIo/view?usp=sharing)
+- MD5 Checksum: `702b02d9e6a127d10c07fdfbc79b8e9f`
 
 ---
 
