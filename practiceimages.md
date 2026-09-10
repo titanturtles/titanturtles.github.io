@@ -1332,6 +1332,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
   - Credentials:
     - User: `jack_sparrow`
     - Password: `C@pt@1nJack#321`
+  - Critical services: SSH, FTP, Apache
   - Walkthrough: [https://docs.google.com/document/d/1Sot7DwxAmgyOh7lEI416D_mDu4dMUuZG68MAA4uGDvQ/edit?usp=sharing](https://docs.google.com/document/d/1Sot7DwxAmgyOh7lEI416D_mDu4dMUuZG68MAA4uGDvQ/edit?usp=sharing)
 
 ---
