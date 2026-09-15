@@ -729,6 +729,7 @@ Please make sure you download the newest version since older ones are known for 
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/file/d/1zD4LH7bWTvrJT3l0pJ906jgcWiDOjCIo/view?usp=sharing](https://drive.google.com/file/d/1zD4LH7bWTvrJT3l0pJ906jgcWiDOjCIo/view?usp=sharing)
 - MD5 Checksum: `4e7d186544c3194f6aa17bc87cfe79ad`
+- NOTE: If the network is not working on your VM, open your VMware virtual network editor, change the Subnet IP for VMnet8 (the one for NAT) to 192.168.47.0 fixed the problem. Since this is an AD service machine, the DNS server will be the IP address of the this VM itself. And, IP address should be set manually so that the settings for AD DC within the system can be done accordingly. So, if you change the DNS to "Obtain ... automatically" and IP address to use DHCP to "Obtain ... automatically", your internet will work immediately, but not as intended. You may encounter more problems later on. (One small hint: as long as you can visit titanturtles.org, the network is working. Not all websites will work. That's a designed feature.)
 
 ---
 
