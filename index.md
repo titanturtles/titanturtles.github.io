@@ -9,7 +9,7 @@ layout: default
 
 # Team
 
-We are Cybersecurity competition team TitanTurtles. Our main competition is [CyberPatriot](https://www.uscyberpatriot.org/). We also participate in [picoCTF](https://picoctf.org/) annual competition, [eCitadel](https://ecitadel.org) competition and [Reply Challenge](https://challenges.reply.com/tamtamy/challenges/category/cybersecurity#home).
+We are Cybersecurity competition team TitanTurtles. Our main competition is [CyberPatriot](https://www.uscyberpatriot.org/). We also participate in [picoCTF](https://picoctf.org/) annual competition, [eCitadel](https://ecitadel.org) competition, HackTheBox competitions, and [Reply Challenge](https://challenges.reply.com/tamtamy/challenges/category/cybersecurity#home).
 
 Our team members are all Middle school and High school students. We are located at Portland, Oregon. We are associated with Sunshine Elite Education. We welcome all middle school and high school students who are interested in learning about computers and the internet. We are also partnered with the Westview Cybersecurity club: [westview.titanturtles.org](https://westview.titanturtles.org)
 
