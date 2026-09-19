@@ -123,12 +123,16 @@ Our Club Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
 
 We are CyberPatriot competition teams TitanTurtles, TitanTortoises, TitanWugui, TitanTortugas, TitanTartarugas, and TitanKame.
 
-Awards:
+We have written history every year for the past 5 years. Whether it was becoming State Champion multiple times consecutively, sweeping the top 3 State award spots in Oregon, or qualifying for the National Finals, the TitanTurtles club has gained an unimaginable amount of competition and cybersecurity knowledge. We thank the parents, mentors, coaches, students, and all other teams who have supported us in our journeys. Anyone can make it, anyone can do it, anyone can become a champion—it just depends on you. 5 years ago, we placed in the top 150 in the Semifinals round. Now we are National Champions. Be that student who strives to do more, learn more, teach more, support more—and maybe one day, your team can walk on the national stage of not just CyberPatriot, but any competition.
+
+"True success requires failure. You cannot have one without the other. It is the failures that test your resolve, that build your stamina, and that prepare you for the ultimate victories." - William H. McRaven
+
+CyberPatriot Awards:
 - <code style="color : gold">National Champion</code> (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
 - <code style="color : gold">Cisco National Champion</code> (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
-- <code style="color : darkorange">3rd Place Runner Up</code> - **CyberPatriot 17 National Finals**
+- <code style="color : darkorange">3rd Place Runner Up</code> (OPEN DIVISION) - **CyberPatriot 17 National Finals**
 
 - CyberPatriot 18 <code style="color : green">National Finalist</code> (OPEN DIVISION)
 
@@ -136,14 +140,16 @@ Awards:
 
 - CyberPatriont XVI (16) <code style="color : green">National Finalist</code> (OPEN DIVISION)
 
-- <code style="color : lightskyblue">First and Only Open Division Oregon Team to Qualify for the CyberPatriot National Finals</code> - (CPXVI)
+- <code style="color : lightskyblue">First Oregon Team to Qualify for the CyberPatriot National Finals</code> - (CPXVI)
 
-- <code style="color : lightskyblue">First Oregon Team to Podium at the CyberPatriot National Finals</code> (CP17) - <code style="color : darkorange">3rd Place</code> (OPEN DIVISION)
+- <code style="color : lightskyblue">Only Oregon Team to Podium at the CyberPatriot National Finals</code> - (CP17), (CP18)
+
+- <code style="color : lightskyblue">Only Oregon Team to Qualify for the CyberPatriot National Finals</code> - (CPXVI), (CP17), (CP18)
 
 - (OPEN Division, Platinum Tier) <code style="color : lightskyblue">Semifinals National Rank #2</code> - (CP17), (CP18)
 
 - (OPEN Division, Platinum Tier) <code style="color : lightskyblue">Semifinals National Rank #5</code> - (CPXVI)
 
-- <code style="color : gold">Five Consecutive State Champions</code> - (CyPatXVI), (CyPatXV), (CyPatXVI), (CyPat17), (CyPat18)
+- <code style="color : gold">Five Consecutive State Champions</code> - (CPXVI), (CPXV), (CPXVI), (CP17), (CP18)
 
 - Middle School State Champion Team Debut - <code style="color : lightskyblue">Semifinals National Rank #7</code> - (CP18)
