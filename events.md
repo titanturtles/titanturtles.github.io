@@ -123,12 +123,18 @@ Our Club Cheer: We are a Team, Write History, Leave a Legend, GO TITANTURTLES!
 
 We are CyberPatriot competition teams TitanTurtles, TitanTortoises, TitanWugui, TitanTortugas, TitanTartarugas, and TitanKame.
 
-Writing History:
+Awards:
 - <code style="color : gold">National Champion</code> (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
 - <code style="color : gold">Cisco National Champion</code> (OPEN DIVISION) - **CyberPatriot 18 National Finals**
 
-- <code style="color : green">National Finalist</code> (OPEN DIVISION) - **(CPXVI), (CP17), (CP18)**
+- <code style="color : darkorange">3rd Place Runner Up</code> - **CyberPatriot 17 National Finals**
+
+- CyberPatriot 18 <code style="color : green">National Finalist</code> (OPEN DIVISION)
+
+- CyberPatriot 17 <code style="color : green">National Finalist</code> (OPEN DIVISION)
+
+- CyberPatriont XVI (16) <code style="color : green">National Finalist</code> (OPEN DIVISION)
 
 - <code style="color : lightskyblue">First and Only Open Division Oregon Team to Qualify for the CyberPatriot National Finals</code> - (CPXVI)
 
@@ -138,6 +144,6 @@ Writing History:
 
 - (OPEN Division, Platinum Tier) <code style="color : lightskyblue">Semifinals National Rank #5</code> - (CPXVI)
 
-- <code style="color : gold">Five Consecutive State Champions</code> - (CPXIV), (CPXV), (CPXVI), (CP17), (CP18)
+- <code style="color : gold">Five Consecutive State Champions</code> - (CyPatXVI), (CyPatXV), (CyPatXVI), (CyPat17), (CyPat18)
 
 - Middle School State Champion Team Debut - <code style="color : lightskyblue">Semifinals National Rank #7</code> - (CP18)
