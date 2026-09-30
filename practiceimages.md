@@ -102,6 +102,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [HOLLOW KNIGHT: Ubu 24, H](#hollow-knight)
 * [AGE OF PIRATES: MINT, EM](#age-of-pirates)
 * [GEMSTONES: Ubu 24, SH](#gemstones)
+* [1984: MINT 22, H] (#1984)
 
 ---
 
@@ -1353,6 +1354,23 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
   - Credentials:
     - User: `amethyst`
     - Password: `password`
+
+---
+
+### 1984
+
+- Name: 1984
+- OS: Mint 22.3
+- Author: ml2322
+- Difficulty: Hard
+- Original Download: [https://cypat.s3.us-west-1.amazonaws.com/1984.zip](https://cypat.s3.us-west-1.amazonaws.com/1984.zip)
+- Google Downloads: [https://drive.google.com/file/d/12eaKYwdIADBOdIOoHyln1Ns_dQZYY-mP/view?usp=drive_link](https://drive.google.com/file/d/12eaKYwdIADBOdIOoHyln1Ns_dQZYY-mP/view?usp=drive_link)
+- Additional Downloads: 
+- MD5 Checksum: `d4144d5fcbf93d8d231a00b6612d6cb6`
+- Additional Info:
+  - Walkthrough:
+    - [https://raw.githubusercontent.com/Matthiasclee/1984-Mint22.3/refs/heads/master/Walkthrough.pdf](https://raw.githubusercontent.com/Matthiasclee/1984-Mint22.3/refs/heads/master/Walkthrough.pdf)
+    - [https://drive.google.com/file/d/10I2FIHygm3-YAWJdpCtoUzomsjKMpCFy/view?usp=drive_link](https://drive.google.com/file/d/10I2FIHygm3-YAWJdpCtoUzomsjKMpCFy/view?usp=drive_link)
 
 ---
 
