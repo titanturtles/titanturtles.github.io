@@ -102,7 +102,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [HOLLOW KNIGHT: Ubu 24, H](#hollow-knight)
 * [AGE OF PIRATES: MINT, EM](#age-of-pirates)
 * [GEMSTONES: Ubu 24, SH](#gemstones)
-* [1984: MINT 22, H] (#1984)
+* [1984: MINT 22, H](#1984)
 
 ---
 
