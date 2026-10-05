@@ -153,3 +153,23 @@ CyberPatriot Awards:
 - <code style="color : gold">Five Consecutive State Champions</code> - (CPXVI), (CPXV), (CPXVI), (CP17), (CP18)
 
 - Middle School State Champion Team Debut - <code style="color : lightskyblue">Semifinals National Rank #7</code> - (CP18)
+
+TitanTurtles CyberPatriot National Finalists:
+
+- Arnold Yang (Alumni) - National Finalist: XVI
+
+- Anya Li (Alumni) - National Finalist: XVI
+
+- Michaeal Xu (Alumni) - National Finalist: XVI
+
+- Luna Ji (Alumni) - National Finalist: XVI, 17, 18
+
+- Ashton Jiang (Alumni) - National Finalist: XVI, 17, 18
+
+- Arthur Yang (Senior in High School) - National Finalist: XVI, 17, 18
+
+- Kevin Du (Alumni) - National Finalist: 17, 18
+
+- Brian Yu (Alumni) - National Finalist: 17, 18
+
+- John Kong (Junior in High School) - National Finalist: 17, 18
