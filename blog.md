@@ -13,29 +13,30 @@ layout: default
 _CyberPatriot National Finalist Team TitanTurtles finishes #1 in the nation in the Open Division! Team Roster: Arthur Yang, Brian Yu, Kevin Du, Luna Ji, Ashton Jiang, and John Kong. This is their second time qualifying for the national finals and redeeming themselves from last years 3rd Place National Finals finish! This year is Oregon's second time ever walking across the CyberPatriot National Finals Podium and they almost clean sweeped every single challenge this year! Big shout out to Coach/Mentor Xinle Yang for his contributions and organization of the teams! Huge shout out to Mentor Sean (tirefire) on Discord for helping our students learn and push past what seemed impossible! Huge shout out to Coach Pei for bringing the heat and energy to every round leading up to the National Finals!_
 
 TitanTurtles CyberPatriot 18 Finalists History:
-* Luna Ji (Windows OS Lead): Three-time CyberPatriot National Finalist
+
+Luna Ji (Windows OS Lead), Three-time CyberPatriot National Finalist:
   * CyberPatriot XVI National Finals 4th Place (OPEN DIVISION)
   * CyberPatriot 17 National Finals 3rd Place (OPEN DIVISION)
   * CyberPatriot 18 National Champion (OPEN DIVISION)
 
-* Ashton Jiang (Cisco Lead): Three-time CyberPatriot National Finalist
+Ashton Jiang (Cisco Lead), Three-time CyberPatriot National Finalist:
   * CyberPatriot XVI National Finals 4th Place (OPEN DIVISION)
   * CyberPatriot 17 National Finals 3rd Place (OPEN DIVISION)
   * CyberPatriot 18 National Champion (OPEN DIVISION)
 
-* Brian Yu (Linux OS Lead): Two-time CyberPatriot National Finalist
+Brian Yu (Linux OS Lead), Two-time CyberPatriot National Finalist:
   * CyberPatriot 17 National Finals 3rd Place (OPEN DIVISION)
   * CyberPatriot 18 National Champion (OPEN DIVISION)
 
-* Kevin Du (Windows OS Lead): Two-time CyberPatriot National Finalist
+Kevin Du (Windows OS Lead), Two-time CyberPatriot National Finalist:
   * CyberPatriot 17 National Finals 3rd Place (OPEN DIVISION)
   * CyberPatriot 18 National Champion (OPEN DIVISION)
  
-* John Kong (Cisco Lead): Two-time CyberPatriot National Finalist
+John Kong (Cisco Lead), Two-time CyberPatriot National Finalist:
   * CyberPatriot 17 National Finals 3rd Place (OPEN DIVISION)
   * CyberPatriot 18 National Champion (OPEN DIVISION)
  
-* Arthur Yang (Linux OS Lead): Three-time CyberPatriot National Finalist
+Arthur Yang (Linux OS Lead), Three-time CyberPatriot National Finalist:
   * CyberPatriot XVI National Finals 4th Place (OPEN DIVISION)
   * CyberPatriot 17 National Finals 3rd Place (OPEN DIVISION)
   * CyberPatriot 18 National Champion (OPEN DIVISION)
