@@ -63,6 +63,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [DEATH BY DAYLIGHT: WinServer 2019, SH](#death-by-daylight)
 * [TOWN OF SALEM: WinServer 2022, H](#town-of-salem)
 * [HUNTER MANAGEMENT: WinServer 2022, H](#hunter-management)
+* [STARTUP CENTRAL: WinServer 2022, H](#startup-central)
 
 ---
 
@@ -746,6 +747,21 @@ Please make sure you download the newest version since older ones are known for 
 - MD5 Checksum: `71a738265e80f79d24aa621cc743c075`
 
 ---
+
+
+### STARTUP CENTRAL
+
+- Name: STARTUP CENTRAL
+- OS: WINDOWS SERVER 2022
+- Author: zyncist
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1C1NOWtXT_qkRFRnK1tq9J9_iOC1WyY27/view?usp=drive_link](https://drive.google.com/file/d/1C1NOWtXT_qkRFRnK1tq9J9_iOC1WyY27/view?usp=drive_link)
+- MD5 Checksum: `c3f39c25ac05311b6f5ef236c9cd17fe`
+- Login: Administrator:Cyberpatriot21
+
+---
+
+
 ### SPACE FORCE SERVER
 - Name: SPACE FORCE SERVER
 - OS: DEBIAN 8
