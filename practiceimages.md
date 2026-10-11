@@ -62,6 +62,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [ETHS CYBER SQUAD POLICY VIOLATIONS IMAGE: Win 11, M-H](#eths-cyber-squad-policy-violations-image)
 * [DEATH BY DAYLIGHT: WinServer 2019, SH](#death-by-daylight)
 * [TOWN OF SALEM: WinServer 2022, H](#town-of-salem)
+* [HUNTER MANAGEMENT: WinServer 2022, H](#hunter-management)
 
 ---
 
@@ -734,6 +735,17 @@ Please make sure you download the newest version since older ones are known for 
 
 ---
 
+
+### HUNTER MANAGEMENT
+
+- Name: HUNTER MANAGEMENT
+- OS: WINDOWS SERVER 2022
+- Author: ???
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/file/d/1by2aGa7zifXDvJMXKp2F7CEP0Am91Hq3/view?usp=drive_link](https://drive.google.com/file/d/1by2aGa7zifXDvJMXKp2F7CEP0Am91Hq3/view?usp=drive_link)
+- MD5 Checksum: `71a738265e80f79d24aa621cc743c075`
+
+---
 ### SPACE FORCE SERVER
 - Name: SPACE FORCE SERVER
 - OS: DEBIAN 8
