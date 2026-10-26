@@ -825,7 +825,8 @@ Please make sure you download the newest version since older ones are known for 
 - Author: G01D3N(xxg01d3nxx)
 - Difficulty: Medium
 - Google Downloads: [https://drive.google.com/file/d/1wuPetdDLX84JACpR4bVziesRgPxXNvDy/view?usp=drive_link](https://drive.google.com/file/d/1wuPetdDLX84JACpR4bVziesRgPxXNvDy/view?usp=drive_link)
-- MD5 Checksum: 
+- Additional Downloads: [https://drive.google.com/file/d/1c_b9xASge3SPHAh7fCWF8vVOt5TYDe5y/view?usp=drive_link](https://drive.google.com/file/d/1c_b9xASge3SPHAh7fCWF8vVOt5TYDe5y/view?usp=drive_link)
+- MD5 Checksum: `526a42487eac3678c75b9a78bdf2c25e`
 - Answer key: [https://docs.google.com/document/d/1ocQ0r6E-Ne5Bpzzup9HBNSvvEYG30Rh12L8pBfAlJQo/edit?usp=sharing](https://docs.google.com/document/d/1ocQ0r6E-Ne5Bpzzup9HBNSvvEYG30Rh12L8pBfAlJQo/edit?usp=sharing)
 - Note: it is highly advised to do the image to the best of your ability before looking at the answer key.
   
