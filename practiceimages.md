@@ -68,7 +68,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [BUBBLE GUPPIES: WinServer 2019, M++](#bubble-guppies)
 * [NEW YORK TIMES: WinServer 2022, H](#new-york-times)
 * [MIDDLESEA HOSPITAL: WinServer 2025, SH](#middlesea-hospital)
-* [L'ÉQUIPE DU DICTATEUR: Win 11, M](#l'équipe-du-dictateur)
+* [L'ÉQUIPE DU DICTATEUR: Win 11, M](#léquipe-du-dictateur)
 
 ---
 
