@@ -109,6 +109,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [AGE OF PIRATES: MINT, EM](#age-of-pirates)
 * [GEMSTONES: Ubu 24, SH](#gemstones)
 * [1984: MINT 22, H](#1984)
+* [CYBERTECH REMASTERED: Ubu 24, M](#cybertech-remastered)
 
 ---
 
@@ -798,6 +799,7 @@ Please make sure you download the newest version since older ones are known for 
 - Author: savetheturtles. elxctrolyte 
 - Difficulty: Hard
 - Google Downloads: [https://drive.google.com/drive/folders/1u63S54y7BZYsMRE-Z9JMwdKtD8daruLm?usp=drive_link](https://drive.google.com/drive/folders/1u63S54y7BZYsMRE-Z9JMwdKtD8daruLm?usp=drive_link)
+- Additional Downloads: [https://drive.google.com/file/d/1nKNtAypDP-ujxQ7NhPmuhKd6Xl-_nWJD/view?usp=drive_link](https://drive.google.com/file/d/1nKNtAypDP-ujxQ7NhPmuhKd6Xl-_nWJD/view?usp=drive_link)
 - MD5 Checksum: `dd2db83f447ef572a302efd3da38a28b`
 - Login: `NYT Games:password`
 
@@ -1453,6 +1455,17 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
     - [https://raw.githubusercontent.com/Matthiasclee/1984-Mint22.3/refs/heads/master/Walkthrough.pdf](https://raw.githubusercontent.com/Matthiasclee/1984-Mint22.3/refs/heads/master/Walkthrough.pdf)
     - [https://drive.google.com/file/d/10I2FIHygm3-YAWJdpCtoUzomsjKMpCFy/view?usp=drive_link](https://drive.google.com/file/d/10I2FIHygm3-YAWJdpCtoUzomsjKMpCFy/view?usp=drive_link)
 
+---
+
+### CYBERTECH REMASTERED
+
+- Name: CYBERTECH REMASTERED
+- OS: Ubuntu 24.04
+- Author: androidforever
+- Difficulty: Medium
+- Original Download: [https://drive.google.com/file/d/17LcVoPJJnY_lb-jQbZlbIvp0o8HCxit8/view](https://drive.google.com/file/d/17LcVoPJJnY_lb-jQbZlbIvp0o8HCxit8/view)
+- MD5 Checksum: 
+- Credential: `jmuskington:password123!`
 ---
 
 ### FINAL R3 BDSM
