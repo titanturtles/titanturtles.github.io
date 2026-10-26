@@ -1466,6 +1466,8 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Original Download: [https://drive.google.com/file/d/17LcVoPJJnY_lb-jQbZlbIvp0o8HCxit8/view](https://drive.google.com/file/d/17LcVoPJJnY_lb-jQbZlbIvp0o8HCxit8/view)
 - MD5 Checksum: 
 - Credential: `jmuskington:password123!`
+- Services Focus: LAMP Stack
+  
 ---
 
 ### FINAL R3 BDSM
