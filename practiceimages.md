@@ -64,6 +64,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [TOWN OF SALEM: WinServer 2022, H](#town-of-salem)
 * [HUNTER MANAGEMENT: WinServer 2022, H](#hunter-management)
 * [STARTUP CENTRAL: WinServer 2022, H](#startup-central)
+* [BUBBLE GUPPIES: WinServer 2019, M++](#bubble-guppies)
 
 ---
 
@@ -762,6 +763,23 @@ Please make sure you download the newest version since older ones are known for 
 
 ---
 
+
+### BUBBLE GUPPIES
+
+- Name: BUBBLE GUPPIES (the secret 3rd Donkey image before Baldi)
+- OS: WINDOWS SERVER 2019 (no AD)
+- Author: d0nkeyman
+- Difficulty: Medium++ (Its a donkey image what do u expect. My images can't possibly be given a normal difficulty rating (ok but realistically like medium++ on the donkey scale))
+- Google Downloads: [https://drive.google.com/file/d/1KXCSnz2lfw7Cfl528oWIOKSRSQn7Pq7k](https://drive.google.com/file/d/1KXCSnz2lfw7Cfl528oWIOKSRSQn7Pq7k)
+- Additional Downloads: [https://drive.google.com/file/d/1pDwgOhJmol-sf4nN68gkgVC8AoXLqdPp/view?usp=drive_link](https://drive.google.com/file/d/1pDwgOhJmol-sf4nN68gkgVC8AoXLqdPp/view?usp=drive_link)
+- MD5 Checksum: `483ef460ca68519f4fd9edc2d39a54c4`
+- Login Password: `1t'sEazyM'k@y?`
+- Critical Services: SMB 3.0, RDP, IIS
+- Official Walkthrough? NEVER (I do NOT remember anything this image is from 2023)
+- Cursed? YES
+- Hint: ctrl+alt+delete
+
+---
 
 ### SPACE FORCE SERVER
 - Name: SPACE FORCE SERVER
