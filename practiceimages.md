@@ -28,6 +28,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 ## Scoring Engines
 
 * [AEACUS](#aeacus)
+* [AEACUS FreeBSD](#aeacus-freebsd)
 * [SARPEDON](#sarpedon)
 * [SETH](#seth)
 * [MAGISTRATE ARCHIVE](#magistrate-archive)
@@ -168,6 +169,13 @@ Please make sure you download the newest version since older ones are known for 
   - Contributors: sourque, safinsingh, Akshay-Rohatgi, Mobmaker55, aaditgupta21, Altoid0, HexaDrakon, raad1masum, alvinzhengq, dolphinalt, batman084, ironzelato, deepsourcebot, zombiepigdragon, tire-fire, Eth007, dependabot, rjawesome, tyliec
   - Description:
     - aeacus is a vulnerability scoring engine for Windows and Linux, with an emphasis on simplicity.  
+
+---
+
+### Aeacus FreeBSD
+
+  - Github: [https://github.com/QuckQuack/FreeBSD-Unix-aeacus-variant/tree/main](https://github.com/QuckQuack/FreeBSD-Unix-aeacus-variant/tree/main)
+  - Contributors: gooseman
 
 ---
 
