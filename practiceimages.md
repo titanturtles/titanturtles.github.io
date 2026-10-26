@@ -66,6 +66,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [STARTUP CENTRAL: WinServer 2022, H](#startup-central)
 * [BUBBLE GUPPIES: WinServer 2019, M++](#bubble-guppies)
 * [NEW YORK TIMES: WinServer 2022, H](#new-york-times)
+* [MIDDLESEA HOSPITAL: WinServer 2025, SH](#middlesea-hospital)
 
 ---
 
@@ -791,6 +792,18 @@ Please make sure you download the newest version since older ones are known for 
 - Google Downloads: [https://drive.google.com/drive/folders/1u63S54y7BZYsMRE-Z9JMwdKtD8daruLm?usp=drive_link](https://drive.google.com/drive/folders/1u63S54y7BZYsMRE-Z9JMwdKtD8daruLm?usp=drive_link)
 - MD5 Checksum: `dd2db83f447ef572a302efd3da38a28b`
 - Login: `NYT Games:password`
+
+---
+
+### MIDDLESEA HOSPITAL
+
+- Name: MIDDLESEA HOSPITAL
+- OS: WINDOWS SERVER 2025
+- Author: carbonice
+- Difficulty: Super Hard
+- Google Downloads: [https://drive.google.com/file/d/1zIJsxN4fqYn-W4-8u-O6UZeOlGc3sXD9/view?usp=sharing](https://drive.google.com/file/d/1zIJsxN4fqYn-W4-8u-O6UZeOlGc3sXD9/view?usp=sharing)
+- MD5 Checksum: `3271e53ed7f553a7b7d4711b4e2c2a2b`
+- Login: ` Intern2:7eventhBeat!`
 
 ---
 
