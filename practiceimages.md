@@ -68,6 +68,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [BUBBLE GUPPIES: WinServer 2019, M++](#bubble-guppies)
 * [NEW YORK TIMES: WinServer 2022, H](#new-york-times)
 * [MIDDLESEA HOSPITAL: WinServer 2025, SH](#middlesea-hospital)
+* [L'ÉQUIPE DU DICTATEUR: Win 11, M](#l'équipe-du-dictateur)
 
 ---
 
@@ -816,6 +817,20 @@ Please make sure you download the newest version since older ones are known for 
 - Login: ` Intern2:7eventhBeat!`
 
 ---
+
+### L'ÉQUIPE DU DICTATEUR
+
+- Name: L'ÉQUIPE DU DICTATEUR
+- OS: WINDOWS 11
+- Author: G01D3N(xxg01d3nxx)
+- Difficulty: Medium
+- Google Downloads: [https://drive.google.com/file/d/1wuPetdDLX84JACpR4bVziesRgPxXNvDy/view?usp=drive_link](https://drive.google.com/file/d/1wuPetdDLX84JACpR4bVziesRgPxXNvDy/view?usp=drive_link)
+- MD5 Checksum: 
+- Answer key: [https://docs.google.com/document/d/1ocQ0r6E-Ne5Bpzzup9HBNSvvEYG30Rh12L8pBfAlJQo/edit?usp=sharing](https://docs.google.com/document/d/1ocQ0r6E-Ne5Bpzzup9HBNSvvEYG30Rh12L8pBfAlJQo/edit?usp=sharing)
+- Note: it is highly advised to do the image to the best of your ability before looking at the answer key.
+  
+---
+
 
 ### SPACE FORCE SERVER
 - Name: SPACE FORCE SERVER
