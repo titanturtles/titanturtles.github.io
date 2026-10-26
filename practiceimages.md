@@ -65,6 +65,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [HUNTER MANAGEMENT: WinServer 2022, H](#hunter-management)
 * [STARTUP CENTRAL: WinServer 2022, H](#startup-central)
 * [BUBBLE GUPPIES: WinServer 2019, M++](#bubble-guppies)
+* [NEW YORK TIMES: WinServer 2022, H](#new-york-times)
 
 ---
 
@@ -778,6 +779,18 @@ Please make sure you download the newest version since older ones are known for 
 - Official Walkthrough? NEVER (I do NOT remember anything this image is from 2023)
 - Cursed? YES
 - Hint: ctrl+alt+delete
+
+---
+
+### NEW YORK TIMES
+
+- Name: NEW YORK TIMES
+- OS: WINDOWS SERVER 2022
+- Author: savetheturtles. elxctrolyte 
+- Difficulty: Hard
+- Google Downloads: [https://drive.google.com/drive/folders/1u63S54y7BZYsMRE-Z9JMwdKtD8daruLm?usp=drive_link](https://drive.google.com/drive/folders/1u63S54y7BZYsMRE-Z9JMwdKtD8daruLm?usp=drive_link)
+- MD5 Checksum: `dd2db83f447ef572a302efd3da38a28b`
+- Login: `NYT Games:password`
 
 ---
 
