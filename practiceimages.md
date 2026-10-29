@@ -1494,6 +1494,7 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Author: williammmm___
 - Difficulty: Easy
 - Original Download: [https://drive.google.com/file/d/1WoujxZft5a3VJoTEgRa_nUXipB5SIaNh/view](https://drive.google.com/file/d/1WoujxZft5a3VJoTEgRa_nUXipB5SIaNh/view)
+- Additional Download: [https://drive.google.com/file/d/1JLfAq4rVrXer2kY7VWWgJQDAiL5907lG/view?usp=drive_link](https://drive.google.com/file/d/1JLfAq4rVrXer2kY7VWWgJQDAiL5907lG/view?usp=drive_link)
 - MD5 Checksum: `32af95c8a07552cd9717c142a59a436e`
 - Credential: `ironman:My-0nly-Curs3-1s-Y0u`
   
