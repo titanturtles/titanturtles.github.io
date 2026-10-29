@@ -111,7 +111,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [GEMSTONES: Ubu 24, SH](#gemstones)
 * [1984: MINT 22, H](#1984)
 * [CYBERTECH REMASTERED: Ubu 24, M](#cybertech-remastered)
-* [AVENGERS INFINITY WAR, MINT 21, E](#avengers-infinity-war)
+* [AVENGERS INFINITY WAR: MINT 21, E](#avengers-infinity-war)
 
 ---
 
