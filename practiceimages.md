@@ -1489,6 +1489,8 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 
 ### AVENGERS INFINITY WAR
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/babfa74d-aed1-4030-8263-c97fbedfaaef" />
+
 - Name: AVENGERS INFINITY WAR
 - OS: Mint 21
 - Author: williammmm___
