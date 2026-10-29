@@ -740,6 +740,8 @@ Please make sure you download the newest version since older ones are known for 
 
 ### TOWN OF SALEM
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2faf71c8-6710-48dc-9556-9f1e343ad458" />
+
 - Name: TOWN OF SALEM
 - OS: WINDOWS SERVER 2022
 - Author: many_overcomplications
