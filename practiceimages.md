@@ -111,6 +111,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [GEMSTONES: Ubu 24, SH](#gemstones)
 * [1984: MINT 22, H](#1984)
 * [CYBERTECH REMASTERED: Ubu 24, M](#cybertech-remastered)
+* [AVENGERS INFINITY WAR, MINT 21, E](#avengers-infinity-war)
 
 ---
 
@@ -1483,6 +1484,18 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - MD5 Checksum: 
 - Credential: `jmuskington:password123!`
 - Services Focus: LAMP Stack
+  
+---
+
+### AVENGERS INFINITY WAR
+
+- Name: AVENGERS INFINITY WAR
+- OS: Mint 21
+- Author: williammmm___
+- Difficulty: Easy
+- Original Download: [https://drive.google.com/file/d/1WoujxZft5a3VJoTEgRa_nUXipB5SIaNh/view](https://drive.google.com/file/d/1WoujxZft5a3VJoTEgRa_nUXipB5SIaNh/view)
+- MD5 Checksum: `32af95c8a07552cd9717c142a59a436e`
+- Credential: `ironman:My-0nly-Curs3-1s-Y0u`
   
 ---
 
