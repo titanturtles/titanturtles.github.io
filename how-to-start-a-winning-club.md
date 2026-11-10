@@ -30,10 +30,12 @@ Actually, initially, we wanted to go the easy route to let our kids join another
 People asked me to write a blog post about “how to start a winning club”. Well, technically, I don’t really know how to start a winning club. To win, especially to win the championship, you need some luck. But, at least, we thought we knew how to start a team. Registration was not hard. At that time, I was the chairperson of our kids’ high school PTO. So, Pei and I didn’t have too much trouble becoming coaches for high school teams. Pei and I learned one thing from being FLL coaches – read the freaking documents, period. So, we read through the entire uscyberpatriot.org website. We googled everything we could about CyberPatriot. (Talking about google, a lot of people stop on page 2. I sometimes google up to the hundredth page.) And, we realized that there are some legendary teams and legendary coaches. For some reason, we also learned that there is a CyberPatriot discord server. So, we joined the CyberPatriot discord server immediately. Within a month, we got super valuable advice from both Coach Allen and Coach Paul. Literally, we took their advice word by word. We let students teach. We design our own turtle dollars. We put their quotes on our turtle dollars:
 
 >*“Compete all you can compete, read all you can read, learn something new every time you compete, always compete with someone better than you!”*
-
-<img width="548" height="233" alt="image" src="https://github.com/user-attachments/assets/1228a745-da00-49da-84a9-ed919f7070f9" />
-<img width="551" height="232" alt="image" src="https://github.com/user-attachments/assets/68ec01ae-a958-4b28-a293-4db12e1cee46" />
-
+<p align="center">
+  <img width="548" height="233" alt="image" src="https://github.com/user-attachments/assets/1228a745-da00-49da-84a9-ed919f7070f9" />
+</p>
+<p align="center">
+  <img width="551" height="232" alt="image" src="https://github.com/user-attachments/assets/68ec01ae-a958-4b28-a293-4db12e1cee46" />
+</p>
 
 As seasoned FLL coaches, we thought we knew how to start a team. We just invited some kids we knew to join the team. All we needed was 6 students. But, then, during the short period prior to round 1 of the CyberPatriot competition, 4 kids quit. They didn’t quit at the same time, but we had to find some new students every time someone quit. And, all these students who quit are straight A students and went to top colleges (I mean H) later on. When we looked back, we realized we were not reputable or reliable at all. Luckily, most of the students who didn’t quit in year one, eventually qualified for the CyberPatriot national final with us.
 
@@ -156,7 +158,9 @@ No team can guarantee to win every year. But, some teams do their best every yea
 
 >*"Change is like rain during a soccer game. It falls on you and your opponent equally. If the conditions suck, they suck for both sides. But if you’re mentally and physically prepared to adapt while your opponent isn’t, it becomes your edge." –Sun Tzu*
 
-><img width="440" height="245" alt="image" src="https://github.com/user-attachments/assets/80d02ef4-fd1c-4b96-9edf-6b57033e758a" />
+<p align="center">
+  <img width="440" height="245" alt="image" src="https://github.com/user-attachments/assets/80d02ef4-fd1c-4b96-9edf-6b57033e758a" />
+</p>
 
 
 To be honest, I love changes. I know when there are changes, a lot of other teams will be freaked out or be totally frustrated. And, I tell my teams that we don’t complain about our environment. It is beyond our control. We focus on adapting to the changes and surviving.
