@@ -9,7 +9,7 @@ layout: default
 
 *biajee*
 
-I don’t really know a good answer to the question. But, I can show you what we did and what our thought processes were. (Or, at least, I can show you what I want to show.) If that helps.
+One day our mentor tirefire asked me to write something about "How to start a winning club". I don’t really know a good answer to the question. But, I can show you what we did and what our thought processes were. (Or, at least, I can show you what I want to show.) If that helps.
 
 
 ## *Give up*
