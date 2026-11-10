@@ -41,6 +41,8 @@ Stig Viewer: [https://www.stigviewer.com/stigs](https://www.stigviewer.com/stigs
 
 CIS Benchmark: [https://www.cisecurity.org/cis-benchmarks](https://www.cisecurity.org/cis-benchmarks)
 
+How to start a winning club: [https://titanturtles.org/how-to-start-a-winning-club](https://titanturtles.org/how-to-start-a-winning-club)
+
 ### Linux
 
 MIT Terminus Game: [https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
