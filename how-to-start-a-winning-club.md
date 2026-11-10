@@ -31,10 +31,10 @@ People asked me to write a blog post about “how to start a winning club”. We
 
 >*“Compete all you can compete, read all you can read, learn something new every time you compete, always compete with someone better than you!”*
 <p align="center">
-  <img width="548" height="233" alt="image" src="https://github.com/user-attachments/assets/1228a745-da00-49da-84a9-ed919f7070f9" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/1228a745-da00-49da-84a9-ed919f7070f9" />
 </p>
 <p align="center">
-  <img width="551" height="232" alt="image" src="https://github.com/user-attachments/assets/68ec01ae-a958-4b28-a293-4db12e1cee46" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/68ec01ae-a958-4b28-a293-4db12e1cee46" />
 </p>
 
 As seasoned FLL coaches, we thought we knew how to start a team. We just invited some kids we knew to join the team. All we needed was 6 students. But, then, during the short period prior to round 1 of the CyberPatriot competition, 4 kids quit. They didn’t quit at the same time, but we had to find some new students every time someone quit. And, all these students who quit are straight A students and went to top colleges (I mean H) later on. When we looked back, we realized we were not reputable or reliable at all. Luckily, most of the students who didn’t quit in year one, eventually qualified for the CyberPatriot national final with us.
@@ -159,7 +159,7 @@ No team can guarantee to win every year. But, some teams do their best every yea
 >*"Change is like rain during a soccer game. It falls on you and your opponent equally. If the conditions suck, they suck for both sides. But if you’re mentally and physically prepared to adapt while your opponent isn’t, it becomes your edge." –Sun Tzu*
 
 <p align="center">
-  <img width="440" height="245" alt="image" src="https://github.com/user-attachments/assets/80d02ef4-fd1c-4b96-9edf-6b57033e758a" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/80d02ef4-fd1c-4b96-9edf-6b57033e758a" />
 </p>
 
 
