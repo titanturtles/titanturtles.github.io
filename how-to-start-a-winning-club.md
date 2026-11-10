@@ -3,7 +3,7 @@ title: TitanTurtles Cybersecurity Club
 layout: default
 ---
 
-## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html) | **How to build a winning club** 
+## [Root](./index.html) | [Join](./apply.html) | [Camp](./cybercamp.html) |  [Blog](./blog.html) | [Touch](./contacts.html) | [Grind](./resources.html) | [Caregiver](./techcg.html) | [Events](./events.html) | [Legend](./legend.html) | **How to start a winning club** 
 
 # How to start a winning club? 
 
