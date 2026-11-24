@@ -455,6 +455,7 @@ Please make sure you download the newest version since older ones are known for 
   - Credential: User: `adminaccount`, Password: `G0oDLuCK!!`
   - Extraction Password: `1658502732`
   - "P.S. make sure to read both README's thoroughly. both of them. trust TVO."
+  - Working Readme: [https://drive.google.com/file/d/18dNyo86U5PEtsTX7uFbiUKWWtV6wIiua/view?usp=drive_link](https://drive.google.com/file/d/18dNyo86U5PEtsTX7uFbiUKWWtV6wIiua/view?usp=drive_link)
   - Half walkthrough:
     - [https://docs.google.com/document/d/1zKGry4wPPs1KUSCwUdIT-W0TAiPwNWc86ZaR1dpjWKM/edit?tab=t.0](https://docs.google.com/document/d/1zKGry4wPPs1KUSCwUdIT-W0TAiPwNWc86ZaR1dpjWKM/edit?tab=t.0)
   - Vulncats:
