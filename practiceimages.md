@@ -113,6 +113,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [1984: MINT 22, H](#1984)
 * [CYBERTECH REMASTERED: Ubu 24, M](#cybertech-remastered)
 * [AVENGERS INFINITY WAR: MINT 21, E](#avengers-infinity-war)
+* [CHOCOLATE FACTORY: MINT 21, M](#chocolate-factory-mint-21)
 
 ---
 
@@ -1519,6 +1520,22 @@ In advance of the 2026 eCitadel Open, we are pleased to offer competitors an exc
 - Additional Download: [https://drive.google.com/file/d/1JLfAq4rVrXer2kY7VWWgJQDAiL5907lG/view?usp=drive_link](https://drive.google.com/file/d/1JLfAq4rVrXer2kY7VWWgJQDAiL5907lG/view?usp=drive_link)
 - MD5 Checksum: `32af95c8a07552cd9717c142a59a436e`
 - Credential: `ironman:My-0nly-Curs3-1s-Y0u`
+  
+---
+
+### CHOCOLATE FACTORY MINT 21
+
+- Name: CHOCOLATE FACTORY MINT 21
+- OS: Mint 21
+- Author: Anywheres
+- Difficulty: Medium
+- Original Download: [https://drive.google.com/file/d/12TR4dlYD0sWRlAwvkyXtfBE6-a9SlQjC/view](https://drive.google.com/file/d/12TR4dlYD0sWRlAwvkyXtfBE6-a9SlQjC/view)
+- Additional Download: [https://drive.google.com/file/d/1aNtaZP8A9roQIYAwToW9Kk9WWxSUmrvK/view?usp=drive_link](https://drive.google.com/file/d/1aNtaZP8A9roQIYAwToW9Kk9WWxSUmrvK/view?usp=drive_link)
+- MD5 Checksum: `098de9c0fa323c232af0d11d67591ce7`
+- Default Credentials: `charliebucket` / `G0ld3n_t1ck3t!!`
+- Note:
+  - This image is designed to be at a State round level.
+  - Special thanks to @lolmenow for his feedback and help!
   
 ---
 
