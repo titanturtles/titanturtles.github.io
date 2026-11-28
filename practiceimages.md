@@ -69,6 +69,7 @@ Also, there is a google sheet sharing practice images as well: [https://tinyurl.
 * [NEW YORK TIMES: WinServer 2022, H](#new-york-times)
 * [MIDDLESEA HOSPITAL: WinServer 2025, SH](#middlesea-hospital)
 * [L'ÉQUIPE DU DICTATEUR: Win 11, M](#léquipe-du-dictateur)
+* [CHOCOLATE FACTORY: WinServer 2022, M](#chocolate-factory-server-22)
 
 ---
 
@@ -834,6 +835,22 @@ Please make sure you download the newest version since older ones are known for 
 - Answer key: [https://docs.google.com/document/d/1ocQ0r6E-Ne5Bpzzup9HBNSvvEYG30Rh12L8pBfAlJQo/edit?usp=sharing](https://docs.google.com/document/d/1ocQ0r6E-Ne5Bpzzup9HBNSvvEYG30Rh12L8pBfAlJQo/edit?usp=sharing)
 - Note: it is highly advised to do the image to the best of your ability before looking at the answer key.
   
+---
+
+### CHOCOLATE FACTORY SERVER 22
+
+- Name: CHOCOLATE FACTORY SERVER 22
+- OS: WINDOWS SERVER 2022
+- Author: Anywheres
+- Difficulty: Medium
+- Google Downloads: [https://drive.google.com/file/d/1N87xlGHyOJjFCIElEP6Bh089k7nuzrJW/view](https://drive.google.com/file/d/1N87xlGHyOJjFCIElEP6Bh089k7nuzrJW/view)
+- Additional Downloads: [https://drive.google.com/file/d/1mdN_vrBiCGXnC8UniJwYckPkWtnMuWKE/view?usp=drive_link](https://drive.google.com/file/d/1mdN_vrBiCGXnC8UniJwYckPkWtnMuWKE/view?usp=drive_link)
+- MD5 Checksum: `15b7e4ce4054d63a4df4d32b7263d16f`
+- Default Credentials: `charliebucket` / `G0ld3n_t1ck3t!!`
+- Note:
+  - This image is designed to be at a State round level.
+  - Special thanks to @lolmenow for his feedback and help!
+
 ---
 
 
